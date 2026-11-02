@@ -321,3 +321,19 @@ featured test), one accent per theme, one grey family per theme,
 no layout family twice on a page, no three equal cards, numbers
 computed at build, no filler verbs in UI copy.
 Verified: build passes.
+
+## v14 — Skill 4b: afd-motion, hard rules (2026-11-03)
+Audit against afd-motion §2 hard rules: all animations already use
+transform/opacity only (hero, TOC, menu, chevron, brand tilt, theme
+icon), no width/height/top/left animation, no timer-driven motion,
+no infinite loops, no new motion library. Two violations fixed:
+- Header eased its blurred box-shadow on scroll
+  (transition-shadow). Rule 2: never ease a blurred box-shadow, it
+  repaints every frame. Shadow now switches at once when the header
+  becomes floating; the shadow itself is unchanged.
+- View Transitions ran under prefers-reduced-motion. Policy A:
+  effects live under no-preference, so navigation is now none
+  under reduce. TOC/menu/hero already respect reduce via the
+  existing 0.01ms duration rule.
+Verified: build passes, header shadow still appears on scroll
+(instantly, not eased).

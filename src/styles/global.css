@@ -6,6 +6,13 @@
 @view-transition {
   navigation: auto;
 }
+/* afd-motion Policy A: page transitions are an effect, so they are
+   off entirely under prefers-reduced-motion, not just faster. */
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
+}
 
 /* Tailwind v4: dark mode follows the .dark class, not only the OS. */
 @custom-variant dark (&:where(.dark, .dark *));
