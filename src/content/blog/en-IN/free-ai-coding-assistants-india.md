@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Copilot Free, get Copilot Student if you are verified. Use AI to learn patterns, not to submit code you do not understand."
 heroAlt: ""
+ogImage: '/og/free-ai-coding-assistants-india-en.png'
 ---
 
 If you are learning to code in India, an AI coding assistant can feel like a senior sitting next to you. It can finish a line, explain an error, and show you a pattern you have not seen before. It can also do the opposite: it can write your whole assignment while you learn nothing, and then fail you in a viva when you cannot explain your own code.
@@ -16,6 +17,8 @@ If you are learning to code in India, an AI coding assistant can feel like a sen
 The short answer is this: start with GitHub Copilot Free, and if you are a verified student, get GitHub Copilot Student, which is free and gives unlimited code completions. For a full AI editor without student verification, try Windsurf, now called Devin Desktop, whose free plan gives unlimited Tab completions and inline edits. Everything else is useful for a specific job, not for daily learning. **Do not pay in month one**, and **do not submit AI code you cannot explain line by line**.
 
 This article is written for India on purpose: students in colleges and self-learners, VS Code on a normal laptop, Hindi and English explanations, and no assumption that you have a paid plan, a powerful machine, or a US college email. It also carries a warning that matters more for coding than for images or video: your college, your employer, and your own learning all have rules about AI code. Check your course rules before you use AI for an assignment, and always test AI code yourself. AI code that looks correct can still be wrong, insecure, or copied from a pattern that does not fit your problem.
+
+![A developer typing code on a laptop in front of large monitors showing code](/images/free-ai-coding-assistants-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -79,6 +82,8 @@ Use these tools for what they are good at: [prototyping an idea quickly](/blog/a
 
 Google's *Antigravity* is worth a note because it replaces Gemini Code Assist free, which stopped on June 18, 2026. Antigravity is free with a weekly quota in the checks, and Google AI Pro, which raises its limits, is free for a year only for US college students and needs a card. Indian students should not assume that US-only student offer applies to them. Check [Antigravity](https://antigravity.google/)'s current weekly quota in the app, and do not plan around a US-only Pro offer.
 
+![A young developer working on a laptop covered with programming stickers](/images/free-ai-coding-assistants-india/02.jpg)
+
 ## Learning honestly with AI: the method that actually works
 
 AI coding assistants help learning only when you use them in a specific way. Read every suggestion before you accept it. If you cannot explain what a suggested line does, do not accept it yet. Ask the chat feature to explain the code in simple words, then rewrite the explanation in your own words without looking at it. That rewrite is where learning happens.
@@ -121,6 +126,8 @@ Pay for one tool, for one reason, after free use has proven that reason.
 
 A final trap is using AI for everything, including problems you could solve in ten minutes yourself. If you ask AI for every loop and every function, you will finish assignments faster and learn slower, and that trade will hurt you in exams, vivas, and job interviews, where AI is not sitting next to you. Use AI for hints, explanations, and debugging, and write the core logic yourself as often as you can. That balance is the difference between a student who uses AI well and a student who depends on it.
 
+![Close-up of colour-coded programming code on a computer screen](/images/free-ai-coding-assistants-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can I use these tools in India without a VPN?** Yes, for the major tools in this article. GitHub Copilot, Windsurf, Cursor, Jules, Kiro, Bolt, and Lovable all work in India through a normal browser and editor with a standard account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
@@ -150,3 +157,8 @@ Before you pay for any coding tool, answer these questions in writing.
 If you cannot answer those questions, you are not ready to pay yet, and another two weeks on free allowances will give you a clearer answer than any review article can.
 
 Free AI coding assistants in India in 2026 are genuinely useful, but only when you treat them as learning tools with meters, not as assignment machines. Use free tools to learn patterns, to debug faster, and to prove what you actually need. Pay later, for one tool, for one proven reason, and never submit code you cannot explain. That is how a student saves money, learns faster, and stays honest in a viva, an exam, and a job interview.
+
+**Image credits:**
+- Developer typing code on a laptop in front of large monitors — [Christina Morillo on Pexels](https://www.pexels.com/photo/close-up-photo-of-person-typing-on-laptop-1181675/) — Pexels License
+- Young developer working on a laptop — [Tim Gouw on Unsplash](https://unsplash.com/photos/1K9T5YiZ2WU) — Unsplash License
+- Close-up of colour-coded programming code on a computer screen — [Godfrey Atima on Pexels](https://www.pexels.com/photo/programming-code-on-computer-screen-5223887/) — Pexels License
