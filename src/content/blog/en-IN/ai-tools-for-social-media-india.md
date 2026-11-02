@@ -94,15 +94,15 @@ A final trap is posting more and engaging less. Beginners often schedule thirty 
 
 ## Frequently asked questions
 
-Which free scheduler is best in India? Buffer free, for three channels with ten scheduled posts per channel, AI Assistant included free with no daily cap, and thirty days of analytics. If you post only to Instagram and Facebook, Meta Business Suite free is better, because it is native and gives you Reels metrics that Buffer free does not.
+**Which free scheduler is best in India?** Buffer free, for three channels with ten scheduled posts per channel, AI Assistant included free with no daily cap, and thirty days of analytics. If you post only to Instagram and Facebook, Meta Business Suite free is better, because it is native and gives you Reels metrics that Buffer free does not.
 
-Is Canva free enough for social media graphics? Yes, for ninety percent of routine work, with more than 2.1 million templates, 5 GB storage, and roughly 250,000 free photos and graphics, all sized correctly for each platform. It does not include Background Remover, Magic Resize, transparent PNG export, or a full Brand Kit, and it caps you at three AI designs a day, ten video renders a week, and fifty AI credits total lifetime.
+**Is Canva free enough for social media graphics?** Yes, for ninety percent of routine work, with more than 2.1 million templates, 5 GB storage, and roughly 250,000 free photos and graphics, all sized correctly for each platform. It does not include Background Remover, Magic Resize, transparent PNG export, or a full Brand Kit, and it caps you at three AI designs a day, ten video renders a week, and fifty AI credits total lifetime.
 
-Can I schedule Instagram Reels free? Yes, through Meta Business Suite free for Instagram and Facebook, and through Buffer free for scheduled posts, but Buffer free analytics do not include Reels-specific engagement metrics. Check Reels performance in Meta Business Suite, not in Buffer free.
+**Can I schedule Instagram Reels free?** Yes, through Meta Business Suite free for Instagram and Facebook, and through Buffer free for scheduled posts, but Buffer free analytics do not include Reels-specific engagement metrics. Check Reels performance in Meta Business Suite, not in Buffer free.
 
-What is Buffer's lifetime channel limit? Buffer counts eight unique channel connections permanently across your account history, even if you disconnect a channel later. Connect only the channels you actually post to, and do not test connections carelessly, because every connection counts toward that lifetime total.
+**What is Buffer's lifetime channel limit?** Buffer counts eight unique channel connections permanently across your account history, even if you disconnect a channel later. Connect only the channels you actually post to, and do not test connections carelessly, because every connection counts toward that lifetime total.
 
-Should I pay for Buffer or Canva Pro? Not to start. Buffer free covers three channels and thirty queued posts, and Canva free covers most graphics. Pay for Buffer Essentials, 5 dollars per channel per month annually, only when its ten-post queue repeatedly blocks your schedule. Pay for Canva Pro, 15 dollars a month or 120 dollars a year, only when Background Remover, Magic Resize, transparent PNG, or a full Brand Kit repeatedly blocks your design work.
+**Should I pay for Buffer or Canva Pro?** Not to start. Buffer free covers three channels and thirty queued posts, and Canva free covers most graphics. Pay for Buffer Essentials, 5 dollars per channel per month annually, only when its ten-post queue repeatedly blocks your schedule. Pay for Canva Pro, 15 dollars a month or 120 dollars a year, only when Background Remover, Magic Resize, transparent PNG, or a full Brand Kit repeatedly blocks your design work.
 
 ## The final verdict, and a checklist before you pay
 
