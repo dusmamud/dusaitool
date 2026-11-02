@@ -95,17 +95,17 @@ A final trap is upscaling everything. Beginners often upscale every photo they o
 
 ## Frequently asked questions
 
-Can I use these upscalers in India without a VPN? Yes, for the major tools in this article. Upscayl desktop, Clipdrop, Bigjpg, Waifu2x, ImgUpscaler, and Upscale.media all work in India through a normal browser or desktop app with a standard account or no account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
+**Can I use these upscalers in India without a VPN?** Yes, for the major tools in this article. Upscayl desktop, Clipdrop, Bigjpg, Waifu2x, ImgUpscaler, and Upscale.media all work in India through a normal browser or desktop app with a standard account or no account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
 
-Which free upscaler is best for old family photos? Upscayl on your computer, because it is free and open source, unlimited locally, and private, with Real-ESRGAN models around 4x. Use a gentle photographic model, compare faces at full size, and keep the original scan as the master file. For a quick web upscale, Clipdrop 2x daily is the simplest option.
+**Which free upscaler is best for old family photos?** Upscayl on your computer, because it is free and open source, unlimited locally, and private, with Real-ESRGAN models around 4x. Use a gentle photographic model, compare faces at full size, and keep the original scan as the master file. For a quick web upscale, Clipdrop 2x daily is the simplest option.
 
-Which free upscaler is best for anime and illustrations? Bigjpg or Waifu2x, because their models preserve clean lines, flat colours, and anime details better than a generic photographic enhancer. Bigjpg gives 20 images a month up to 4x on free, while Waifu2x gives 1.6x, 2x, and 4x with noise reduction levels. Try both on the same image and compare edges at full size.
+**Which free upscaler is best for anime and illustrations?** Bigjpg or Waifu2x, because their models preserve clean lines, flat colours, and anime details better than a generic photographic enhancer. Bigjpg gives 20 images a month up to 4x on free, while Waifu2x gives 1.6x, 2x, and 4x with noise reduction levels. Try both on the same image and compare edges at full size.
 
-Can AI upscaling make a blurry photo sharp? Only partly. AI upscaling can make a small, clean photo look better at a larger size, but it cannot recover detail that was never in the original, and it cannot fix motion blur. An upscaled image is a reconstruction, not the original, and it may invent detail that was not there.
+**Can AI upscaling make a blurry photo sharp?** Only partly. AI upscaling can make a small, clean photo look better at a larger size, but it cannot recover detail that was never in the original, and it cannot fix motion blur. An upscaled image is a reconstruction, not the original, and it may invent detail that was not there.
 
-What should I do when Clipdrop's daily quota runs out? Wait for the next day, or switch to Upscayl local for the rest of the batch, or use ImgUpscaler monthly credits for a few urgent images. Do not pay in a panic because one tool hit a daily quota. Daily quotas reset, and local processing has no quota at all.
+**What should I do when Clipdrop's daily quota runs out?** Wait for the next day, or switch to Upscayl local for the rest of the batch, or use ImgUpscaler monthly credits for a few urgent images. Do not pay in a panic because one tool hit a daily quota. Daily quotas reset, and local processing has no quota at all.
 
-Should a small shop pay for an upscaler? Not to start, and not for social posts alone. Upscayl local covers unlimited batches, and Clipdrop daily covers small web batches. Pay only when a specific paid feature, like faster processing, larger uploads, or a higher monthly quota, actually blocks your catalogue repeatedly, and then pay for one tool, not five.
+**Should a small shop pay for an upscaler?** Not to start, and not for social posts alone. Upscayl local covers unlimited batches, and Clipdrop daily covers small web batches. Pay only when a specific paid feature, like faster processing, larger uploads, or a higher monthly quota, actually blocks your catalogue repeatedly, and then pay for one tool, not five.
 
 ## The final verdict, and a checklist before you pay
 
