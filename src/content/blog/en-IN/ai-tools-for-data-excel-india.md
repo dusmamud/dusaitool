@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Analyse free with Gemini in Sheets or ChatGPT for Sheets, and clean bulk data with Autosheet free credits."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-data-excel-india-en.png'
 ---
 
 A spreadsheet in India in 2026 is not one job. Cleaning messy data, writing formulas, tracing errors, classifying rows, building pivot tables, and explaining results are different jobs, and no single free tool does all of them well. The tool that analyses inside real Excel files does not process ten thousand rows in bulk, and the tool that processes bulk rows does not live inside your spreadsheet. The free stack that actually works is a combination, not a single assistant.
@@ -16,6 +17,8 @@ A spreadsheet in India in 2026 is not one job. Cleaning messy data, writing form
 The short answer for India is this: analyse free with [Gemini in Google Sheets](https://workspace.google.com/resources/spreadsheet-ai/), which costs Google Workspace users nothing extra and covers 80 percent of jobs, or with [ChatGPT for Excel and Google Sheets](https://chatgpt.com/apps/spreadsheets/), which is global and works on every ChatGPT plan, including Free and Go with limited agentic usage. Clean bulk data with [Autosheet](https://autosheet.com/gpt-for-sheets) free credits, which is free to install with free credits to start and no card required, processing 200,000 to 1 million rows. For deep analysis inside real Excel files, [Microsoft 365 Copilot in Excel](https://www.microsoft.com/en-us/microsoft-365/excel) is the most capable native option, at 30 dollars per user per month as an add-on, or 21 dollars for Business.
 
 This article is written for India on purpose: students, [freelancers](/blog/ai-tools-for-freelancers-india/), accountants, small businesses, [teachers](/blog/ai-tools-for-teachers-india/), and shop owners, Hindi, Hinglish, and English data, a normal phone and laptop, and no assumption that you have a paid plan, a Microsoft 365 subscription, or coding skill. It also carries a warning that matters for data tools more than for any other tool in this series: AI outputs may be incomplete or incorrect, so review formulas, calculations, citations, and changed cells before sharing or relying on them, and for important work, **duplicate the file first** so you can revert if needed, because a wrong formula in a salary sheet or a tax sheet is worse than no formula at all.
+
+![Team reviewing charts and data on a laptop, tablet and phone around a table](/images/ai-tools-for-data-excel-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -62,6 +65,8 @@ Use Autosheet free credits in a specific way: use them for bulk jobs, such as:
 
 because bulk is what built-ins cannot do, and Autosheet's 200,000 to 1 million row capacity is built for it. Do not waste free credits on single-formula questions, because Gemini in Sheets and ChatGPT for Sheets answer those free, and free credits are better spent on bulk jobs that would take you hours by hand. For a small Indian business with a large customer list, a sales sheet, or a feedback sheet, Autosheet free credits are the fastest way to turn messy data into clean data without paying.
 
+![Colleagues analysing data charts on laptops during a team meeting](/images/ai-tools-for-data-excel-india/02.jpg)
+
 ## Using data AI in India: messy data, formulas, and verification
 
 Messy data is the normal state of Indian spreadsheets, because data comes from WhatsApp, from paper, from multiple people, and from different formats, with inconsistent date formats, mixed Hindi and English, and missing values. Inconsistent date formats are a classic cause of failed comparisons, and ChatGPT spreadsheets caught them across 1,200 rows in testing, which is the kind of error a human misses for hours. Clean data before you analyse it:
@@ -86,6 +91,8 @@ Verification is the habit that makes data AI safe in India: **duplicate the file
 - Do not work on the original file for important work, because you should duplicate it first so you can revert, and do not rely on ChatGPT memory in spreadsheets, because spreadsheet chats do not have access to it, and conversations do not sync with main ChatGPT history.
 
 A final trap is paying for Copilot before you need it. Beginners often pay 30 dollars per user per month for Copilot, feel professional, and then use it only for simple formulas that Gemini or ChatGPT free would answer, because the tool did not make the analysis, the clean data did. Use Gemini in Sheets and ChatGPT for Sheets free first, use Autosheet free credits for bulk jobs, and pay for Copilot only when you live in Excel daily, you already pay for Microsoft 365, and native, multi-tab analysis saves you hours every week, because a tool you pay for but do not use is worse than a free tool you use every day.
+
+![A man analysing charts on a laptop at his desk, with printed charts beside him](/images/ai-tools-for-data-excel-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -112,3 +119,8 @@ Before you pay for any data tool, answer these questions in writing.
 5. Does the paid plan fix that exact limit, or does it only give you more of something you did not need? If you cannot answer those questions, you are not ready to pay yet, and another month of free analysis will give you a clearer answer than any review article can.
 
 AI tools for data and Excel in India in 2026 are genuinely useful, but only when you treat them as formula and diagnosis assistants with agentic, bulk, and context limits, not as magic analysts. Use free tools to write formulas, to trace errors, and to clean bulk data, and use your own verification to review formulas, to duplicate files, and to test on samples, because that verification is what makes data trustworthy, and AI can only help you analyse it, not guarantee it for you. **Pay later, for one tool, for one proven reason**, after free tools prove the limit. That is how a student, a freelancer, or a small business turns messy data into clean decisions without paying for analysis it does not need yet.
+
+**Image credits:**
+- Team reviewing charts and data on a laptop, tablet and phone around a table — [Pexels](https://www.pexels.com/photo/people-near-table-3184639/) by fauxels, Pexels License.
+- Colleagues analysing data charts on laptops during a team meeting — [Pexels](https://www.pexels.com/photo/person-using-a-laptop-3183131/) by fauxels, Pexels License.
+- A man analysing charts on a laptop at his desk, with printed charts beside him — [Pexels](https://images.pexels.com/photos/5717727/pexels-photo-5717727.jpeg?auto=compress&cs=tinysrgb&w=600) (photographer not individually verified), Pexels License.
