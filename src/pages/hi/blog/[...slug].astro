@@ -91,7 +91,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
 
   </div>
 
-  <p class="mt-10"><a href="/hi/blog/" class="flex min-h-[44px] items-center font-medium text-brand underline dark:text-brand-dark">← {t('hi', 'backToBlog')}</a></p>
+  <p class="mt-10"><a href="/hi/blog/" class="flex min-h-[44px] items-center gap-2 font-medium text-brand underline dark:text-brand-dark"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 20 20" fill="none" class="shrink-0"><path d="M12.5 5L7.5 10L12.5 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>{t('hi', 'backToBlog')}</a></p>
 
   {relatedRows.length > 0 && (
     <section class="mt-12">

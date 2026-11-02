@@ -297,3 +297,27 @@ fixed in this commit (min 44x44px, 8px+ spacing):
 - Footer nav lists: gap 4px -> 8px between the already-44px links.
 Verified: build passes, no layout break (sidebar is scrollable, so
 taller TOC links still fit).
+
+## v13 — Skill 4a: afd-design-direction, design read + icon set (2026-11-03)
+Design read (afd-design-direction §1, pre-flight): Reading this as
+a tested AI tools blog for Indian students, freelancers and small
+business owners, with a calm editorial language, leaning toward a
+newspaper/serif editorial family. One thing a visitor must remember:
+every tool here was actually tested in India before it is
+recommended. Personality lives in the serif headline + the Orbit
+Spark mark; everything else stays quiet. Dials: home VARIANCE 7 /
+MOTION 6 (balanced) / DENSITY 4; article VARIANCE 4 / MOTION 3
+(calm) / DENSITY 3; lists/search VARIANCE 5 / MOTION 4 / DENSITY 5.
+Fixes in this commit (§7 icons, §4 numbers):
+- Character icons replaced by one SVG set, stroke 1.8, matching the
+  TOC chevron: theme toggle ◐ -> half-circle SVG, back-to-blog ← ->
+  left chevron SVG (article + tag, en + hi), back-to-top ↑ -> up
+  chevron SVG. Icons never replace text: the label stays next to
+  every icon, with a 2px gap.
+- Tag counts on the home page are now tabular-nums, so "free (17)"
+  and "students (6)" do not shift width when counts change.
+Checked and kept: hero fits the viewport with a real visual (the
+featured test), one accent per theme, one grey family per theme,
+no layout family twice on a page, no three equal cards, numbers
+computed at build, no filler verbs in UI copy.
+Verified: build passes.

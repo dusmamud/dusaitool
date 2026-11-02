@@ -23,7 +23,7 @@ const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
 >
   <h1 class="font-display text-4xl">{tag}</h1>
   <p class="mt-3 text-lg text-stone-600 dark:text-[#8a8f98]">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
-  <p class="mt-2"><a href="/blog/" class="flex min-h-[44px] items-center font-medium text-brand underline dark:text-brand-dark">← {t('en-IN', 'backToBlog')}</a></p>
+  <p class="mt-2"><a href="/blog/" class="flex min-h-[44px] items-center gap-2 font-medium text-brand underline dark:text-brand-dark"><svg aria-hidden="true" width="16" height="16" viewBox="0 0 20 20" fill="none" class="shrink-0"><path d="M12.5 5L7.5 10L12.5 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>{t('en-IN', 'backToBlog')}</a></p>
   <div class="mt-8 border-t border-stone-200 dark:border-[#23252a]">
     {rows.map(({ post, minutes }) => (
       <PostRow href={entryUrl(post)} title={post.data.title} description={post.data.description} date={isoDate(post.data.pubDate)} minutes={minutes} locale="en-IN" verdict={post.data.verdict} tags={post.data.tags} tagHref={(t2) => tagUrl('en-IN', t2)} />
