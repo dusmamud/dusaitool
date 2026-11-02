@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with MagicSchool free for planning and Canva for Education for visuals. Copy every output into your own doc at once."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-teachers-india-en.png'
 ---
 
 A teacher's scarcest resource is not ideas. It is **prep time**. A lesson plan, a rubric, a quiz, a leveled reading passage, and a parent email, for five classes, every week, take hours that could go to teaching, to feedback, or to rest. AI tools help with that prep, but they help in different ways, and the tool that plans a lesson is not the tool that makes it visual, and neither tool should see student names, work, or scores without a school agreement.
@@ -16,6 +17,8 @@ A teacher's scarcest resource is not ideas. It is **prep time**. A lesson plan, 
 The short answer for India is this: use [MagicSchool](https://www.magicschool.ai/) free for lesson plans, rubrics, quizzes, and classroom writing, knowing its free **history keeps only your last five generations**. Use [Canva for Education](https://www.canva.com/education/) for slides, posters, and handouts, because it is listed as 100 percent free for K-12 educators after verification, with premium Pro features included. Use [Gemini](https://edu.google.com/ai/gemini-for-education/) and [Gemini Notebook](https://workspace.google.com/products/gemini-notebook/) free if your school already uses Google Workspace for Education, with your administrator managing access. Use [Diffit](https://web.diffit.me/) Basic free for leveled reading passages, knowing it keeps only the last 90 days of content. Everything else is a sampler, not a classroom tool, until your school has a data agreement for it.
 
 This article is written for India on purpose: CBSE, NCERT, state board, and private school teachers, Hindi, Hinglish, and English classrooms, a normal phone and laptop, and no assumption that you have a US teacher account, a paid plan, or a district agreement. It also carries a warning that matters for teachers more than for any other group in this series: a free teacher account does not settle student data. Only a tool your school or district has signed an agreement for should ever see **student names, work, or scores**. Never paste student work into a free chatbot to grade it, even if the tool is free and convenient, because that work becomes data you cannot control.
+
+![A teacher with students in a classroom](/images/ai-tools-for-teachers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -74,6 +77,8 @@ Neither offer is an India offer, and Indian teachers should not plan around them
 
 [SchoolAI](https://schoolai.com/)'s free plan is now a trial, capped at five Space launches a year, with no Sidekick tutor, so treat it as a sampler, not a classroom tool. Five launches a year cover one test lesson, not a term of student-facing AI. If you want student-facing AI Spaces with teacher visibility, test SchoolAI free for one lesson, check your school's data agreement, and pay only if student-facing AI becomes a regular part of your teaching, with a data agreement in place first.
 
+![A teacher conducting a lesson with attentive students in a classroom](/images/ai-tools-for-teachers-india/02.jpg)
+
 ## Using teacher AI in India: syllabus, language, and student data
 
 Indian classrooms follow a syllabus, and AI tools do not automatically know yours. NCERT, CBSE, state board, and private school syllabi differ in wording, depth, and question pattern. An AI lesson plan that is correct in general can still be wrong for your class, because it uses a different definition, a different example, or a different question type. Always read every output against the standard before it reaches a student, and edit it to your board's exact wording. For [Hindi classrooms](/blog/ai-translation-tools-hindi-english-india/), check spelling and technical terms carefully, because AI Hindi can mix formal and informal terms in the same lesson plan. For [English classrooms](/blog/ai-tools-for-learning-english-india/), learn the exact technical terms your board uses, because an examiner marks the term, not just the idea.
@@ -92,6 +97,8 @@ Language for teachers is also about reading levels. A class has students who rea
 - Do not pay for five teacher tools at once, and do not use AI to grade student work without checking your school's policy and the AI's reasoning, because AI grading can be inconsistent and unfair, especially for creative or Hindi answers.
 
 A final trap is using AI to avoid teaching. Beginners often generate a lesson plan, a quiz, and a handout, and then read them to the class without understanding them deeply themselves. Students notice when a teacher does not understand the material, and they learn less, even if the handout looks professional. Use AI to save prep time, then use that saved time to understand the lesson better, to prepare examples from your students' lives, and to give feedback that only you can give. AI saves time. Teaching still needs you.
+
+![A teacher talking with students in a classroom](/images/ai-tools-for-teachers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -122,3 +129,8 @@ Before you pay for any teacher tool, answer these questions in writing:
 If you cannot answer those questions, you are not ready to pay yet, and another month of free planning will give you a clearer answer than any review article can.
 
 AI tools for teachers in India in 2026 are genuinely useful, but only when you treat them as prep assistants with history limits, verification delays, and data rules, not as replacements for teaching. Use free tools to save prep time, to make lessons visual, and to level reading, and use that saved time to understand your lesson better and to give feedback only you can give. Pay later, for one tool, for one proven reason, with a school data agreement in place first. That is how a teacher saves time, keeps quality high, and protects students while using AI well.
+
+**Image credits:**
+- Teacher and students in a classroom: [Pexels photo by RDNE Stock project](https://www.pexels.com/photo/teacher-and-students-in-classroom-8419196/), Pexels License.
+- Students and teacher in a classroom: [Pexels photo by kimmi jun](https://www.pexels.com/photo/students-and-teacher-in-classroom-18506736/), Pexels License.
+- Teacher with students in a classroom: [Pexels photo by Yan Krukau](https://www.pexels.com/photo/teacher-with-the-students-in-the-classroom-8617940/), Pexels License.
