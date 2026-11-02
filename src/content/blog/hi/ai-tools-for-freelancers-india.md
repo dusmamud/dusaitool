@@ -7,7 +7,7 @@ locale: hi
 tags: ["फ़्रीलांसर", "काम", "इनवॉइस", "मुफ्त"]
 category: "best-tools"
 draft: false
-verdict: "प्रपोज़ल के लिए ChatGPT मुफ्त और GST इनवॉइस के लिए Refrens मुफ्त से शुरू करें। क्लाइंट ट्रैकिंग के लिए Notion मुफ्त और क्लाइंट अंग्रेज़ी के लिए Grammarly मुफ्त जोड़ें।"
+verdict: "प्रपोज़ल के लिए ChatGPT मुफ्त और GST इनवॉइस के लिए Refrens मुफ्त से शुरू करें। ट्रैकिंग के लिए Notion और अंग्रेज़ी के लिए Grammarly जोड़ें।"
 heroAlt: ""
 ---
 
