@@ -88,17 +88,17 @@ A final trap is styling over substance. Beginners often spend hours choosing a c
 
 ## Frequently asked questions
 
-Which free video editor is best in India? CapCut free, for a full multi-track editor on phone, desktop, and web, with auto captions marketed as free, and watermark only when Pro assets are used. For captions alone with SRT download and no watermark, Clipchamp free is better, with unlimited auto captions and 1080p export.
+**Which free video editor is best in India?** CapCut free, for a full multi-track editor on phone, desktop, and web, with auto captions marketed as free, and watermark only when Pro assets are used. For captions alone with SRT download and no watermark, Clipchamp free is better, with unlimited auto captions and 1080p export.
 
-Is CapCut really free for captions? Its pages disagree: one page calls auto captions free, another lists the auto caption generator among Pro's advanced AI tools, and one comparison reports about five per thirty days. Test captions on your own account before you plan a channel around them, and use only free templates and assets to avoid a watermark.
+**Is CapCut really free for captions?** Its pages disagree: one page calls auto captions free, another lists the auto caption generator among Pro's advanced AI tools, and one comparison reports about five per thirty days. Test captions on your own account before you plan a channel around them, and use only free templates and assets to avoid a watermark.
 
-Which free tool gives captions without a watermark? Clipchamp free, with unlimited auto captions, SRT download, 1080p, and no watermark, and CapCut free for standard edits at 1080p without a watermark, unless Pro assets are used. Klap gives one free video with no watermark, but only one video. VEED, Descript, Kapwing, Submagic, Opus Clip, ZapCap, and StoryCut free all watermark exports.
+**Which free tool gives captions without a watermark?** Clipchamp free, with unlimited auto captions, SRT download, 1080p, and no watermark, and CapCut free for standard edits at 1080p without a watermark, unless Pro assets are used. Klap gives one free video with no watermark, but only one video. VEED, Descript, Kapwing, Submagic, Opus Clip, ZapCap, and StoryCut free all watermark exports.
 
-How many free subtitles does VEED give? Ten minutes of auto subtitles a month on free, with 720p export, a watermark, a ten-minute export limit, 1 GB upload, and 2 GB storage. Subtitle translation on free is a one-time try. Creator costs 20 dollars a month or 9.67 dollars a month yearly for 1080p without a watermark.
+**How many free subtitles does VEED give?** Ten minutes of auto subtitles a month on free, with 720p export, a watermark, a ten-minute export limit, 1 GB upload, and 2 GB storage. Subtitle translation on free is a one-time try. Creator costs 20 dollars a month or 9.67 dollars a month yearly for 1080p without a watermark.
 
-Can I caption Hindi videos free? Yes, but check every line yourself. AI Hindi transcription can misspell similar-sounding words, and Hinglish speech may be captioned in the wrong script. Test your tool on a one-minute video first, and check whether it captions in Devanagari, Roman, or a mix that matches your audience.
+**Can I caption Hindi videos free?** Yes, but check every line yourself. AI Hindi transcription can misspell similar-sounding words, and Hinglish speech may be captioned in the wrong script. Test your tool on a one-minute video first, and check whether it captions in Devanagari, Roman, or a mix that matches your audience.
 
-Should I pay for a caption tool? Not to start. CapCut free covers editing, Clipchamp free covers captions with SRT download, and Canva free covers captioned videos up to thirty minutes. Pay only when a specific limit, like VEED's ten minutes a month or Descript's sixty minutes a month, repeatedly blocks your actual posting schedule, and after you have checked watermark and terms for the tool you choose.
+**Should I pay for a caption tool?** Not to start. CapCut free covers editing, Clipchamp free covers captions with SRT download, and Canva free covers captioned videos up to thirty minutes. Pay only when a specific limit, like VEED's ten minutes a month or Descript's sixty minutes a month, repeatedly blocks your actual posting schedule, and after you have checked watermark and terms for the tool you choose.
 
 ## The final verdict, and a checklist before you pay
 
