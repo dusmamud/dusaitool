@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostRow from '../../components/PostRow.astro';
+import { publishedPosts, entryUrl, isoDate, postMinutes, tagCounts, tagUrl } from '../../lib/posts';
+import { t } from '../../i18n/index';
+
+const locale = 'en-IN' as const;
+const posts = await publishedPosts(locale);
+const rows = await Promise.all(posts.map(async (post) => ({ post, minutes: await postMinutes(post) })));
+const tags = await tagCounts(locale);
+const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
+---
+<BaseLayout
+  title="Blog — Dus AI Tool"
+  description="All tested AI tool guides, tutorials and comparisons in English (India)."
+  locale={locale}
+  canonical={`${site}blog/`}
+  currentPath="/blog/"
+>
+  <h1 class="font-display text-4xl">{t(locale, 'blog')}</h1>
+  <p class="mt-3 max-w-[65ch] text-lg text-stone-600 dark:text-stone-300">{posts.length} {t(locale, 'allPosts').toLowerCase()} — {t(locale, 'tagline')}</p>
+
+  {tags.length > 0 && (
+    <section aria-label={t(locale, 'tags')} class="mt-6">
+      <ul class="flex flex-wrap gap-2">
+        {tags.map(({ tag, count }) => (
+          <li><a href={tagUrl(locale, tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-4 text-sm dark:border-stone-700">{tag} ({count})</a></li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <div class="mt-8 border-t border-stone-200 dark:border-stone-800">
+    {rows.map(({ post, minutes }) => (
+      <PostRow href={entryUrl(post)} title={post.data.title} description={post.data.description} date={isoDate(post.data.pubDate)} minutes={minutes} locale={locale} verdict={post.data.verdict} tags={post.data.tags} tagHref={(tag) => tagUrl(locale, tag)} />
+    ))}
+  </div>
+</BaseLayout>

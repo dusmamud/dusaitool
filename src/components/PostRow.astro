@@ -1,0 +1,46 @@
+---
+import type { Locale } from '../i18n/index';
+import { t } from '../i18n/index';
+
+/* Editorial list row (afd-design-direction §5): rules and spacing,
+   not another equal card. Elevation is reserved for the featured
+   post on the home page, so this row has no shadow, no card box. */
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  date: string;
+  minutes: number;
+  locale: Locale;
+  verdict?: string;
+  tags?: string[];
+  tagHref?: (tag: string) => string;
+}
+const { href, title, description, date, minutes, locale, verdict, tags = [], tagHref } = Astro.props;
+---
+<article class="reveal border-b border-stone-200 py-6 first:pt-0 dark:border-stone-800">
+  <h2 class="font-display text-[22px] leading-snug sm:text-2xl">
+    <a href={href} class="transition-colors duration-150 hover:text-brand hover:underline dark:hover:text-brand-dark">{title}</a>
+  </h2>
+  <p class="mt-2 max-w-2xl text-[16px] leading-relaxed text-stone-600 dark:text-stone-300">{description}</p>
+  {verdict && (
+    <p class="mt-3 max-w-2xl rounded-lg bg-brand-soft px-3 py-2 text-sm leading-relaxed text-brand dark:bg-brand-dark-soft dark:text-brand-dark"><strong>Verdict:</strong> {verdict}</p>
+  )}
+  <p class="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-stone-500 dark:text-stone-400">
+    <time datetime={date}>{date}</time>
+    <span aria-hidden="true">·</span>
+    <span>{minutes} {t(locale, 'readTime')}</span>
+    {tags.length > 0 && (
+      <span class="flex flex-wrap items-center gap-2">
+        {tags.map((tag) => (
+          tagHref ? (
+            <a href={tagHref(tag)} class="flex min-h-[32px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] text-stone-700 dark:border-stone-700 dark:text-stone-200">{tag}</a>
+          ) : (
+            <span class="flex min-h-[32px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] dark:border-stone-700">{tag}</span>
+          )
+        ))}
+      </span>
+    )}
+    <a href={href} class="ms-auto flex min-h-[44px] items-center font-medium text-brand underline dark:text-brand-dark">{t(locale, 'readMore')}</a>
+  </p>
+</article>

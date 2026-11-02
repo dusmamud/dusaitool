@@ -1,0 +1,258 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* View Transitions (afd-motion, balanced): opt in early, in the first
+   stylesheet. Browsers without support just navigate normally. */
+@view-transition {
+  navigation: auto;
+}
+
+/* Tailwind v4: dark mode follows the .dark class, not only the OS. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* USER DECISION: Instrument Serif for English everywhere, Noto Serif
+     Devanagari for Hindi everywhere. Instrument Serif ships only
+     weight 400 (+ italic), so hierarchy comes from size, spacing and
+     colour — never from font-bold, which would be synthesised faux
+     bold and break the serif. Noto Serif Devanagari is loaded in
+     400 and 700 for the same reason: Hindi <strong> stays real. */
+  --font-sans: "Instrument Serif", "Noto Serif Devanagari", Georgia, serif;
+  --font-display: "Instrument Serif", "Noto Serif Devanagari", Georgia, serif;
+  --font-devanagari: "Noto Serif Devanagari", "Instrument Serif", Georgia, serif;
+  /* CROSS-VERIFIED v4 (Exa, 2026-11-02):
+     - Editorial palette (everyhexcode newsletter-editorial): newsprint
+       #fbf8f3, headline black #1a1a1a, body grey #4a4a4a, link blue
+       #2c5f8a = 6.37:1 on newsprint (AA). Blue is the primary, not
+       decoration; headlines stay black, colour is used with restraint
+       (Medium Serif Journal: green only for CTAs, never decoration).
+     - Dark theme (Material Design m2): background/surface are dark
+       grey, NOT black; primary is the 200 tone of the palette, and
+       colours are desaturated on dark surfaces. So dark primary is
+       Material blue 200 #90caf9, dark bg is warm near-black #1a1714
+       (Material #121212, warmed for the serif paper), and elevated
+       surfaces are lighter than the bg (elevation overlay principle).
+     - Previous forest green #1f4d3a is replaced, not kept alongside:
+       one primary per theme, per afd-design-direction §3. */
+  --color-paper: #fbf8f3;
+  --color-paper-dark: #1a1714;
+  --color-surface-dark: #241f1b;
+  --color-brand: #2c5f8a;
+  --color-brand-soft: #e8eff5;
+  --color-brand-dark: #90caf9;
+  --color-brand-dark-soft: #1e2a33;
+  /* Motion tokens (afd-motion §2): durations/easings are tokens,
+     never literals in components. */
+  --dur-fast: 150ms;
+  --dur-base: 250ms;
+  --dur-slow: 400ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Serif needs a larger root size: 17px mobile, 18px desktop.
+   All rem-based Tailwind sizes scale with it, so small UI text
+   (text-sm = 0.875rem) lands at ~15-16px, not 14px. */
+html {
+  font-size: 17px;
+  scroll-behavior: smooth;
+  color-scheme: light;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  /* No faux bold in UI: Instrument Serif has no 500/700 face. */
+  font-synthesis-weight: none;
+  /* Instrument Serif is light at small sizes: give it air. */
+  line-height: 1.65;
+  /* Theme switch animates paint, not layout. */
+  transition: background-color var(--dur-base) var(--ease-out), color var(--dur-base) var(--ease-out);
+}
+
+/* Never remove the focus ring. WCAG 2.4.7 Focus Visible. */
+:focus-visible {
+  outline: 3px solid #2c5f8a;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+html.dark :focus-visible {
+  outline-color: #90caf9;
+}
+
+/* Skip link: hidden until keyboard focus, then fully visible. */
+.skip-link {
+  position: absolute;
+  inset-inline-start: 1rem;
+  top: -100px;
+  z-index: 50;
+  padding: 0.5rem 1rem;
+  background: #1a1a1a;
+  color: #fff;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+/* Hindi (Devanagari) needs more line height: vowel signs rise above
+   and below the line. Do not use letter-spacing on Devanagari. */
+:lang(hi) {
+  font-family: var(--font-devanagari);
+  line-height: 1.9;
+}
+:lang(hi) h1,
+:lang(hi) h2,
+:lang(hi) h3 {
+  font-family: "Noto Serif Devanagari", Georgia, serif;
+  line-height: 1.5;
+}
+
+/* Content <strong> is semantic emphasis, not UI weight: there, and
+   only there, allow synthesis for English (Hindi has a real 700). */
+strong,
+b {
+  font-synthesis-weight: auto;
+}
+
+/* Headings: balance the lines, never leave a one-word last line
+   (afd-design-direction §4). Paragraphs: pretty wrapping. */
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+  /* Instrument Serif has no bold: keep weight 400, let size speak. */
+  font-weight: 400;
+}
+p {
+  text-wrap: pretty;
+}
+
+/* Article reading: 60-70ch is the editorial measure, not the page
+   width. The article grid in [...slug].astro holds this measure. */
+article {
+  line-height: 1.8;
+}
+
+/* Numbers in lists, tables and dates: tabular, one line. */
+time,
+td,
+th {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Anchor targets must not hide under the sticky header. */
+article h2[id],
+article h3[id] {
+  scroll-margin-top: 6rem;
+}
+
+/* Reading progress (article only): CSS scroll-driven, no JS. */
+.reading-progress {
+  position: fixed;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  z-index: 60;
+  height: 3px;
+  width: 100%;
+  background: #2c5f8a;
+  transform-origin: 0 50%;
+  animation: reading-progress linear both;
+  animation-timeline: scroll(root);
+}
+@keyframes reading-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+/* Hero entrance: one orchestrated moment on load, then nothing
+   timer-driven while the reader reads (afd-motion §4). */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-in {
+    animation: hero-in var(--dur-slow) var(--ease-out) both;
+  }
+  .hero-in-1 {
+    animation-delay: 60ms;
+  }
+  .hero-in-2 {
+    animation-delay: 140ms;
+  }
+  .hero-in-3 {
+    animation-delay: 220ms;
+  }
+  @keyframes hero-in {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Balanced motion (afd-motion): scroll reveal on home/list only,
+   never on article body (article stays calm). Transform + opacity
+   only, never width/height. */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: reveal var(--dur-base) var(--ease-out) both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 60%;
+  }
+  @keyframes reveal {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Animated underline for nav/footer links: grows from the left,
+   transform only, keyboard focus gets the same state via :focus-visible
+   ring above. */
+.link-underline {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  transition: background-size var(--dur-base) var(--ease-out);
+}
+.link-underline:hover,
+a:hover .link-underline {
+  background-size: 100% 1px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    animation-delay: 0ms !important;
+  }
+  /* Reveal must never hide content when motion is off. */
+  .reveal,
+  .hero-in {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

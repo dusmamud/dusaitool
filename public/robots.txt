@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dusaitool.pages.dev/sitemap-index.xml

@@ -1,0 +1,12 @@
+---
+interface Props {
+  variant?: 'info' | 'warning' | 'tip';
+  title: string;
+}
+const { variant = 'info', title } = Astro.props;
+const role = variant === 'warning' ? 'alert' : 'note';
+---
+<div role={role} class="not-prose my-6 rounded-2xl border border-amber-300 bg-amber-50 p-4 dark:border-amber-800 dark:bg-amber-950">
+  <p class="">{title}</p>
+  <div class="mt-1 text-sm"><slot /></div>
+</div>

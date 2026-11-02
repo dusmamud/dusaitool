@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostRow from '../../../components/PostRow.astro';
+import { publishedPosts, entryUrl, isoDate, postMinutes, tagCounts, tagUrl } from '../../../lib/posts';
+import { t } from '../../../i18n/index';
+
+export async function getStaticPaths() {
+  const tags = await tagCounts('en-IN');
+  return tags.map(({ tag }) => ({ params: { tag: tagUrl('en-IN', tag).split('/').filter(Boolean).pop()! }, props: { tag } }));
+}
+
+const { tag } = Astro.props;
+const posts = (await publishedPosts('en-IN')).filter((p) => (p.data.tags ?? []).includes(tag));
+const rows = await Promise.all(posts.map(async (post) => ({ post, minutes: await postMinutes(post) })));
+const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
+---
+<BaseLayout
+  title={`${tag} — Blog — Dus AI Tool`}
+  description={`Tested AI tool guides tagged ${tag}.`}
+  locale="en-IN"
+  canonical={`${site}blog/tag/${Astro.params.tag}/`}
+  currentPath={`/blog/tag/${Astro.params.tag}/`}
+>
+  <h1 class="font-display text-4xl">{tag}</h1>
+  <p class="mt-3 text-lg text-stone-600 dark:text-stone-300">{posts.length} {posts.length === 1 ? 'post' : 'posts'} · <a href="/blog/" class="font-medium text-brand underline dark:text-brand-dark">{t('en-IN', 'blog')}</a></p>
+  <div class="mt-8 border-t border-stone-200 dark:border-stone-800">
+    {rows.map(({ post, minutes }) => (
+      <PostRow href={entryUrl(post)} title={post.data.title} description={post.data.description} date={isoDate(post.data.pubDate)} minutes={minutes} locale="en-IN" verdict={post.data.verdict} tags={post.data.tags} tagHref={(t2) => tagUrl('en-IN', t2)} />
+    ))}
+  </div>
+  {rows.length === 0 && <p class="mt-6">{t('en-IN', 'noPosts')}</p>}
+</BaseLayout>

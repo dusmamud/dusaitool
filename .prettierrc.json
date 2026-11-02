@@ -1,0 +1,1 @@
+{"overrides":[{"files":"*.astro","options":{"parser":"astro"}}],"plugins":["prettier-plugin-astro"],"printWidth":100,"singleQuote":true,"trailingComma":"all"}

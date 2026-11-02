@@ -1,0 +1,140 @@
+# Design — Dus AI Tool
+
+Design read (afd-design-direction §1):
+
+> Reading this as: **an AI tools blog** for **Indian students, freelancers
+> and small business owners**, with a **calm editorial, test-first**
+> language, leaning toward **Swiss editorial / magazine**.
+
+One thing a visitor must do or remember: pick the right tool without
+wasting money or time, because the test was done in India. The single
+surface carrying personality is the featured test / verdict panel and
+the article headline — everything else stays quiet.
+
+## Dials (afd-design-direction §2, awesome-frontend-design)
+
+Preset: `static-balanced` — Astro, static, 2 themes (light/dark), custom style.
+
+| Surface | VARIANCE | MOTION | DENSITY |
+|---|---|---|---|
+| Home | 7 | 6 | 4 |
+| Article | 4 | 3 | 3 |
+| Lists / search | 5 | 4 | 5 |
+
+Motion is balanced on home/list (CSS scroll reveal, View Transitions,
+one hover microinteraction) and calm on articles (state transitions
+only, plus a CSS scroll-driven reading progress bar, no JS).
+
+## Tokens — v4: editorial blue + Material dark (Exa cross-verified, 2026-11-02)
+
+Primary changed on user demand (forest green replaced, not kept):
+light #2c5f8a (editorial link blue, 6.37:1 on newsprint #fbf8f3, AA),
+dark #90caf9 (Material blue 200 tone, desaturated, high contrast on
+dark). Paper #fbf8f3, headline black #1a1a1a, body grey #4a4a4a
+(everyhexcode newsletter-editorial). Dark: bg warm near-black #1a1714
+(Material #121212, warmed), elevated surface #241f1b (header/cards/
+footer — surfaces lighter than bg, Material elevation), text warm
+near-white #f2eee3 (not pure white, no vibration). Sources: Exa
+web_search_exa x4 ($0.007 each) + web_fetch_exa ($0.002): Material
+Design dark theme, Android colour, NN/g menu design + sticky headers,
+web.dev navigation.
+
+Header v4 (NN/g): utility bar ABOVE primary (RSS, language, theme),
+scrolls away; sticky main bar only, 56px, opaque solid (no
+backdrop-blur — NN: translucent sticky headers distract), desktop
+primary nav always visible (Home, Blog), Search as a blue pill CTA
+on the right, hamburger mobile-only, hidden menu display:none so
+links are not focusable when closed (web.dev).
+
+## Tokens — v3: serif edition (user decision, 2026-11-02)
+
+English everywhere: Instrument Serif (only weight 400 + italic, so
+hierarchy comes from size, spacing and colour, never font-bold —
+faux bold is disabled in UI via `font-synthesis-weight: none`, and
+only semantic <strong> in article content may synthesise).
+Hindi everywhere: Noto Serif Devanagari (400 + 700).
+Root size 17px mobile / 18px desktop, so serif small text lands at
+~15-16px, not 14px. Warm paper #fdfcf8, warm stone greys, one forest
+accent #1f4d3a (sage #a8c5b3 in dark). Fraunces/Inter removed.
+
+Header v3: mobile hamburger (real button, aria-expanded, morphs to
+X, transform only), desktop one-row nav with animated underline,
+current page underlined, scroll shadow via IntersectionObserver
+(no scroll listener), every target >= 44px, language button shows
+EN on mobile so Hindi header fits 360px.
+Footer v3: 4-column grid (brand + promise, Explore, computed Topics,
+Follow + Back to top), 1 col mobile, 2 col tablet, thick top rule.
+
+Motion v3: hero entrance once (staggered 60/140/220ms, transform +
+opacity only), scroll reveal on lists, View Transitions, reading
+progress, theme icon rotates, brand mark tilts on hover. All
+respect `prefers-reduced-motion` (reveal/hero forced visible).
+
+## Tokens (afd-theme-systems, tailwind-design-system) — v2, superseded by v3 above
+
+- One grey family: zinc, in both themes. No warm/cool grey mixing.
+- One brand accent: teal. Light: `#0f766e` (text and fills, white text
+  on fills, ~5.5:1 on white). Dark: `#5eead4` for text, `#134e4a` for
+  soft fills. Dark is designed, not inverted: surfaces are raised
+  (`zinc-900` on `zinc-950`), borders carry more weight.
+- Status colours are separate from the brand accent and always paired
+  with a label: emerald = pros/verdict, rose = cons, amber = warning.
+- One radius system: `rounded-2xl` for panels, `rounded-full` for
+  pills and primary buttons. One shadow, used only on raised panels
+  (featured test, ToolCard) — list rows have no shadow, just hairlines.
+- Typography: two families maximum. Display = Fraunces Variable
+  (editorial serif, headlines only). Body/UI = Inter Variable (deliberate
+  pairing, high legibility for Hinglish Roman). Hindi headings fall back
+  to Noto Serif Devanagari; Hindi body to Noto Sans Devanagari, never
+  letter-spaced, line-height 1.8.
+- Body measure: 60–70ch for reading. Article grid is
+  `minmax(0,65ch) + 240px` (contents on desktop, hidden on mobile).
+  Headings use `text-wrap: balance`, paragraphs `pretty`.
+
+## Layout families (no family twice on one page)
+
+- Home: asymmetric hero (headline + CTAs, 1.6fr) + featured-test panel
+  (1fr), then tag chips with build-time counts, then a hairline list
+  (not equal cards) for the remaining posts.
+- Blog list: headline + count (computed, never typed) + tag chips +
+  hairline list.
+- Article: breadcrumb + 65ch prose + sticky contents (desktop) +
+  related guides (same tags first, then category, newest first).
+- Search: input (48px) + popular searches (build-time tags) + results
+  with count + an explicit empty state. Hindi search filters Pagefind
+  results to `/hi/` URLs; English filters them out.
+- 404: real suggested pages (latest posts, computed) + a home button.
+
+## What was wrong before, and what changed
+
+| Before (generic SaaS card kit) | After |
+|---|---|
+| Identical rounded cards, same shadow everywhere | One raised featured panel; rest is a hairline list |
+| Empty hero: title + tagline, no job, no CTA | Hero fits the viewport: label, headline (max 2 lines), one sentence, two CTAs, featured test as the real visual |
+| Inter everywhere, no display face | Fraunces display + Inter body, deliberate pairing |
+| No accent identity, slate everywhere, blue links | One teal accent, one zinc family, links in accent |
+| Header targets ~28px, nav wrapped awkwardly on mobile | Sticky header, brand row + nav row, every target ≥44px, current page marked with `aria-current` |
+| Hindi search was a dead page | Hindi search works, filtered to Hindi results |
+| No tag filter, no contents, no related posts, no progress | Tag pages, contents, related posts, CSS reading progress |
+| No OG image (favicon used) | Branded `public/og.png` (1200×630), `summary_large_image` |
+| No motion at all, static template feel | Balanced CSS reveal + View Transitions, article calm, `prefers-reduced-motion` respected |
+
+## Anti-patterns avoided (frontend-design, frontend-ui-ux, afd)
+
+- No purple-blue gradient hero, no gradient headline text, no neon glow.
+- No all-caps eyebrow labels, no `01 /` sequence markers on
+  non-sequential content, no fake metrics or testimonials (counts are
+  computed from the content collection at build time).
+- No icon-only buttons without a label: theme toggle has a visible
+  label and `aria-pressed`; language switch is a labelled link.
+- No `outline: none`, no hover-only affordances, no content hidden
+  until JavaScript runs (search and theme work without JS for reading;
+  search degrades to a clear message when the index is missing).
+- No new third-party origin, no new font family without a reason:
+  Fraunces is self-hosted via Fontsource, `font-display: swap`.
+
+## Not checked
+
+- Real iOS Safari, real screen reader, slow-network throttling.
+- Contrast is checked by token choice (teal-700 on white, teal-300 on
+  zinc-950, zinc-600 on white), not by an automated build gate yet.
