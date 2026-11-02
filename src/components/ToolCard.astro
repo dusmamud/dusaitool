@@ -8,14 +8,14 @@ interface Props {
 }
 const { name, price, freePlan, hindi, bestFor } = Astro.props;
 ---
-<div class="not-prose my-6 overflow-x-auto rounded-2xl border border-stone-200 dark:border-stone-800">
+<div class="not-prose my-6 overflow-x-auto rounded-2xl border border-stone-200 dark:border-[#23252a]">
   <table class="w-full min-w-[520px] text-left text-sm">
-    <caption class="bg-stone-100 px-4 py-2 text-left dark:bg-stone-800">{name} — tested summary</caption>
+    <caption class="bg-stone-100 px-4 py-2 text-left dark:bg-[#141516]">{name} — tested summary</caption>
     <tbody>
-      <tr class="border-t border-stone-200 dark:border-stone-800"><th scope="row" class="px-4 py-2">Price</th><td class="px-4 py-2">{price}</td></tr>
-      <tr class="border-t border-stone-200 dark:border-stone-800"><th scope="row" class="px-4 py-2">Free plan</th><td class="px-4 py-2">{freePlan}</td></tr>
-      <tr class="border-t border-stone-200 dark:border-stone-800"><th scope="row" class="px-4 py-2">Hindi support</th><td class="px-4 py-2">{hindi}</td></tr>
-      <tr class="border-t border-stone-200 dark:border-stone-800"><th scope="row" class="px-4 py-2">Best for</th><td class="px-4 py-2">{bestFor}</td></tr>
+      <tr class="border-t border-stone-200 dark:border-[#23252a]"><th scope="row" class="px-4 py-2">Price</th><td class="px-4 py-2">{price}</td></tr>
+      <tr class="border-t border-stone-200 dark:border-[#23252a]"><th scope="row" class="px-4 py-2">Free plan</th><td class="px-4 py-2">{freePlan}</td></tr>
+      <tr class="border-t border-stone-200 dark:border-[#23252a]"><th scope="row" class="px-4 py-2">Hindi support</th><td class="px-4 py-2">{hindi}</td></tr>
+      <tr class="border-t border-stone-200 dark:border-[#23252a]"><th scope="row" class="px-4 py-2">Best for</th><td class="px-4 py-2">{bestFor}</td></tr>
     </tbody>
   </table>
 </div>

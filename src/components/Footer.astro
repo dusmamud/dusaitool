@@ -16,27 +16,27 @@ const backToTop = locale === 'hi' ? 'ऊपर जाएं' : 'Back to top';
 const topicsLabel = locale === 'hi' ? 'विषय' : 'Topics';
 const exploreLabel = locale === 'hi' ? 'देखें' : 'Explore';
 const followLabel = locale === 'hi' ? 'फॉलो करें' : 'Follow';
-const linkClass = 'flex min-h-[44px] items-center text-[17px] text-stone-700 transition-colors duration-150 hover:text-brand dark:text-stone-200 dark:hover:text-brand-dark';
+const linkClass = 'flex min-h-[44px] items-center text-[17px] text-stone-700 transition-colors duration-150 hover:text-brand dark:text-[#d0d6e0] dark:hover:text-brand-dark';
 ---
 <!-- Footer, rebuilt as a real closing section, not a single line:
      responsive grid (1 col mobile, 2 col tablet, 4 col desktop),
      brand + promise, explore, top topics (computed at build),
      follow + back to top. Links animate with the same underline
      as the header. -->
-<footer class="mt-20 border-t-2 border-stone-900 bg-white px-4 py-12 dark:border-stone-100 dark:bg-surface-dark">
+<footer class="mt-20 border-t border-stone-200 bg-white px-4 py-12 dark:border-[#23252a] dark:bg-surface-dark">
   <div class="mx-auto max-w-6xl sm:px-6">
     <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
       <div>
         <a href={home} class="flex min-h-[44px] items-center gap-2.5">
-          <span aria-hidden="true" class="flex size-10 shrink-0 items-center justify-center rounded-full bg-brand font-display text-[22px] text-white dark:bg-brand-dark dark:text-[#1a1714]">D</span>
-          <span class="font-display text-[22px] leading-none tracking-tight sm:text-[26px] text-[#1a1a1a] dark:text-[#f2eee3]">Dus AI Tool</span>
+          <span aria-hidden="true" class="flex size-10 shrink-0 items-center justify-center rounded-full bg-brand font-display text-[22px] text-white dark:bg-brand-dark dark:text-[#08090a]">D</span>
+          <span class="font-display text-[22px] leading-none tracking-tight sm:text-[26px] text-[#1a1a1a] dark:text-[#f7f8f8]">Dus AI Tool</span>
         </a>
-        <p class="mt-4 max-w-[45ch] text-[17px] leading-relaxed text-stone-600 dark:text-stone-300">{t(locale, 'footerNote')}</p>
-        <p class="mt-4 text-stone-500 dark:text-stone-400">© {new Date().getFullYear()} Dus AI Tool · dusaitool.pages.dev</p>
+        <p class="mt-4 max-w-[45ch] text-[17px] leading-relaxed text-stone-600 dark:text-[#8a8f98]">{t(locale, 'footerNote')}</p>
+        <p class="mt-4 text-stone-500 dark:text-[#8a8f98]">© {new Date().getFullYear()} Dus AI Tool · dusaitool.pages.dev</p>
       </div>
 
       <nav aria-label={exploreLabel}>
-        <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f2eee3]">{exploreLabel}</h2>
+        <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f7f8f8]">{exploreLabel}</h2>
         <ul class="mt-3 space-y-1">
           <li><a href={home} class={linkClass}><span class="link-underline">{t(locale, 'home')}</span></a></li>
           <li><a href={blog} class={linkClass}><span class="link-underline">{t(locale, 'blog')}</span></a></li>
@@ -46,7 +46,7 @@ const linkClass = 'flex min-h-[44px] items-center text-[17px] text-stone-700 tra
 
       {tags.length > 0 && (
         <nav aria-label={topicsLabel}>
-          <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f2eee3]">{topicsLabel}</h2>
+          <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f7f8f8]">{topicsLabel}</h2>
           <ul class="mt-3 space-y-1">
             {tags.map(({ tag }) => (
               <li><a href={tagUrl(locale, tag)} class={linkClass}><span class="link-underline">{tag}</span></a></li>
@@ -56,7 +56,7 @@ const linkClass = 'flex min-h-[44px] items-center text-[17px] text-stone-700 tra
       )}
 
       <nav aria-label={followLabel}>
-        <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f2eee3]">{followLabel}</h2>
+        <h2 class="font-display text-[22px] text-[#1a1a1a] dark:text-[#f7f8f8]">{followLabel}</h2>
         <ul class="mt-3 space-y-1">
           <li><a href={rss} class={linkClass}><span class="link-underline">RSS</span></a></li>
           <li><a href="/sitemap-index.xml" class={linkClass}><span class="link-underline">Sitemap</span></a></li>

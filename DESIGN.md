@@ -25,6 +25,19 @@ Motion is balanced on home/list (CSS scroll reveal, View Transitions,
 one hover microinteraction) and calm on articles (state transitions
 only, plus a CSS scroll-driven reading progress bar, no JS).
 
+## Tokens — v5: SaaS dark grading (Linear, Exa 2026-11-02, supersedes v4 dark only)
+
+Light stays editorial blue #2c5f8a / paper #fbf8f3. Dark is now Linear
+SaaS grading, not warm Material: bg #08090a, surface #0f1011,
+surface-2 #141516, border #23252a (1px white 8% hairline, no shadow
+on resting cards; floating header 0 4px 24px rgba(0,0,0,0.45)),
+text #f7f8f8, secondary #d0d6e0, tertiary #8a8f98, accent
+#4ea7fc (Linear info blue, same blue family as light, not a new
+hue). Warm stone dark greys replaced by neutral Linear greys in
+dark only. Verified by CDP: body rgb(8,9,10), header rgb(15,16,17),
+border rgb(35,37,42), body text rgb(208,214,224), accent
+rgb(78,167,252). Footer top rule is now a hairline in both themes.
+
 ## Tokens — v4: editorial blue + Material dark (Exa cross-verified, 2026-11-02)
 
 Primary changed on user demand (forest green replaced, not kept):

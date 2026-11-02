@@ -33,7 +33,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   translationExists={translationExists}
 >
   <div class="reading-progress" aria-hidden="true"></div>
-  <nav aria-label="Breadcrumb" class="text-sm text-stone-500 dark:text-stone-400">
+  <nav aria-label="Breadcrumb" class="text-sm text-stone-500 dark:text-[#8a8f98]">
     <ol class="flex flex-wrap items-center gap-2">
       <li><a href="/" class="flex min-h-[44px] items-center font-medium text-brand underline dark:text-brand-dark">{t('en-IN', 'home')}</a></li>
       <li aria-hidden="true">/</li>
@@ -46,7 +46,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   <div class="mt-6 grid gap-10 lg:grid-cols-[minmax(0,65ch)_240px]">
     <article class="prose prose-stone max-w-none dark:prose-invert prose-headings:font-display prose-a:text-brand dark:prose-a:text-brand-dark">
       <h1>{post.data.title}</h1>
-      <p class="not-prose text-sm text-stone-500 dark:text-stone-400">
+      <p class="not-prose text-sm text-stone-500 dark:text-[#8a8f98]">
         {t('en-IN', 'published')} <time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time>
         {' · '}{t('en-IN', 'updated')} <time datetime={isoDate(updated)}>{isoDate(updated)}</time>
         {' · '}{minutes} {t('en-IN', 'readTime')}
@@ -57,10 +57,10 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
     {toc.length > 0 && (
       <aside aria-label={t('en-IN', 'contents')} class="hidden lg:block">
         <nav class="sticky top-32">
-          <h2 class="text-sm text-[#1a1a1a] dark:text-[#f2eee3]">{t('en-IN', 'contents')}</h2>
-          <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-stone-800">
+          <h2 class="text-sm text-[#1a1a1a] dark:text-[#f7f8f8]">{t('en-IN', 'contents')}</h2>
+          <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-[#23252a]">
             {toc.map((h) => (
-              <li><a href={`#${h.slug}`} class="flex min-h-[36px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-stone-300 dark:hover:text-brand-dark">{h.text}</a></li>
+              <li><a href={`#${h.slug}`} class="flex min-h-[36px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark">{h.text}</a></li>
             ))}
           </ul>
         </nav>
@@ -73,7 +73,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   {relatedRows.length > 0 && (
     <section class="mt-12">
       <h2 class="font-display text-2xl">{t('en-IN', 'related')}</h2>
-      <div class="mt-6 border-t border-stone-200 dark:border-stone-800">
+      <div class="mt-6 border-t border-stone-200 dark:border-[#23252a]">
         {relatedRows.map(({ post: p, minutes: m }) => (
           <PostRow href={entryUrl(p)} title={p.data.title} description={p.data.description} date={isoDate(p.data.pubDate)} minutes={m} locale="en-IN" verdict={p.data.verdict} />
         ))}

@@ -26,15 +26,15 @@ const desktopLink = (href: string) =>
   `flex min-h-[44px] items-center px-1 text-[17px] transition-colors duration-150 ${
     isCurrent(href)
       ? 'text-brand underline decoration-2 underline-offset-8 dark:text-brand-dark'
-      : 'text-stone-700 hover:text-brand dark:text-stone-200 dark:hover:text-brand-dark'
+      : 'text-stone-700 hover:text-brand dark:text-[#d0d6e0] dark:hover:text-brand-dark'
   }`;
 const mobileLink = (href: string) =>
-  `flex min-h-[52px] items-center border-b border-stone-200 px-1 text-[20px] dark:border-stone-800 ${
-    isCurrent(href) ? 'text-brand dark:text-brand-dark' : 'text-stone-800 dark:text-[#f2eee3]'
+  `flex min-h-[52px] items-center border-b border-stone-200 px-1 text-[20px] dark:border-[#23252a] ${
+    isCurrent(href) ? 'text-brand dark:text-brand-dark' : 'text-stone-800 dark:text-[#f7f8f8]'
   }`;
 const menuLabel = locale === 'hi' ? 'मेनू' : 'Menu';
 const closeLabel = locale === 'hi' ? 'बंद करें' : 'Close';
-const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-stone-300 dark:hover:text-brand-dark';
+const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark';
 ---
 
 <!-- Header v4 — cross-verified (Exa, NN/g + web.dev + Material):
@@ -58,9 +58,9 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
      5. Hidden mobile nav uses display:none (web.dev): links are not
         focusable while hidden. Menu is click-activated, never hover.
      Every target >= 44px (NN: 1cm x 1cm minimum on touch). -->
-<div class="border-b border-stone-200 bg-paper dark:border-stone-800 dark:bg-paper-dark">
+<div class="border-b border-stone-200 bg-paper dark:border-[#23252a] dark:bg-paper-dark">
   <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-1 sm:px-6">
-    <p class="hidden min-h-[36px] items-center text-[15px] italic text-stone-500 dark:text-stone-400 sm:flex">
+    <p class="hidden min-h-[36px] items-center text-[15px] italic text-stone-500 dark:text-[#8a8f98] sm:flex">
       {locale === 'hi' ? 'भारत में टेस्ट किए गए AI टूल' : 'AI tools, tested in India'}
     </p>
     <nav aria-label={locale === 'hi' ? 'उपयोगिता नेविगेशन' : 'Utility navigation'} class="ms-auto flex items-center gap-4">
@@ -82,7 +82,7 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
         data-dark-label={t(locale, 'themeDark')}
         data-light-short={locale === 'hi' ? 'लाइट' : 'Light'}
         data-dark-short={locale === 'hi' ? 'डार्क' : 'Dark'}
-        class="flex min-h-[36px] items-center gap-1.5 text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-stone-300 dark:hover:text-brand-dark"
+        class="flex min-h-[36px] items-center gap-1.5 text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark"
       >
         <span aria-hidden="true" class="theme-icon inline-block transition-transform duration-250">◐</span>
         <span class="theme-label">{locale === 'hi' ? 'डार्क' : 'Dark'}</span>
@@ -92,12 +92,12 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
 </div>
 
 <div id="header-sentinel" aria-hidden="true" class="h-px"></div>
-<header id="site-header" class="sticky top-0 z-40 border-b border-stone-200 bg-paper transition-shadow duration-250 dark:border-stone-800 dark:bg-surface-dark">
+<header id="site-header" class="sticky top-0 z-40 border-b border-stone-200 bg-paper transition-shadow duration-250 dark:border-[#23252a] dark:bg-surface-dark">
   <div class="mx-auto max-w-6xl px-4 sm:px-6">
     <div class="flex min-h-[56px] items-center gap-3">
       <a href={home} class="flex min-h-[44px] shrink-0 items-center gap-2.5" aria-label="Dus AI Tool — home">
-        <span aria-hidden="true" class="flex size-9 shrink-0 items-center justify-center rounded-full bg-brand font-display text-[20px] text-white transition-transform duration-250 hover:rotate-[-6deg] dark:bg-brand-dark dark:text-[#1a1714]">D</span>
-        <span class="font-display text-[22px] leading-none tracking-tight text-[#1a1a1a] dark:text-[#f2eee3]">Dus AI Tool</span>
+        <span aria-hidden="true" class="flex size-9 shrink-0 items-center justify-center rounded-full bg-brand font-display text-[20px] text-white transition-transform duration-250 hover:rotate-[-6deg] dark:bg-brand-dark dark:text-[#08090a]">D</span>
+        <span class="font-display text-[22px] leading-none tracking-tight text-[#1a1a1a] dark:text-[#f7f8f8]">Dus AI Tool</span>
       </a>
 
       <nav aria-label={locale === 'hi' ? 'मुख्य नेविगेशन' : 'Primary navigation'} class="ms-6 hidden items-center gap-6 sm:flex">
@@ -106,7 +106,7 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
       </nav>
 
       <div class="ms-auto flex items-center gap-2">
-        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-full bg-brand px-4 text-[16px] text-white transition-transform duration-150 hover:-translate-y-0.5 dark:bg-brand-dark dark:text-[#1a1714] sm:flex">
+        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-full bg-brand px-4 text-[16px] text-white transition-transform duration-150 hover:-translate-y-0.5 dark:bg-brand-dark dark:text-[#08090a] sm:flex">
           {t(locale, 'search')}
         </a>
         <button
@@ -117,7 +117,7 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
           aria-label={menuLabel}
           data-menu-label={menuLabel}
           data-close-label={closeLabel}
-          class="flex min-h-[44px] min-w-[44px] flex-col items-center justify-center gap-1.5 rounded-full border border-stone-300 px-3 dark:border-stone-700 sm:hidden"
+          class="flex min-h-[44px] min-w-[44px] flex-col items-center justify-center gap-1.5 rounded-full border border-stone-300 px-3 dark:border-[#34343a] sm:hidden"
         >
           <span aria-hidden="true" class="menu-bar block h-[2px] w-5 bg-current transition-transform duration-250"></span>
           <span aria-hidden="true" class="menu-bar block h-[2px] w-5 bg-current transition-transform duration-250"></span>
@@ -140,7 +140,7 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
   const sentinel = document.getElementById('header-sentinel');
   if (header && sentinel && 'IntersectionObserver' in window) {
     new IntersectionObserver(([entry]) => {
-      header.classList.toggle('shadow-[0_1px_12px_rgba(0,0,0,0.08)]', !entry.isIntersecting);
+      header.classList.toggle('header-scrolled', !entry.isIntersecting);
     }).observe(sentinel);
   }
 

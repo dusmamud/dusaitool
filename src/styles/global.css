@@ -35,12 +35,23 @@
      - Previous forest green #1f4d3a is replaced, not kept alongside:
        one primary per theme, per afd-design-direction §3. */
   --color-paper: #fbf8f3;
-  --color-paper-dark: #1a1714;
-  --color-surface-dark: #241f1b;
+  /* DARK GRADING v5 — SaaS style (Linear, Exa 2026-11-02):
+     Linear dark system, two sources agree: bg #08090a, surface
+     #0f1011, surface-2 #141516, secondary #1c1c1f, border #23252a
+     (1px white 8% hairline, no drop shadow on resting cards),
+     text #f7f8f8, secondary #d0d6e0, tertiary #8a8f98.
+     Light theme stays editorial blue; dark accent stays in the
+     same blue family (Material: lighter tone, not a new hue):
+     Linear info blue #4ea7fc, not Material pastel #90caf9. */
+  --color-paper-dark: #08090a;
+  --color-surface-dark: #0f1011;
+  --color-surface-dark-2: #141516;
+  --color-border-dark: #23252a;
+  --color-border-dark-2: #34343a;
   --color-brand: #2c5f8a;
   --color-brand-soft: #e8eff5;
-  --color-brand-dark: #90caf9;
-  --color-brand-dark-soft: #1e2a33;
+  --color-brand-dark: #4ea7fc;
+  --color-brand-dark-soft: #101e2e;
   /* Motion tokens (afd-motion §2): durations/easings are tokens,
      never literals in components. */
   --dur-fast: 150ms;
@@ -83,7 +94,7 @@ body {
   border-radius: 2px;
 }
 html.dark :focus-visible {
-  outline-color: #90caf9;
+  outline-color: #4ea7fc;
 }
 
 /* Skip link: hidden until keyboard focus, then fully visible. */
@@ -98,6 +109,15 @@ html.dark :focus-visible {
 }
 .skip-link:focus {
   top: 1rem;
+}
+
+/* Sticky header shadow, graded per theme (Linear: resting cards have
+   no shadow, floating header gets 0 4px 24px rgba(0,0,0,0.45)). */
+.header-scrolled {
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.08);
+}
+.dark .header-scrolled {
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.45);
 }
 
 /* Hindi (Devanagari) needs more line height: vowel signs rise above
@@ -164,6 +184,9 @@ article h3[id] {
   transform-origin: 0 50%;
   animation: reading-progress linear both;
   animation-timeline: scroll(root);
+}
+.dark .reading-progress {
+  background: #4ea7fc;
 }
 @keyframes reading-progress {
   from {
