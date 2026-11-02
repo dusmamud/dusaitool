@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const locale = 'en-IN' as const;
+const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
+---
+<BaseLayout
+  title="Disclaimer — Dus AI Tool"
+  description="Disclaimer for Dus AI Tool: test results are from a point in time, prices and free limits change, and AI tools can make mistakes, so check the official page before you pay."
+  locale={locale}
+  canonical={`${site}disclaimer/`}
+  currentPath="/disclaimer/"
+  translationExists={true}
+>
+  <div class="max-w-[70ch]">
+    <h1 class="font-display text-4xl">Disclaimer</h1>
+    <p class="mt-3 text-sm text-stone-500 dark:text-text-dark-3">Last updated: 3 November 2026</p>
+    <article class="prose prose-stone mt-6 min-w-0 max-w-none dark:prose-invert prose-headings:font-display prose-a:text-brand dark:prose-a:text-brand-dark">
+      <p>The information on Dus AI Tool is provided for general information only. It is based on hands-on testing, but testing has limits, and this page explains those limits honestly so you can use the site well.</p>
+
+      <h2>Tested at a point in time</h2>
+      <p>Each article describes how a tool worked when it was tested: on a normal Indian mobile connection, with an Indian signup where signup was needed, for a real task, not just from its landing page. Your result may differ because of your account, your device, your location, your plan, or a change the tool maker made after the test.</p>
+
+      <h2>Prices and free limits change</h2>
+      <p>Prices, free limits, and features change often, and sometimes without notice. A tool described as free in an article may later add a limit, change its free plan, or start charging. Before you pay for any tool, check its official pricing page. The official page, not this site, is the correct source for what you will actually be charged.</p>
+
+      <h2>AI tools can make mistakes</h2>
+      <p>AI tools can invent facts, statistics, citations, and translations that sound confident but are wrong. Articles on this site warn about this where it matters, and the same warning applies to the tools themselves. For important work — study, job applications, client work, money, health, or legal matters — check every important fact yourself against a reliable source and a qualified person. Do not submit AI output as your own final work without checking it.</p>
+
+      <h2>No affiliate or sponsored content, as of this date</h2>
+      <p>As of the last updated date above, articles on this site do not contain affiliate links and are not sponsored posts. A tool is mentioned because it was tested, not because anyone paid for the mention. If that ever changes, this page will be updated, and any sponsored content or affiliate link will be clearly labelled as such in the article itself.</p>
+
+      <h2>Third-party tools</h2>
+      <p>This site does not control the tools it writes about. Their availability, quality, privacy practices, and terms can change without notice, and this site is not responsible for them. When you sign up for a third-party tool, you accept that tool's own terms and privacy policy.</p>
+
+      <h2>No professional advice</h2>
+      <p>Nothing on this site is professional advice for your specific situation. Articles about study, career, business, or money are general guidance only. For a decision that matters, get advice from a qualified person who knows your situation.</p>
+
+      <h2>Liability</h2>
+      <p>You use the information on this site at your own judgment. To the extent allowed by law, Dus AI Tool is not liable for losses that come from a tool changing, a free limit ending, an AI mistake you did not check, or a decision you make after reading an article. If a tool does not work for you the way an article described, the practical next step is to check the tool's official page and its support, not to treat the article as a promise.</p>
+
+      <h2>Contact</h2>
+      <p>For a general question about this disclaimer, you can reach the site owner through Dus AI Tool at dusaitool.pages.dev.</p>
+    </article>
+  </div>
+</BaseLayout>

@@ -502,3 +502,16 @@ by Dus AI Tool with short quoted use allowed, third-party tools
 governed by their own terms, acceptable use, as-is availability,
 and governing law India. Same 70ch prose layout as the privacy
 page. No contact email invented, same contact wording as v22.
+
+## v24 — Legal 3: Disclaimer (en + hi, 2026-11-03)
+New routes /disclaimer/ and /hi/disclaimer/, translationExists
+so the language switch keeps the same page. Content is specific
+to this site's own testing claims: tested at a point in time on
+a normal Indian connection for a real task, prices and free
+limits change so the official page is the correct source, AI
+tools can invent confident-sounding facts so important work must
+be checked, no affiliate links and no sponsored posts as of the
+updated date (with a promise to label them if that ever changes),
+third-party tools not controlled by this site, no professional
+advice, liability in plain language. Same 70ch prose layout.
+No contact email invented, same contact wording as v22/v23.
