@@ -391,3 +391,10 @@ a, button {
 .mobile-menu {
   overscroll-behavior: contain;
 }
+
+/* afd-ui-review §3.5: long words and URLs must wrap, never overflow
+   the article column on mobile. Prose already scrolls tables; links
+   are the remaining overflow risk (a raw tool URL in article text). */
+.prose a {
+  overflow-wrap: anywhere;
+}

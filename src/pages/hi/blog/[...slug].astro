@@ -48,9 +48,9 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
     <article class="prose prose-stone min-w-0 max-w-none dark:prose-invert prose-a:text-brand dark:prose-a:text-brand-dark">
       <h1>{post.data.title}</h1>
       <p class="not-prose text-sm text-stone-500 dark:text-text-dark-3">
-        {t('hi', 'published')} <time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time>
-        {', '}{t('hi', 'updated')} <time datetime={isoDate(updated)}>{isoDate(updated)}</time>
-        {', '}{minutes} {t('hi', 'readTime')}
+        <span class="whitespace-nowrap">{t('hi', 'published')} <time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time></span>
+        {', '}<span class="whitespace-nowrap">{t('hi', 'updated')} <time datetime={isoDate(updated)}>{isoDate(updated)}</time></span>
+        {', '}<span class="whitespace-nowrap">{minutes} {t('hi', 'readTime')}</span>
       </p>
       {toc.length > 0 && <ArticleToc toc={toc} label={t('hi', 'contents')} />}
       <Content />

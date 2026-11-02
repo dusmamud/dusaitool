@@ -378,3 +378,21 @@ Checked and kept: HTML-first static output, JS only as islands
 (theme, menu, TOC, search), Pagefind lazy-loaded only on the search
 page, robots.txt + sitemap present, no new third-party origin.
 Verified: build passes, search page structure unchanged.
+
+## v17 — Skill 4e: afd-ui-review, render-matrix findings (2026-11-03)
+Reviewed home, article, blog, search and tag pages at 390px and
+1440px, light and dark, against afd-ui-review §3. Passes already in
+place: one h1, correct lang, skip link works, focus visible in both
+themes, dialogs trap and return focus, targets 44px+, images have
+dimensions, aria-current on nav, language switch keeps the path,
+404 offers real pages, no horizontal scroll at 320px.
+Fixes in this commit (§3.5 layout):
+- Article meta could split inside a phrase on mobile ("1 min" /
+  "read"). Each meta item is now a whitespace-nowrap span, so the
+  meta wraps between items, never inside a date or a read-time.
+- A long raw URL in article text could overflow the mobile column.
+  Prose links now use overflow-wrap: anywhere (tables already
+  scrolled, this was the remaining overflow risk).
+Not checked (per the skill's own output rule): real iOS Safari,
+screen reader, slow network.
+Verified: build passes.
