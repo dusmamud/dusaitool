@@ -30,7 +30,7 @@ const desktopLink = (href: string) =>
   }`;
 const menuLabel = locale === 'hi' ? 'मेनू' : 'Menu';
 const closeLabel = locale === 'hi' ? 'बंद करें' : 'Close';
-const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark';
+const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark';
 ---
 
 <!-- Header v4 — cross-verified (Exa, NN/g + web.dev + Material):
@@ -83,7 +83,7 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
         data-dark-label={t(locale, 'themeDark')}
         data-light-short={locale === 'hi' ? 'लाइट' : 'Light'}
         data-dark-short={locale === 'hi' ? 'डार्क' : 'Dark'}
-        class="flex min-h-[36px] items-center gap-1.5 text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark"
+        class="flex min-h-[44px] items-center gap-1.5 text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark"
       >
         <span aria-hidden="true" class="theme-icon inline-block transition-transform duration-250">◐</span>
         <span class="theme-label">{locale === 'hi' ? 'डार्क' : 'Dark'}</span>

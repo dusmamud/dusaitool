@@ -278,3 +278,22 @@ Fixes in this commit:
   suppressed, so pull-to-refresh still works on phones.
 Verified: build passes, search page renders unchanged (these fixes
 are invisible by design, except for the tap feedback on mobile).
+
+## v12 — Skill 3: ui-ux-pro-max, Priority 2 Touch (2026-11-03)
+Ran the skill's design-system search for "editorial blog reading long
+articles" (Swiss Modernism 2.0, editorial, grid — matches the current
+direction, so no palette/font change: the tool's pink accent and
+Libre Bodoni suggestion is generic output and does NOT override the
+user's Instrument Serif + editorial blue decision).
+Audit against its Priority 1-2 rules: contrast already passes
+(4.5:1+ on small text in both themes), no emoji icons, focus visible,
+reduced motion respected, no horizontal scroll. Touch violations
+fixed in this commit (min 44x44px, 8px+ spacing):
+- Header utility links (RSS, language) and theme button: 36px -> 44px.
+- PostRow tag chips: 32px -> 44px (link and plain versions, same
+  height so the row does not shift between the two).
+- Desktop TOC links and sidebar topic chips (both slug pages):
+  36px -> 44px.
+- Footer nav lists: gap 4px -> 8px between the already-44px links.
+Verified: build passes, no layout break (sidebar is scrollable, so
+taller TOC links still fit).
