@@ -433,3 +433,30 @@ Fixes in this commit:
   replaces it with the result count. New i18n key `searching`
   (en + hi), passed via define:vars like the existing noIndexText.
 Verified: build passes.
+
+## v20 — Skill 6: shadcn + tailwind-design-system, space utilities (2026-11-03)
+shadcn is a React component library, so its component rules
+(FieldGroup, Badge, Dialog, cn()) do not transfer to an Astro
+site with no React and no shadcn installed — forcing them in
+would add a dependency for no gain. Its styling principles do
+transfer, and were audited:
+- Semantic colours: already done in v15 (token classes, no raw
+  hex, no manual dark colour values outside the token tier).
+- size-* over equal w-*/h-*: already in use (favicon size-9/10,
+  menu bars are not equal, search input is h-12 w-full).
+- No space-x-*/space-y-*: FIXED in this commit. space-y adds
+  margin to children and breaks when a child is hidden; gap on a
+  flex column is the same spacing without that fragility.
+  Replaced, with identical values, in: footer nav lists (gap-2),
+  article sidebar blocks (gap-10), desktop TOC + related lists
+  (gap-1), search results (gap-4), 404 suggestions (gap-2).
+- Separator: not a React Separator here; the editorial hairline
+  borders (PostRow, header, footer) are the separator system,
+  not decorative divs, so they stay.
+Tailwind v4: @theme tokens, @custom-variant dark, typography
+plugin — all already v4-correct, no v3 patterns left. Arbitrary
+sizes (44px targets, 22px brand) stay: they are intentional
+multiples of the 4px scale, not random values, and replacing
+them with the nearest Tailwind scale step would change the
+design for no benefit.
+Verified: build passes, zero space-y left in src/.

@@ -20,7 +20,7 @@ const latest = await Promise.all(posts.slice(0, 3).map(async (post) => ({ post, 
   {latest.length > 0 && (
     <section class="mt-10">
       <h2 class="text-2xl">{t('en-IN', 'suggested')}</h2>
-      <ul class="mt-4 space-y-2">
+      <ul class="mt-4 flex flex-col gap-2">
         {latest.map(({ post, minutes }) => (
           <li>
             <a href={entryUrl(post)} class="flex min-h-[44px] items-center gap-3 font-medium text-brand underline dark:text-brand-dark">

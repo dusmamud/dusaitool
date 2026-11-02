@@ -40,7 +40,7 @@ const popular = tags.slice(0, 5).map((x) => x.tag);
     </section>
   )}
 
-  <div id="search-results" class="mt-6 space-y-4" aria-live="polite"></div>
+  <div id="search-results" class="mt-6 flex flex-col gap-4" aria-live="polite"></div>
   <p id="search-status" class="mt-4 text-sm text-stone-500"></p>
   <p id="search-empty" class="mt-4 hidden text-sm text-stone-600 dark:text-text-dark-3">{t(locale, 'searchNoResults')}</p>
 
