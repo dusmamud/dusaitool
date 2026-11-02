@@ -396,3 +396,19 @@ Fixes in this commit (§3.5 layout):
 Not checked (per the skill's own output rule): real iOS Safari,
 screen reader, slow network.
 Verified: build passes.
+
+## v18 — Skill 4f: afd-app-frontend, empty state (2026-11-03)
+afd-app-frontend is an app skill (Next.js/shadcn, dashboards,
+forms, onboarding). Dusaitool is a static Astro blog, not an app,
+so most of its rules do not apply here — no dashboard, no form
+flow, no app state to port. The one rule that does apply is §5:
+every screen has its states (loading, empty, error). Audit: search
+has empty + error, home + tag pages have an empty message, but the
+blog index had none — with zero posts it would show only a heading
+and an empty hairline.
+Fix (en + hi blog index): when rows.length is 0, show the existing
+noPosts message below the list, same pattern as home/tag pages.
+No other app-frontend change was forced, because inventing app
+screens for a static blog would be the opposite of the skill's
+own "design the unhappy paths, not decoration" rule.
+Verified: build passes.
