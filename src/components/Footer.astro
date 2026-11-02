@@ -29,8 +29,10 @@ const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-7
      desktop 5 cols (brand + explore + topics + follow + legal),
      then a separate bottom row with Back to top, right-aligned
      and split from the grid by a hairline, so it is not buried
-     inside the Follow column. Links animate with the same
-     underline as the header. -->
+     inside the Follow column, then a centered copyright row
+     below it (moved out of the brand column, so it appears
+     once, not twice). Links animate with the same underline
+     as the header. -->
 <footer class="mt-20 border-t border-stone-200 bg-white px-4 py-12 dark:border-border-dark dark:bg-surface-dark">
   <div class="mx-auto max-w-6xl sm:px-6">
     <div class="grid grid-cols-2 gap-x-6 gap-y-10 lg:grid-cols-[1.3fr_1fr_1fr_1fr_1fr] lg:gap-10">
@@ -40,7 +42,6 @@ const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-7
           <span class="font-display text-[22px] leading-none tracking-tight sm:text-[26px] text-ink dark:text-text-dark">Dus AI Tool</span>
         </a>
         <p class="mt-4 max-w-[45ch] text-[17px] leading-relaxed text-stone-600 dark:text-text-dark-3">{t(locale, 'footerNote')}</p>
-        <p class="mt-4 text-stone-500 dark:text-text-dark-3">© {new Date().getFullYear()} Dus AI Tool, dusaitool.pages.dev</p>
       </div>
 
       <nav aria-label={exploreLabel}>
@@ -83,6 +84,10 @@ const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-7
 
     <div class="mt-12 flex justify-end border-t border-stone-200 pt-6 dark:border-border-dark">
       <a href="#top" class={linkClass}><svg aria-hidden="true" width="16" height="16" viewBox="0 0 20 20" fill="none" class="shrink-0"><path d="M5 12.5L10 7.5L15 12.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="link-underline">{backToTop}</span></a>
+    </div>
+
+    <div class="mt-6 flex justify-center">
+      <p class="text-center text-sm text-stone-500 dark:text-text-dark-3">© {new Date().getFullYear()} Dus AI Tool, dusaitool.pages.dev</p>
     </div>
   </div>
 </footer>

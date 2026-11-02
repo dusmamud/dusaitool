@@ -549,3 +549,15 @@ label (Back to top / ऊपर जाएं). It is not duplicated anywhere:
 one Back to top link in the whole footer, in the bottom row only.
 Desktop 5-col grid and mobile 2-col layout are unchanged.
 Verified at 1440px and 390px with no overflow.
+
+## v28 — Footer: copyright row below Back to top (2026-11-03)
+Copyright was tucked under the brand paragraph in the brand
+column, so the footer had no proper closing line at the very
+bottom. Fix: moved, not duplicated — removed from the brand
+column and added as its own full-width row below the Back to
+top row (mt-6, centered, text-sm muted, same text and year
+logic: © year Dus AI Tool, dusaitool.pages.dev). No second
+hairline: the Back to top row already has one above it. Small
+text size keeps the line on one row even at 320px. Footer order
+is now: grid, Back to top row, copyright row.
+Verified at 1440px, 390px and 320px with no overflow.
