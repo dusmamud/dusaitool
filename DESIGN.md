@@ -478,3 +478,16 @@ call inside define:vars, with the correct `}}>` closing. Build
 now exits 0, dist/index.html exists, home returns 200.
 Lesson recorded: always check the build exit code and
 dist/index.html, never grep for "error" alone.
+
+## v22 — Legal 1: Privacy Policy (en + hi, 2026-11-03)
+New routes /privacy-policy/ and /hi/privacy-policy/, both with
+translationExists so the language switch keeps the same page.
+Content is specific to this site, not a generic template: no
+account, no signup, no contact form, theme in localStorage only,
+search in the browser only (Pagefind index built at deploy time),
+hosted on Cloudflare Pages, no cookies from the site itself, no
+analytics and no advertising as of the updated date, third-party
+tools named in articles have their own policies. No contact email
+is invented: the contact section gives only the site name and
+domain, because no public contact email exists on the site yet.
+Layout matches article reading width (70ch) with prose styling.

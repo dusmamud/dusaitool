@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const locale = 'en-IN' as const;
+const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
+---
+<BaseLayout
+  title="Privacy Policy — Dus AI Tool"
+  description="Privacy policy for Dus AI Tool: what this static blog collects, what it does not collect, and how search and theme choice work in your browser."
+  locale={locale}
+  canonical={`${site}privacy-policy/`}
+  currentPath="/privacy-policy/"
+  translationExists={true}
+>
+  <div class="max-w-[70ch]">
+    <h1 class="font-display text-4xl">Privacy Policy</h1>
+    <p class="mt-3 text-sm text-stone-500 dark:text-text-dark-3">Last updated: 3 November 2026</p>
+    <article class="prose prose-stone mt-6 min-w-0 max-w-none dark:prose-invert prose-headings:font-display prose-a:text-brand dark:prose-a:text-brand-dark">
+      <p>Dus AI Tool is a static blog about AI tools tested in India. There is no account, no login, no signup form, and no contact form on this site. This policy describes, in plain language, what the site collects and what it does not collect.</p>
+
+      <h2>Information we do not collect</h2>
+      <p>We do not collect your name, email address, phone number, or any other personal information directly, because the site never asks you for it. There is no newsletter signup, no comment system, and no user account on this site.</p>
+
+      <h2>Information stored in your browser only</h2>
+      <p>Two things work entirely inside your own browser and are never sent to us:</p>
+      <ul>
+        <li><strong>Theme choice.</strong> When you switch between light and dark mode, that choice is saved in your browser's local storage so the site remembers it on your next visit. It is not sent to a server.</li>
+        <li><strong>Search.</strong> Search on this site runs in your browser using a search index built when the site is published. Your search words never leave your browser, and no search history is stored by us.</li>
+      </ul>
+
+      <h2>Hosting</h2>
+      <p>This site is hosted on Cloudflare Pages. As part of hosting and protecting the site, Cloudflare may keep standard server logs, such as the pages requested and general technical details about the request. We do not receive, use, or sell personal data from those logs, and we do not combine them with anything else, because there is nothing else to combine them with.</p>
+
+      <h2>Cookies</h2>
+      <p>This site itself does not set cookies. If you follow a link from an article to a third-party tool's own website, that website may set its own cookies under its own privacy policy. We do not control those cookies.</p>
+
+      <h2>Analytics and advertising</h2>
+      <p>As of the last updated date above, this site uses no analytics service, no advertising network, and no tracking pixel. If that ever changes, this policy will be updated first, and the updated date at the top of this page will change.</p>
+
+      <h2>Third-party tools mentioned in articles</h2>
+      <p>Articles on this site name and describe third-party AI tools. Those tools have their own privacy policies and terms, which apply when you sign up for or use them. Reading an article on this site does not create any account with those tools, and this site does not share any of your information with them.</p>
+
+      <h2>Children's privacy</h2>
+      <p>This site is written for a general audience and is not directed at children. Since the site collects no personal information from anyone, it also collects no personal information from children.</p>
+
+      <h2>Changes to this policy</h2>
+      <p>This policy may change if the site changes, for example if a contact form or an analytics service is added in the future. Any change will be shown on this page with a new last updated date. Continuing to use the site after a change means you accept the updated policy.</p>
+
+      <h2>Contact</h2>
+      <p>Because this site collects no personal information, there is no personal data to access, correct, or delete. For a general question about this policy, you can reach the site owner through Dus AI Tool at dusaitool.pages.dev.</p>
+    </article>
+  </div>
+</BaseLayout>
