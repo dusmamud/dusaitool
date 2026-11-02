@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Search free in Elicit and Consensus, map citations in ResearchRabbit, and always read the full paper before you cite it."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-research-students-india-en.png'
 ---
 
 Research for a student in India is not finding one paper. It is finding the **right papers**, understanding what they actually say, comparing their methods and results, and writing a review that cites them correctly, without inventing a claim that no paper made. AI research tools help with all of that, but they help in different ways, and the tool that searches best does not always synthesize best, and the tool that synthesizes best does not always cite best.
@@ -16,6 +17,9 @@ Research for a student in India is not finding one paper. It is finding the **ri
 The short answer for India is this: search free in *Elicit*, which allows unlimited search, summaries, and chat with papers across 138 million plus papers, and in *Consensus*, which gives unlimited paper searches free with ten Pro messages and three Deep reviews a month. Map citations free in *ResearchRabbit*, which visualizes connections between papers and generates exportable bibliographies. Use *Semantic Scholar* free for broad academic search and alerts, with no paid tier. Use *SciSpace* free carefully, because its Basic plan gives only 100 Agent credits a month with no rollover, and a single task can cost more than a free month. **Always read the full paper before you cite it**, because most of these tools base answers on titles and abstracts only.
 
 This article is written for India on purpose: undergraduate, postgraduate, and PhD students, Indian universities and colleges, Hindi, Hinglish, and English research, a normal phone and laptop, and no assumption that you have an institutional subscription or a paid plan. It also carries a warning that matters for research students more than for any other group in this series: use these tools as an extra technique for research, not to replace a thorough search, and verify any information provided by generative AI tools with credible sources, checking for missing information. A citation to a paper you did not read is a risk, not a shortcut.
+
+
+![A research student working on a laptop surrounded by books in a library](/images/ai-tools-for-research-students-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -71,6 +75,9 @@ Use SciSpace free in a specific way: use stand-alone tools outside the Agent for
 
 [*Scite*](https://scite.ai/) requires a login and payment to use Scite Assistant, or to see full Scite Search results, but its citation context, whether citations are positive, negative, or neutral, is unique, and it is worth knowing about for PhD students who need to know how a paper was actually received, not just how often it was cited. [*Perplexity*](https://www.perplexity.ai/) on its Academic setting is free to try without an account, with some features requiring an account, but it does not provide information on the academic sources used, so it is weaker for citation than Elicit or Consensus. [*Keenious*](https://keenious.com/) can be used without an account, with a free basic plan based on OpenAlex, and it offers recommendations based on the text you are writing, with a Word or Google Docs add-on, which is useful when you are already writing and need related papers. [*Undermind*](https://www.undermind.ai/) requires an account, with a free basic plan based on Semantic Scholar, designed for deep literature discovery rather than quick searches, where you chat with an agent to clarify what you want, and it then spends time searching and generating a report.
 
+
+![A student studying with books and a laptop at a desk between library archive drawers](/images/ai-tools-for-research-students-india/02.jpg)
+
 ## Using research AI in India: access, language, and citation safety
 
 Indian students often face a paywall problem: a paper exists, but its full text is behind a publisher paywall, and your university may or may not subscribe to that publisher. AI research tools do not solve paywalls: they search abstracts and open access papers, but they cannot give you a paywalled full text you do not have access to. Use your university library, your institutional login, and open access repositories like arXiv and DOAJ, and ask your librarian about interlibrary loan or institutional access before you assume a paper is unavailable. A tool that summarizes an abstract is not a substitute for the full paper, and a citation to a paper whose full text you never read is a citation you cannot defend in a viva or a review.
@@ -92,6 +99,9 @@ Citation safety is the most important rule in this article, and it is simple: **
 - **Do not pay for Scite Assistant**, Elicit Pro, or Consensus Deep before you have used the free plans for a month, and do not use Perplexity Academic as your only research tool, because it does not fully disclose its academic sources.
 
 A final trap is writing a literature review from AI summaries alone. Beginners often generate a review from Elicit tables and Consensus meters, feel they have done research, and then fail a viva question about a paper's method, because they never read the method section. AI research tools save search time, but they do not replace reading the papers that matter, understanding their methods, and writing your own [synthesis](/blog/ai-writing-assistants-free-vs-paid-india/), because that synthesis is the research, and AI can only help you find it, not do it for you.
+
+
+![College students carrying books and a laptop in a library archive](/images/ai-tools-for-research-students-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -128,3 +138,9 @@ Before you pay for any research tool, answer these questions in writing.
 If you cannot answer those questions, you are not ready to pay yet, and another month of free research will give you a clearer answer than any review article can.
 
 AI tools for research students in India in 2026 are genuinely useful, but only when you treat them as search assistants with abstract, credit, and citation limits, not as replacements for reading. Use free tools to find papers, to compare methods, and to map citations, and use your own reading for the papers that matter, your own understanding for the synthesis, and your own checking for every citation, because that reading, understanding, and checking is the research. Pay later, for one tool, for one proven reason, with a student discount if you can get one. That is how a student builds a review that survives a viva, without paying for a search.
+
+**Image credits:**
+
+- Image 1: A research student working on a laptop surrounded by books in a library — [Pexels](https://www.pexels.com/photo/student-using-laptop-in-library-8199257/), photo by Yan Krukau, Pexels License.
+- Image 2: A student studying with books and a laptop at a desk between library archive drawers — [Pexels](https://www.pexels.com/photo/light-person-people-books-6549340/), photo by Tima Miroshnichenko, Pexels License.
+- Image 3: College students carrying books and a laptop in a library archive — [Pexels](https://www.pexels.com/photo/college-students-standing-near-library-catalogs-6549361/), photo by Tima Miroshnichenko, Pexels License.
