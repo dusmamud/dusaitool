@@ -202,3 +202,37 @@ Spark SVG), Header brand mark and Footer brand mark (both now
 `public/og.png` regenerated from `shot-tmp/og.html` with the spark mark.
 Verified: home light + dark, header logo `/favicon.svg` present, no overflow,
 build 19 pages.
+
+## v9 — Smooth TOC + full-screen mobile menu (2026-11-03)
+Research: Exa (2 searches, $0.014) — W3C/APG + web.dev + NN/g pattern for
+full-screen menus, and the CSS grid 0fr -> 1fr accordion technique.
+Why it felt bad before: mobile TOC panel toggled display:none (instant
+jump, no animation), hamburger middle bar faded instantly (only
+transform was transitioned, not opacity), and the mobile menu was a
+small dropdown under the header, not a full screen.
+Fix:
+- Mobile TOC (ArticleToc.astro): panel is now a grid with
+  grid-template-rows 0fr -> 1fr (400ms, ease-out token, no guessed
+  max-height, no layout jump), chevron rotates 180deg with the same
+  token, closed panel is visibility:hidden so its links are NOT
+  keyboard-focusable while closed, and it becomes visible instantly
+  on open. Reduced-motion: transition delays are forced to 0ms.
+- Desktop TOC (both slug pages): IntersectionObserver (rootMargin
+  -96px / -70%) highlights the current h2 in the sidebar (blue text
+  + blue left border, border is the second cue, not colour alone).
+- Hamburger menu (Header.astro): dropdown replaced by a full-screen
+  modal dialog (fixed inset-0, z-50, role="dialog", aria-modal):
+  top bar with logo + close X, large 28px / 64px links (Home, Blog,
+  Search) staggered in 60/120/180ms, language + RSS + tagline at the
+  bottom. Open: fade + 12px rise, transform/opacity only. Focus is
+  trapped inside (Tab cycles), Escape closes, body scroll locks
+  (previous overflow saved and restored), focus returns to the
+  hamburger button on close, hamburger bars morph to X with
+  transform + opacity transitions.
+- Bug found in testing: the modal first rendered sideways because
+  flex-col was missing (flex row by default) — fixed, then re-tested.
+Verified: mobile TOC closed visibility:hidden height 1px, open height
+194px chevron rotated, no overflow at 390px; menu open display:flex
+opacity 1 body overflow hidden focus on close button, Escape closes
+(display:none, overflow restored, focus back on hamburger); desktop
+TOC "What was tested" active after scrolling to it. Build 100 pages.

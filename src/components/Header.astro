@@ -28,10 +28,6 @@ const desktopLink = (href: string) =>
       ? 'text-brand underline decoration-2 underline-offset-8 dark:text-brand-dark'
       : 'text-stone-700 hover:text-brand dark:text-[#d0d6e0] dark:hover:text-brand-dark'
   }`;
-const mobileLink = (href: string) =>
-  `flex min-h-[52px] items-center border-b border-stone-200 px-1 text-[20px] dark:border-[#23252a] ${
-    isCurrent(href) ? 'text-brand dark:text-brand-dark' : 'text-stone-800 dark:text-[#f7f8f8]'
-  }`;
 const menuLabel = locale === 'hi' ? 'मेनू' : 'Menu';
 const closeLabel = locale === 'hi' ? 'बंद करें' : 'Close';
 const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 transition-colors duration-150 hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark';
@@ -55,8 +51,13 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
      4. Search is a CTA, not a third nav link: desktop main bar has
         a blue Search pill on the right; mobile menu still lists
         Search, so no path is lost.
-     5. Hidden mobile nav uses display:none (web.dev): links are not
-        focusable while hidden. Menu is click-activated, never hover.
+     5. Mobile menu is a full-screen modal (v9, not a dropdown):
+        hidden with display:none until opened (so its links are
+        never keyboard-focusable while closed), then faded + risen
+        in with transform/opacity only, links staggered in. Focus
+        is trapped inside, Escape closes, body scroll locks, focus
+        returns to the hamburger button. Menu is click-activated,
+        never hover.
      Every target >= 44px (NN: 1cm x 1cm minimum on touch). -->
 <div class="border-b border-stone-200 bg-paper dark:border-[#23252a] dark:bg-paper-dark">
   <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-1 sm:px-6">
@@ -127,13 +128,48 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
       </div>
     </div>
 
-    <nav id="mobile-nav" aria-label={locale === 'hi' ? 'मोबाइल नेविगेशन' : 'Mobile navigation'} class="hidden pb-4 sm:hidden">
-      <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class={mobileLink(home)}>{t(locale, 'home')}</a>
-      <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class={mobileLink(blog)}>{t(locale, 'blog')}</a>
-      <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class={mobileLink(search)}>{t(locale, 'search')}</a>
-    </nav>
   </div>
 </header>
+
+<!-- Full-screen mobile menu (v9): a real modal dialog, not a dropdown.
+     Hidden with display:none until opened (so its links are never
+     keyboard-focusable while closed), then faded + risen in with
+     transform/opacity only, links staggered. Focus is trapped inside
+     while open, Escape closes, body scroll is locked, focus returns
+     to the hamburger button on close. -->
+<div
+  id="mobile-nav"
+  role="dialog"
+  aria-modal="true"
+  aria-label={locale === 'hi' ? 'मोबाइल नेविगेशन' : 'Mobile navigation'}
+  data-open="false"
+  class="mobile-menu fixed inset-0 z-50 hidden flex-col bg-paper dark:bg-surface-dark sm:hidden"
+>
+  <div class="mx-auto flex min-h-[56px] w-full max-w-6xl items-center justify-between gap-3 px-4">
+    <span class="flex items-center gap-2.5">
+      <img src="/favicon.svg" alt="" aria-hidden="true" class="size-9 shrink-0" />
+      <span class="font-display text-[22px] leading-none tracking-tight text-[#1a1a1a] dark:text-[#f7f8f8]">Dus AI Tool</span>
+    </span>
+    <button
+      type="button"
+      id="menu-close"
+      aria-label={closeLabel}
+      class="flex min-h-[44px] min-w-[44px] items-center justify-center rounded-full border border-stone-300 dark:border-[#34343a]"
+    >
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M4 4l12 12M16 4L4 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg>
+    </button>
+  </div>
+  <nav aria-label={locale === 'hi' ? 'मुख्य नेविगेशन' : 'Primary navigation'} class="mx-auto w-full max-w-6xl flex-1 px-4 pt-6">
+    <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-[#23252a]">{t(locale, 'home')}</a>
+    <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-[#23252a]">{t(locale, 'blog')}</a>
+    <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-[#23252a]">{t(locale, 'search')}</a>
+  </nav>
+  <div class="mx-auto flex w-full max-w-6xl flex-wrap items-center gap-6 px-4 pb-8">
+    <a href={otherPath} lang={other === 'hi' ? 'hi' : 'en-IN'} class="flex min-h-[44px] items-center text-[16px] text-stone-600 dark:text-[#8a8f98]">{t(locale, 'language')}: {otherLabel}</a>
+    <a href={rss} class="flex min-h-[44px] items-center text-[16px] text-stone-600 dark:text-[#8a8f98]">RSS</a>
+    <p class="w-full text-[15px] italic text-stone-500 dark:text-[#8a8f98]">{locale === 'hi' ? 'भारत में टेस्ट किए गए AI टूल' : 'AI tools, tested in India'}</p>
+  </div>
+</div>
 
 <script>
   const header = document.getElementById('site-header');
@@ -166,10 +202,16 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
 
   const menuBtn = document.getElementById('menu-toggle');
   const mobileNav = document.getElementById('mobile-nav');
+  const menuCloseBtn = document.getElementById('menu-close');
   const menuLabelEl = menuBtn?.querySelector('.menu-label');
   const bars = menuBtn?.querySelectorAll('.menu-bar');
-  menuBtn?.addEventListener('click', () => {
-    const open = mobileNav?.classList.toggle('hidden') === false;
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let previousOverflow = '';
+  let menuCloseTimer = null;
+  const focusableInMenu = () => Array.from(mobileNav?.querySelectorAll('a[href], button:not([disabled])') ?? []).filter((el) => el.offsetParent !== null || el === document.activeElement);
+  const setMenuOpen = (open) => {
+    if (!mobileNav || !menuBtn) return;
+    if (menuCloseTimer) { clearTimeout(menuCloseTimer); menuCloseTimer = null; }
     menuBtn.setAttribute('aria-expanded', String(open));
     menuBtn.setAttribute('aria-label', open ? menuBtn.dataset.closeLabel ?? 'Close' : menuBtn.dataset.menuLabel ?? 'Menu');
     if (menuLabelEl) menuLabelEl.textContent = open ? menuBtn.dataset.closeLabel ?? 'Close' : menuBtn.dataset.menuLabel ?? 'Menu';
@@ -177,6 +219,55 @@ const utilityClass = 'flex min-h-[36px] items-center text-[15px] text-stone-600 
       bars[0].style.transform = open ? 'translateY(8px) rotate(45deg)' : '';
       bars[1].style.opacity = open ? '0' : '1';
       bars[2].style.transform = open ? 'translateY(-8px) rotate(-45deg)' : '';
+    }
+    if (open) {
+      previousOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      mobileNav.classList.remove('hidden');
+      mobileNav.classList.add('flex');
+      requestAnimationFrame(() => {
+        mobileNav.setAttribute('data-open', 'true');
+        const first = focusableInMenu()[0];
+        first?.focus();
+      });
+    } else {
+      mobileNav.setAttribute('data-open', 'false');
+      const finishClose = () => {
+        mobileNav.classList.add('hidden');
+        mobileNav.classList.remove('flex');
+        document.body.style.overflow = previousOverflow;
+        menuBtn.focus();
+      };
+      if (reducedMotion) {
+        finishClose();
+      } else {
+        menuCloseTimer = setTimeout(finishClose, 300);
+      }
+    }
+  };
+  menuBtn?.addEventListener('click', () => {
+    setMenuOpen(mobileNav?.getAttribute('data-open') !== 'true');
+  });
+  menuCloseBtn?.addEventListener('click', () => setMenuOpen(false));
+  mobileNav?.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', () => setMenuOpen(false));
+  });
+  mobileNav?.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+      setMenuOpen(false);
+      return;
+    }
+    if (event.key !== 'Tab') return;
+    const focusable = focusableInMenu();
+    if (focusable.length === 0) return;
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
     }
   });
 </script>

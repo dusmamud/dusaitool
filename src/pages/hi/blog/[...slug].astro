@@ -103,4 +103,25 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
       </div>
     </section>
   )}
+
+<script>
+  /* Desktop TOC active section: IntersectionObserver, not scroll
+     offsets. Root margin accounts for the 56px sticky header. */
+  const tocHeadings = Array.from(document.querySelectorAll('article h2[id]'));
+  const tocLinks = Array.from(document.querySelectorAll('aside nav a'));
+  if ('IntersectionObserver' in window && tocHeadings.length > 0 && tocLinks.length > 0) {
+    const byId = new Map(tocHeadings.map((h) => [h.id, tocLinks.find((a) => a.getAttribute('href') === `#${h.id}`)]));
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          tocLinks.forEach((l) => l.removeAttribute('data-active'));
+          byId.get(entry.target.id)?.setAttribute('data-active', 'true');
+        });
+      },
+      { rootMargin: '-96px 0px -70% 0px' },
+    );
+    tocHeadings.forEach((h) => observer.observe(h));
+  }
+</script>
 </BaseLayout>
