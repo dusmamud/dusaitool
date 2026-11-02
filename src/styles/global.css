@@ -366,3 +366,17 @@ aside nav a[data-active="true"] {
     transform var(--dur-base) var(--ease-out),
     opacity var(--dur-base) var(--ease-out);
 }
+
+/* Web Interface Guidelines (Vercel, Skill 2): touch + modal scroll.
+   manipulation removes the double-tap zoom delay on links/buttons;
+   tap highlight is a subtle brand tint, not the default grey flash;
+   the full-screen menu contains its own scroll, so it never chains
+   to the page behind it. Page-level overscroll is intentionally
+   NOT suppressed, so pull-to-refresh on coarse pointers keeps working. */
+a, button {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(44, 95, 138, 0.18);
+}
+.mobile-menu {
+  overscroll-behavior: contain;
+}

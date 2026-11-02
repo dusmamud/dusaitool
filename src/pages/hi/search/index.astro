@@ -20,6 +20,7 @@ const popular = tags.slice(0, 5).map((x) => x.tag);
     <label for="search-input" class="sr-only">{t(locale, 'search')}</label>
     <input
       id="search-input"
+      name="q"
       type="search"
       placeholder={t(locale, 'searchPlaceholder')}
       autocomplete="off"

@@ -258,3 +258,23 @@ accent in headlines, no numbered eyebrows, no gradient washes,
 no purple-blue glow, no '→' on links, no monospace data labels.
 Numbered list in "How to choose" kept: it is a real sequence.
 Verified: home + article body text contains no '·', build 124 pages.
+
+## v11 — Skill 2: web-design-guidelines (Vercel), fresh rules checked (2026-11-03)
+Fetched https://raw.githubusercontent.com/vercel-labs/web-interface-guidelines/main/command.md
+and audited the site against it, file:line style. Passes already in
+place (not re-fixed): focus-visible 3px outline, skip link,
+scroll-margin on heading anchors, semantic buttons/links, search
+label + aria-live="polite" results, theme-color + color-scheme,
+text-wrap balance/pretty, tabular-nums, no transition:all, no
+outline-none, viewport without user-scalable=no, placeholders
+ending with '…', autocomplete="off" on the search field.
+Fixes in this commit:
+- <img> without width/height (CLS rule): header favicon 36x36 (2
+  places: main header + modal top bar), footer favicon 40x40.
+- Search input without a meaningful name: added name="q" (en + hi).
+- Touch rules missing: a/button get touch-action: manipulation and
+  an intentional brand-tint tap highlight; the full-screen menu
+  gets overscroll-behavior: contain. Page overscroll is NOT
+  suppressed, so pull-to-refresh still works on phones.
+Verified: build passes, search page renders unchanged (these fixes
+are invisible by design, except for the tap feedback on mobile).
