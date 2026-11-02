@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Check steps in Photomath free and practise in Khan Academy free. Never copy a solver answer into homework you must understand."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-maths-homework-india-en.png'
 ---
 
 Maths homework in India is not one problem. A Class 10 board question, a Class 12 calculus problem, a JEE practice question, and a college engineering integral all need different help, and a tool that gives an answer fast does not always teach the method. AI maths tools help in two ways: they solve a problem **step by step**, and they generate **practice**. The tool that solves best does not always teach best, and the tool that teaches best does not always solve fastest.
@@ -16,6 +17,8 @@ Maths homework in India is not one problem. A Class 10 board question, a Class 1
 The short answer for India is this: check steps in [*Photomath*](https://photomath.com/) free, because its Basic plan at zero cost includes step-by-step explanations, and practise in [*Khan Academy*](https://www.khanacademy.org/) free, because practice, not answers, is what builds exam skill. Use [*Mathway*](https://www.mathway.com/) free on the web for fast steps without signing up, knowing its subscription unlocks the full work for every step. Use [*Symbolab*](https://www.symbolab.com/) free for answers and its AI chat, knowing full access to solution steps is a Pro feature. **Never copy** a solver answer into homework you must understand, because an exam will ask the same method with different numbers, and a copied answer teaches you nothing.
 
 This article is written for India on purpose: school students, board exam students, JEE and NEET aspirants, and college students, CBSE, NCERT, state board, and competitive exam syllabi, Hindi, Hinglish, and English explanations, a normal phone and laptop, and no assumption that you have a paid plan or a US account. It also carries a warning that matters for maths students more than for any other group in this series: a solver answer is not learning, and a school or exam that catches copied homework will treat it as cheating, even if the answer is correct.
+
+![A maths class in India, with a teacher at a blackboard covered in geometry diagrams and students working in notebooks](/images/ai-tools-for-maths-homework-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -59,6 +62,8 @@ For Indian students, Photomath's camera input matters, because board and JEE pro
 
 The practical difference comes down to the **free tier**. Photomath's own pricing page lists step-by-step explanations in the zero-dollar plan. Mathway now says on its homepage that you can get step-by-step solutions without signing up, and that an optional subscription unlocks the full work shown for every step. Symbolab gives answers free and lists full access to solution steps as a Pro feature. If you will pay, Mathway's annual Steps row at 39.99 dollars and Symbolab's yearly row at 34.99 dollars are the cheapest annual options of the three on the US App Store, while Photomath's own site lists 69.99 dollars a year. For Indian students, the cheapest annual option is not the point: free steps from Photomath, plus free practice from Khan Academy, cover most school and JEE preparation without paying at all.
 
+![A blackboard covered in advanced mathematical formulas, including integrals and derivatives](/images/ai-tools-for-maths-homework-india/02.jpg)
+
 ## Khan Academy, WolframAlpha, and the rest
 
 [*Khan Academy*](https://www.khanacademy.org/) free is the practice tool, not a solver: it gives practice exercises and videos for school maths, from basic arithmetic to calculus, with hints and step-by-step practice, but it does not solve your homework problem for you. That is its strength, because practice with hints teaches the method, while a solver answer does not. Khanmigo, Khan Academy's tutor, costs 4 dollars a month or 44 dollars a year, for US learners and parents, with free access for teachers only, so Indian students should not plan around Khanmigo, and should use Khan Academy free practice instead. For board exams, Khan Academy's NCERT-aligned practice is useful, but it does not replace your textbook, your teacher, or your board's question pattern, so practise with Khan Academy, then solve board sample papers yourself.
@@ -93,6 +98,8 @@ A final trap is solving many problems and learning none. Beginners often scan fi
 - [AI tools for learning English in India that make you speak, not just study](/blog/ai-tools-for-learning-english-india/)
 - [AI tools for research students in India that find papers and build reviews](/blog/ai-tools-for-research-students-india/)
 
+![A young child counting on his fingers in front of a whiteboard showing 4 + 5 =](/images/ai-tools-for-maths-homework-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free maths app is best in India?** Photomath free, because its Basic plan at zero cost includes step-by-step explanations, with camera input for printed and handwritten problems, and a rating of 4.8 from 733,000 ratings. Pair it with Khan Academy free for practice, because Photomath solves and Khan Academy teaches, and neither does both well alone.
@@ -123,3 +130,8 @@ Before you pay for any maths tool, answer these questions in writing:
 If you cannot answer those questions, you are not ready to pay yet, and another month of free practice will give you a clearer answer than any review article can.
 
 AI tools for maths homework in India in 2026 are genuinely useful, but only when you treat them as checkers and practice aids with step and method limits, not as answer machines. Use free tools to check your work, to understand a stuck step, and to practise, and use your own solving for the problems that count, because that solving is the skill, and a solver can only help you build it, not build it for you. Pay later, for one tool, for one proven reason, after free steps plus free practice prove the limit. That is how a student learns maths without paying for an answer.
+
+**Image credits:**
+- A maths class in India, with a teacher at a blackboard covered in geometry diagrams and students working in notebooks — [A Class in Progress, Bengaluru, Karnataka, by Gautampr](https://free-images.com/display/a_class_in_progress.html) (via Wikimedia Commons) — public domain / CC0
+- A blackboard covered in advanced mathematical formulas, including integrals and derivatives — [Pure-mathematics-formulæ-blackboard, by Wallpoper, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pure-mathematics-formul%C3%A6-blackboard.jpg) — public domain
+- A young child counting on his fingers in front of a whiteboard showing 4 + 5 = — [Konkretismus (child calculating with fingers), by Dr. Klaus Retzlaff](https://en.wikibooks.org/wiki/File:Konkretismus_(DSC04014).jpg) (via Wikimedia Commons) — CC BY-SA 3.0
