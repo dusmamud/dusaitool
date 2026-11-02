@@ -41,6 +41,10 @@ const ui = {
     themeDark: 'Switch to dark theme',
     language: 'Language',
     footerNote: 'Every tool on this site is tested by hand before it is recommended. Prices change — check the official page before you pay.',
+    legal: 'Legal',
+    privacyPolicy: 'Privacy Policy',
+    termsConditions: 'Terms and Conditions',
+    disclaimer: 'Disclaimer',
   },
   hi: {
     home: 'होम',
@@ -76,6 +80,10 @@ const ui = {
     themeDark: 'डार्क थीम पर जाएं',
     language: 'भाषा',
     footerNote: 'इस साइट पर हर टूल को सिफारिश से पहले हाथ से टेस्ट किया जाता है। कीमतें बदलती रहती हैं — भुगतान से पहले आधिकारिक पेज देखें।',
+    legal: 'कानूनी',
+    privacyPolicy: 'गोपनीयता नीति',
+    termsConditions: 'नियम और शर्तें',
+    disclaimer: 'अस्वीकरण',
   },
 } satisfies Record<Locale, Record<string, string>>;
 

@@ -11,21 +11,25 @@ const home = locale === 'hi' ? '/hi/' : '/';
 const blog = locale === 'hi' ? '/hi/blog/' : '/blog/';
 const search = locale === 'hi' ? '/hi/search/' : '/search/';
 const rss = locale === 'hi' ? '/hi/rss.xml' : '/rss.xml';
+const privacy = locale === 'hi' ? '/hi/privacy-policy/' : '/privacy-policy/';
+const terms = locale === 'hi' ? '/hi/terms-and-conditions/' : '/terms-and-conditions/';
+const disclaimer = locale === 'hi' ? '/hi/disclaimer/' : '/disclaimer/';
 const tags = (await tagCounts(locale)).slice(0, 6);
 const backToTop = locale === 'hi' ? 'ऊपर जाएं' : 'Back to top';
 const topicsLabel = locale === 'hi' ? 'विषय' : 'Topics';
 const exploreLabel = locale === 'hi' ? 'देखें' : 'Explore';
 const followLabel = locale === 'hi' ? 'फॉलो करें' : 'Follow';
+const legalLabel = locale === 'hi' ? 'कानूनी' : 'Legal';
 const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-700 transition-colors duration-150 hover:text-brand dark:text-text-dark-2 dark:hover:text-brand-dark';
 ---
 <!-- Footer, rebuilt as a real closing section, not a single line:
      responsive grid (1 col mobile, 2 col tablet, 4 col desktop),
      brand + promise, explore, top topics (computed at build),
-     follow + back to top. Links animate with the same underline
-     as the header. -->
+     follow + back to top, legal (privacy, terms, disclaimer).
+     Links animate with the same underline as the header. -->
 <footer class="mt-20 border-t border-stone-200 bg-white px-4 py-12 dark:border-border-dark dark:bg-surface-dark">
   <div class="mx-auto max-w-6xl sm:px-6">
-    <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
+    <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1fr_1fr]">
       <div>
         <a href={home} class="flex min-h-[44px] items-center gap-2.5">
           <img src="/favicon.svg" alt="" aria-hidden="true" width="40" height="40" class="size-10 shrink-0" />
@@ -61,6 +65,15 @@ const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-7
           <li><a href={rss} class={linkClass}><span class="link-underline">RSS</span></a></li>
           <li><a href="/sitemap-index.xml" class={linkClass}><span class="link-underline">Sitemap</span></a></li>
           <li><a href="#top" class={linkClass}><svg aria-hidden="true" width="16" height="16" viewBox="0 0 20 20" fill="none" class="shrink-0"><path d="M5 12.5L10 7.5L15 12.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="link-underline">{backToTop}</span></a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label={legalLabel}>
+        <h2 class="font-display text-[22px] text-ink dark:text-text-dark">{legalLabel}</h2>
+        <ul class="mt-3 flex flex-col gap-2">
+          <li><a href={privacy} class={linkClass}><span class="link-underline">{t(locale, 'privacyPolicy')}</span></a></li>
+          <li><a href={terms} class={linkClass}><span class="link-underline">{t(locale, 'termsConditions')}</span></a></li>
+          <li><a href={disclaimer} class={linkClass}><span class="link-underline">{t(locale, 'disclaimer')}</span></a></li>
         </ul>
       </nav>
     </div>

@@ -515,3 +515,14 @@ updated date (with a promise to label them if that ever changes),
 third-party tools not controlled by this site, no professional
 advice, liability in plain language. Same 70ch prose layout.
 No contact email invented, same contact wording as v22/v23.
+
+## v25 — Legal 4: Footer Legal column (2026-11-03)
+Footer now has a fifth column, Legal, after Follow, with links
+to /privacy-policy/, /terms-and-conditions/ and /disclaimer/
+(and /hi/ versions for Hindi). New i18n keys: legal,
+privacyPolicy, termsConditions, disclaimer (en + hi). Desktop
+grid changed from 1.4fr + 3x1fr to 1.3fr + 4x1fr so the brand
+column stays widest and the five columns still fit max-w-6xl.
+This push is deliberately last: the three legal pages were
+pushed first, so no deployed version ever had a footer link
+pointing to a page that did not exist yet.
