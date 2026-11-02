@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const locale = 'en-IN' as const;
+const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
+---
+<BaseLayout
+  title="Terms and Conditions — Dus AI Tool"
+  description="Terms and conditions for using Dus AI Tool: what this tested AI tools blog is for, how its content may be used, and what it does not promise."
+  locale={locale}
+  canonical={`${site}terms-and-conditions/`}
+  currentPath="/terms-and-conditions/"
+  translationExists={true}
+>
+  <div class="max-w-[70ch]">
+    <h1 class="font-display text-4xl">Terms and Conditions</h1>
+    <p class="mt-3 text-sm text-stone-500 dark:text-text-dark-3">Last updated: 3 November 2026</p>
+    <article class="prose prose-stone mt-6 min-w-0 max-w-none dark:prose-invert prose-headings:font-display prose-a:text-brand dark:prose-a:text-brand-dark">
+      <p>These terms apply to your use of Dus AI Tool at dusaitool.pages.dev. By using this site, you agree to these terms. If you do not agree, please do not use the site.</p>
+
+      <h2>What this site is</h2>
+      <p>Dus AI Tool is a blog that tests AI tools in India and writes guides about them: what each tool does, what its free limit is, what it costs in India, and who it suits. The content is general information, written to help you choose a tool. It is not a service, an account, or a marketplace, and it does not sell tools.</p>
+
+      <h2>Not professional advice</h2>
+      <p>Nothing on this site is professional advice for your specific situation — legal, medical, financial, academic, or career advice. Articles about study, work, or business tools are general guidance only. For a decision that matters to you, check with a qualified person and with the tool's own official documentation before you act.</p>
+
+      <h2>Accuracy and changes</h2>
+      <p>Tools change quickly. Prices, free limits, and features described in an article were correct at the time that article was tested, and they may have changed since. Before you pay for any tool, check its official pricing page. If you find that an article is out of date, treat the official page as the correct source.</p>
+
+      <h2>Intellectual property</h2>
+      <p>The articles, text, and design on this site belong to Dus AI Tool, unless a part is clearly marked as belonging to someone else. You may read, share a link to, and quote a short part of an article with credit to Dus AI Tool. You may not republish a full article, or a large part of one, on another website or in another product without permission.</p>
+
+      <h2>Third-party tools and websites</h2>
+      <p>Articles name third-party tools and describe how they worked in testing. Those tools are made and run by other companies. Their own terms, privacy policies, and pricing apply when you use them, and this site does not control them. A mention of a tool on this site is not a guarantee that the tool will work the same way for you, or that it will stay free or available.</p>
+
+      <h2>Acceptable use</h2>
+      <p>Use this site lawfully. Do not try to disrupt the site, overload it, or access parts of it that are not meant to be public. Do not copy the site's content in bulk to republish it elsewhere.</p>
+
+      <h2>Availability and liability</h2>
+      <p>This site is provided as it is, without a warranty that it will always be available or free of errors. To the extent allowed by law, Dus AI Tool is not liable for losses that come from relying on an article, from a third-party tool changing or stopping, or from a decision you make after reading this site. The full disclaimer on the Disclaimer page is part of these terms.</p>
+
+      <h2>Changes to these terms</h2>
+      <p>These terms may change if the site changes. Any change will be shown on this page with a new last updated date. Continuing to use the site after a change means you accept the updated terms.</p>
+
+      <h2>Governing law</h2>
+      <p>These terms are governed by the laws of India, since this site is written for readers in India. Any dispute about these terms will be handled under those laws.</p>
+
+      <h2>Contact</h2>
+      <p>For a general question about these terms, you can reach the site owner through Dus AI Tool at dusaitool.pages.dev.</p>
+    </article>
+  </div>
+</BaseLayout>

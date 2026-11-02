@@ -491,3 +491,14 @@ tools named in articles have their own policies. No contact email
 is invented: the contact section gives only the site name and
 domain, because no public contact email exists on the site yet.
 Layout matches article reading width (70ch) with prose styling.
+
+## v23 — Legal 2: Terms and Conditions (en + hi, 2026-11-03)
+New routes /terms-and-conditions/ and /hi/terms-and-conditions/,
+translationExists so the language switch keeps the same page.
+Content is specific to this site: tested AI tool guides as general
+information, not professional advice, accuracy tied to the test
+date with official pricing as the correct source, content owned
+by Dus AI Tool with short quoted use allowed, third-party tools
+governed by their own terms, acceptable use, as-is availability,
+and governing law India. Same 70ch prose layout as the privacy
+page. No contact email invented, same contact wording as v22.
