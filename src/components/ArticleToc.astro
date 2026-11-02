@@ -1,0 +1,69 @@
+---
+/* Mobile / tablet TOC only (lg:hidden). Desktop keeps its own sticky
+   sidebar in [...slug].astro, so the two never duplicate on one screen.
+   Professional pattern, not <details>: a real button, aria-expanded,
+   aria-controls, chevron that rotates, list hidden with display:none
+   (web.dev: hidden links must not be keyboard-focusable), list closes
+   on link click and on Escape. The panel is in normal flow, never an
+   overlay, so it can never cover article text. */
+interface TocItem {
+  slug: string;
+  text: string;
+}
+interface Props {
+  toc: TocItem[];
+  label: string;
+}
+const { toc, label } = Astro.props;
+---
+<div class="not-prose my-6 lg:hidden">
+  <div class="rounded-2xl border border-stone-200 bg-white dark:border-[#23252a] dark:bg-surface-dark">
+    <button
+      type="button"
+      id="toc-toggle"
+      aria-expanded="false"
+      aria-controls="mobile-toc"
+      class="flex min-h-[52px] w-full items-center justify-between gap-3 px-4 text-left"
+    >
+      <span class="flex min-w-0 items-center gap-2">
+        <span class="truncate text-[17px] text-[#1a1a1a] dark:text-[#f7f8f8]">{label}</span>
+        <span class="shrink-0 rounded-full bg-brand-soft px-2 py-0.5 text-[13px] text-brand dark:bg-brand-dark-soft dark:text-brand-dark">{toc.length}</span>
+      </span>
+      <svg aria-hidden="true" class="toc-chevron shrink-0 transition-transform duration-200" width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+    </button>
+    <nav id="mobile-toc" aria-label={label} class="hidden border-t border-stone-200 dark:border-[#23252a]">
+      <ul class="py-2">
+        {toc.map((h) => (
+          <li>
+            <a href={`#${h.slug}`} class="flex min-h-[44px] items-center px-4 text-[16px] text-stone-700 transition-colors duration-150 hover:text-brand dark:text-[#d0d6e0] dark:hover:text-brand-dark">{h.text}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<script>
+  const btn = document.getElementById('toc-toggle');
+  const panel = document.getElementById('mobile-toc');
+  const chevron = btn?.querySelector('.toc-chevron');
+  const setOpen = (open) => {
+    panel?.classList.toggle('hidden', !open);
+    btn?.setAttribute('aria-expanded', String(open));
+    if (chevron) chevron.style.transform = open ? 'rotate(180deg)' : '';
+  };
+  btn?.addEventListener('click', () => {
+    setOpen(panel?.classList.contains('hidden') ?? false);
+  });
+  panel?.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', () => setOpen(false));
+  });
+  panel?.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+      setOpen(false);
+      btn?.focus();
+    }
+  });
+</script>

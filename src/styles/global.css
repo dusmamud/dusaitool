@@ -153,6 +153,21 @@ p {
   text-wrap: pretty;
 }
 
+/* Article layout, mobile first: a wide table must scroll inside the
+   article, never push the page wider than the viewport. Long headings
+   must break, not overflow. */
+article {
+  min-width: 0;
+}
+article h1 {
+  overflow-wrap: break-word;
+}
+.prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 /* Article reading: 60-70ch is the editorial measure, not the page
    width. The article grid in [...slug].astro holds this measure. */
 article {

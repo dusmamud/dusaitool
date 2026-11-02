@@ -25,6 +25,23 @@ Motion is balanced on home/list (CSS scroll reveal, View Transitions,
 one hover microinteraction) and calm on articles (state transitions
 only, plus a CSS scroll-driven reading progress bar, no JS).
 
+## Article v6: responsive article + mobile TOC (2026-11-02)
+
+Bug found by screenshots: on mobile the 520px table forced the grid
+column wider than the viewport, cutting h1 and paragraphs at the
+right edge, and mobile had no TOC at all (sidebar was lg only).
+Fix: grid is now grid-cols-1 + min-w-0 on grid, article and sidebar;
+prose tables scroll inside the article (display:block, max-width:100%,
+overflow-x:auto); h1 breaks long words; breadcrumb current page is
+min-w-0 max-w-full truncate. New src/components/ArticleToc.astro:
+mobile/tablet only (lg:hidden), in-flow panel after title/meta, never
+an overlay; button 52px, aria-expanded/aria-controls, count badge,
+chevron rotates, list display:none when closed, closes on link click
+and Escape. Desktop sidebar stays, sticky top-20 (was top-32, 72px dead
+gap). Verified: 320/360/390/768/1440, scrollWidth == innerWidth at
+every width, h1 right edge inside viewport, TOC open/close via CDP
+(aria-expanded true, panel visible).
+
 ## Tokens — v5: SaaS dark grading (Linear, Exa 2026-11-02, supersedes v4 dark only)
 
 Light stays editorial blue #2c5f8a / paper #fbf8f3. Dark is now Linear
