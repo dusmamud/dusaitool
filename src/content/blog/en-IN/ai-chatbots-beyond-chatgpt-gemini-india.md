@@ -115,17 +115,17 @@ A final trap is chatbot hopping. Beginners often ask the same question to five c
 
 ## Frequently asked questions
 
-Can I use these chatbots in India without a VPN? Yes, for the major tools in this article. ChatGPT, Gemini, Claude, Perplexity, DeepSeek, Copilot, Meta AI, and Grok all work in India through a normal browser or app with a standard account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
+**Can I use these chatbots in India without a VPN?** Yes, for the major tools in this article. ChatGPT, Gemini, Claude, Perplexity, DeepSeek, Copilot, Meta AI, and Grok all work in India through a normal browser or app with a standard account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
 
-Which free chatbot is best for everyday use in India? ChatGPT free for everyday text chats, because it states unlimited everyday text chats, and Gemini free for Google work, because it lives inside any Google account and its cheapest paid step is only 4.99 dollars a month. Use both free, and use each for what it does best.
+**Which free chatbot is best for everyday use in India?** ChatGPT free for everyday text chats, because it states unlimited everyday text chats, and Gemini free for Google work, because it lives inside any Google account and its cheapest paid step is only 4.99 dollars a month. Use both free, and use each for what it does best.
 
-Which free chatbot is best for long documents and code? Claude free, because it gives Sonnet and Haiku, web search, file creation, Artifacts, and up to five Projects on free, with a context window up to one million tokens varying by model. Its session limit resets every five hours, so break long work into sections and check each one before you continue.
+**Which free chatbot is best for long documents and code?** Claude free, because it gives Sonnet and Haiku, web search, file creation, Artifacts, and up to five Projects on free, with a context window up to one million tokens varying by model. Its session limit resets every five hours, so break long work into sections and check each one before you continue.
 
-Which free chatbot is best for sourced answers? Perplexity free, because it answers with cited sources, but only for a few advanced searches a day. Save Pro Searches for claims that matter, and open every citation to check that it actually supports the claim, its date, and its source.
+**Which free chatbot is best for sourced answers?** Perplexity free, because it answers with cited sources, but only for a few advanced searches a day. Save Pro Searches for claims that matter, and open every citation to check that it actually supports the claim, its date, and its source.
 
-Is DeepSeek really free? Yes, for chat in the web and apps, with no published message cap and no chat subscription in the checks. The API is priced per token for builders. The warning is privacy: chats are stored on DeepSeek servers, so do not type sensitive personal or private documents into it.
+**Is DeepSeek really free?** Yes, for chat in the web and apps, with no published message cap and no chat subscription in the checks. The API is priced per token for builders. The warning is privacy: chats are stored on DeepSeek servers, so do not type sensitive personal or private documents into it.
 
-Should a student pay for a chatbot? Not to start, and not for everyday chat alone. Free tiers cover everyday chat, long documents in sections, and a few sourced searches a day. Pay only when a specific paid feature, like unlimited usage, a longer context window, or a top model, actually blocks your work repeatedly, and then pay for one chatbot, not five.
+**Should a student pay for a chatbot?** Not to start, and not for everyday chat alone. Free tiers cover everyday chat, long documents in sections, and a few sourced searches a day. Pay only when a specific paid feature, like unlimited usage, a longer context window, or a top model, actually blocks your work repeatedly, and then pay for one chatbot, not five.
 
 ## The final verdict, and a checklist before you pay
 
