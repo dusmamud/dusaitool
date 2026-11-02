@@ -83,15 +83,15 @@ A final trap is buying tools before you have ten episodes. Beginners often pay f
 
 ## Frequently asked questions
 
-Which free podcast tool is best in India? A stack, not a single app: record free in Spotify for Creators, clean free in Adobe Podcast, and edit free in Audacity or Descript free. Audacity free has no caps and no watermark, Descript free gives transcript editing for 60 minutes a month, and Adobe Podcast free cleans files up to 30 minutes and 500 MB, one hour a day.
+**Which free podcast tool is best in India?** A stack, not a single app: record free in Spotify for Creators, clean free in Adobe Podcast, and edit free in Audacity or Descript free. Audacity free has no caps and no watermark, Descript free gives transcript editing for 60 minutes a month, and Adobe Podcast free cleans files up to 30 minutes and 500 MB, one hour a day.
 
-Is Descript free enough to run a show? No, for a regular show, because free gives only 60 media minutes a month with 100 one-time AI credits and watermarked video, and Hobbyist at 16 dollars a month billed yearly gives 10 media hours and 400 AI credits a month, with no top-ups when either runs out. Descript free is enough to learn transcript editing before you pay.
+**Is Descript free enough to run a show?** No, for a regular show, because free gives only 60 media minutes a month with 100 one-time AI credits and watermarked video, and Hobbyist at 16 dollars a month billed yearly gives 10 media hours and 400 AI credits a month, with no top-ups when either runs out. Descript free is enough to learn transcript editing before you pay.
 
-Can I record remote guests free? With limits: Riverside has no free plan, only a 14-day trial, with a reported free plan of two hours one-off at 720p with a watermark, while Adobe Podcast free Studio recording is unlimited, capturing each person as a separate WAV track, but free projects top out at 30 minutes. For guests, record locally on each person's phone as a backup, because no editor can fix a bad call.
+**Can I record remote guests free?** With limits: Riverside has no free plan, only a 14-day trial, with a reported free plan of two hours one-off at 720p with a watermark, while Adobe Podcast free Studio recording is unlimited, capturing each person as a separate WAV track, but free projects top out at 30 minutes. For guests, record locally on each person's phone as a backup, because no editor can fix a bad call.
 
-Does Adobe Podcast free clean long episodes? No, not over 30 minutes: Enhance Speech takes free files up to 30 minutes and 500 MB, with only an hour a day, and free Studio projects top out at 30 minutes with two downloads a day. A 45-minute interview does not fit, so split it or pay for Premium with Adobe Firefly Pro at 19.99 dollars a month.
+**Does Adobe Podcast free clean long episodes?** No, not over 30 minutes: Enhance Speech takes free files up to 30 minutes and 500 MB, with only an hour a day, and free Studio projects top out at 30 minutes with two downloads a day. A 45-minute interview does not fit, so split it or pay for Premium with Adobe Firefly Pro at 19.99 dollars a month.
 
-Should I pay for Riverside or Descript? Not to start. Record ten episodes free first, with Audacity, Adobe Podcast cleanup, and Spotify for Creators hosting. Pay for Riverside Pro, 24 dollars a month billed yearly, only when remote guests and separate tracks are why your episodes sound rough, and pay for Descript Hobbyist, 16 dollars a month billed yearly, only when transcript editing saves you hours every week.
+**Should I pay for Riverside or Descript?** Not to start. Record ten episodes free first, with Audacity, Adobe Podcast cleanup, and Spotify for Creators hosting. Pay for Riverside Pro, 24 dollars a month billed yearly, only when remote guests and separate tracks are why your episodes sound rough, and pay for Descript Hobbyist, 16 dollars a month billed yearly, only when transcript editing saves you hours every week.
 
 ## The final verdict, and a checklist before you pay
 
