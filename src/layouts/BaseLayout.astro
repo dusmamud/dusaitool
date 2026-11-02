@@ -18,13 +18,14 @@ interface Props {
   type?: 'website' | 'article';
   publishedTime?: string;
   updatedTime?: string;
+  image?: string;
   currentPath: string;
   translationExists?: boolean;
 }
 
 const {
   title, description, locale, canonical, type = 'website',
-  publishedTime, updatedTime, currentPath, translationExists = false,
+  publishedTime, updatedTime, image, currentPath, translationExists = false,
 } = Astro.props;
 const htmlLang = locale === 'hi' ? 'hi' : 'en-IN';
 ---
@@ -56,6 +57,7 @@ const htmlLang = locale === 'hi' ? 'hi' : 'en-IN';
       type={type}
       publishedTime={publishedTime}
       updatedTime={updatedTime}
+      image={image}
     />
     <link rel="alternate" type="application/rss+xml" title="Dus AI Tool RSS" href={locale === 'hi' ? '/hi/rss.xml' : '/rss.xml'} />
   </head>

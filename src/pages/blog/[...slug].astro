@@ -30,6 +30,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   type="article"
   publishedTime={post.data.pubDate.toISOString()}
   updatedTime={updated.toISOString()}
+  image={post.data.ogImage}
   currentPath={`/blog/${entrySlug(post)}/`}
   translationExists={translationExists}
 >

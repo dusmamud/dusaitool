@@ -18,6 +18,9 @@ const blog = defineCollection({
     // Short, human verdict shown on cards. Keep it honest, not clickbait.
     verdict: z.string().max(160).optional(),
     heroAlt: z.string().default(''),
+    // Per-article OG image path (e.g. '/og/<slug>-en.png'). When absent,
+    // SEO falls back to the site-wide /og.png.
+    ogImage: z.string().optional(),
   }),
 });
 
