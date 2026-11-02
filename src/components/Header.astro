@@ -23,7 +23,7 @@ const isCurrent = (href: string) =>
 /* Desktop primary nav: text link with animated underline (transform
    only). Current page is underlined + coloured, never colour alone. */
 const desktopLink = (href: string) =>
-  `flex min-h-[44px] items-center px-1 text-[17px] transition-colors duration-150 ${
+  `flex min-h-[44px] items-center px-1 text-[17px] font-bold transition-colors duration-150 ${
     isCurrent(href)
       ? 'text-brand underline decoration-2 underline-offset-8 dark:text-brand-dark'
       : 'text-stone-700 hover:text-brand dark:text-text-dark-2 dark:hover:text-brand-dark'
@@ -107,7 +107,7 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
       </nav>
 
       <div class="ms-auto flex items-center gap-2">
-        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-full bg-brand px-4 text-[16px] text-white transition-transform duration-150 hover:-translate-y-0.5 dark:bg-brand-dark dark:text-paper-dark sm:flex">
+        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-full bg-brand px-4 text-[16px] font-bold text-white transition-transform duration-150 hover:-translate-y-0.5 dark:bg-brand-dark dark:text-paper-dark sm:flex">
           {t(locale, 'search')}
         </a>
         <button
@@ -160,9 +160,9 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
     </button>
   </div>
   <nav aria-label={locale === 'hi' ? 'मुख्य नेविगेशन' : 'Primary navigation'} class="mx-auto w-full max-w-6xl flex-1 px-4 pt-6">
-    <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'home')}</a>
-    <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'blog')}</a>
-    <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'search')}</a>
+    <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'home')}</a>
+    <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'blog')}</a>
+    <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'search')}</a>
   </nav>
   <div class="mx-auto flex w-full max-w-6xl flex-wrap items-center gap-6 px-4 pb-8">
     <a href={otherPath} lang={other === 'hi' ? 'hi' : 'en-IN'} class="flex min-h-[44px] items-center text-[16px] text-stone-600 dark:text-text-dark-3">{t(locale, 'language')}: {otherLabel}</a>

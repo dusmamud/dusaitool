@@ -90,8 +90,12 @@ html.dark {
 }
 
 body {
-  /* No faux bold in UI: Instrument Serif has no 500/700 face. */
-  font-synthesis-weight: none;
+  /* USER DECISION 2026-11-03 (supersedes v3 no-bold rule for headings
+     and nav): headings + nav are bold. Instrument Serif has no bold
+     face, so English bold is synthesised by the browser; Hindi bold
+     is real Noto Serif Devanagari 700, which is loaded. Body text,
+     meta, tags and TOC links stay 400, so bold means hierarchy. */
+  font-synthesis-weight: auto;
   /* Instrument Serif is light at small sizes: give it air. */
   line-height: 1.65;
   /* Theme switch animates paint, not layout. */
@@ -157,8 +161,10 @@ h1,
 h2,
 h3 {
   text-wrap: balance;
-  /* Instrument Serif has no bold: keep weight 400, let size speak. */
-  font-weight: 400;
+  /* Headings are bold (user decision 2026-11-03): size + weight.
+     English renders as synthesised bold (no Instrument bold face);
+     Hindi renders as real Noto Serif Devanagari 700. */
+  font-weight: 700;
 }
 p {
   text-wrap: pretty;

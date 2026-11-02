@@ -561,3 +561,29 @@ hairline: the Back to top row already has one above it. Small
 text size keeps the line on one row even at 320px. Footer order
 is now: grid, Back to top row, copyright row.
 Verified at 1440px, 390px and 320px with no overflow.
+
+## v29 — Headings + nav bold (2026-11-03, user choice)
+User chose "Headings aur nav ko bhi bold karo" over keeping
+headings at 400. Changes, all in web-app code only — no .md or
+.mdx content file was touched:
+- global.css body: font-synthesis-weight none → auto, so a
+  requested 500/700 weight actually shows instead of falling
+  back to 400. This also makes the existing font-medium places
+  (Read more, back links, hero pill, search button, tested
+  label, 404 links) visibly medium for the first time.
+- global.css h1/h2/h3: font-weight 400 → 700. This covers every
+  heading tag site-wide: page titles, post titles, article
+  prose headings (via the low-specificity prose rules, so the
+  global rule still wins), footer section headings, legal page
+  titles. No h4–h6 exists in .astro, so no extra rule needed.
+- Header.astro: desktop primary nav links (Home, Blog) and the
+  Search pill and the three full-screen mobile menu links are
+  now font-bold. Utility bar (RSS, language, theme), brand logo
+  text, mobile menu bottom links, body text, meta, tag chips
+  and TOC links stay regular — bold means hierarchy, not
+  everything shouting.
+Honest limit: Instrument Serif has no bold face, so English
+bold is browser-synthesised; Hindi bold is real Noto Serif
+Devanagari 700, which is loaded. If the synthetic English bold
+ever looks too heavy, the revert is one line (h1–h3 back to
+400) plus removing font-bold from Header nav.
