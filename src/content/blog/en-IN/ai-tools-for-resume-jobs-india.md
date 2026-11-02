@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Write content with ChatGPT free, lay it out in FlowCV or Reactive Resume, and check it with CareerCtrl free ATS scans."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-resume-jobs-india-en.png'
 ---
 
 A resume in India in 2026 is read twice: first by software, then by a human. Applicant Tracking Software, or **ATS**, parses your resume, searches it for **keywords**, and decides whether a human ever sees it. A beautiful resume that ATS cannot read will never reach a human, and a plain resume with the right keywords will. AI tools help with both parts, but the tool that writes best does not always lay out best, and the tool that lays out best does not always check ATS.
@@ -16,6 +17,8 @@ A resume in India in 2026 is read twice: first by software, then by a human. App
 The short answer for India is this: write and tailor your content with [*ChatGPT*](https://chatgpt.com/) free, lay it out in [*FlowCV*](https://flowcv.com/) free or [*Reactive Resume*](https://rxresu.me/) free, and check it with [*CareerCtrl*](https://careerctrl.com/) free, which gives two AI Tuner ATS scans a month with unlimited PDF downloads and no watermark. Browse examples in [*Kickresume*](https://www.kickresume.com/en/) free, which gives unlimited downloads with four basic templates and more than 1,500 examples, but keeps AI writing and the ATS checker for Premium. Try [*Rezi*](https://www.rezi.ai/) free only for one resume, because it allows one resume and three PDF downloads with limited AI. Avoid builders that let you write a resume free but charge for the PDF, like [*Zety*](https://zety.com/), [*MyPerfectResume*](https://www.myperfectresume.com/), and [*Resume.io*](https://resume.io/), which give TXT only on free.
 
 This article is written for India on purpose: freshers, students, and professionals applying to Indian and multinational companies, Hindi, Hinglish, and English resumes, a normal phone and laptop, and no assumption that you have a paid plan or a US account. It also carries a warning that matters for job seekers more than for any other group in this series: strip your address and phone number before pasting a resume into a consumer chatbot, since consumer chats can be used for model training unless you opt out. Your resume is [personal data](/blog/ai-privacy-safety-free-tools-india/), and a free chatbot is not a private document editor.
+
+![A job seeker typing on a laptop surrounded by a notebook and notes while preparing a resume](/images/ai-tools-for-resume-jobs-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -66,6 +69,8 @@ Tailor your resume for each job, but tailor smartly. Read the job post, note the
 
 For Indian freshers, the experience section is the hardest part, because you may not have work experience. Use internships, projects, freelance work, and college projects, with numbers and outcomes: what you built, what tool you used, and what changed. A bullet that says "Worked on a website" is weak. A bullet that says "Built a college event website with HTML, CSS, and JavaScript, used by 500 students for registration" is strong, because it gives a tool, a scale, and an outcome. AI can help you turn a weak bullet into a strong bullet, but only you can supply the number, the tool, and the outcome, because AI will invent them if you do not.
 
+![A young man in a suit talking with an interviewer across a table during a formal job interview](/images/ai-tools-for-resume-jobs-india/02.jpg)
+
 ## Privacy, photos, and Indian resume norms
 
 Strip your address and phone number before pasting a resume into a consumer chatbot, since consumer chats can be used for model training unless you opt out. Paste only the content you need help with, like a bullet or a job description, and add your personal details back in your builder, after AI has helped with wording. Do not paste your full resume, with your address, phone, and email, into a free chatbot, because that personal data becomes training data you cannot control, and it can resurface in ways you cannot predict.
@@ -84,6 +89,8 @@ For Hindi and Hinglish job seekers, write your resume in English, because most I
 - **Do not pay for Rezi, Jobscan, or Resume Worded for a whole year during a short search** — if you pay, pay for one month during an active search, because quarterly and yearly plans only save money if you actually search for that long.
 
 A final trap is applying to hundreds of jobs with the same generic resume. Beginners often use AI to generate one resume, then apply to every job with it, and wonder why they get no interviews. Tailor your resume for each role, even if tailoring means changing only the skills order and two bullets, because a tailored resume shows the recruiter you read the job post, and a generic resume shows you did not. Use AI to tailor faster, not to avoid tailoring, because the tailor is you, and AI is only the assistant.
+
+![A tidy professional workspace with a laptop, a blank notebook and a cup of coffee on a wooden desk](/images/ai-tools-for-resume-jobs-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -114,3 +121,8 @@ Before you pay for any resume tool, answer these questions in writing.
 If you cannot answer those questions, you are not ready to pay yet, and another month of free applications will give you a clearer answer than any review article can.
 
 AI tools for resume and jobs in India in 2026 are genuinely useful, but only when you treat them as a stack with PDF, scan, and template limits, not as a single magic builder. Use free tools to write, to lay out, and to check, and use your own experience, your own numbers, and your own tailoring to make a resume that passes ATS and convinces a human, because that resume is yours, and AI can only help you write it, not live it. Pay later, for one month, for one proven reason, during an active search. That is how a fresher [gets interviews](/blog/ai-tools-for-interview-prep-india/) without paying for a PDF.
+
+**Image credits:**
+- Overhead view of a student typing on a laptop surrounded by notes — [Kampus Production on Pexels](https://www.pexels.com/photo/woman-working-on-laptop-with-documents-5940721/) (Pexels License)
+- A formal job interview — [Amtec Photos via Wikimedia Commons](https://en.wikipedia.org/wiki/File:Young_Man_in_a_Interview.jpg) (CC BY-SA 2.0)
+- A professional workspace with a laptop, notebook and coffee — [Pexels](https://www.pexels.com/search/workspace/) (Pexels License)
