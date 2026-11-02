@@ -7,7 +7,7 @@ locale: hi
 tags: ["पढ़ाई", "नोट्स", "छात्र", "मुफ्त"]
 category: "best-tools"
 draft: false
-verdict: "अपनी फ़ाइल से साइटेशन वाले नोट्स के लिए NotebookLM से शुरू करें, spaced repetition के लिए Anki रखें। AI नोट्स ड्राफ्ट हैं, याददाश्त recall अभ्यास से आती है।"
+verdict: "अपनी फ़ाइल से साइटेशन वाले नोट्स के लिए NotebookLM से शुरू करें, spaced repetition के लिए Anki रखें। AI नोट्स ड्राफ्ट हैं, याददाश्त अभ्यास से आती है।"
 heroAlt: ""
 ogImage: '/og/ai-tools-for-study-notes-india-hi.png'
 ---
