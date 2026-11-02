@@ -89,15 +89,15 @@ A final trap is building a site and never updating it. Beginners often generate 
 
 ## Frequently asked questions
 
-Which free AI website builder is best in India? Wix free, for most people, because its free plan needs no credit card and includes AI creation tools, hosting, and drag-and-drop editing, with a complete free-to-public path on a Wix subdomain. For a designer portfolio, Framer free is better, with 500 AI credits and a free Framer domain, and for a blog, WordPress.com free is better, with an AI guided builder and a long-term platform.
+**Which free AI website builder is best in India?** Wix free, for most people, because its free plan needs no credit card and includes AI creation tools, hosting, and drag-and-drop editing, with a complete free-to-public path on a Wix subdomain. For a designer portfolio, Framer free is better, with 500 AI credits and a free Framer domain, and for a blog, WordPress.com free is better, with an AI guided builder and a long-term platform.
 
-Can I get a custom domain free? No, on any builder in this article: every free plan uses the builder's own subdomain and branding, and a custom domain needs a paid plan. Wix paid plans add a custom domain free for a year, WordPress.com Personal at 4 dollars a month yearly adds a free domain for a year, and Framer Basic at 10 dollars a month yearly adds a custom domain.
+**Can I get a custom domain free?** No, on any builder in this article: every free plan uses the builder's own subdomain and branding, and a custom domain needs a paid plan. Wix paid plans add a custom domain free for a year, WordPress.com Personal at 4 dollars a month yearly adds a free domain for a year, and Framer Basic at 10 dollars a month yearly adds a custom domain.
 
-Is Framer free really free? Yes, for a small site, with 500 AI credits to try, a free Framer domain, and 1 GB of bandwidth, hosted on a framer.website subdomain with a Framer badge. It is not free for a large site, because page and bandwidth caps will limit you, and Basic at 10 dollars a month yearly gives 1,000 AI credits a month, a custom domain, and built-in SEO.
+**Is Framer free really free?** Yes, for a small site, with 500 AI credits to try, a free Framer domain, and 1 GB of bandwidth, hosted on a framer.website subdomain with a Framer badge. It is not free for a large site, because page and bandwidth caps will limit you, and Basic at 10 dollars a month yearly gives 1,000 AI credits a month, a custom domain, and built-in SEO.
 
-Can I sell online free with Wix? No, Wix free excludes selling online or accepting payments, and gives basic SEO tools only. Selling online needs a paid plan, so if your site needs payments, plan for a paid e-commerce plan from the start, not after you have built a free brochure site.
+**Can I sell online free with Wix?** No, Wix free excludes selling online or accepting payments, and gives basic SEO tools only. Selling online needs a paid plan, so if your site needs payments, plan for a paid e-commerce plan from the start, not after you have built a free brochure site.
 
-Should I pay for a website builder? Not to start. Build free in Wix, Framer, or WordPress.com, publish on a subdomain, and replace AI text with your own words, photos, and prices. Pay only when a specific free limit, like a custom domain, branding removal, bandwidth, or store features, repeatedly blocks your actual business, and after you have checked local pricing for your country.
+**Should I pay for a website builder?** Not to start. Build free in Wix, Framer, or WordPress.com, publish on a subdomain, and replace AI text with your own words, photos, and prices. Pay only when a specific free limit, like a custom domain, branding removal, bandwidth, or store features, repeatedly blocks your actual business, and after you have checked local pricing for your country.
 
 ## The final verdict, and a checklist before you pay
 
