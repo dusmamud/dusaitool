@@ -23,14 +23,15 @@ const legalLabel = locale === 'hi' ? 'कानूनी' : 'Legal';
 const linkClass = 'flex min-h-[44px] items-center gap-2 text-[17px] text-stone-700 transition-colors duration-150 hover:text-brand dark:text-text-dark-2 dark:hover:text-brand-dark';
 ---
 <!-- Footer, rebuilt as a real closing section, not a single line:
-     responsive grid (1 col mobile, 2 col tablet, 4 col desktop),
-     brand + promise, explore, top topics (computed at build),
-     follow + back to top, legal (privacy, terms, disclaimer).
+     responsive grid: mobile 2 cols with brand full-width on top
+     (so nav links sit 2 per row, not 1 per row, and the brand
+     paragraph does not squeeze into half a phone screen),
+     desktop 5 cols (brand + explore + topics + follow + legal).
      Links animate with the same underline as the header. -->
 <footer class="mt-20 border-t border-stone-200 bg-white px-4 py-12 dark:border-border-dark dark:bg-surface-dark">
   <div class="mx-auto max-w-6xl sm:px-6">
-    <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1fr_1fr]">
-      <div>
+    <div class="grid grid-cols-2 gap-x-6 gap-y-10 lg:grid-cols-[1.3fr_1fr_1fr_1fr_1fr] lg:gap-10">
+      <div class="col-span-2 lg:col-span-1">
         <a href={home} class="flex min-h-[44px] items-center gap-2.5">
           <img src="/favicon.svg" alt="" aria-hidden="true" width="40" height="40" class="size-10 shrink-0" />
           <span class="font-display text-[22px] leading-none tracking-tight sm:text-[26px] text-ink dark:text-text-dark">Dus AI Tool</span>

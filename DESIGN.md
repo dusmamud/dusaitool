@@ -526,3 +526,15 @@ column stays widest and the five columns still fit max-w-6xl.
 This push is deliberately last: the three legal pages were
 pushed first, so no deployed version ever had a footer link
 pointing to a page that did not exist yet.
+
+## v26 — Footer: 2 columns on mobile (2026-11-03)
+Footer was 1 column on phones (grid with no base columns, 2 cols
+only from sm up), so the four nav columns stacked one per row and
+the footer became very long on mobile. Fix: base grid is now
+grid-cols-2, with a narrower horizontal gap on mobile (gap-x-6,
+gap-y-10; desktop keeps gap-10). The brand block spans both
+columns on mobile/tablet (col-span-2, lg:col-span-1), so it stays
+full width on top and its paragraph does not squeeze into half a
+phone screen; the nav columns then sit 2 per row (Explore +
+Topics, Follow + Legal). Desktop is unchanged: 5 columns
+(brand + 4 nav). Verified at 390px and 320px with no overflow.
