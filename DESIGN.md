@@ -168,3 +168,26 @@ respect `prefers-reduced-motion` (reveal/hero forced visible).
 - Real iOS Safari, real screen reader, slow-network throttling.
 - Contrast is checked by token choice (teal-700 on white, teal-300 on
   zinc-950, zinc-600 on white), not by an automated build gate yet.
+
+## v7 — Article layout, side gap fix (2026-11-02)
+Research: Exa (2 searches, $0.014) + Firecrawl (1 search, 2 credits). Cross-verified:
+reading measure 60–75 characters/line, ~640–720px at 18px — full-width body text on a
+wide monitor is tiring to read, so the article column must stay narrow; the bug was
+not the narrow column, it was the grid not filling its container (old grid
+65ch + 240px = ~825px inside a 1152px container left ~325px of asymmetric empty
+space on the right, and the sidebar held only a short TOC, so below it the right
+side was empty). Two-column ratio ~2/3 content + 1/3 sidebar, sidebar 280–320px
+from 1024px, and a post-page sidebar earns its space only with TOC + related
+posts + tags (UI Potion, Blaskan, Aceternity). Lots of whitespace should be
+balanced/centered, not left-aligned.
+Fix (both `blog/[...slug].astro` and `hi/blog/[...slug].astro`):
+grid `mx-auto max-w-[1044px] lg:grid-cols-[minmax(0,680px)_300px] lg:gap-16` —
+article 680px max, sidebar 300px, gap 64px, grid centered so page margins are
+symmetric; sidebar is now a full right rail (TOC + Related guides mini list +
+current-post Topics chips + tested-promise note), `lg:sticky lg:top-20
+lg:self-start` so it sticks below the 56px header without hiding under it
+(self-start matters: a stretched grid item pins to the grid bottom and its
+heading slides under the header near the article end).
+Verified: 1440 grid 191→1235 (1044px, centered), article 672px, sidebar 300px,
+scrolled sidebar top 90px; 1024 grid fills 955px, sidebar 300px; 390 mobile
+unchanged, sidebar hidden, no overflow anywhere. Build 19 pages.
