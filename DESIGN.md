@@ -191,3 +191,14 @@ heading slides under the header near the article end).
 Verified: 1440 grid 191→1235 (1044px, centered), article 672px, sidebar 300px,
 scrolled sidebar top 90px; 1024 grid fills 955px, sidebar 300px; 390 mobile
 unchanged, sidebar hidden, no overflow anywhere. Build 19 pages.
+
+## v8 — Orbit Spark icon (2026-11-03)
+Icon decision: first letter-based set (A–E) was rejected by Dus, with the rule
+"no letter at all, professional unique shape". Second letter-free set (1–5)
+was shown, Dus chose 3 — Orbit Spark (gradient spark + orbit ring, no text).
+Applied everywhere the old "D" badge was: `public/favicon.svg` (now the Orbit
+Spark SVG), Header brand mark and Footer brand mark (both now
+`<img src="/favicon.svg">`, no D circle left in either component), and
+`public/og.png` regenerated from `shot-tmp/og.html` with the spark mark.
+Verified: home light + dark, header logo `/favicon.svg` present, no overflow,
+build 19 pages.
