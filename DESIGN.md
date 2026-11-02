@@ -361,3 +361,20 @@ overrides, for no visual gain.
 Verified: build 140 pages, dark home computed styles identical to
 before (body #d0d6e0, bg #08090a, header #0f1011), dark screenshot
 checked, no overflow.
+
+## v16 — Skill 4d: afd-static-sites, search innerHTML removed (2026-11-03)
+Audit against afd-static-sites §7 (security-minded output) and
+ui-review §4: "never innerHTML a string; no user-controlled string
+reaches the DOM through innerHTML". Search results were built with
+innerHTML from Pagefind data (item.url, meta.title, excerpt). Those
+strings come from the build index, not from the user's query, but
+the pattern is still unsafe: a future title containing '<' or '&'
+would break out of the page.
+Fix (en + hi search pages): results are now built with
+createElement + textContent, same classes and layout, only the
+insertion method changes. Clearing a result list now uses
+replaceChildren() instead of innerHTML = ''.
+Checked and kept: HTML-first static output, JS only as islands
+(theme, menu, TOC, search), Pagefind lazy-loaded only on the search
+page, robots.txt + sitemap present, no new third-party origin.
+Verified: build passes, search page structure unchanged.
