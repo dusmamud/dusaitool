@@ -18,24 +18,24 @@ interface Props {
 }
 const { href, title, description, date, minutes, locale, verdict, tags = [], tagHref } = Astro.props;
 ---
-<article class="border-b border-stone-200 py-6 first:pt-0 dark:border-[#23252a]">
+<article class="border-b border-stone-200 py-6 first:pt-0 dark:border-border-dark">
   <h2 class="font-display text-[22px] leading-snug sm:text-2xl">
     <a href={href} class="transition-colors duration-150 hover:text-brand hover:underline dark:hover:text-brand-dark">{title}</a>
   </h2>
-  <p class="mt-2 max-w-2xl text-[16px] leading-relaxed text-stone-600 dark:text-[#8a8f98]">{description}</p>
+  <p class="mt-2 max-w-2xl text-[16px] leading-relaxed text-stone-600 dark:text-text-dark-3">{description}</p>
   {verdict && (
     <p class="mt-3 max-w-2xl rounded-lg bg-brand-soft px-3 py-2 text-sm leading-relaxed text-brand dark:bg-brand-dark-soft dark:text-brand-dark"><strong>Verdict:</strong> {verdict}</p>
   )}
-  <p class="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-stone-500 dark:text-[#8a8f98]">
+  <p class="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-stone-500 dark:text-text-dark-3">
     <time datetime={date}>{date}</time>
     <span>{minutes} {t(locale, 'readTime')}</span>
     {tags.length > 0 && (
       <span class="flex flex-wrap items-center gap-2">
         {tags.map((tag) => (
           tagHref ? (
-            <a href={tagHref(tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] text-stone-700 dark:border-[#34343a] dark:text-[#d0d6e0]">{tag}</a>
+            <a href={tagHref(tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] text-stone-700 dark:border-border-dark-2 dark:text-text-dark-2">{tag}</a>
           ) : (
-            <span class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] dark:border-[#34343a]">{tag}</span>
+            <span class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] dark:border-border-dark-2">{tag}</span>
           )
         ))}
       </span>

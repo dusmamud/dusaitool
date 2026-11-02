@@ -34,7 +34,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   translationExists={translationExists}
 >
   <div class="reading-progress" aria-hidden="true"></div>
-  <nav aria-label="ब्रेडक्रंब" class="text-sm text-stone-500 dark:text-[#8a8f98]">
+  <nav aria-label="ब्रेडक्रंब" class="text-sm text-stone-500 dark:text-text-dark-3">
     <ol class="flex min-w-0 flex-wrap items-center gap-2">
       <li><a href="/hi/" class="flex min-h-[44px] items-center font-medium text-brand underline dark:text-brand-dark">{t('hi', 'home')}</a></li>
       <li aria-hidden="true">/</li>
@@ -47,7 +47,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   <div class="mx-auto mt-6 grid min-w-0 max-w-[1044px] grid-cols-1 gap-8 lg:grid-cols-[minmax(0,680px)_300px] lg:gap-16">
     <article class="prose prose-stone min-w-0 max-w-none dark:prose-invert prose-a:text-brand dark:prose-a:text-brand-dark">
       <h1>{post.data.title}</h1>
-      <p class="not-prose text-sm text-stone-500 dark:text-[#8a8f98]">
+      <p class="not-prose text-sm text-stone-500 dark:text-text-dark-3">
         {t('hi', 'published')} <time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time>
         {', '}{t('hi', 'updated')} <time datetime={isoDate(updated)}>{isoDate(updated)}</time>
         {', '}{minutes} {t('hi', 'readTime')}
@@ -59,32 +59,32 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
         <div class="space-y-10">
           {toc.length > 0 && (
             <nav>
-              <h2 class="text-sm text-[#1a1a1a] dark:text-[#f7f8f8]">{t('hi', 'contents')}</h2>
-              <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-[#23252a]">
+              <h2 class="text-sm text-ink dark:text-text-dark">{t('hi', 'contents')}</h2>
+              <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-border-dark">
                 {toc.map((h) => (
-                  <li><a href={`#${h.slug}`} class="flex min-h-[44px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark">{h.text}</a></li>
+                  <li><a href={`#${h.slug}`} class="flex min-h-[44px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-text-dark-3 dark:hover:text-brand-dark">{h.text}</a></li>
                 ))}
               </ul>
             </nav>
           )}
           {relatedRows.length > 0 && (
             <section>
-              <h2 class="text-sm text-[#1a1a1a] dark:text-[#f7f8f8]">{t('hi', 'related')}</h2>
-              <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-[#23252a]">
+              <h2 class="text-sm text-ink dark:text-text-dark">{t('hi', 'related')}</h2>
+              <ul class="mt-3 space-y-1 border-l border-stone-200 dark:border-border-dark">
                 {relatedRows.map(({ post: p }) => (
-                  <li><a href={entryUrl(p)} class="flex min-h-[44px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-[#8a8f98] dark:hover:text-brand-dark">{p.data.title}</a></li>
+                  <li><a href={entryUrl(p)} class="flex min-h-[44px] items-center border-l-2 border-transparent ps-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:text-text-dark-3 dark:hover:text-brand-dark">{p.data.title}</a></li>
                 ))}
               </ul>
             </section>
           )}
           <section>
-            <h2 class="text-sm text-[#1a1a1a] dark:text-[#f7f8f8]">{t('hi', 'tags')}</h2>
+            <h2 class="text-sm text-ink dark:text-text-dark">{t('hi', 'tags')}</h2>
             <ul class="mt-3 flex flex-wrap gap-2">
               {(post.data.tags ?? []).map((tag) => (
-                <li><a href={tagUrl('hi', tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-200 px-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:border-[#23252a] dark:text-[#8a8f98] dark:hover:text-brand-dark">{tag}</a></li>
+                <li><a href={tagUrl('hi', tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-200 px-3 text-sm text-stone-600 hover:border-brand hover:text-brand dark:border-border-dark dark:text-text-dark-3 dark:hover:text-brand-dark">{tag}</a></li>
               ))}
             </ul>
-            <p class="mt-5 text-sm leading-relaxed text-stone-500 dark:text-[#8a8f98]">{t('hi', 'footerNote')}</p>
+            <p class="mt-5 text-sm leading-relaxed text-stone-500 dark:text-text-dark-3">{t('hi', 'footerNote')}</p>
           </section>
         </div>
       </aside>
@@ -96,7 +96,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
   {relatedRows.length > 0 && (
     <section class="mt-12">
       <h2 class="text-2xl">{t('hi', 'related')}</h2>
-      <div class="mt-6 border-t border-stone-200 dark:border-[#23252a]">
+      <div class="mt-6 border-t border-stone-200 dark:border-border-dark">
         {relatedRows.map(({ post: p, minutes: m }) => (
           <PostRow href={entryUrl(p)} title={p.data.title} description={p.data.description} date={isoDate(p.data.pubDate)} minutes={m} locale="hi" verdict={p.data.verdict} />
         ))}

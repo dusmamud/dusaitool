@@ -337,3 +337,27 @@ no infinite loops, no new motion library. Two violations fixed:
   existing 0.01ms duration rule.
 Verified: build passes, header shadow still appears on scroll
 (instantly, not eased).
+
+## v15 — Skill 4c: afd-theme-systems, token tiers completed (2026-11-03)
+Audit: theme init is already inline pre-paint (no flash), tokens
+already live in Tailwind v4 @theme, but the dark greys and the
+headline black were duplicated as raw hex in 17 files, outside the
+token tier, so a future colour change would miss half the site.
+Fixes in this commit:
+- New tokens: --color-ink (#1a1a1a), --color-text-dark (#f7f8f8),
+  --color-text-dark-2 (#d0d6e0), --color-text-dark-3 (#8a8f98).
+  Existing tokens reused: --color-border-dark, --color-border-dark-2,
+  --color-surface-dark-2, --color-paper-dark.
+- All arbitrary colour classes replaced with token classes across
+  src/ (42x #8a8f98, 32x #23252a, 14x #34343a, 13x #f7f8f8,
+  5x #d0d6e0, 4x #08090a, 1x #141516, 14x #1a1a1a). Zero arbitrary
+  colour classes remain in src/.
+- Custom CSS that duplicated brand hex (focus outline, desktop TOC
+  active) now uses var(--color-brand) / var(--color-brand-dark).
+Not changed on purpose: cascade layers. Custom CSS is intentionally
+unlayered so it wins over Tailwind utilities for TOC/menu overrides;
+moving it into layers would change specificity and break those
+overrides, for no visual gain.
+Verified: build 140 pages, dark home computed styles identical to
+before (body #d0d6e0, bg #08090a, header #0f1011), dark screenshot
+checked, no overflow.

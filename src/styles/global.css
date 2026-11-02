@@ -42,6 +42,10 @@
      - Previous forest green #1f4d3a is replaced, not kept alongside:
        one primary per theme, per afd-design-direction §3. */
   --color-paper: #fbf8f3;
+  --color-ink: #1a1a1a;
+  --color-text-dark: #f7f8f8;
+  --color-text-dark-2: #d0d6e0;
+  --color-text-dark-3: #8a8f98;
   /* DARK GRADING v5 — SaaS style (Linear, Exa 2026-11-02):
      Linear dark system, two sources agree: bg #08090a, surface
      #0f1011, surface-2 #141516, secondary #1c1c1f, border #23252a
@@ -96,12 +100,12 @@ body {
 
 /* Never remove the focus ring. WCAG 2.4.7 Focus Visible. */
 :focus-visible {
-  outline: 3px solid #2c5f8a;
+  outline: 3px solid var(--color-brand);
   outline-offset: 3px;
   border-radius: 2px;
 }
 html.dark :focus-visible {
-  outline-color: #4ea7fc;
+  outline-color: var(--color-brand-dark);
 }
 
 /* Skip link: hidden until keyboard focus, then fully visible. */
@@ -327,12 +331,12 @@ a:hover .link-underline {
    article page. Colour + border only, never colour alone for the
    current state (border is the second cue). */
 aside nav a[data-active="true"] {
-  border-left-color: #2c5f8a;
-  color: #2c5f8a;
+  border-left-color: var(--color-brand);
+  color: var(--color-brand);
 }
 .dark aside nav a[data-active="true"] {
-  border-left-color: #4ea7fc;
-  color: #4ea7fc;
+  border-left-color: var(--color-brand-dark);
+  color: var(--color-brand-dark);
 }
 
 /* Full-screen mobile menu: fade + slight rise, transform/opacity only.
