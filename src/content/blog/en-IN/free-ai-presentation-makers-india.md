@@ -107,17 +107,17 @@ A final trap is making too many decks. Students often generate a new deck for ev
 
 ## Frequently asked questions
 
-Can I use these tools in India without a VPN? Yes, for the major tools in this article. Gamma, Slidesgo, Canva, SlidesAI, and MagicSchool all work in India through a normal browser with a standard account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
+**Can I use these tools in India without a VPN?** Yes, for the major tools in this article. Gamma, Slidesgo, Canva, SlidesAI, and MagicSchool all work in India through a normal browser with a standard account. If a smaller tool does not load, check whether it is down or region-limited before assuming you need a VPN, and do not enter payment details on a site you cannot verify.
 
-Which free tool is best for a school presentation? Slidesgo for monthly PPTX decks, plus Canva for design and editing. That combination gives you a downloadable PowerPoint file, a template you can edit, and a monthly reset, without a card. Gamma is better for a single polished deck, but it does not reset monthly.
+**Which free tool is best for a school presentation?** Slidesgo for monthly PPTX decks, plus Canva for design and editing. That combination gives you a downloadable PowerPoint file, a template you can edit, and a monthly reset, without a card. Gamma is better for a single polished deck, but it does not reset monthly.
 
-Can I download a PowerPoint file for free? Yes, from Slidesgo, Canva, and Gamma on free, with different caps and badges. Slidesgo gives 3 presentations and 3 downloads a month with an attribution slide. Canva gives PPTX download on free within its 20 AI uses a month. Gamma gives PPTX download on free within its 400 one-time credits, with a badge. Genspark, Prezi, Visme, and Genially do not give a free PowerPoint download in the checks.
+**Can I download a PowerPoint file for free?** Yes, from Slidesgo, Canva, and Gamma on free, with different caps and badges. Slidesgo gives 3 presentations and 3 downloads a month with an attribution slide. Canva gives PPTX download on free within its 20 AI uses a month. Gamma gives PPTX download on free within its 400 one-time credits, with a badge. Genspark, Prezi, Visme, and Genially do not give a free PowerPoint download in the checks.
 
-Should a teacher pay for a presentation tool? Check free teacher offers first. MagicSchool is free for teachers with 20 uses a week, and Canva for Education is free for eligible primary and secondary teachers and students. Pay only when a specific paid feature, like unlimited AI decks or no attribution, actually blocks your teaching repeatedly.
+**Should a teacher pay for a presentation tool?** Check free teacher offers first. MagicSchool is free for teachers with 20 uses a week, and Canva for Education is free for eligible primary and secondary teachers and students. Pay only when a specific paid feature, like unlimited AI decks or no attribution, actually blocks your teaching repeatedly.
 
-What should I do when Slidesgo's monthly cap runs out? Use Canva's monthly AI uses for the rest of the month, or wait for Slidesgo to reset next month. Do not pay in a panic because one tool hit a monthly cap. Monthly caps reset, and your old decks are still editable and presentable.
+**What should I do when Slidesgo's monthly cap runs out?** Use Canva's monthly AI uses for the rest of the month, or wait for Slidesgo to reset next month. Do not pay in a panic because one tool hit a monthly cap. Monthly caps reset, and your old decks are still editable and presentable.
 
-Should a student pay for Gamma Plus? Not to start, and not for weekly decks. Gamma free is enough for one good deck. Pay for Gamma Plus only when you need fresh AI decks every week and you have proven, over a month of free use, that Gamma's design is worth 400 rupees a month billed annually for your work.
+**Should a student pay for Gamma Plus?** Not to start, and not for weekly decks. Gamma free is enough for one good deck. Pay for Gamma Plus only when you need fresh AI decks every week and you have proven, over a month of free use, that Gamma's design is worth 400 rupees a month billed annually for your work.
 
 ## The final verdict, and a checklist before you pay
 
