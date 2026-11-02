@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Draft in Rytr free and polish in Gmail with Grammarly free. Save MailMaestro free for your three hardest emails each week."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-email-writing-india-en.png'
 ---
 
 Email in India is not one kind of writing. [A job application](/blog/ai-tools-for-resume-jobs-india/), a client follow-up, a leave request, a cold sales email, and a reply to your boss all need **different tones**, and a tone that works for one will fail for another. AI email tools help with drafting and polishing, but they help in different ways: some draft from a blank prompt, some polish what you already wrote, and some live inside your inbox. The tool that drafts best does not always polish best, and the tool that polishes best does not draft from scratch.
@@ -16,6 +17,8 @@ Email in India is not one kind of writing. [A job application](/blog/ai-tools-fo
 The short answer for India is this: draft in *Rytr* free, which gives 10,000 characters a month, about 1,500 words, with all templates and a Chrome extension that works inside Gmail, with no credit card required. Polish in Gmail with *Grammarly* free, which gives about 100 generative prompts a month, with tone detection and sentence-level rewrites where you type. Save *MailMaestro* free for your three hardest emails each week, because it gives three compose, reply, or improve requests per week, free forever with no card, inside Outlook and Gmail. For cold outreach, *Writecream* free gives 20 credits, about 40,000 characters a month, with 20 icebreakers, and no credit card.
 
 This article is written for India on purpose: job seekers, [freelancers](/blog/ai-tools-for-freelancers-india/), office workers, students, and small businesses, Hindi, Hinglish, and English emails, a normal phone and laptop, and no assumption that you have a paid plan, a work account, or a US account. It also carries a warning that matters for email tools more than for any other tool in this series: an extension that reads everything you type has a privacy surface, and a tool that processes your inbox may process personal communications and authentication information, so read the privacy policy before you install it on a work machine, especially if your employer has its own policy on [writing assistants](/blog/ai-writing-assistants-free-vs-paid-india/).
+
+![A person typing an email on a laptop at a desk with a coffee mug](/images/ai-tools-for-email-writing-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -62,6 +65,8 @@ Writecream is the most generous free tier, with 20 free credits, about 40,000 ch
 
 TextCortex is best for writing inside your inbox, with 20 free creations a day and a browser extension that works in Gmail and 30,000 plus other apps, with 25 plus languages, and no credit card. Twenty creations a day is the most generous daily allowance in this article, which makes TextCortex free useful for someone who writes many emails a day and needs quick drafts, rewrites, and replies inside Gmail, not in a separate app. Copy.ai is best for a free template library, with 2,000 free words a month, 90 plus copywriting templates, and 200 one-time workflow credits, built for cold emails, sales intros, and follow-ups. Two thousand words runs out fast, so Copy.ai free is for light use, like one cold email campaign a month, not for daily outreach.
 
+![Hands typing on a laptop showing an inbox app on the screen](/images/ai-tools-for-email-writing-india/02.jpg)
+
 ## Lavender, Shortwave, and the inbox tools
 
 Lavender is a sales-email coach, not a sender, with a free Basic plan that analyzes five emails a month and personalizes five emails a month, inside Gmail and Outlook, with no credit card. Five emails is a taste, not a workflow, but Lavender's coaching is unique: it scores your email, tells you what to fix, and personalizes it for the recipient, which teaches you to write better cold emails, not just to send more of them. Use Lavender free for your five most important sales emails a month, learn its feedback pattern, and apply that pattern to the rest of your emails yourself, because the coaching is the value, not the five emails.
@@ -99,6 +104,8 @@ Privacy for email tools is simple to state and hard to follow: an extension that
 
 A final trap is sending more emails and writing worse emails. Beginners often use AI to send fifty cold emails a day, feel productive, and then get no replies, because fifty generic emails are worse than five personalized emails. **Email rewards personalization, not volume**, and a personalized first line, a clear ask, and a short body will outperform a long generic email every time. Use AI to draft faster, then use that saved time to personalize the first line, to check the recipient's name and company, and to make the ask clear, because that personalization is the part AI cannot do for you.
 
+![Colleagues discussing work together around a laptop in an office](/images/ai-tools-for-email-writing-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free email writer is best in India?** Rytr free, for drafting, with 10,000 characters a month, all templates, more than 20 tones, and a Chrome extension inside Gmail, with no credit card. Pair it with Grammarly free for polishing, with about 100 generative prompts a month, because Rytr drafts and Grammarly polishes, and neither does both well alone.
@@ -129,3 +136,8 @@ Before you pay for any email tool, answer these questions in writing:
 If you cannot answer those questions, you are not ready to pay yet, and another month of free emailing will give you a clearer answer than any review article can.
 
 AI tools for email writing in India in 2026 are genuinely useful, but only when you treat them as a stack with character, prompt, and request limits, not as a single magic writer. Use free tools to draft, to polish, and to personalize, and use your own voice to choose the tone, to make the ask clear, and to check every name, company, and number before you send, because that voice, clarity, and checking is what makes an email professional. Pay later, for one tool, for one proven reason, during an active search or campaign. That is how an email gets replies without paying for a draft.
+
+**Image credits:**
+- Person typing on a laptop with a coffee mug — [Kaboompics on Pexels](https://www.pexels.com/photo/8546801/) (Pexels License)
+- Hands typing on a laptop showing an inbox app on the screen — [Kaboompics on Pexels](https://www.pexels.com/photo/5387292/) (Pexels License)
+- Colleagues discussing work around a laptop in an office — [Yan Krukau on Pexels](https://www.pexels.com/photo/7693716/) (Pexels License)
