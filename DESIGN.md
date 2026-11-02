@@ -460,3 +460,21 @@ multiples of the 4px scale, not random values, and replacing
 them with the nearest Tailwind scale step would change the
 design for no benefit.
 Verified: build passes, zero space-y left in src/.
+
+## v21 — Fix: search define:vars brace bug (found by final check, 2026-11-03)
+The frontend-ui-ux commit (v19) broke the build: its define:vars
+change was written with a Python f-string, where `}}` collapses to
+a single `}`, so both search pages ended with `}>` instead of
+`}}>` and Astro failed with "Unexpected token" at
+hi/search/index.astro:48. The failure was missed because the
+build check grepped for lowercase "error" while Astro prints
+"[ERROR]", and Pagefind never ran, so no "Indexed" line appeared.
+The live site was NOT broken: the GitHub workflow fails before
+deploy when the build fails, so it stayed on the previous good
+commit. Fix in this commit (separate commit, no amend, no
+force-push): define:vars now passes a frontmatter variable
+`searchingText = t(locale, 'searching')` instead of a function
+call inside define:vars, with the correct `}}>` closing. Build
+now exits 0, dist/index.html exists, home returns 200.
+Lesson recorded: always check the build exit code and
+dist/index.html, never grep for "error" alone.
