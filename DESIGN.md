@@ -412,3 +412,24 @@ No other app-frontend change was forced, because inventing app
 screens for a static blog would be the opposite of the skill's
 own "design the unhappy paths, not decoration" rule.
 Verified: build passes.
+
+## v19 — Skill 5: frontend-ui-ux, Hick + visibility of status (2026-11-03)
+Audit against frontend-ui-ux Pillar 1 (Nielsen, Hick, Miller,
+Jakob) and Pillar 5 (Core Web Vitals). Passes already in place:
+primary nav within 7 items, footer grouped in clusters of 3-6,
+44px primary targets, focus visible, both themes designed, no
+glassmorphism, no blue-to-purple gradient hero, no generic filler
+copy, tables scroll instead of breaking the page body.
+Fixes in this commit:
+- Home showed every tag (40+ pills, a tag-cloud wall) upfront.
+  Hick's Law: decision time grows with choices, so home now shows
+  only the top 12 topics by count (tagCounts is already sorted by
+  count). The blog index still lists every tag, so nothing is
+  lost — home uses progressive disclosure, blog is the full list.
+- Search gave no feedback until the 200ms debounce + Pagefind
+  finished, so typing felt silent. Nielsen visibility of system
+  status: the status line now shows "Searching…" / "खोज रहे हैं…"
+  immediately on input, before the debounce timer, and run() then
+  replaces it with the result count. New i18n key `searching`
+  (en + hi), passed via define:vars like the existing noIndexText.
+Verified: build passes.

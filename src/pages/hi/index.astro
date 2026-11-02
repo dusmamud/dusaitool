@@ -8,7 +8,7 @@ const locale = 'hi' as const;
 const posts = await publishedPosts(locale);
 const rows = await Promise.all(posts.map(async (post) => ({ post, minutes: await postMinutes(post) })));
 const [featured, ...rest] = rows;
-const tags = await tagCounts(locale);
+const tags = (await tagCounts(locale)).slice(0, 12);
 const site = (Astro.site?.toString() ?? 'https://dusaitool.pages.dev/').replace(/\/$/, '');
 const blogUrl = '/hi/blog/';
 const searchUrl = '/hi/search/';

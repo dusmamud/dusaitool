@@ -44,7 +44,7 @@ const popular = tags.slice(0, 5).map((x) => x.tag);
   <p id="search-status" class="mt-4 text-sm text-stone-500"></p>
   <p id="search-empty" class="mt-4 hidden text-sm text-stone-600 dark:text-text-dark-3">{t(locale, 'searchNoResults')}</p>
 
-  <script define:vars={{ noIndexText: 'खोज इंडेक्स अभी बना नहीं है। पहले npm run build चलाएं।' }}>
+  <script define:vars={{ noIndexText: 'खोज इंडेक्स अभी बना नहीं है। पहले npm run build चलाएं।', searchingText: t('hi', 'searching') }>
     const input = document.getElementById('search-input');
     const resultsEl = document.getElementById('search-results');
     const statusEl = document.getElementById('search-status');
@@ -101,6 +101,7 @@ const popular = tags.slice(0, 5).map((x) => x.tag);
         if (statusEl) statusEl.textContent = '';
         return;
       }
+      if (statusEl) statusEl.textContent = searchingText;
       timer = setTimeout(() => run(query.trim()), 200);
     }
 
