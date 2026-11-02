@@ -538,3 +538,14 @@ full width on top and its paragraph does not squeeze into half a
 phone screen; the nav columns then sit 2 per row (Explore +
 Topics, Follow + Legal). Desktop is unchanged: 5 columns
 (brand + 4 nav). Verified at 390px and 320px with no overflow.
+
+## v27 — Footer: Back to top in its own bottom row (2026-11-03)
+Back to top was the third item inside the Follow column, so it
+looked like just another link and was easy to miss. Fix: removed
+from Follow (Follow now has only RSS + Sitemap) and added as a
+separate bottom row after the grid: mt-12, hairline border-t,
+pt-6, right-aligned, same link style and up-arrow icon, same
+label (Back to top / ऊपर जाएं). It is not duplicated anywhere:
+one Back to top link in the whole footer, in the bottom row only.
+Desktop 5-col grid and mobile 2-col layout are unchanged.
+Verified at 1440px and 390px with no overflow.
