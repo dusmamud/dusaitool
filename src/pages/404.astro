@@ -25,7 +25,7 @@ const latest = await Promise.all(posts.slice(0, 3).map(async (post) => ({ post, 
           <li>
             <a href={entryUrl(post)} class="flex min-h-[44px] items-center gap-3 font-medium text-brand underline dark:text-brand-dark">
               {post.data.title}
-              <span class="text-sm font-normal text-stone-500 no-underline dark:text-[#8a8f98]"><time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time> · {minutes} {t('en-IN', 'readTime')}</span>
+              <span class="text-sm font-normal text-stone-500 no-underline dark:text-[#8a8f98]"><time datetime={isoDate(post.data.pubDate)}>{isoDate(post.data.pubDate)}</time>, {minutes} {t('en-IN', 'readTime')}</span>
             </a>
           </li>
         ))}

@@ -236,3 +236,25 @@ Verified: mobile TOC closed visibility:hidden height 1px, open height
 opacity 1 body overflow hidden focus on close button, Escape closes
 (display:none, overflow restored, focus back on hamburger); desktop
 TOC "What was tested" active after scrolling to it. Build 100 pages.
+
+## v10 — Skill 1: frontend-design (Anthropic), AI tells removed (2026-11-03)
+Audit against frontend-design §"commonest tells of a generated page"
+and §"AI-generated design clusters":
+- Middle-dot meta strings everywhere (trait 5: 'A · B · C') — removed
+  from article meta, PostRow, featured panel, tag pages, 404 and
+  footer. Meta is now prose with commas, or separated by layout gap
+  (PostRow) / a separate Back-to-blog link (tag pages), never a dot.
+- Decorative status dot in the home pill — removed. Pill now reads
+  "Tested this week: N tools tested" (N is build-time computed,
+  now 19, not a typed number).
+- Scattered fade-and-slide-up on every post row (.reveal, view
+  timeline) — removed. Only the home hero keeps one orchestrated
+  entrance; the list is static editorial content.
+- Featured panel drop shadow in light — removed. Resting panels
+  are hairline only, matching the v5 "no drop shadow on resting
+  cards" rule that the panel itself was violating.
+Checked and kept (not tells here): no all-caps labels, no single-word
+accent in headlines, no numbered eyebrows, no gradient washes,
+no purple-blue glow, no '→' on links, no monospace data labels.
+Numbered list in "How to choose" kept: it is a real sequence.
+Verified: home + article body text contains no '·', build 124 pages.
