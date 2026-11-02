@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with NotebookLM for cited notes from your own files and Anki for spaced repetition. AI notes are a draft, memory comes from recall practice."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-study-notes-india-en.png'
 ---
 
 AI can turn a 50-page chapter into notes in two minutes. That does not mean you have learned the chapter. The difference between a student who uses AI notes well and a student who fails after using them is simple: the first student uses AI to make **practice material**, then practises **recall**. The second student only reads the AI summary and calls that studying.
@@ -33,6 +34,8 @@ If you read nothing else, remember three rules:
 1. **Your own files first** — notes from your own files beat notes from the open internet, because your exam follows your syllabus, not the whole internet.
 2. **Spaced repetition, not just reading** — flashcards without spaced repetition are just reading in disguise.
 3. **Citations matter** — NotebookLM cites the passage behind every claim, which lets you check it. A tool that gives you a summary with no source is asking you to trust it blindly, and you should not.
+
+![A student writing notes in a notebook beside a laptop at a desk](/images/ai-tools-for-study-notes-india/01.jpg)
 
 ## NotebookLM: the strongest free tool for your own material
 
@@ -83,6 +86,8 @@ Language matters for study notes. You can ask NotebookLM and ChatGPT to explain 
 
 Phone and data use is realistic for study AI, but with limits. NotebookLM recommends the desktop version for full use, though it works on web, iOS, and Android. Quizlet offline on phone apps is limited to your most recent sets. Anki generated decks work offline on mobile in some tools, while podcasts and audio overviews need a connection. If you have limited data, download audio overviews and decks on Wi-Fi, review flashcards offline, and use AI generation only when you have a connection. Do not waste data regenerating the same notes five times. Generate once, edit once, and revise many times.
 
+![A student taking handwritten notes in a notebook at a bright desk](/images/ai-tools-for-study-notes-india/02.jpg)
+
 ## A study method that actually works with AI
 
 A method that works for most subjects has five steps, and AI helps with only two of them:
@@ -109,6 +114,8 @@ For [maths](/blog/ai-tools-for-maths-homework-india/), science, and other proble
 - Do not use AI audio overviews as a replacement for reading a chapter the first time. Audio revision works after understanding, not before.
 
 A final trap is using AI to avoid difficult topics. Students often generate notes for easy chapters and skip hard chapters, because AI makes easy chapters feel finished. Do the opposite: spend AI time on hard chapters, ask for step-by-step explanations, and practise those topics more, not less. Exams test hard topics more than easy ones, and AI is most useful exactly where you struggle, if you use it to understand, not to avoid.
+
+![A student studying books and notes for final exams](/images/ai-tools-for-study-notes-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -138,3 +145,9 @@ Before you pay for any study tool, answer these questions in writing:
 If you cannot answer those questions, you are not ready to pay yet, and another two weeks on free tools will give you a clearer answer than any review article can.
 
 AI study tools in India in 2026 are genuinely useful, but only when you treat them as draft makers and practice makers, not as memory machines. Use free tools to make good material from trusted sources, edit that material carefully, and then do the hard work yourself: recall, write, solve, and repeat. That is how a student saves money, learns faster, and actually remembers on exam day.
+
+**Image credits:**
+
+- Student writing notes in a notebook beside a laptop at a wooden desk — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Writing_notes_while_using_a_laptop_at_a_desk.jpg), photo by Nenad Stojković, CC BY 2.0 (resized for this page).
+- Young woman taking notes in a notebook at a bright desk — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Young_woman_taking_notes_and_studying_at_desk_with_snacks_nearby_in_a_bright_workspace_setting.jpg), photo by Shixart1985, CC BY, attribution required (resized for this page).
+- Student studying books and notes for final exams — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studying.jpg), photo by Gnarlycraig, public domain (resized for this page).
