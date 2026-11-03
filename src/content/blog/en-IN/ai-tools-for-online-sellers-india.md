@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start on Meesho for 0% commission, use Claid.ai's trial for photos and ChatGPT free for descriptions — pay only when sales repeat."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-online-sellers-india-en.png'
 ---
 
 ## The short answer
@@ -16,6 +17,8 @@ heroAlt: ""
 If you sell on Meesho, Amazon or Flipkart in India, start with Meesho, because Meesho charges 0% commission across all categories and charges no registration fee. For product photos, use the free trial of Claid.ai before you pay for any photography tool, and for product descriptions use the free tier of ChatGPT in Hindi, English or Hinglish. Do not build your costs around tools that are called "free" in old blog posts: PhotoRoom's free plan is for personal, non-commercial use only, so it is not the right free option for commercial listings, and Pebblely has no free plan at all on its current pricing page. Prices, commissions and free limits change often, so re-check the official pricing or help page of every tool below before you pay for anything or promise a buyer a deadline based on a tool.
 
 Selling online in India is mostly a phone-first, low-margin business. A saree seller in Surat, a mobile-cover seller in Delhi or a snacks seller in Indore does not need an expensive studio. What they need is a clean first photo, a title written in the words buyers actually type, an honest description that answers size, material and delivery questions, and a clear idea of what the platform keeps from every sale. The tools below cover exactly those four jobs. None of them replaces good stock, honest pricing or fast dispatch, but they remove the two most common starting blocks: "photo achhi nahi hai" and "description kya likhun".
+
+![Hands packing a cardboard parcel with a shipping label, surrounded by clothes and envelopes](/images/ai-tools-for-online-sellers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -67,6 +70,8 @@ ChatGPT's free tier is free to use, and its [official help page](https://help.op
 
 A description that works on Indian marketplaces is short, specific and honest. Start with what the product is, then size and material, then what's included, then who it suits, then care or use notes. Write the title in the words buyers type in search, not in clever English. For a Meesho buyer, a Hindi or Hinglish description often converts better than formal English, and ChatGPT free handles both; just read the Hindi back yourself, because AI Hindi sometimes invents a feature or a size you never gave it. Never let any AI tool invent specifications, warranty, or "original brand" claims for your product. If the description promises something the product cannot do, the return and the bad rating are yours, not the tool's.
 
+![Hands wrapping merchandise in tissue paper and placing it into a cardboard box](/images/ai-tools-for-online-sellers-india/02.jpg)
+
 ## Adobe Express Free: banners and creatives without a designer
 
 Adobe Express Free gives sellers a design tool without a subscription: its [official free-plan page](https://helpx.adobe.com/express/web/adobe-express-subscription/free.html) lists access to more than 100,000 static and video templates, more than 4,000 fonts from the Adobe Fonts collection, standard photo, video and document editing tools, and 5 GB of storage, on web, mobile and iPad. That is enough to make festival sale banners, "new stock" announcements, price posters for WhatsApp status, and simple listing creatives. It is not presented here as a background remover, because the free features listed on Adobe's own page do not promise background removal on the free plan; if you need background removal, use Claid.ai's trial counts or a paid tool instead of assuming Adobe Express Free includes it.
@@ -93,6 +98,8 @@ On day one, list or refresh your best 10 products: one Claid.ai AI photoshoot im
 
 Avoid using PhotoRoom's free plan for commercial listings, because its own help page limits the free plan to personal, non-commercial use. Avoid paying for Pebblely or any photography subscription before your first repeat sales, because a paid tool cannot fix a bad price or a weak product. Avoid copying a competitor's listing word for word; marketplaces penalise copied content, and a copied description usually carries the competitor's specifications, not yours. Avoid AI descriptions that invent features, materials, warranties or brand names. Avoid free background-removal previews that are too small for a main image: remove.bg's free downloads, for example, are previews of up to 0.25 megapixels, about 625 by 400 pixels, which is too small for a marketplace hero image, so do not build your catalogue on them. Avoid ignoring shipping and return costs when you set a price, because Meesho charges shipping plus 18% GST on shipping, and Amazon and Flipkart fees vary by category, price and fulfilment. And avoid promising a buyer a delivery date or a feature based on what an AI tool told you; check the platform's own page first.
 
+![Two small-business sellers packing e-commerce orders at a table with a laptop and stacked boxes](/images/ai-tools-for-online-sellers-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which platform should a new seller start on, Meesho, Amazon or Flipkart?** Start on Meesho if your products are low-priced and you are new, because Meesho charges 0% commission across categories and no registration fee. Add Flipkart if your products are fashion or priced below ₹1,000, where its commission is also 0%. Add Amazon when your product has brand value or a higher price that can absorb category referral fees, closing fees from ₹2 and shipping from ₹37 per item.
@@ -114,3 +121,8 @@ Avoid using PhotoRoom's free plan for commercial listings, because its own help 
 Start on Meesho for 0% commission, use Claid.ai's trial for photos and ChatGPT free for descriptions — pay only when sales repeat. That single sequence keeps a new seller's costs near zero while the catalogue learns what buyers actually want. Add Flipkart for fashion and sub-₹1,000 products, add Amazon when margins allow it, and treat every paid tool as a monthly cost that must earn itself back in extra profit. Prices, commissions and free limits change, so re-check the official pricing and help pages linked in this article before you pay for anything or promise a buyer a deadline.
 
 For listing photos, also read our guides on [free AI photo editors in India](/blog/free-ai-photo-editors-india/), [free AI image generators in India](/blog/free-ai-image-generators-india/) and [free AI image upscalers in India](/blog/free-ai-image-upscalers-india/). For descriptions and promotion, see [AI writing assistants free vs paid in India](/blog/ai-writing-assistants-free-vs-paid-india/) and [AI tools for social media in India](/blog/ai-tools-for-social-media-india/).
+
+**Image credits:**
+- Hands packing a labelled parcel for delivery — [Pexels photo by Liza Summer](https://www.pexels.com/photo/woman-preparing-box-with-parcel-for-sending-6347513/) (Pexels License)
+- Hands wrapping merchandise into a cardboard box — [Pexels photo by Kampus Production](https://www.pexels.com/photo/close-up-of-person-packing-an-order-into-a-cardboard-box-7857523/) (Pexels License)
+- Two sellers packing e-commerce orders at a startup workspace — [Pexels photo by Kampus Production](https://www.pexels.com/photo/couple-packing-products-together-7289732/) (Pexels License)
