@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with expenseOS for AI budgets, Moneyview for SMS tracking, and CRED for bill reminders. Track first, pay for nothing yet."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-personal-finance-india-en.png'
 ---
 
 Personal finance in India in 2026 is mostly a tracking problem, not a knowledge problem. Most people already know they should spend less than they earn, but they do not know where the money actually went, which bill is due this week, or how much of the month is left in each category. The tools in this article fix that specific gap: they record spending, sort it into categories, remind you before a bill is due, and in some cases suggest a budget based on your own numbers. None of them is investment advice, none of them promises returns, and none of them can save money for you. This article is educational only. It will not tell you where to invest, and any tool that promises guaranteed returns or guaranteed savings should be treated as a warning sign, not a feature.
@@ -25,6 +26,8 @@ The short answer for India is this: use [expenseOS](https://expenseos.app/) for 
 | CRED | Card and utility bill reminders | Members only, credit score 750+ needed | Credit card users |
 | INDmoney | Net-worth view, portfolio analytics | Some features are paid extras | One view of everything |
 | ChatGPT / Gemini | A first budget draft from your numbers | Limits change; check the help pages | Drafting, not tracking |
+
+![A person using a calculator to work out a monthly budget](/images/ai-tools-for-personal-finance-india/01.jpg)
 
 ## expenseOS: the AI budget built for India
 
@@ -56,6 +59,8 @@ Splitwise is also the right place for a privacy note that applies to every tool 
 
 Goodbudget suits a single person or a couple who want hard category limits, for example a fixed grocery envelope, a fixed transport envelope, and a fixed eating-out envelope, with the rule that an empty envelope means waiting until next month. It suits nobody who hates typing entries. If you hate typing, use an SMS tracker instead and set category budgets there. The method matters more than the app, and the honest test is one month: if you did not open the app in week three, the method failed, and a different tool will not fix it.
 
+![A glass jar labelled Savings filled with coins, beside a calculator](/images/ai-tools-for-personal-finance-india/02.jpg)
+
 ## CRED: bill reminders for credit card users, with a membership gate
 
 [CRED](https://cred.club/) is a members-only Indian app for credit card users, and its membership rule is the first thing to check: you need a credit score of 750 or above to join. Inside, it manages multiple credit cards, tracks spends, monitors EMIs, spots hidden charges and duplicate spends, sends timely bill payment reminders, and covers utility bills, DTH, mobile recharge, rent, and more, with autopay for recurring bills. It uses the Bharat Bill Payment System platform for bill payments for supported banks. For a card user, that combination is genuinely useful: one place for every card bill, reminders before due dates, and a check for charges you did not expect.
@@ -84,6 +89,8 @@ Privacy is the third limitation, and it deserves its own paragraph. SMS trackers
 
 Avoid any app that promises guaranteed returns, guaranteed savings, or a fixed monthly income from an investment, because no legitimate tool can guarantee those. Avoid sharing OTPs, passwords, or bank login details with any app, agent, or chatbot, because no legitimate tracker needs them. Avoid linking a bank account by username and password where an SMS-read or manual-entry option exists, because a password link gives far more access than tracking needs. Avoid taking a loan offered inside a tracker unless you decided on paper, separately, that the loan is necessary, because an in-app offer is designed to be accepted quickly. Avoid paying for a premium tier on day one: use the free tier for a full month first, and pay only for a specific feature you hit a limit on, such as expenseOS Pro for more AI questions or Splitwise Pro for unlimited trip expenses. Avoid recording private spending in shared groups, and avoid treating a chatbot's numbers as verified. A budget that survives contact with real spending is worth more than a beautiful budget nobody tracked.
 
+![A couple reviewing household bills and expenses on a laptop at home](/images/ai-tools-for-personal-finance-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free tool is best for a first budget in India?** Start with expenseOS for the AI budget itself, because its free plan includes tracking, budgets, predictions, and five AI questions a day, and add Moneyview or ET Money if you want automatic SMS tracking alongside it.
@@ -103,3 +110,8 @@ Avoid any app that promises guaranteed returns, guaranteed savings, or a fixed m
 ## The final verdict
 
 Start free with expenseOS for AI budgets, Moneyview for SMS tracking, and CRED for bill reminders. Track first, pay for nothing yet. That combination covers the three jobs that matter: a plan, automatic recording, and a reminder before a bill is due. Add Splitwise only if you share bills, Goodbudget only if you want hard envelope limits, and INDmoney only if you want one net-worth view. Use a chatbot only to draft, never to decide, and re-check every price and limit on the official page before paying, because free limits change and a tool that is free today can gate a feature tomorrow. One month of honest tracking teaches more about your money than any premium plan, and it costs nothing.
+
+**Image credits:**
+- A person using a calculator to work out a monthly budget — [Mikhail Nilov on Pexels](https://www.pexels.com/photo/couple-people-woman-coffee-6963030/) — Pexels License (free to use)
+- A glass jar labelled "Savings" filled with coins, beside a calculator — [Towfiqu barbhuiya on Pexels](https://www.pexels.com/photo/clear-glass-jar-with-silver-coins-9821387/) — Pexels License (free to use)
+- A couple reviewing household bills and expenses on a laptop at home — [Mikhail Nilov on Pexels](https://www.pexels.com/photo/couple-people-coffee-laptop-6964363/) — Pexels License (free to use)
