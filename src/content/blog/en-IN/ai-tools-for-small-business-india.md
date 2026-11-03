@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with Vyapar for billing, Khatabook for udhaar and WhatsApp Business for customers — all free. Add Zoho only when your customer list grows."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-small-business-india-en.png'
 ---
 
 A small shop in India does not need expensive software. For most daily work — making a bill, tracking who owes money, posting an offer on social media, and replying to customers — there are free tools that work on an ordinary Android phone, accept UPI, and handle GST. This article covers only tools that work in India without a VPN, with their free limits stated honestly.
 
 The short answer is: start with Vyapar for billing and stock, Khatabook for udhaar, and WhatsApp Business for talking to customers. If you send formal GST invoices to companies, use Zoho Invoice instead, because it is free forever for Indian businesses. Add a CRM like Zoho CRM only when your customer list becomes too big to manage in a notebook or on WhatsApp.
+
+![A small shop owner standing by his storefront](/images/ai-tools-for-small-business-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -101,6 +104,8 @@ ChatGPT's free plan is useful for a small business for drafting product descript
 
 Use free AI chat for drafts and ideas, never as the final word on prices, GST rates, or legal promises. Check every AI-written price, date, and claim before it reaches a customer, because a wrong price in a forwarded message becomes your problem, not the chatbot's.
 
+![A cashier using a modern point-of-sale terminal at a shop counter](/images/ai-tools-for-small-business-india/02.jpg)
+
 ## Using these tools in India: language, payment, and no VPN
 
 All the tools above work in India without a VPN, on ordinary internet connections and budget Android phones. Language is the first practical point: Khatabook supports 12 languages, Vyapar and Zoho products are built for Indian GST workflows, and WhatsApp works in the language your customers already use. Write offers and replies in the customer's language first; English-only marketing loses buyers in most local markets.
@@ -112,6 +117,8 @@ One more India-specific habit: keep a paper or PDF copy of every GST invoice and
 ## What to avoid
 
 Do not pay for desktop billing software before you need multi-device sync; the Android free version covers a single-counter shop. Do not buy a paid WhatsApp API plan while the free Business app still handles your volume. Do not buy an annual CRM or design subscription on day one; use the free tier until a real limit blocks real work. Do not put customer phone numbers, addresses, or payment details into a free AI chat tool for drafting — keep customer data inside the billing, CRM, or WhatsApp tools that are meant for it. Do not trust AI-generated prices, GST percentages, or offer dates without checking them yourself. And do not run the whole business from one phone with no backup: turn on automatic backup in Khatabook and export your invoices monthly from whichever billing tool you choose.
+
+![A billing machine printing a receipt at a shop counter](/images/ai-tools-for-small-business-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -130,3 +137,8 @@ Do not pay for desktop billing software before you need multi-device sync; the A
 ## The final verdict, and a checklist before you pay
 
 Start with Vyapar for billing, Khatabook for udhaar and WhatsApp Business for customers — all free. Add Zoho only when your customer list grows. Before you pay for anything, check the official pricing page, confirm the free limit that actually blocks you, and make sure the paid plan fixes that exact problem. Free tools cover a small Indian business further than most owners expect; paid plans should follow real growth, not guesswork.
+
+**Image credits:**
+- Small shop owner standing by his storefront: [Pexels photo by Zeynep Sude Emek](https://www.pexels.com/photo/portrait-of-a-shop-owner-standing-by-his-store-36753978/), Pexels License.
+- Cashier using a modern point-of-sale terminal at a shop counter: [Pexels photo by iMin Technology](https://www.pexels.com/photo/woman-in-gray-baseball-cap-and-apron-standing-at-a-cash-desk-12935045/), Pexels License.
+- Billing machine printing a receipt at a shop counter: [Pexels photo by GOWTHAM AGM](https://www.pexels.com/photo/close-up-of-a-till-printing-the-receipt-19224085/), Pexels License.
