@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Google Lens and Pl@ntNet for plant IDs; pay for Planta only if you want smart watering reminders for many plants."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-gardening-india-en.png'
 ---
 
 Gardening in India usually starts with a simple question, not with a shopping list. What is this plant growing in the pot, why are its leaves turning yellow, and when should it be watered again? A plant bought from a nursery often comes with no name tag, a cutting from a neighbour comes with no instructions, and a plant found on a walk comes with no warning about whether it is safe for children or pets. AI gardening tools answer the first question from a photo, and the better ones also handle the second and third: they diagnose visible problems, and they remind you to water, feed, and repot at the right time.
@@ -18,6 +19,8 @@ The direct answer for India is this: **start free with Google Lens for instant i
 One warning applies to every tool in this article, and it matters more here than in most tool categories: **never eat, touch, or give medicine based only on an app's identification.** Apps identify from a photo, and a photo can mislead them. A vendor claim of 98 percent accuracy is a marketing claim, not a guarantee for your plant, in your light, in your photo. If a plant might be toxic, or if you are unsure whether something is edible, confirm with a local nursery, a botanist, or a reliable reference before acting. The apps are excellent for naming and care, and they are not a substitute for expert advice on safety.
 
 This article is written for India on purpose: balcony and terrace gardeners in flats, people with a few pots and a busy schedule, beginners who cannot tell a money plant from a pothos, and families growing tulsi, curry leaves, mint, chillies, tomatoes, hibiscus, and marigold. Prices and limits change often, so **re-check the official pricing and help page inside the app before paying or promising a deadline.** Nothing here is a paid recommendation, and no tool paid to appear in this list.
+
+![A gardener watering flowering plants with a metal watering can](/images/ai-tools-for-gardening-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -61,6 +64,8 @@ The free part is real: the app is listed as free with in-app purchases, and iden
 
 PictureThis also has a weakness shared by every identification app: its accuracy claim of over 98 percent is the vendor's own claim, measured on its own data, not an independent test on Indian balcony plants. Treat its disease diagnosis as a strong suggestion, not a prescription, and if a plant keeps getting worse, take a sample or a photo to a nursery rather than trusting a second automated diagnosis.
 
+![Balconies decorated with potted plants and flowers](/images/ai-tools-for-gardening-india/02.jpg)
+
 ## Planta: the best free care reminders for many plants
 
 Planta is the care app in this list, and its strength is not identification but routine. Its official site promises an individual care schedule and reminders for each plant, with step-by-step guides, identification, and a light meter, and it reports more than 7 million plant lovers using it. Its help centre states plainly that the app is free to download and use, and that you will not be charged simply for downloading it or creating an account. Premium is a separate subscription, offered on monthly, 3-month, and 12-month plans inside the app.
@@ -101,6 +106,8 @@ Balcony and terrace gardening has its own rules that no app replaces. Pots need 
 
 **Do not pay for two identification apps.** Identification is a commodity now: Lens, Pl@ntNet, and Seek all do it free. Pay only for something the free tools do not give you, such as Planta's smart reminders for many plants, or one all-in-one app's disease diagnosis. If you are sharing your garden online, the [AI tools for social media in India](/blog/ai-tools-for-social-media-india/) cover captions, scheduling, and posting, which is a separate job from plant care.
 
+![Hands planting a young seedling in fresh soil](/images/ai-tools-for-gardening-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which is the best free plant identification app in India?** Google Lens for instant identification, because it is already on most Android phones and costs nothing, with Pl@ntNet as a free second opinion. If both agree, the identification is reasonably reliable. If they disagree, treat the plant as unidentified.
@@ -120,3 +127,8 @@ Balcony and terrace gardening has its own rules that no app replaces. Pots need 
 Start free, and pay only for a specific job. Identify plants with Google Lens and confirm with Pl@ntNet, explore with Seek if children are involved, and use Planta's free schedule for reminders. Consider PictureThis if you want disease diagnosis in one app, and PlantSnap or Blossom if you prefer their libraries or guides. Before paying for anything, check the price inside your own app, confirm whether a free trial auto-renews, and cancel the trial if you do not want it.
 
 Before you pay, run this checklist: have you tried the free tier for a week? Does the paid feature do something the free tools do not? Is the price shown in rupees in your app, and does it match what you expected? Have you set a reminder before the trial ends? And most importantly, have you checked the soil with your finger today? The best gardening tool in India is still a gardener who looks at their plants every day, and these apps are at their best when they support that habit rather than replacing it.
+
+**Image credits:**
+- Watering can pouring water on garden flowers — [Pexels](https://www.pexels.com/photo/a-person-watering-plants-7658813/) by Kampus Production, Pexels License
+- Balconies with potted plants and flowers — [Pexels](https://www.pexels.com/photo/balcony-with-potted-plants-16766905/) by Lukas Kosc, Pexels License
+- Hands planting a young seedling in fresh soil — [Pexels](https://www.pexels.com/photo/a-person-planting-on-a-soil-7944396/) by Ron Lach, Pexels License
