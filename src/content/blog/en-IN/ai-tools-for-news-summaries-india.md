@@ -9,9 +9,12 @@ category: best-tools
 draft: false
 verdict: "Start with Inshorts for 60-word Hindi and English news, add Finshots for money news, and check Perplexity answers against its citations."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-news-summaries-india-en.png'
 ---
 
 If you want the day's news without reading ten long articles, start with [Inshorts](https://inshorts.com/) for 60-word Hindi and English shorts, add [Finshots](https://finshots.in/) if you care about money news, and use [Perplexity](https://www.perplexity.ai/hub/pricing) only when you want a cited answer to a specific breaking story. That combination covers general news, business news, and on-demand questions, all free, and all working in India without a VPN. Everything else in this article is for a specific need: 14 Indian languages, bias comparison, a tech-only digest, or a fully personalised AI news feed.
+
+![A man reading news on his smartphone in a cafe](/images/ai-tools-for-news-summaries-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -85,6 +88,8 @@ TLDR is the pick for readers who follow technology, AI, startups, and programmin
 
 One caution: TLDR's summaries are short by design, and its links go to the original publishers. If a story affects your work or money, open the original article before acting on the summary.
 
+![A cup of coffee beside a newspaper and reading glasses on a morning table](/images/ai-tools-for-news-summaries-india/02.jpg)
+
 ## Perplexity: ask for a cited summary of a breaking story
 
 Perplexity is not a news app, but it is the best free way to get a cited summary of a specific story on demand. You ask a question, such as what happened in a particular event and what different sources say, and it answers with citations to the sources it used. Its official pricing page lists a free plan at 0 dollars a month, with search, accurate answers, and citations, and limited daily usage. Its paid Pro plan is listed at 17 dollars a month when billed annually, with raised limits and more models.
@@ -133,6 +138,8 @@ Third, avoid dead or zombie apps. Artifact is the famous example: wound down in 
 
 Fifth, avoid building your whole news diet inside one personalised feed. Personalisation is convenient, but it narrows what you see over time. Keep at least one source that shows you stories you did not ask for, whether that is Google News, a newspaper homepage, or Ground News. If you also listen to news, our article on [podcast and audio AI tools](/blog/ai-tools-for-podcast-audio-india/) covers audio briefings that fit a commute.
 
+![A family sitting on a couch watching television together](/images/ai-tools-for-news-summaries-india/03.jpg)
+
 ## Frequently asked questions
 
 **What is the best free AI news summary app in India?** For most readers, Inshorts, because it is free, Indian, and publishes 60-word shorts in English and Hindi. Add Google News for breadth and Finshots for money news.
@@ -156,3 +163,8 @@ Fifth, avoid building your whole news diet inside one personalised feed. Persona
 Start with Inshorts for 60-word Hindi and English news, add Finshots for money news, and check Perplexity answers against its citations. That is the whole system for most readers, and it costs nothing. Add Dailyhunt if you read in another Indian language, TLDR if you follow tech, and Ground News when a story's framing matters more than its facts.
 
 Before you pay for any news tool, run this checklist: have you used the free tier for a full week, does it cover Indian news as well as world news, does it work in your language without a VPN, and have you checked the rupee price on the official pricing page? If any answer is no, stay free for now. Prices and limits change, so re-check the official page before paying or promising a deadline based on any tool in this article.
+
+**Image credits:**
+- A man reading news on his smartphone in a cafe — [Sóc Năng Động on Pexels](https://www.pexels.com/photo/man-reading-smartphone-in-cafe-during-daytime-37138722/) (Pexels License)
+- A cup of coffee beside a newspaper and reading glasses — [Rafael Minguet Delgado on Pexels](https://www.pexels.com/photo/morning-coffee-with-newspaper-and-eyewear-29085945/) (Pexels License)
+- A family sitting on a couch watching television — [RDNE Stock project on Pexels](https://www.pexels.com/photo/a-happy-family-watching-together-8798919/) (Pexels License)
