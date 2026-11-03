@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with OROO Campus Free for a full ERP, and keep Teachmint free for teaching. Check fee and messaging charges in writing before you switch."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-school-management-india-en.png'
 ---
 
 A school does not run on lesson plans alone. It runs on attendance taken every morning, a timetable that does not clash, fees collected on time, homework reaching parents, and report cards going out without a week of manual work. For a small or mid-size school in India, the question is rarely whether software exists. The question is what is actually free, what needs a technician to run, and what will quietly start charging once parents and teachers depend on it.
@@ -16,6 +17,8 @@ A school does not run on lesson plans alone. It runs on attendance taken every m
 The short answer for India is this: start with [OROO Campus](https://www.oroocampus.com/) Free if you want one full school ERP at no monthly cost, because its Campus Free plan is listed at 10,000 students for 0 rupees per month. Keep [Teachmint](https://www.teachmint.com/en-us/features/school-management-software) free for teaching work, because its teacher app is free while its full school ERP is a paid product quoted per school. Use [Fedena](https://www.projectfedena.org/) Open Source only if your school has someone who can install and maintain software, because it is free to download but supported by its community, not by a vendor team. Try [EdProSys](https://edprosys.com/) free to start if WhatsApp messages to parents matter most to you, because it is built WhatsApp-first for Indian schools. Consider [LEAD School ERP](https://leadschool.in/school-owner/solutions/school-erp-software/) only as a quoted, paid option for a larger school, and use [GegoK12](https://gegok12.com/best-free-automatic-timetable-generator-for-schools/) if your biggest pain is the timetable itself, because its automatic timetable generator is free and open source.
 
 This article is written for India on purpose: CBSE, ICSE, and state board schools, private schools and coaching institutes, Hindi and English communication with parents, a normal phone and laptop, UPI and online fee payment, and no assumption that you have an IT department, a US school account, or a large annual software budget. It also carries a warning that matters more for schools than for any other group in this series: a school ERP holds children's names, attendance, fees, and marks. A free account does not settle that responsibility. Only a tool your school has checked for data access, export, and backup should ever hold student records, and no student's work or personal details should ever be pasted into a free chatbot. For classroom prep tools, see our guides to [AI tools for teachers in India](/blog/ai-tools-for-teachers-india/) and [AI tools for study notes in India](/blog/ai-tools-for-study-notes-india/).
+
+![A teacher with students in a classroom](/images/ai-tools-for-school-management-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -76,6 +79,8 @@ The reason the timetable belongs inside the ERP, rather than in a spreadsheet, i
 
 The cost of GegoK12 is not money but ownership. It is free to deploy, customise, and scale, and the complete platform is open source, but your school still needs someone to install it, update it, and back it up. That is the same trade as Fedena: free software, real responsibility. If you have that person, GegoK12 is an excellent free answer to the timetable problem. If you do not, prefer a hosted free plan like OROO Campus Free, where the vendor carries the servers, and keep GegoK12 in mind for the year you hire or train that person.
 
+![Students raising their hands in a classroom](/images/ai-tools-for-school-management-india/02.jpg)
+
 ## Using school AI in India: language, payment, and no VPN
 
 Every tool in this article is built to work in India without a VPN, because every one of them is a web platform or an app sold to Indian schools, not a region-locked consumer product. That is the good news. The harder India questions are language, payment, and parent access, and they decide whether a tool works in your school or only in its demo.
@@ -98,6 +103,8 @@ Fourth, do not pay for two tools that do the same job. A school that buys a full
 
 Finally, do not ignore the paid-only options entirely, but do not let them set your budget either. MyClassboard, for example, is a well-known Indian school ERP that describes itself as all-in-one and affordable, with academics, finance, transport, messaging, and admissions, but this article found no public free tier for it, so it belongs in the quote pile with LEAD and Teachmint ERP, not in the free pile. Get its quote if you are comparing paid systems, and compare it line by line with the free options above, not against a headline price.
 
+![Students walking together in a school hallway](/images/ai-tools-for-school-management-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which school management tool is actually free in India?** OROO Campus Free is the clearest free full ERP in this list, listed at up to 10,000 students for 0 rupees per month. Fedena Open Source and GegoK12 are also free, but you host and maintain them yourself. Teachmint's teacher app is free while its ERP is paid, and EdProSys is free to start without a published full price list.
@@ -119,3 +126,8 @@ Finally, do not ignore the paid-only options entirely, but do not let them set y
 Start with OROO Campus Free for a full ERP, and keep Teachmint free for teaching. Check fee and messaging charges in writing before you switch. That is the whole decision in one line, and everything else in this article is the evidence for it.
 
 Before you move a school year onto any tool, run this checklist. First, run one real week on the free plan with real classes, real fees, and real parents. Second, get the quote in writing with modules, messaging costs, gateway rates, and contract length as separate lines. Third, confirm data export and backup in a format you can actually use. Fourth, test the parent's journey on a low-cost phone on mobile data, in the language your parents read. Fifth, re-check the official pricing and help pages before you pay or promise a deadline, because prices and limits change. A school that does those five things will pick well, whether it ends on OROO, EdProSys, Teachmint, Fedena, LEAD, or GegoK12, and a school that skips them will pay for a demo instead of a system.
+
+**Image credits:**
+- A teacher with students in a classroom — [Pexels](https://www.pexels.com/photo/teacher-and-students-in-classroom-8419196/), photo by RDNE Stock project, Pexels License (free to use).
+- Students raising their hands in a classroom — [Pexels](https://www.pexels.com/photo/students-raising-their-hands-in-the-classroom-5212329/), photo by Max Fischer, Pexels License (free to use).
+- Students walking together in a school hallway — [Pexels](https://www.pexels.com/photo/students-walking-in-the-hallway-6209356/), photo by cottonbro studio, Pexels License (free to use).
