@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with FitOn free for home workouts and HealthifyMe free for Indian food tracking; pay only when a coach or meal plan actually blocks you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-fitness-india-en.png'
 ---
 
 If you want an AI plan for workouts and food in India without paying first, start with two free combinations: FitOn for home workouts and HealthifyMe for tracking Indian food. Both work in India without a VPN, and neither forces you to pay before you can train or log a meal. Everything else in this article is for a specific need — gym strength training, a structured coach, or deeper food analysis — and each paid wall is named honestly below.
@@ -16,6 +17,8 @@ If you want an AI plan for workouts and food in India without paying first, star
 The short version is this: free tiers in fitness apps are genuinely useful, but they are not all the same. Some apps give you full workouts for free and charge only for extras like meal plans and offline downloads. Others give you a small free taste and put the actual personalised plan behind a subscription. Knowing which kind you are signing up for saves you the most common disappointment in this category: finishing a setup quiz and only then discovering the plan costs money.
 
 A safety note before you start any new plan: these apps are not medical advice. If you have a health condition, an injury, are pregnant, or take regular medication, check with a doctor before starting a new workout or diet plan. An AI coach does not know your medical history, and a free plan is not a diagnosis.
+
+![Woman doing a home workout on a yoga mat in a living room](/images/ai-tools-for-fitness-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -29,6 +32,7 @@ A safety note before you start any new plan: these apps are not medical advice. 
 | [Jefit](https://www.jefit.com/elite) | Gym strength training plans | Free and custom routines, 1,400+ exercises, logging and community | Elite adds professionally designed plans and advanced analytics |
 
 Prices and limits change. Re-check the official pricing or help page of any app before you pay, and never promise yourself a deadline based on a price you saw in an article — including this one.
+
 
 ## HealthifyMe: the Indian food tracker, with a paid AI coach
 
@@ -78,6 +82,8 @@ The free tier, called Basic on Jefit's Elite page, includes free and custom work
 
 Use Jefit free if you already go to a gym or have weights at home and want to plan and log strength sessions. It is not an AI coach in the Freeletics sense — it gives you the planner and the library, and you build the routine — but for lifters, that control is often the point.
 
+![Woman jogging through a sunlit park at sunrise](/images/ai-tools-for-fitness-india/02.jpg)
+
 ## Using fitness AI in India: language, payment, and data
 
 Language first: most of these apps are English-first. HealthifyMe is the most comfortable for Indian users because its food content is Indian, but do not assume Hindi voice guidance or Hindi plans in any app on this list unless you see that option inside the app itself. If you need Hindi, check the app's language settings on your own phone before committing to a plan.
@@ -95,6 +101,8 @@ For workout music to train with, the [free music generators](/blog/free-ai-music
 Avoid any fitness app that asks for payment before showing you a single workout or meal log. A genuine free tier lets you train or log first. Avoid "AI body scan" or "AI diet diagnosis" claims that promise medical results from a photo — no app in this article diagnoses anything, and any app that claims to should not be trusted with your health.
 
 Avoid buying a yearly plan on day one, especially for Freeletics-style plans that charge the whole term up front. Avoid sharing health data with apps whose privacy policy you have not read, and avoid plans that demand daily perfection: a plan you follow four days a week for three months beats a perfect plan you abandon in week one. Finally, avoid copying a stranger's diet or workout volume from social media — your plan should match your body, your schedule, and your food, not an influencer's.
+
+![Colourful Indian thali with a variety of dishes on a brass plate](/images/ai-tools-for-fitness-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -115,3 +123,8 @@ Avoid buying a yearly plan on day one, especially for Freeletics-style plans tha
 Start with FitOn free for home workouts and HealthifyMe free for Indian food tracking; pay only when a coach or meal plan actually blocks you. That is the whole strategy: two free apps, one for moving and one for eating, and money spent only on the exact feature that is missing.
 
 Before you pay for anything, run this checklist. First, have you used the free tier for two full weeks? Second, is the price shown in your own app store in rupees, and do you know whether it is monthly or a full term charged up front? Third, does the paid feature solve a problem you actually have — a meal plan, a coach, offline access — or does it just sound impressive? Fourth, have you read the data safety section for an app that will hold your weight and food history? If any answer is no, stay free for another week. Fitness comes from the routine you keep, not the subscription you buy.
+
+**Image credits:**
+- Home workout on a yoga mat in a living room — [Photo by Marta Wave on Pexels](https://www.pexels.com/photo/woman-working-out-at-home-6453410/) — Pexels License
+- Woman jogging through a sunlit park at sunrise — [Photo by Jan Walter Luigi on Pexels](https://www.pexels.com/photo/woman-jogging-in-park-at-sunrise-16961403/) — Pexels License
+- Colourful Indian thali with a variety of dishes on a brass plate — [Photo by Lalit Bali on Pexels](https://www.pexels.com/photo/delicious-indian-thali-meal-on-a-brass-plate-39044714/) — Pexels License
