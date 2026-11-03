@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with SnapDish for photo-based cooking and PlanNEat for weekly Indian meal plans. Use DishGen's free credits for custom recipes."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cooking-recipes-india-en.png'
 ---
 
 Cooking in India usually starts with a different question from cooking anywhere else. It is not "what should I cook tonight" in the abstract. It is "there is leftover rice, half a cabbage, besan, and two tomatoes — what can I make now, without going to the market, that my family will actually eat?" AI cooking tools are useful exactly when they answer that question, with the ingredients you already have, in the style your household eats, and with the diet rules your household follows.
@@ -16,6 +17,8 @@ Cooking in India usually starts with a different question from cooking anywhere 
 The short answer for India is this: use [SnapDish](https://snapdishapp.in/ai-recipe-generator-free) when you want to photograph your ingredients or your fridge and get a custom recipe back, because it is built for that photo-first job and its free tier needs no signup for the first scan. Use [PlanNEat](https://planneat.in/) when you want a full week of Indian home-style meals planned at once, because it is made for Indian kitchens with regional dishes, nutrition shown while you plan, and one grocery list at the end. Use [DishGen](https://www.dishgen.com/) when you want a fully custom recipe or meal plan from a written idea, because its free tier gives you a usable weekly allowance of credits and its chat lets you ask for substitutions and diet changes. Use [SuperCook](https://apps.apple.com/us/app/supercook-recipe-by-ingredient/id1477747816) when you want real, tested recipes that match your pantry, because it searches millions of existing recipes instead of inventing a new one. Everything else in this article covers a narrower job: a specific diet, a missing ingredient, or a whole week of planning.
 
 This article is written for India on purpose: normal phones and laptops, English and Hindi recipe names, vegetarian, Jain, vegan, and halal filters where they matter, gas stoves as well as microwaves, and prices in rupees where the tool actually charges in rupees. It also carries a warning that matters more for cooking than for most AI jobs: an AI recipe is a draft, not a tested recipe. Quantities, salt, spice, water, and cooking time can be wrong, and for a serious allergy or a medical diet, an AI guess is never enough on its own. Taste as you cook, adjust, and check the official pricing and help pages of any tool before you pay or promise a deadline, because free limits and prices change without notice.
+
+![An Indian woman cooking a traditional meal in a home kitchen](/images/ai-tools-for-cooking-recipes-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -72,6 +75,8 @@ SuperCook's weakness in India is language and cuisine coverage. Its recipe colle
 
 ## Samsung Food: save, organise, and personalise your recipes
 
+![Colourful spice powders in bowls at a market](/images/ai-tools-for-cooking-recipes-india/02.jpg)
+
 Samsung Food is a recipe app with AI woven through it, rather than a pure generator. When you type in or import a recipe, its AI organises the ingredients and connects them to nutrition and price information. Its recommendations learn from your preferences, and its Food Lens feature finds recipes from a photo of food. That makes it a good home for the recipes you already like: save them, organise them, and let the app suggest similar ones, instead of generating something new every time.
 
 The important distinction is between the free app and the paid Food+ subscription. Samsung's own help pages describe recipe personalisation with AI — tap personalise to make a dish healthier, swap in seasonal ingredients, or give it a fusion twist — and the "Use It Up" recipe search for ingredients you already have as part of what the Food+ subscription includes. The free app covers saving, searching, and basic AI organising, but the deeper personalisation and use-it-up features sit behind the paid plan, whose price varies by region and is not stated as a single number here for that reason. If you only want to save and organise recipes, the free app is enough. If you want the AI to rewrite your recipes, check the Food+ price in your region first, and compare it with DishGen's free weekly credits before you pay.
@@ -114,6 +119,8 @@ Avoid AI recipes for baking without a tested source. Baking is chemistry: a wron
 
 Avoid tools that demand a card for a "free" trial without telling you the renewal price and date in plain language. DishGen's paid plans offer a seven-day trial you can cancel, which is fair, but only if you know the trial exists, when it ends, and what it costs after. ChefGPT's pricing disagreement is a warning in itself: if the price is not clear before you pay, do not pay yet. And avoid sharing health data, allergy details, or children's dietary needs with a tool whose privacy policy you have not read, because a recipe generator does not need your medical history to suggest dinner.
 
+![A home-cooked Indian thali served on a brass plate](/images/ai-tools-for-cooking-recipes-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can AI tools make real Indian recipes, not just pasta and salads?** Yes, but the tool matters. PlanNEat and DotIAM start from Indian dishes and regional cuisines, so their recipes taste Indian by default. Global generators like DishGen and ChefGPT can make Indian recipes too, but you have to ask for them specifically — name the dish, the region, and the diet — or they will default to the global dishes they know best.
@@ -131,3 +138,8 @@ Avoid tools that demand a card for a "free" trial without telling you the renewa
 ## The final verdict
 
 Start with SnapDish for photo-based cooking and PlanNEat for weekly Indian meal plans. Use DishGen's free credits for custom recipes. Taste-check AI quantities before you serve. That combination covers the three jobs that matter most in an Indian kitchen: what to cook with what you have, what to cook all week, and what to cook when you want something new. Add SuperCook when you want a tested recipe instead of an invented one, Ingredient Swapper when one ingredient is missing, and DotIAM when the household eats vegetarian and wants Indian recipes by default. Pay for nothing until a free tier has blocked you for a full week, and when you do pay, pay for the tool that blocked the job you actually do, not the tool with the longest feature list. AI will not replace your judgment in the kitchen, but used this way, it will remove the hardest part of cooking in India: deciding what to make, with what you already have, before anyone gets hungry.
+
+**Image credits:**
+- Home cooking in an Indian kitchen — [Pexels photo by Apurva Chandwadkar](https://www.pexels.com/photo/elderly-indian-woman-cooking-traditional-meal-36500351/) — Pexels License
+- Colourful spice powders in bowls at a market — [Pexels photo by Dirk Pothen](https://www.pexels.com/photo/vibrant-display-of-colorful-market-spices-34375935/) — Pexels License
+- Indian thali served on a brass plate — [Pexels photo by Lalit Bali](https://www.pexels.com/photo/delicious-indian-thali-meal-on-a-brass-plate-39044714/) — Pexels License
