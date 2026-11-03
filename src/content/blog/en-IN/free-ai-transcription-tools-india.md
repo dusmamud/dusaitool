@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "For audio files use TurboScribe free, for live meetings use Otter free, and for unlimited work run Whisper on your own computer."
 heroAlt: ""
+ogImage: '/og/free-ai-transcription-tools-india-en.png'
 ---
 
 If you have a recorded lecture, an interview, a client call, or a long voice note and you need it as text, you do not need to pay on day one. What you do need to know is that free transcription tools are not all free in the same way. Some give you a monthly minute allowance, some limit the number of files per day, some transcribe live meetings for free but charge credits for summaries and uploads, and one popular name is only a short trial dressed up as a free plan. Confusing those models is how people run out of minutes halfway through a recording.
@@ -16,6 +17,8 @@ If you have a recorded lecture, an interview, a client call, or a long voice not
 The short answer for India is this: for audio and video files you already have, use TurboScribe free, which allows 3 files per day of up to 30 minutes each. For live meetings on Zoom, Google Meet, or Microsoft Teams, use Otter free, which gives 300 transcription minutes per month. If you regularly need more than that and you are comfortable installing software on your own computer, OpenAI Whisper is free and has no monthly cap at all, because it runs locally instead of on a company's servers. Everything else in this article is useful for a specific job, not as a general replacement for those three.
 
 This article is written for India on purpose: normal broadband and mobile data, Hindi and English speech, Indian accents and code-mixed Hinglish, and no assumption that you have a paid plan, a studio microphone, or a developer account. Every tool below works in India without a VPN. One warning applies to the whole category and is worth stating plainly: a transcript is not a perfect record. Names, numbers, and technical terms are the first things a free model gets wrong, so always check the text against the audio before you quote it, submit it, or act on it.
+
+![A man wearing headphones and typing on a laptop at home](/images/free-ai-transcription-tools-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -87,6 +90,8 @@ There is one more free option that is not a transcription tool at all, and it is
 
 It is not file transcription. You cannot upload a recording and get text back; a human has to speak in real time. It also runs through your browser's speech-to-text service, which processes the speech according to the browser's own rules. Use it for dictation and first drafts, and use the tools above for recordings that already exist. If your main need is a voice for a video rather than text from audio, our article on [free AI voice tools](/blog/free-ai-voice-tools-india/) covers the other direction, text to speech.
 
+![A professional microphone and headphones on a boom arm in a recording studio](/images/free-ai-transcription-tools-india/02.jpg)
+
 ## Using transcription tools in India: language, payment, and no VPN
 
 All the tools in this article work in India on normal broadband and mobile data, without a VPN. That matters because some AI tools quietly block Indian sign-ups or Indian payment methods, and none of the free tiers here showed that problem in our checks. Free tiers also mostly need no payment method: Notta states no credit card is required for its free plan, and Sonix asks for no card for its trial. Where a tool does ask for a card for a free trial, treat that as a warning sign and check what happens when the trial ends.
@@ -102,6 +107,8 @@ Do not upload a recording you would not want leaked. Free cloud transcription se
 Do not trust a raw transcript for numbers, names, medicine, or law. A model that hears "fifteen" as "fifty" has not made a small mistake if the number is a dose, a price, or a date. Always check the transcript against the audio for anything you will quote, submit, or act on. Do not buy a paid plan because a marketing page says "unlimited" without reading what is actually unlimited; Fireflies shows why, since its unlimited part is bot meeting transcription while summaries, uploads, and storage all have their own caps.
 
 Do not use transcription to cheat an exam or an assessment that requires your own work, and do not present an AI transcript of someone else's words as your own writing. A transcript is a record of what was said, not an essay you wrote. And do not pick a tool for one feature and then discover its real limit later: Otter's 3 lifetime file imports, Notta's 3 minutes per conversation, TurboScribe's 30 minutes per file, and Descript's 60 minutes per month are all limits that should decide your choice before you invest hours in one tool.
+
+![A person writing notes in a notebook beside a laptop and documents](/images/free-ai-transcription-tools-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -133,3 +140,9 @@ Before you pay for anything, run this checklist. First, test your actual audio, 
 - Whisper repository: https://github.com/openai/whisper/
 - Sonix pricing: https://sonix.ai/pricing
 - Google Docs voice typing help: https://support.google.com/docs/answer/4492226?hl=en
+
+**Image credits:**
+
+- A man wearing headphones and typing on a laptop at home — [Pexels](https://www.pexels.com/photo/man-wearing-headset-typing-on-his-laptop-7490529/) by Kampus Production, Pexels License.
+- A professional microphone and headphones in a recording studio — [Pexels](https://www.pexels.com/photo/professional-podcast-microphone-in-studio-37355068/) by Jakub Zerdzicki, Pexels License.
+- A person writing notes in a notebook beside a laptop and documents — [Pexels](https://www.pexels.com/photo/a-person-taking-notes-beside-a-laptop-7698828/) by Yan Krukau, Pexels License.
