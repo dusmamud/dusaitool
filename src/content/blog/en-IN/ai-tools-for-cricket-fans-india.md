@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Use Cricbuzz for free scores, Statsguru for stats, and CricHeroes for local matches; pay only for streaming or highlights you actually use."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cricket-fans-india-en.png'
 ---
 
 Cricket in India does not need another app that shouts predictions at you. What a fan actually needs is simple: a fast live score, a way to check a stat without arguing about it, a short highlight when the match is over, and a plain-language explanation of what just happened. This article covers the tools that do those jobs in India, including the one genuinely useful AI feature for fans — AI-generated highlights of your own local matches — and it deliberately leaves out betting and fantasy-money apps entirely.
 
 The honest starting point is this: scores, commentary and statistics are free on the tools below. You pay only when you want live video streaming or a polished highlight reel. Nothing here will tell you who will win the next match, and any app that promises that is selling you something else.
+
+![A packed cricket stadium crowd in Ahmedabad during a match](/images/ai-tools-for-cricket-fans-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -72,6 +75,8 @@ The rule for using them honestly is simple: chatbots are good at explaining, bad
 
 For a longer comparison of the free chatbot tiers, including what each one actually limits, see our guide to [chatbots beyond ChatGPT and Gemini](/blog/ai-chatbots-beyond-chatgpt-gemini-india/).
 
+![A batsman playing a shot on an open cricket field](/images/ai-tools-for-cricket-fans-india/02.jpg)
+
 ## Cricsheet: free ball-by-ball data for stat nerds
 
 Cricsheet is the quiet, nerdy end of cricket fandom, and it is completely free. Its downloads page offers ball-by-ball data for 23,193 matches, including 921 Tests, 3,226 one-day internationals, 5,845 T20 internationals and 1,243 IPL matches, in JSON, YAML, CSV and XML formats. The data goes back to 2001 for men and 2003 for women, and covers 110 countries.
@@ -106,6 +111,8 @@ Fourth, avoid trusting a single chatbot answer for a record or a score. Chatbots
 
 Finally, avoid yearly passes bought in excitement. Tournaments end, rights move, and a yearly pass bought for one series is money spent on months you will not watch. Buy the tour pass for the tournament in front of you.
 
+![A white cricket ball resting on the grass pitch](/images/ai-tools-for-cricket-fans-india/03.jpg)
+
 ## Frequently asked questions
 
 **What is the best free app for live cricket scores in India?** Cricbuzz, because its scores, ball-by-ball commentary, news and stats are free, it covers international cricket, the IPL and domestic cricket, and its text commentary works well on slow mobile data.
@@ -133,3 +140,8 @@ Before you pay for anything, run this checklist: is the tournament actually incl
 Prices and limits change every season, so re-check the official pricing and help page of any tool before paying or promising someone that a match will be available. That single habit will save you more money than any subscription bundle.
 
 If you like following teams and players between matches, our guides to [YouTube creators](/blog/ai-tools-for-youtube-creators-india/), [social media tools](/blog/ai-tools-for-social-media-india/) and [podcast tools](/blog/ai-tools-for-podcast-audio-india/) cover the video, social and audio side of being a fan.
+
+**Image credits:**
+- Packed cricket stadium crowd at Narendra Modi Stadium, Ahmedabad — [Ajay Parab on Pexels](https://www.pexels.com/photo/cricket-match-at-narendra-modi-stadium-india-36741131/) — Pexels License
+- Batsman playing a shot on an open cricket field — [Engineer John on Pexels](https://www.pexels.com/photo/cricketer-batting-on-a-sunny-day-outdoors-28759015/) — Pexels License
+- White cricket ball resting on the grass pitch — [Rising Studio 07 on Pexels](https://www.pexels.com/photo/cricket-ball-resting-on-grass-pitch-35392636/) — Pexels License
