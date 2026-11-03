@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Khan Academy Kids and Read Along: both free, with Hindi reading on Read Along. Add Family Link before you hand over any device."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-parents-kids-india-en.png'
 ---
 
 A parent's real question about AI tools is not which tool is smartest. It is which tool is safe to hand to a child, works on a normal Indian phone, costs nothing or almost nothing, and actually teaches something. Most AI apps are built for adults. They assume an account, a payment method, and a user who can judge whether the answer is wrong. A child cannot do any of that, so the rules for kids' tools are stricter: no ads aimed at children, no open chat with strangers, no surprise payment, and a parent who can see and limit what happens.
@@ -16,6 +17,8 @@ A parent's real question about AI tools is not which tool is smartest. It is whi
 The short answer for India is this: start with [Khan Academy Kids](https://www.khanacademy.org/kids), which is completely free with no ads, and [Read Along](https://readalong.google/), Google's free reading app that works in Hindi and English and even works offline. Add [Duolingo ABC](https://abc.duolingo.com/) for early reading practice, [Scratch](https://scratch.mit.edu/) when your child is old enough to build things instead of only watching them, and [Google Family Link](https://play.google.com/store/apps/details?hl=en_US&id=com.google.android.apps.kids.familylink) on every device before you hand it over. [Lingokids](https://lingokids.com/) is useful but mostly paid, so try its free content first and check the price at checkout before subscribing. AI bedtime stories are fun, but a parent should preview every story before bedtime, because an AI story can contain a mistake or a scary line that nobody checked.
 
 This article is written for India on purpose: Hindi and English content, low-cost phones, patchy internet in many homes, and no assumption that you have a US account or a paid plan. It also carries a warning that matters more for kids than for any other topic: never type your child's full name, photo, school name, or address into an AI tool, and never let a young child chat freely with an open AI chatbot. The tools below are picked because they limit those risks by design, not because they promise the most features.
+
+![A mother and child reading a colourful picture book together](/images/ai-tools-for-parents-kids-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -84,6 +87,8 @@ Here is the honest limit: the page says "free to start" but does not clearly sta
 
 Two honest limits from Google's own pages. First, Family Link's tools vary depending on the child's device, and screen-time limits work on Android 7 and above and on Chromebooks. Second, and more important, Google says clearly that Family Link does not make the internet safe: it cannot judge the content on the internet, it only gives parents the chance to decide how their child spends time on a device. That is why Family Link works best together with the choices in this article — free, ad-free learning apps first, and open chatbots and random video apps kept out. [YouTube Kids](https://support.google.com/youtubekids/answer/10495678?hl=en-IN), for example, is managed through Family Link, where a parent can choose a content level setting and decide whether the child can use search inside the app. For the wider question of keeping children safe online, including passwords, VPNs, and breach checking, see [AI privacy and safety free tools in India](/blog/ai-privacy-safety-free-tools-india/).
 
+![A young child learning on a tablet at a desk](/images/ai-tools-for-parents-kids-india/02.jpg)
+
 ## Using kids AI tools in India: language, payment, and data
 
 Language comes first. A tool that only works in English will fail a child who thinks in Hindi, Tamil, or Telugu. Read Along supports Hindi and several other Indian languages, Khan Academy India offers Hinglish content, and Khan Academy Kids and Duolingo ABC are English-first but use pictures, sounds, and games that a young child can follow with a parent nearby. If a tool does not offer your home language, use it together with the child for the first weeks instead of leaving the child alone with it.
@@ -97,6 +102,8 @@ Data comes third, and it is the strictest rule. A child's data deserves more car
 Avoid open AI chatbots for young children. A chatbot will answer any question confidently, including questions about health, relationships, or scary topics, and it can invent facts without warning. If an older child uses a chatbot for homework, the rule should be: the chatbot explains, the child writes, and a parent or teacher checks the facts. Never let a child paste homework into a chatbot and submit the answer as their own work without understanding it.
 
 Avoid apps that mix learning with shopping. If an app shows ads, offers in-app purchases on every screen, or locks basic lessons behind a payment wall after a few days, delete it and go back to the free list in this article. A child cannot tell an ad from a lesson, so an ad-free environment is a baseline, not a bonus. Avoid also any "AI tutor" that asks for a child's photo or voice recording without explaining why, and avoid tools that promise exam results or admission. No app can promise that, and any tool that does is selling hope, not learning.
+
+![Two children playing and learning with colourful building blocks](/images/ai-tools-for-parents-kids-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -117,3 +124,8 @@ Avoid apps that mix learning with shopping. If an app shows ads, offers in-app p
 Start with Khan Academy Kids and Read Along: both free, with Hindi reading on Read Along. Add Family Link before you hand over any device. That trio covers reading, maths, and safety without spending anything. Add Duolingo ABC for phonics practice, Khan Academy India for school homework, and Scratch when your child is ready to build games instead of only playing them. Try Lingokids free content before paying, and preview every AI bedtime story yourself.
 
 Before you pay for anything, run this checklist. First, has your child used the free version for at least two weeks and still asked for more? Second, have you checked the price at checkout in rupees, not dollars? Third, does the trial convert automatically, and have you set a reminder before it ends? Fourth, does the app show ads to children or ask for your child's photo or full name? If any answer worries you, stay with the free tools. They are not a compromise — for most Indian families, they are the complete answer.
+
+**Image credits:**
+- A mother and child reading a colourful book together — [Pexels](https://www.pexels.com/photo/mother-and-child-reading-book-together-7269495/) by Kaboompics, Pexels License
+- A young child learning on a tablet at home — [Pexels](https://www.pexels.com/photo/boy-using-tablet-computer-4145072/) by Julia M Cameron, Pexels License
+- Two children playing with colourful building blocks — [Pexels](https://www.pexels.com/photo/children-playing-blocks-and-shapes-8770575/) by Gustavo Fring, Pexels License
