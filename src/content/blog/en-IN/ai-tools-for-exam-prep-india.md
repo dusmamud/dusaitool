@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Embibe's free mocks and Testbook's free tests, then revise daily with Anki. Pay only for the test series of the exam you are taking."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-exam-prep-india-en.png'
 ---
 
 Competitive exams in India are not won by reading more. They are won by attempting tests under time pressure, finding your weak topics, and revising them before you forget them. That is exactly where AI exam tools help, and exactly where they mislead: a tool can generate a beautiful 90-day plan and still fail you if you never attempt a full mock test, or if you trust its answers without checking them against your books.
@@ -16,6 +17,8 @@ Competitive exams in India are not won by reading more. They are won by attempti
 The short answer for India is this: start with [Embibe](https://www.embibe.com/) free mock tests and [Testbook](https://testbook.com/online-test-series) free tests for your exact exam, add [Oliveboard](https://www.oliveboard.in/test-series/) free mocks and [Adda247](https://www.adda247.com/mock-tests) free mocks for comparison, and use [Anki](https://apps.ankiweb.net/) every day for revision. [Physics Wallah](https://www.pw.live/test-series) (PW) and [StudyIQ](https://www.studyiq.com/course-detail/free-upsc-prelims-2027-test-series) are strong for specific exams, especially SSC and UPSC. Use [ChatGPT](https://chatgpt.com/) or [Gemini](https://gemini.google.com/) free only for planners and practice questions, never as your only source of facts. Do not buy a paid test series in your first week. Attempt the free tests first, then pay for one series for the exam you are actually taking.
 
 This article is written for India on purpose: UPSC, SSC, banking, railway, teaching and state exams, Hindi and English medium, a normal phone, UPI payment, and no VPN. It also carries a warning that matters more here than in any other category: an AI answer about a constitutional article, a government scheme, a date, or a cutoff can sound confident and still be wrong. Always check AI answers against the official syllabus, standard books, and previous-year papers. Prices and free limits below are what the official pages showed at research time, and they change often, especially during sale seasons. Re-check the official pricing and help page before paying or promising yourself a deadline.
+
+![A student studying with books and notes in a library while preparing for an exam](/images/ai-tools-for-exam-prep-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -77,6 +80,8 @@ Used badly, they are dangerous. Both free plans work in India without a VPN, but
 
 A practical rule: use chatbots for planning and practice, and use mock-test platforms for measurement. If a chatbot and a mock test disagree, believe the mock test's official-style answer and check your book. And never paste your admit card, application number, password, or phone number into any AI tool. Study material goes in. Personal exam credentials never do.
 
+![A student writing answers on a multiple-choice test sheet with a pencil](/images/ai-tools-for-exam-prep-india/02.jpg)
+
 ## Anki: the revision tool that actually prevents forgetting
 
 Most aspirants fail not because they never studied a topic, but because they studied it once and forgot it. [Anki](https://apps.ankiweb.net/) solves exactly that problem with spaced repetition: it shows you a flashcard again just when you are about to forget it, and it shows hard cards more often than easy ones. You make decks for your exam, for example polity articles, banking abbreviations, railway general awareness, or SSC vocabulary, and you review them daily in short sessions.
@@ -107,6 +112,8 @@ Data and device third: mock tests run in the browser or the app, and they are li
 - Do not read AI summaries instead of the syllabus. If a topic is in the official syllabus and not in your notes, the syllabus wins.
 - Do not judge yourself by one mock score. Judge yourself by the trend across five mocks and by whether your weak topics are shrinking.
 
+![A student focused on writing revision notes at a desk](/images/ai-tools-for-exam-prep-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free mock test is best for SSC CGL?** There is no single best one. Attempt the free mocks on Testbook, Oliveboard and Adda247, plus Physics Wallah's free SSC CBT mocks, and compare their analysis. Buy a paid series only for the platform whose feedback you actually use.
@@ -132,3 +139,8 @@ Start with Embibe's free mocks and Testbook's free tests, then revise daily with
 Before you pay for anything, run this checklist. First, have you attempted the free tests for your exact exam on at least two platforms? Second, is the paid series for your exam's latest pattern, and does its validity cover your exam date? Third, have you checked the price on the official page today, not in a screenshot? Fourth, do you have a daily revision habit in Anki or Quizlet that you have kept for at least two weeks? Fifth, have you worked through previous-year papers, not just new mocks? If any answer is no, fix that first. The cheapest test series is the free one you actually finish, and the most expensive one is the paid one you never open.
 
 For more on the revision habit behind this strategy, see [AI tools for study notes in India](/blog/ai-tools-for-study-notes-india/), and for the maths sections of SSC and banking exams, see [AI tools for maths homework in India](/blog/ai-tools-for-maths-homework-india/). If your exam has an English section, [AI tools for learning English in India](/blog/ai-tools-for-learning-english-india/) covers speaking and vocabulary practice, and [AI tools for interview prep in India](/blog/ai-tools-for-interview-prep-india/) helps after the written stage for exams with interviews. For turning previous-year papers into short notes, [AI PDF tools in India](/blog/ai-pdf-tools-summarize-india/) covers summarising long documents.
+
+**Image credits:**
+- A student studying with books and notes in a library while preparing for an exam — [Pexels](https://www.pexels.com/photo/woman-preparing-for-exam-in-library-7516544/) by SHVETS production, Pexels License.
+- A student writing answers on a multiple-choice test sheet with a pencil — [Pexels](https://www.pexels.com/photo/a-person-writing-on-white-paper-using-pencil-6684265/) by Andy Barbour, Pexels License.
+- A student focused on writing revision notes at a desk — [Pexels](https://www.pexels.com/photo/focused-man-writing-in-notebook-8374246/) by ANTONI SHKRABA production, Pexels License.
