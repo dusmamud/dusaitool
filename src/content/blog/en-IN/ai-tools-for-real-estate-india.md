@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with BoxBrownie for descriptions, CubiCasa for a free floor plan and PropWorth for price checks; never quote an AI price without checking it."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-real-estate-india-en.png'
 ---
 
 A good listing in India today is not just a photo and a phone number. Buyers scroll through dozens of flats on their phones, and the listings that get calls are the ones with a clear description, honest photos, a floor plan and a price that looks believable. AI tools can now do much of that preparation for free, but only within strict limits, and none of them replaces checking the property papers, visiting the flat, or talking to a local broker.
 
 The short answer is this: for an agent or an owner selling in India, the strongest free combination is [BoxBrownie AI Copywriting](https://www.boxbrownie.com/ai-copywriting) for the description, [CubiCasa](https://www.cubi.casa/free-services/) for a free 2D floor plan, [Matterport](https://matterport.com/plans/free)'s free plan for a 3D tour, and [Magicbricks](https://www.magicbricks.com/) PropWorth plus [Housing.com](https://www.housing.com/) price trends for a sanity check on the asking price. Virtual staging from [REimagineHome](https://www.reimaginehome.ai/) or [Spacely AI](https://www.spacely.ai/pricing) can make an empty flat look lived-in, but staged photos must be labelled as staged, or buyers feel misled when they visit.
+
+![A hand holding a set of house keys for a new home](/images/ai-tools-for-real-estate-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -66,6 +69,8 @@ Spacely AI is another virtual staging tool, aimed more at designers and agencies
 
 Use Spacely the same way as REimagineHome: stage one or two key rooms, label them as virtually staged, and keep real photos alongside. If you stage every room of every listing, buyers start to distrust all your photos, which is the opposite of what staging is for.
 
+![Facade of a modern residential apartment building](/images/ai-tools-for-real-estate-india/02.jpg)
+
 ## Indian portals: Magicbricks, Housing.com, 99acres and NoBroker
 
 For buyers, the most useful AI in India is already inside the big portals, and using it costs nothing beyond the portal's normal listing terms.
@@ -112,6 +117,8 @@ All of these tools work in India without a VPN, because they are ordinary websit
 - **Trusting a chatbot for legal answers.** Rent agreements, token amounts and RERA questions need a lawyer or the official portal, not a chatbot.
 - **Using US phone tools blindly in India.** Test number support, WhatsApp support and language support before relying on them.
 
+![A bright, modern living room with natural light](/images/ai-tools-for-real-estate-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can I sell a flat in India using only free AI tools?** Yes, for the marketing part. BoxBrownie covers descriptions, CubiCasa covers a floor plan, Matterport's free plan covers one 3D tour, and REimagineHome covers staging for one flat. Selling itself still needs site visits, document checks and negotiation, which no free tool does for you.
@@ -131,3 +138,8 @@ All of these tools work in India without a VPN, because they are ordinary websit
 Start with BoxBrownie for descriptions, CubiCasa for a free floor plan and PropWorth for price checks; never quote an AI price without checking it. That combination costs nothing, covers the three things buyers check first, and leaves you free to spend money only on the bottleneck you actually hit, whether that is more staging credits, more 3D tours, or a paid portal package.
 
 Before paying for any tool, run this checklist: confirm the free limit on the official pricing page today, test it on one real listing, check whether it supports your buyers' language and WhatsApp, note the renewal date and price in rupees, and keep the real photos and documents ready, because no AI tool replaces a visit, a deed check, or an honest price.
+
+**Image credits:**
+- A hand holding a set of house keys for a new home — [Pexels](https://www.pexels.com/photo/hand-holding-keys-to-a-new-house-real-estate-residential-27522902/) by Jakub Zerdzicki, Pexels License (free to use).
+- Facade of a modern residential apartment building — [Pexels](https://www.pexels.com/photo/facade-of-a-residential-apartment-building-15873009/) by Abdulvahap Demir, Pexels License (free to use).
+- A bright, modern living room with natural light — [Pexels](https://www.pexels.com/photo/bright-modern-living-room-interior-with-natural-light-36777853/) by Curtis Adams, Pexels License (free to use).
