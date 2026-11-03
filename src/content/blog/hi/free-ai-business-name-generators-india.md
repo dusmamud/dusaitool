@@ -111,7 +111,7 @@ Hostinger का जनरेटर Namelix या Atom जैसा गहर�
 
 पाँचवाँ, नाम सत्यापित होने से पहले लोगो, ब्रांड किट या वेबसाइट प्लान के लिए भुगतान न करें। Looka का Brand Kit, Wix का सालाना प्लान जिसके साथ एक साल का मुफ्त डोमेन है, और Atom की प्रीमियम लिस्टिंग, सभी सही प्रोडक्ट हैं, पर अगर नीचे का नाम बदल जाए तो इनमें से हर एक बर्बाद पैसा बन जाता है। आपके पैसे की रक्षा करने वाला क्रम यह है: बनाएँ, शॉर्टलिस्ट करें, डोमेन जाँचें, ट्रेडमार्क जाँचें, हैंडल जाँचें, ग्राहकों से परखें, और उसके बाद ही भुगतान करें।
 
-![हरे शामियानों वाला एक छोटा बिज़नेस स्टोरफ्रंट](/images/free-ai-business-name-generators-india/03.jpg)
+![नोटबुक में बिज़नेस नाम के आइडिया लिखता व्यक्ति](/images/free-ai-business-name-generators-india/03.jpg)
 
 ## अक्सर पूछे जाने वाले सवाल
 
@@ -136,4 +136,4 @@ Hostinger का जनरेटर Namelix या Atom जैसा गहर�
 **इमेज क्रेडिट:**
 - "नए कलेक्शन" साइनबोर्ड वाली दुकान — [Pexels](https://www.pexels.com/photo/urban-shopping-street-with-new-collection-signage-30845624/) पर Helena Jankovičová Kováčová द्वारा, Pexels License।
 - व्हाइटबोर्ड पर विचार-मंथन करती टीम — [Pexels](https://www.pexels.com/photo/colleagues-having-a-meeting-5439478/) पर Tima Miroshnichenko द्वारा, Pexels License।
-- हरे शामियानों वाला छोटा बिज़नेस स्टोरफ्रंट — [Pexels](https://www.pexels.com/photo/charming-local-storefront-with-green-awnings-40388634/) पर Ben Prater द्वारा, Pexels License।
+- नोटबुक में बिज़नेस नाम के आइडिया लिखता व्यक्ति — [Pexels](https://www.pexels.com/photo/person-writing-on-a-notebook-with-a-pen-8518990/) पर Artem Podrez द्वारा, Pexels License।

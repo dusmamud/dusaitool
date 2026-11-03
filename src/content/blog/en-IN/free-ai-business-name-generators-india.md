@@ -111,7 +111,7 @@ Fourth, do not lock the name to one product or one city unless you are sure you 
 
 Fifth, do not pay for a logo, brand kit, or website plan before the name is verified. Looka's Brand Kit, Wix's annual plan with a free domain year, and Atom's premium listings are all legitimate products, but each of them becomes wasted money if the name underneath changes. The order that protects your money is: generate, shortlist, check domain, check trademark, check handles, test with customers, and only then pay.
 
-![A small business storefront with green awnings](/images/free-ai-business-name-generators-india/03.jpg)
+![A person writing business name ideas in a notebook](/images/free-ai-business-name-generators-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -136,4 +136,4 @@ Start with Namelix for names and Namify for domain plus trademark screening, the
 **Image credits:**
 - Shopfront with a "New Collection" signboard — [Pexels](https://www.pexels.com/photo/urban-shopping-street-with-new-collection-signage-30845624/) by Helena Jankovičová Kováčová, Pexels License.
 - Team brainstorming ideas on a whiteboard — [Pexels](https://www.pexels.com/photo/colleagues-having-a-meeting-5439478/) by Tima Miroshnichenko, Pexels License.
-- Small business storefront with green awnings — [Pexels](https://www.pexels.com/photo/charming-local-storefront-with-green-awnings-40388634/) by Ben Prater, Pexels License.
+- Person writing business name ideas in a notebook — [Pexels](https://www.pexels.com/photo/person-writing-on-a-notebook-with-a-pen-8518990/) by Artem Podrez, Pexels License.
