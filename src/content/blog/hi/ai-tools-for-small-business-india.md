@@ -140,5 +140,5 @@ ChatGPT का मुफ्त प्लान छोटे व्यवसा�
 
 **इमेज क्रेडिट:**
 - अपनी दुकान के बाहर खड़े छोटे दुकानदार: [Pexels photo by Zeynep Sude Emek](https://www.pexels.com/photo/portrait-of-a-shop-owner-standing-by-his-store-36753978/), Pexels License.
-- दुकान के काउंटर पर आधुनिक पॉइंट-ऑफ-सेल टर्मिनल इस्तेमाल करती कैशियर: [Pexels photo by iMin Technology](https://www.pexels.com/photo/woman-in-gray-baseball-cap-and-apron-standing-at-a-cash-desk-12935045/), Pexels License.
+- छोटे रिटेल स्टोर के काउंटर पर खड़ा कैशियर: [Pexels photo by Polina Tankilevitch](https://www.pexels.com/photo/cashier-in-store-3735168/), Pexels License.
 - दुकान के काउंटर पर बिल छापती बिलिंग मशीन: [Pexels photo by GOWTHAM AGM](https://www.pexels.com/photo/close-up-of-a-till-printing-the-receipt-19224085/), Pexels License.

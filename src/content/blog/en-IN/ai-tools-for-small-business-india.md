@@ -140,5 +140,5 @@ Start with Vyapar for billing, Khatabook for udhaar and WhatsApp Business for cu
 
 **Image credits:**
 - Small shop owner standing by his storefront: [Pexels photo by Zeynep Sude Emek](https://www.pexels.com/photo/portrait-of-a-shop-owner-standing-by-his-store-36753978/), Pexels License.
-- Cashier using a modern point-of-sale terminal at a shop counter: [Pexels photo by iMin Technology](https://www.pexels.com/photo/woman-in-gray-baseball-cap-and-apron-standing-at-a-cash-desk-12935045/), Pexels License.
+- Cashier standing at the counter of a small retail store: [Pexels photo by Polina Tankilevitch](https://www.pexels.com/photo/cashier-in-store-3735168/), Pexels License.
 - Billing machine printing a receipt at a shop counter: [Pexels photo by GOWTHAM AGM](https://www.pexels.com/photo/close-up-of-a-till-printing-the-receipt-19224085/), Pexels License.
