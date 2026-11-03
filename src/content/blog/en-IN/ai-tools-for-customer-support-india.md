@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with Zoho Desk free or Crisp free for tickets and chat; pay only when ticket volume or AI answers genuinely outgrow the free limits."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-customer-support-india-en.png'
 ---
 
 The short answer is this: if you are a small business in India with one to three people handling support, start with Zoho Desk's free plan for tickets or Crisp's free plan for live chat. Both are genuinely free, not just trials, and both work in India without a VPN. Add a paid AI chatbot only when your ticket volume or your need for automatic answers genuinely grows past what the free plans cover, because the AI features in almost every tool on this list sit behind a paid plan, even when the basic ticketing or chat is free.
 
 That distinction matters more than any feature list. Many roundups call a tool "free" when it only offers a 7-day or 14-day trial, and many call a time-limited free programme a "free plan". This article separates the two honestly. Every free limit, price and India-availability claim below was checked against the vendor's own pricing or support pages, and where sources disagree, the article says so. Prices and limits change, so re-check the official pricing or help page before paying or before promising a customer a deadline based on a tool.
+
+![Smiling customer support agent wearing a headset](/images/ai-tools-for-customer-support-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -94,6 +97,8 @@ Zendesk is the best-known name in helpdesk software, and its pricing is straight
 
 Zendesk suits businesses that already have a support team and want a standard, well-documented system with a large app ecosystem. For a one-to-three person Indian business, it is usually more than needed at the start, and the per-agent dollar pricing is a real monthly commitment. Its AI features sit in higher tiers, so the entry plan is a human ticketing system, not an AI agent. Try the trial if you are comparing enterprise tools, but do not plan a zero-budget setup around Zendesk.
 
+![Customer support team working at desks with headsets and laptops](/images/ai-tools-for-customer-support-india/02.jpg)
+
 ## Using support AI in India: language, payment, and where customers actually are
 
 India changes how support tools should be set up, and the biggest mistake is copying a US setup without adjusting for it. First, language. Most chatbots and AI agents on this list are strongest in English, and Hindi or Hinglish answers need deliberate work: translated help articles, saved replies in Hindi, and bot answers written for how Indian customers actually phrase questions. Machine translation can help draft those answers, but do not let an unreviewed translation answer a paying customer about refunds, delivery dates or warranties. Tools that support multiple languages still need a human to check the Hindi wording, especially for money and deadline promises.
@@ -117,6 +122,8 @@ Avoid per-conversation and per-outcome billing without a monthly cap in your hea
 Avoid letting a bot promise deadlines, refunds or replacements it cannot approve. AI answers should handle information questions, like timings, delivery areas and product details, while money decisions should go to a human with a clear approval rule. A bot that promises a refund you cannot give will create a worse ticket than the one it tried to close.
 
 Avoid spreading support across five inboxes. One shared ticket queue or one shared chat inbox, answered by the same small team, is better than email, Instagram, WhatsApp, phone and website chat all handled separately. Pick one system as the home for tickets, and route other channels into it where the plan allows.
+
+![Support agent putting on a headset at a desk with a laptop](/images/ai-tools-for-customer-support-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -155,3 +162,8 @@ Prices and limits change, so re-check the official pricing and help pages linked
 - [Intercom pricing](https://www.intercom.com/pricing) for per-seat pricing, the free trial and per-outcome Fin pricing.
 - [Zendesk pricing](https://www.zendesk.com/pricing/) for the Support Team plan and free trial.
 - Related reading on this site: [AI chatbots beyond ChatGPT and Gemini in India](/blog/ai-chatbots-beyond-chatgpt-gemini-india/), [AI tools for email writing in India](/blog/ai-tools-for-email-writing-india/), [AI tools for social media in India](/blog/ai-tools-for-social-media-india/), [AI tools for freelancers in India](/blog/ai-tools-for-freelancers-india/), [AI tools for website building without code in India](/blog/ai-tools-for-website-no-code-india/).
+
+**Image credits:**
+- A smiling customer support agent wearing a headset — [Pexels](https://www.pexels.com/photo/a-smiling-call-center-agent-8867630/) by Yan Krukau, Pexels License.
+- A customer support team working at desks with headsets and laptops — [Pexels](https://www.pexels.com/photo/man-in-polo-shirt-working-in-office-7689759/) by Jep Gambardella, Pexels License.
+- A cheerful support agent with a laptop putting on a headset — [Pexels](https://www.pexels.com/photo/laughing-man-in-white-shirt-working-in-a-call-center-7682474/) by Mikhail Nilov, Pexels License.
