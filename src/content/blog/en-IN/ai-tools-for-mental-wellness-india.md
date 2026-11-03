@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Wysa, Insight Timer and Medito, and track mood in Daylio. These tools support wellbeing; they never replace professional help."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mental-wellness-india-en.png'
 ---
 
 Mental wellness apps can help you build small daily habits: ten minutes of meditation, a short journal entry, a breathing exercise before bed, or a conversation that helps you name what you are feeling. They cannot diagnose you, treat you, or replace a professional. That line matters more in this article than in any other tool roundup, so here it is first: if you are in crisis, or if what you feel is getting worse, do not rely on an app. Call Tele MANAS, India's free national mental health helpline, on **14416**, any time of day or night, or go to a doctor or counsellor near you. These tools are for everyday support, not for emergencies.
@@ -16,6 +17,8 @@ Mental wellness apps can help you build small daily habits: ten minutes of medit
 The short answer for India is this: start free with [Wysa](https://www.wysa.com/faq) for AI chat support, [Insight Timer](https://insighttimer.com/) or [Medito](https://meditofoundation.org/medito-app/) for meditation, and a mood journal for tracking how you feel over time. [Calm](https://support.calm.com/hc/en-us/articles/360044707294-What-Free-Content-is-Available-on-the-Calm-App) gives you hundreds of free sessions but locks most of its library behind Premium, and [Headspace](https://www.headspace.com/app) is mainly a 14-day trial with some content to try before you pay. For India-specific help, [Amaha](https://www.amahahealth.com/services/self-care/) offers self-care activities and assessments, and [MindPeers](https://www.mindpeers.co/) offers short pre-screener tests, though its website now speaks mostly to employers and insurers. For sleep, a basic sleep tracker is free; the advanced sleep analysis is paid.
 
 This article is written for India on purpose: a normal Android phone or iPhone, a regular internet connection, no VPN, and no assumption that you have a paid plan or a US account. Prices and free limits change, so before you pay for anything, re-check the official pricing or help page linked in each section. Nothing here is medical advice, and no app in this list claims to diagnose or cure anything.
+
+![A person meditating on rocks by the water at sunrise](/images/ai-tools-for-mental-wellness-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -85,6 +88,8 @@ Sleep is part of mental wellness, and [Sleep Cycle](https://support.sleepcycle.c
 
 For most people, the free version answers the only question that matters at first: how long and how regularly are you actually sleeping? If your sleep is short or irregular, that alone explains a lot of low mood and poor focus, and fixing bedtime is more useful than any premium chart. Do not pay for Premium until you have used the free tracking for at least two weeks and you know which advanced feature you actually want. Also remember that a phone app measures sleep through sound and movement, not through medical sensors, so treat its numbers as a rough guide, not a diagnosis.
 
+![A woman doing a yoga pose on a beach at sunrise](/images/ai-tools-for-mental-wellness-india/02.jpg)
+
 ## Using wellness AI in India: language, payment, privacy and no VPN
 
 All the apps in this list work in India on a normal connection, with no VPN, and all of them are available through the Google Play Store or Apple App Store in India. Payments, where they exist, go through the app stores, so UPI, cards and net banking work the way they do for any other app purchase. But three India-specific points deserve attention.
@@ -105,6 +110,8 @@ Avoid using any of these tools as your only support if things are getting worse.
 
 Avoid the idea that one app will fix everything. Meditation helps attention and stress, journaling helps self-awareness, sleep tracking helps sleep, and AI chat helps you practise coping tools. None of them replaces sleep itself, exercise, real conversations with people you trust, or professional care when you need it. The best wellness routine is boring: a short daily habit, done most days, plus real life.
 
+![A misty lake surrounded by forest in the early morning light](/images/ai-tools-for-mental-wellness-india/03.jpg)
+
 ## Frequently asked questions
 
 **Are these mental wellness apps free in India?** Yes, all of them can be started free in India, but free means different things. Wysa chat, Insight Timer's library and Medito are free in a lasting way. Calm gives hundreds of free sessions with the rest locked, Headspace is mainly a 14-day trial, and Amaha, MindPeers, Daylio and Sleep Cycle mix free parts with paid parts. Check the table above before you install.
@@ -124,3 +131,8 @@ Avoid the idea that one app will fix everything. Meditation helps attention and 
 Start free with Wysa, Insight Timer and Medito, and track mood in Daylio. These tools support wellbeing; they never replace professional help. That is the whole article in one line, and it is deliberately modest. A ten-minute meditation habit, a nightly mood entry and an AI chat you can open at midnight will not transform your life, but done most days, they can make ordinary stress easier to carry, and they cost nothing to try.
 
 Before you pay for anything, run this checklist. Have you used the free version for at least two weeks? Do you know exactly which paid feature you want, and is it actually locked behind the paywall? Have you compared it with the free alternatives in this article? Is the subscription easy to cancel in the app store? And most importantly, if what you feel is more than everyday stress, have you talked to a professional instead of buying another app? If the answer to that last question is no, make the call first. Tele MANAS on 14416 is free, confidential and open all night, and a real conversation with a trained counsellor is worth more than any premium subscription.
+
+**Image credits:**
+- A person meditating on rocks by the water at sunrise — [Pexels](https://www.pexels.com/photo/peaceful-meditation-by-the-water-at-sunrise-33783196/) (photographer: David Kanigan, Pexels License, free to use)
+- A woman doing a yoga pose on a beach at sunrise — [Pexels](https://www.pexels.com/photo/a-woman-doing-a-yoga-pose-on-a-beach-4811133/) (photographer: Rainer Eck, Pexels License, free to use)
+- A misty lake surrounded by forest in the early morning light — [Pexels](https://www.pexels.com/photo/serene-misty-morning-at-a-lakeside-forest-31742439/) (photographer: Nikola Tomašić, Pexels License, free to use)
