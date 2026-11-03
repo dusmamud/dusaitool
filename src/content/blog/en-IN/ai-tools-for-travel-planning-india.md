@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with ixigo PLAN for India trips and Wanderlog for shared plans; use Gemini for the first draft and Skyscanner alerts before you pay."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-travel-planning-india-en.png'
 ---
 
 Planning a trip in India used to mean ten open tabs, a spreadsheet, and a group chat full of screenshots. AI trip planners promise to compress that mess into one conversation: tell the tool your dates, your budget, and who is travelling, and it returns a day-wise plan with places, food, stays, and transport. Some of them do this genuinely well. Others produce a confident-looking plan with a train that does not exist, a hotel price from last year, or a day so packed that nobody in your family would enjoy it.
@@ -16,6 +17,8 @@ Planning a trip in India used to mean ten open tabs, a spreadsheet, and a group 
 The short answer for India is this: for trips inside India, start with [ixigo PLAN](https://ai.ixigo.com/) because it is built for Indian cities, trains, and flights, and it is free inside the ixigo app. For a trip you are planning with friends or family, use [Wanderlog](https://wanderlog.com/) free, because shared planning, maps, and expense splitting are free forever there. For the first draft of any trip, use [Gemini](https://gemini.google.com/app) free, because it turns a plain-language brief into a day-wise itinerary in minutes and it understands Indian places through Google Maps data. And before you pay for any flight or hotel, set a free price alert on [Skyscanner](https://www.skyscanner.com/flights/advice/always-get-best-airfare-available-skyscanner-price-alerts) and check the final price on the airline or hotel website. Everything else in this article is for a specific kind of trip, not for every traveller.
 
 This article is written for India on purpose: Indian trains and domestic flights, UPI and Indian payment realities, Hindi and English, family trips and solo trips, a normal phone and laptop, and no assumption that you have a paid plan or a foreign credit card. It also carries a warning that matters more for travel than for most AI uses: an AI itinerary is a draft, not a booking. Train timings, flight prices, hotel availability, and entry tickets change constantly. Always re-check timings, prices, and cancellation terms on the official website or app before you pay, and never promise a family member a hotel, a train seat, or a deadline on the basis of an AI answer alone.
+
+![A traveller planning a trip with a world map, camera and tickets spread on a table](/images/ai-tools-for-travel-planning-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -89,6 +92,8 @@ The paid tier, TripIt Pro, adds real-time flight alerts, fare-refund monitoring,
 
 Rome2Rio is free to search. It makes its money when you click through to book with a partner, so the route is free and the ticket is paid, like Skyscanner. Its Indian coverage is best for the well-connected routes and thinner for remote local buses, so for the last mile in a small town, check with the hotel or a local bus stand as well. Used before you book, it prevents the classic India trip mistake: a hotel booked in a town with no sensible way to reach it on your travel day.
 
+![A train travelling through the lush green forests of Ooty, Tamil Nadu](/images/ai-tools-for-travel-planning-india/02.jpg)
+
 ## Using travel AI in India: language, trains, payment, and no VPN
 
 All nine tools in this article work in India in a normal browser or app without a VPN, which is the first test any tool in this series has to pass. The differences that matter are practical, not technical. Language comes first: most of these planners work in English, and Gemini and GuideGeek handle other languages, including Hindi prompts, better than the rest, but hotel names, station names, and addresses should always be double-checked in the local script before you show them to a driver. Trains come second: no foreign planner books Indian Railways tickets directly, so plan on any tool you like, but book trains on IRCTC or ixigo, and keep the PNR and the coach position in TripIt or Wanderlog, not only in email.
@@ -100,6 +105,8 @@ Payment comes third. Indian apps take UPI, which is how most readers will actual
 Avoid trusting any AI itinerary without a verification pass. Check every train number and departure time on IRCTC or the railway app, every flight price on the airline website, every hotel's cancellation policy on its own page, and every attraction's opening hours on its official listing. AI planners are confident about details they have not checked, and a wrong train time is not a small error when your family is standing on a platform.
 
 Avoid paying for planning that is free elsewhere. Several tools in this list plan for free and only charge for bookings, so a website or agent that charges a "planning fee" for the same itinerary is selling you something you can get free from ixigo PLAN, Wanderlog, or Gemini. Avoid booking through links you have not verified, especially links sent in a chat thread or a forwarded message, because a fake booking page looks exactly like a real one. And avoid planning a trip around a single AI answer for anything with a hard constraint: visa rules, passport validity, health requirements, and restricted areas must be checked on official government pages, never on a chatbot's word alone. For [chatbot answers in general](/blog/ai-chatbots-beyond-chatgpt-gemini-india/), the same rule applies: useful for drafting, never the final authority.
+
+![A car on a winding mountain road at sunset](/images/ai-tools-for-travel-planning-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -122,3 +129,8 @@ The verdict is the one in the frontmatter, and it is deliberately boring: start 
 Before you pay for anything on a trip planned by AI, run this checklist. First, every train time verified on IRCTC or the railway app. Second, every flight price verified on the airline website, with baggage and cancellation terms read. Third, every hotel booking confirmed with a cancellation policy you can live with. Fourth, every day of the itinerary walked through on a map, with one stop cut per day. Fifth, no passport, Aadhaar, or card details ever pasted into a chatbot. And sixth, prices and limits re-checked on the official pricing or help page before paying or promising a deadline, because every free limit and price in this article can change, and the official page is the only version that counts. If you do that, AI planning saves you hours. If you skip it, AI planning only makes your mistakes faster.
 
 For further reading in this series, see the guides on [translation for travel](/blog/ai-translation-tools-hindi-english-india/), [learning English for trips](/blog/ai-tools-for-learning-english-india/), and the [best free AI tools in India](/blog/best-free-ai-tools-india/).
+
+**Image credits:**
+- A traveller planning a trip with a world map, camera and tickets — [Pexels](https://www.pexels.com/photo/woman-looking-at-a-map-with-a-pen-in-her-hand-7368300/) by Vlada Karpovich, Pexels License.
+- A train travelling through the forests of Ooty, Tamil Nadu — [Pexels](https://www.pexels.com/photo/scenic-train-journey-through-ooty-s-lush-forest-38204436/) by Kenneth Christopher, Pexels License.
+- A car on a winding mountain road at sunset — [Pexels](https://www.pexels.com/photo/sunset-road-trip-on-serene-mountain-highway-28610403/) by Stephen Leonardi, Pexels License.
