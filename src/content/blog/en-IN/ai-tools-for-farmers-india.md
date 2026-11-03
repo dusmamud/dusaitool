@@ -9,11 +9,14 @@ category: "best-tools"
 draft: false
 verdict: "Start with Agri Dost for mandi prices and Plantix for sick-crop photos; both are free. Keep Kisan Suvidha for weather and market backup."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-farmers-india-en.png'
 ---
 
 A farmer does not need one more app. A farmer needs three answers at the right time: what is my crop worth today, what is wrong with this plant, and will it rain before I spray or harvest. The tools below answer those three questions, and they do it in India, on an ordinary phone, without a VPN and without a paid plan to start. Everything paid is marked as paid, and every free limit below is stated the way the official pages state it.
 
 The short answer for India is this: use [Agri Dost](https://www.agridost.co.in/) free for live mandi prices by voice, in Hindi and other Indian languages, with prices for more than 500 commodities taken from official government data. Use [Plantix](https://plantix.net/en/) free to photograph a sick crop and get a diagnosis and treatment suggestions in seconds. Use [BharatAgri](https://company.bharatagri.com/advisory) for a personalised crop calendar and weather-based warnings, starting on its free Krushi Seva tier and checking the price of its annual tier inside the app before paying anything. Keep the government apps as backup: [Kisan Suvidha](https://kisansuvidha.gov.in/) free for weather, mandi prices, input dealers and expert advisories, [eNAM](https://enam.gov.in/web/stakeholders-Involved/farmers) free to register for selling beyond your local mandi, and the IMD [Mausam](https://mausam.imd.gov.in/) app free for official weather forecasts and warnings. Use a general chatbot only to explain something you already know, never as the only reason to spray, buy, or sell.
+
+![A farmer planting rice seedlings in a flooded paddy field in West Bengal](/images/ai-tools-for-farmers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -43,6 +46,8 @@ Plantix answers the second question: what is wrong with this plant. You take a p
 How to use it well is simple, and it is also where most mistakes happen. Photograph the affected part closely, in daylight, with the damage clearly visible, and take two or three photos from different angles rather than one distant shot of the whole field. Read the treatment suggestion fully before buying anything, including the safety and dosage notes, and do not mix chemicals because two suggestions mention them. Most importantly, treat a photo diagnosis as a first check, not a final order. If the suggested treatment is expensive, or the disease is spreading fast, confirm with your local agriculture officer, a Krishi Vigyan Kendra, or the Kisan call centre reachable through Kisan Suvidha, before you spray a whole field.
 
 Plantix also has a community of agriculture experts and cultivation knowledge inside the app, which is useful for the follow-up question: what do other farmers do about this problem in this season. The core diagnosis is presented as free on its site. Its site also describes business offerings for companies that want to plug into its diagnosis data, which is a separate business product, not something a farmer needs to buy to diagnose a crop. If the app ever asks you to pay for a basic diagnosis, check the official page again and compare with the free position stated here before paying.
+
+![Hands holding a smartphone photographing potted plants](/images/ai-tools-for-farmers-india/02.jpg)
 
 ## BharatAgri: a crop calendar with weather warnings
 
@@ -94,6 +99,8 @@ Verification is the third test, and it is the habit that makes all the others sa
 
 Avoid any app that promises a guaranteed mandi price, a guaranteed yield, or a cure for a crop disease from one photo. No app can promise those things, and a promise like that is a sales pitch, not advice. Avoid spraying on the basis of a single chatbot answer, a single photo, or a forwarded WhatsApp message, especially when the chemical is expensive or the dose is unclear. Avoid paying for registration on a government service, and avoid sharing OTPs, bank details, or Aadhaar details with anyone who contacts you about a farming app. Avoid tools that need a VPN to work in India, because a tool that is blocked here is a tool whose support will also be absent here. And avoid depending on one app alone for a whole season: keep one price app, one diagnosis app, and one government backup, so that a single app's outage or price change does not leave you without answers.
 
+![Fresh vegetables displayed at a street market stall in India](/images/ai-tools-for-farmers-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can I get mandi prices without typing?** Yes. Agri Dost is built for voice questions in Hindi and other Indian languages, and it gives live mandi prices from official government data for more than 500 commodities, with minimum, modal, and maximum prices shown together.
@@ -115,3 +122,8 @@ Start with Agri Dost for mandi prices and Plantix for sick-crop photos; both are
 Before you pay for anything, run this checklist. Is the core job free somewhere else in this article. Is the paid price shown inside the official app itself, not by a middleman. Have you tested the free tier for at least a month on your own crop. Have you confirmed a costly decision, like spraying or selling, in a second source. If any answer is no, wait. The right tool for a farmer is not the newest app, it is the app that still gives the right price, the right diagnosis, and the right warning on the day you actually need it.
 
 For Hindi voice help, see [free AI voice tools in India](/blog/free-ai-voice-tools-india/). For translating farming advice between Hindi and English, see [AI translation tools for Hindi and English in India](/blog/ai-translation-tools-hindi-english-india/). For keeping your phone and farm data safe while using these apps, see [AI privacy and safety free tools in India](/blog/ai-privacy-safety-free-tools-india/).
+
+**Image credits:**
+- A farmer planting rice seedlings in a flooded paddy field in West Bengal, India — [Pexels](https://www.pexels.com/photo/a-farmer-in-a-paddy-field-7415327/) by Sajal's Gallery, Pexels License.
+- Hands holding a smartphone photographing potted plants — [Pexels](https://www.pexels.com/photo/woman-taking-photo-of-potted-plants-on-smartphone-6912832/) by Teona Swift, Pexels License.
+- Fresh vegetables displayed at a street market stall in India — [Pexels](https://www.pexels.com/photo/market-stalls-with-vegetables-in-the-street-16747097/) by Stijn Dijkstra, Pexels License.
