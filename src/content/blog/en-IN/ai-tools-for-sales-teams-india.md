@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Zoho CRM free for your pipeline and Apollo free for leads. Add Hunter free for email lookup and Snov.io trial for follow-ups."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-sales-teams-india-en.png'
 ---
 
 A small sales team in India does not need an enterprise sales stack. It needs four things: a list of people who might buy, a way to contact them, one place to track every conversation, and a follow-up system that does not depend on anyone's memory. Most teams fail at the last two, not the first two. They buy a lead list, send one round of emails, and then lose track of who replied, who asked for a quote, and who said "call next month."
@@ -16,6 +17,8 @@ A small sales team in India does not need an enterprise sales stack. It needs fo
 The short answer for India is this: use [Zoho CRM](https://www.zoho.com/crm/) free for your pipeline, because it is free forever for up to 3 users and it is built by an Indian company. Use [Apollo](https://www.apollo.io/pricing) free for finding leads, because its free plan gives 75 credits per seat per month for email and phone reveals. Use [Hunter](https://hunter.io/pricing) free for finding an email address when you already know the company and the person. Add [Snov.io](https://snov.io/pricing) trial for follow-up email sequences, because its trial renews every month with a small allowance. Everything else in this article is for a specific need, not for every team.
 
 This article is written for India on purpose: small teams of two to ten people, selling to Indian businesses or to clients abroad from India, working in English, Hindi, or Hinglish, on normal phones and laptops, with no assumption of a paid plan, a US account, or a dedicated sales-ops person. It also carries a warning that matters more in sales than in most tool categories: prices and free limits change often, and some of the numbers below already disagree across sources. Before you pay for any plan, or promise a client or a manager a deadline based on a tool, re-check the official pricing and help page yourself.
+
+![Sales team discussing strategy during a meeting in an office](/images/ai-tools-for-sales-teams-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -78,6 +81,8 @@ The trial's limits are honest and important. Premium features like integrations,
 
 Snov.io also offers a free 7-day trial of its LinkedIn Automation add-on. That is a trial inside a trial, so note the dates if you switch it on, or you will be surprised by a charge or a cutoff.
 
+![Two businessmen sealing a deal with a handshake in an office](/images/ai-tools-for-sales-teams-india/02.jpg)
+
 ## Instantly: cold email at volume, trial only
 
 [Instantly](https://help.instantly.ai/en/articles/13941298-instantly-free-trial) is the tool small teams graduate to when they want to send cold email at real volume with warm-up, inbox placement testing, and analytics. It is powerful, and its free arrangement is the least generous in this article, so read it carefully.
@@ -122,6 +127,8 @@ Avoid tracking deals in chat apps and notebooks once you pass about twenty activ
 
 Avoid promising a client, a partner, or a manager a result based on a free limit you read in an article, including this one. Limits change, as the HubSpot, Hunter, and Apollo disagreements above show. Re-check the official pricing page on the day you commit.
 
+![Salesperson smiling while talking on the phone at an office desk with a laptop](/images/ai-tools-for-sales-teams-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free CRM is best for a 3-person sales team in India?** Zoho CRM free, because it is free forever for up to 3 users, includes workflow automation and mobile apps, and bills in rupees when you upgrade. Freshsales free is the closest alternative for the same team size, and HubSpot free fits better if your team is two people selling abroad.
@@ -141,3 +148,8 @@ Avoid promising a client, a partner, or a manager a result based on a free limit
 ## The final verdict, and a checklist before you pay
 
 Start with Zoho CRM free for your pipeline and Apollo free for leads. Add Hunter free for email lookup and Snov.io trial for follow-ups. That stack costs nothing, covers finding, contacting, tracking, and following up, and it is the honest minimum for a small Indian sales team. Pay for Instantly only after cold email has produced real replies, pay for a CRM seat only when your team grows past the free user count, and re-check every official pricing page before you commit, because the limits in this article will change. If you remember one rule from this article, make it this: a small verified list, followed up properly, beats a huge list that nobody follows up at all.
+
+**Image credits:**
+- Sales team discussing sales strategy during a meeting in an office — [Pexels](https://www.pexels.com/photo/man-and-woman-presenting-at-the-office-8555605/) by Edmond Dantès, Pexels License (free to use)
+- Two businessmen sealing a deal with a handshake in a bright office — [Pexels](https://www.pexels.com/photo/men-looking-at-each-other-while-doing-hand-shake-8428080/) by Kampus Production, Pexels License (free to use)
+- Businessman on a phone call at his office desk with a laptop — [Pexels](https://www.pexels.com/photo/smiling-formal-male-with-laptop-chatting-via-phone-3760263/) by Andrea Piacquadio, Pexels License (free to use)
