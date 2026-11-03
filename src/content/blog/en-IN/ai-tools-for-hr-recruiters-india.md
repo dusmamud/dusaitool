@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Zoho Recruit free, Indeed free posts and Calendly free; pay for Manatal only when candidate volume grows."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-hr-recruiters-india-en.png'
 ---
 
 A small team in India usually does not need an enterprise hiring suite. It needs three things: one place to collect applications, a cheap way to reach candidates, and a simple way to schedule interviews without endless phone calls. The tools below cover exactly those three jobs, and every free limit in this article was checked against the vendor's own pricing or help page.
@@ -17,6 +18,7 @@ The short answer is this: start with [Zoho Recruit](https://www.zoho.com/recruit
 
 Prices and limits change, so before you pay for anything or promise a candidate a deadline, re-check the official pricing or help page linked in each section. What follows reflects the vendor pages as they stood in late 2026.
 
+![A recruiter shaking hands with a job candidate after a successful interview](/images/ai-tools-for-hr-recruiters-india/01.jpg)
 ## The short answer, in one table
 
 | Tool | Best for | Free limit, honestly stated | Paid starting point |
@@ -66,6 +68,7 @@ Use Cutshort when the problem is screening time, not reach. If you already have 
 
 Why pay when Zoho Recruit free exists? Manatal's case is volume and AI assistance: candidate enrichment, AI recommendations, and automation across up to 15 jobs suit a team that hires continuously rather than one role at a time. At $15 per user per month, it is cheaper than most enterprise systems, but it is priced in dollars, so check the INR cost after conversion and any taxes before committing. Start on Zoho Recruit free, and move to Manatal when you regularly run more than one or two jobs and the manual work in the free tracker costs more than $15 a month of someone's time.
 
+![A recruiter reviewing a candidate's resume during a job interview](/images/ai-tools-for-hr-recruiters-india/02.jpg)
 ## ChatGPT and Claude: writing job descriptions and screening questions free
 
 You do not need a hiring-specific AI tool to write a good job description. ChatGPT's free tier and Claude's free tier both draft job descriptions, screening questions, and interview scorecards in minutes. [OpenAI's own help pages](https://help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt) confirm that free users get a default model — currently GPT-5.6 Luna for free users — while paying users get the higher-capability models. Model names and limits change often, and different sources name different models, so treat any specific model name in an older article as possibly out of date and check the current free tier before relying on it.
@@ -106,6 +109,7 @@ Data needs care. Candidate resumes contain phone numbers, addresses, and employm
 
 **Do not promise what the free tier cannot do.** If your free LinkedIn post pauses after 14 days or your Zoho Recruit free plan holds only one job, tell the hiring manager that upfront. A missed hiring deadline costs more than a small paid upgrade.
 
+![An office team in a meeting around a table](/images/ai-tools-for-hr-recruiters-india/03.jpg)
 ## Frequently asked questions
 
 **Can a small Indian team hire completely free with AI tools?** Yes, for low volume. Zoho Recruit free handles one live job, Indeed gives free posts in India, LinkedIn gives one free job at a time, and Calendly free handles scheduling. You pay only when volume or speed forces an upgrade.
@@ -127,3 +131,8 @@ Data needs care. Candidate resumes contain phone numbers, addresses, and employm
 Start with Zoho Recruit free, Indeed free posts and Calendly free; pay for Manatal only when candidate volume grows. Before you pay for anything, run this checklist: does the free limit actually block you, or are you paying for convenience? Is the price in rupees or dollars, and what does it cost after tax? Can you export your candidate data if you leave? And have you re-checked the official pricing page today, not last month's blog post? If the answer to the last question is no, check it now — in hiring tools, the free tier you read about last year is often the one that changed.
 
 For the candidate's side of the same process — how resumes are read and how interviews are prepared for — see our guides on [AI tools for resume and jobs](/blog/ai-tools-for-resume-jobs-india/) and [AI tools for interview preparation](/blog/ai-tools-for-interview-prep-india/). And if your hiring emails need work, our [AI tools for email writing](/blog/ai-tools-for-email-writing-india/) guide covers free drafting tools that pair well with the ATS in this article.
+
+**Image credits:**
+- A recruiter shaking hands with a job candidate after a successful interview — [Pexels](https://www.pexels.com/photo/young-woman-in-business-attire-shaking-hands-with-recruiting-manager-after-job-interview-18848927/) — photographer: Resume Genius — Pexels License
+- A recruiter reviewing a candidate's resume during a job interview — [Pexels](https://www.pexels.com/photo/man-reviewing-woman-s-resume-5439455/) — photographer: Tima Miroshnichenko — Pexels License
+- An office team in a meeting around a table — [Pexels](https://www.pexels.com/photo/office-team-having-a-meeting-at-the-table-7654396/) — photographer: Pavel Danilyuk — Pexels License
