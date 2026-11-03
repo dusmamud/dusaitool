@@ -9,11 +9,14 @@ category: "best-tools"
 draft: false
 verdict: "Start with WordPress.com free, Jetpack AI's 20 free requests and Search Console. Pay for Rank Math AI only once a post starts earning."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-bloggers-india-en.png'
 ---
 
 Blogging in India is a different job from blogging in the US or Europe. Most Indian bloggers start on a phone, write in English, Hindi, or Hinglish, earn in rupees through AdSense or affiliate links, and pay for tools with a debit card or UPI where it is accepted at all. The tools that work for them are the ones that run inside WordPress, cost nothing to start, and do not demand a dollar subscription before the first reader arrives. This article covers exactly those tools, with their real free limits, so you can build a blogging workflow that costs zero rupees until your blog starts earning.
 
 The short answer for India is this: start on [WordPress.com](https://wordpress.com/pricing/) free, because it gives you hosting, a theme, and publishing without paying anything, even though free sites show WordPress.com ads to visitors. Draft headlines, outlines, and introductions with [ChatGPT](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq) free, because it is the most versatile free drafting tool available in India without a VPN. Use [Jetpack AI](https://jetpack.com/ai/) inside WordPress for titles, summaries, and short text, because its free quota of 20 requests lets you try AI inside your editor before paying. Install the free [Rank Math](https://rankmath.com/ai/pricing/) or [Yoast SEO](https://yoast.com/) plugin for titles, meta descriptions, and sitemaps, because on-page SEO is where most new blogs fail. Track everything with [Google Search Console](https://support.google.com/webmasters/answer/9128668?hl=en), which is completely free, and find what readers actually ask with [AnswerThePublic](https://answerthepublic.zendesk.com/hc/en-us/articles/22617503900187-Is-There-a-Free-Version-of-AnswerThePublic), which gives 3 free searches a day. Clean up the English with [Grammarly](https://www.grammarly.com/plans) free. That stack costs nothing, and it covers the whole workflow: idea, draft, SEO, publish, and measurement.
+
+![A blogger typing a blog post on a laptop](/images/ai-tools-for-bloggers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -51,6 +54,8 @@ Rank Math's AI features are a separate, paid product, and this is where bloggers
 Yoast SEO is the older, better-known alternative to Rank Math, and the choice between them is mostly habit. The free Yoast plugin covers SEO titles, meta descriptions, readability analysis, and sitemaps, which is the same core job as Rank Math's free plugin. Do not install both at once: two SEO plugins will fight over your titles and sitemap, and the result is worse than either plugin alone. Pick one, learn it, and keep it.
 
 Yoast's newer AI features, including schema aggregation built with Microsoft, an automatically generated llms.txt file for AI platforms, and a bot blocker for controlling which language models can use your content, are presented on Yoast's AI features page as part of its modern SEO offering. Yoast SEO Premium, which carries the advanced features, costs $118.80 per year excluding VAT. For a new Indian blogger, that price is hard to justify before the blog earns, and the free plugin is the right starting point. The llms.txt idea itself is worth knowing even on the free tier: as AI search grows, a clear, structured summary of your site helps AI platforms describe your content accurately instead of guessing.
+
+![A blogger's workspace with a notebook, a cup of coffee, and a laptop](/images/ai-tools-for-bloggers-india/02.jpg)
 
 ## Google Search Console: the free tool that tells the truth
 
@@ -94,6 +99,8 @@ The third question is honesty about AI content. Search engines do not ban AI ass
 
 Avoid publishing AI drafts unchanged, because invented facts and generic advice are the fastest way to lose both readers and search rankings. Avoid installing two SEO plugins at once, because they conflict over titles and sitemaps. Avoid buying Surfer, Writesonic, or any paid SEO tool before your blog has traffic, because a paid tool cannot create an audience for a blog with no posts. Avoid keyword stuffing, because stuffing the same phrase into every paragraph reads badly and ranks badly. Avoid tools that demand a card for a so-called free plan, and avoid copying another blog's structure sentence by sentence, because that is plagiarism even when an AI does the copying. Finally, avoid believing any single free limit forever: check the official pricing page again before you pay, before you promise a client a deadline, and before you recommend a tool to another blogger.
 
+![A blogger writing notes in a notebook beside a laptop and a cup of coffee](/images/ai-tools-for-bloggers-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can I start a blog in India for free?** Yes. WordPress.com free gives you hosting and publishing with ads shown to visitors, and the free tools in this article cover drafting, SEO, and measurement. You need a paid plan only for a custom domain, ad removal, or advanced features, and you can decide that after your first posts.
@@ -111,3 +118,8 @@ Avoid publishing AI drafts unchanged, because invented facts and generic advice 
 ## The final verdict, and a checklist before you pay
 
 Start with WordPress.com free, Jetpack AI's 20 free requests and Search Console. Pay for Rank Math AI only once a post starts earning. Before you pay for anything, run this checklist: publish twenty posts on free tools, check Search Console for real queries, confirm the price on the official pricing page including currency conversion, check whether a trial needs a card, and name the one bottleneck the paid tool will fix. If you cannot name the bottleneck, you do not need the paid tool yet. And for featured images to go with your posts, the guide to [free AI image generators](/blog/free-ai-image-generators-india/) covers the tools that work in India without a subscription.
+
+**Image credits:**
+- Hands typing on a laptop with a blog post on screen — [Pexels](https://www.pexels.com/photo/close-up-of-typing-on-a-laptop-261662/) — Pixabay — Pexels License
+- A woman writing notes while working on a laptop with a cup of coffee on the desk — [Pexels](https://www.pexels.com/photo/woman-having-cup-of-coffee-while-working-remotely-with-laptop-7034440/) — George Milton — Pexels License
+- A man writing notes in a notebook near a laptop and a cup of coffee — [Pexels](https://www.pexels.com/photo/man-taking-notes-in-notebook-near-laptop-and-coffee-cup-6392994/) — William Fortunato — Pexels License
