@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, Canva, and Google Business Profile. Pay for Petpooja only when billing and ordering need one system."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-restaurants-india-en.png'
 ---
 
 Running a restaurant in India is not one job. It is a menu that needs writing, photos that need to look edible, reviews that need replies, a bill that needs to be correct, and customers who find you on Google, Zomato, or Swiggy before they ever walk in. AI tools help with each of those jobs, but they help in different ways, and the tool that writes a good menu description is not the tool that runs your billing. Using the right free tool for each job saves money every month, and it prevents the two problems that hurt small Indian restaurants most: an empty dining room on weekdays and a bad review that never gets a reply.
@@ -16,6 +17,8 @@ Running a restaurant in India is not one job. It is a menu that needs writing, p
 The short answer for India is this: use [ChatGPT](https://chatgpt.com/) free for menu descriptions, review replies, and social captions, because it is the single most versatile free AI for any restaurant in the checks. Use [Canva](https://www.canva.com/) free for menu design and festival posters, because it has menu templates and a free plan that works in India. Use [Google Business Profile](https://business.google.com/) free for reviews, photos, and your menu on Google Search and Maps, because that is where most new customers check you first. Use [Photoroom](https://www.photoroom.com/pricing) carefully for food photos, because its free plan is limited and marked for personal, non-commercial use only. Use [Petpooja](https://www.petpooja.com/poss/pricing) only when billing, kitchen, and online ordering need one system, because it has no free plan in the checks. Everything else in this article is for a specific job, not for every restaurant.
 
 This article is written for India on purpose: Hindi, Hinglish, and English customers, UPI payments, FSSAI and GST realities, a normal phone and laptop, and no assumption that you have a paid plan, an agency, or a US account. It also carries a warning that matters for restaurants more than for most businesses: never show food you do not serve. AI can clean up a photo, but it must not invent a dish, a portion size, or an ingredient. A customer who gets something different from the photo will leave the review you cannot delete. Prices and free limits change often, so re-check the official pricing or help page of any tool before you pay for it or promise a deadline around it.
+
+![A beautifully set restaurant table with dishes and glasses](/images/ai-tools-for-restaurants-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -81,6 +84,8 @@ A QR code menu is the cheapest upgrade a small restaurant can make. Print one QR
 
 The difference between static and dynamic matters here. A static QR code points to one fixed link forever, so if you change the menu file, you must print a new code. A dynamic QR code lets you change the destination without reprinting, which is what a restaurant with seasonal prices actually needs, but the free plan only gives you 3 of them with 500 scans each. The practical setup is this: use one dynamic QR code for your main menu, keep the other two for offers or feedback, and use static codes for things that never change, like your Google review page. Test the code with three different phones before printing, including one old Android phone, because a QR code that only works on new iPhones will fail for half your customers. And always keep one printed menu at the counter for customers who do not want to scan.
 
+![A chef carefully plating a gourmet dish in a restaurant kitchen](/images/ai-tools-for-restaurants-india/02.jpg)
+
 ## Using these tools in India: language, payment, and discovery
 
 Language comes first. Your menu, your replies, and your posters should work in the language your customers actually speak, which for most Indian restaurants means Hindi, English, or Hinglish, and sometimes a regional language too. ChatGPT and Canva both handle Hindi text, but check every Hindi word before printing, because AI Hindi can sound formal or wrong in ways that English mistakes do not. A menu with one wrong Hindi word is funny; a menu with a wrong price or a wrong veg mark is a complaint.
@@ -101,6 +106,8 @@ Fourth, do not copy review replies blindly. A reply that says "we value your fee
 
 Fifth, do not trust an AI price, limit, or deadline. Every tool in this article changes its plans, and the figures here are from the checks for this article. Before you pay, before you print a menu with a QR code, and before you promise a customer a deadline, open the official pricing or help page and check again. That one habit will save you more money than any single tool.
 
+![An Indian thali with naan, paneer curry and rice](/images/ai-tools-for-restaurants-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can a small restaurant in India use these AI tools for free?** Yes, for the main jobs. ChatGPT free covers menu writing and review replies, Canva free covers menu design, Google Business Profile covers reviews and photos, QR TIGER free covers your QR menu, and DishGen Basic covers new dish ideas. You pay only when a job outgrows its free limit, like Photoroom's commercial use or a full POS system.
@@ -120,3 +127,8 @@ Fifth, do not trust an AI price, limit, or deadline. Every tool in this article 
 ## The final verdict
 
 Start free with ChatGPT, Canva, and Google Business Profile. Pay for Petpooja only when billing and ordering need one system. That order matters: free tools first for words, design, and discovery, a paid system only when the chaos of billing and ordering costs more than the subscription. Keep your photos real, your prices checked, and your review replies human, and the tools in this article will fill tables without eating your margin.
+
+**Image credits:**
+- A beautifully set restaurant table with dishes and wine glasses — [Pexels](https://www.pexels.com/photo/elegant-restaurant-table-setting-with-wine-33144643/) by Busenur Demirkan, Pexels License (free to use).
+- A chef carefully plating a gourmet dish in a professional kitchen — [Pexels](https://www.pexels.com/photo/person-holding-silver-fork-and-knife-slicing-vegetable-on-white-ceramic-plate-4253320/) by cottonbro studio, Pexels License (free to use).
+- An Indian thali with naan, paneer curry and rice on a wooden table — [Pexels](https://www.pexels.com/photo/traditional-indian-thali-meal-with-naan-bread-29148133/) by Eyes2Soul, Pexels License (free to use).
