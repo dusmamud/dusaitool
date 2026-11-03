@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with MyHeritage for 10 free face fixes and Colourise.sg for colour. Use Canva or Fotor for scratches, and pay only after a test looks right."
 heroAlt: ""
+ogImage: '/og/free-ai-photo-restoration-india-en.png'
 ---
 
 A free **AI photo restoration** tool repairs damage in an old photograph: scratches, tears, creases, stains, fading, and the soft blur that comes from age. It is not the same job as upscaling. An [upscaler](/blog/free-ai-image-upscalers-india/) makes a small image larger. A restorer tries to put a damaged image back to how it looked before the damage happened. The two jobs overlap — a restored photo is often sharpened as well — but if your photo is torn, stained, or faded, you need restoration first, and upscaling only afterwards, if at all.
@@ -16,6 +17,8 @@ A free **AI photo restoration** tool repairs damage in an old photograph: scratc
 The short answer for India is this: start with [*MyHeritage Photo Enhancer*](https://www.myheritage.com/photo-enhancer) for faces, because it gives 10 free enhancements and is built for old family photographs. Use [*Colourise.sg*](https://colourise.sg/) for free black-and-white to colour conversion, because it costs nothing and does not store your upload, according to its own team. Use [*Canva*](https://www.canva.com/features/photo-restoration/) or [*Fotor*](https://www.fotor.com/features/photo-restoration/) for scratches, tears, and faded colour on the web, because both offer free restoration without needing an app. Use [*Remini*](https://remini.ai/) on your phone when the photo is already on your mobile and you want a one-tap face fix. Everything else below is for a specific need — a style finish, a batch of photos, or a badly damaged print that free tools cannot handle.
 
 This article is written for India on purpose: families with old prints, students and creators working from a normal phone or laptop, Hindi and English users, and no assumption that you have a paid plan, a powerful computer, or a US account. Every tool here works in India through a browser or an app store without a VPN. One warning matters before you start: a restored photo is a reconstruction, not the original. The AI guesses what the damaged part looked like. That guess is usually good for a face or a plain background, but it can be wrong for jewellery, text, uniforms, or small details. Do not use a restored photo as proof of a detail in a document, a legal matter, or an official record. Keep your original scan untouched, and always work on a copy.
+
+![Hands holding an old black-and-white photograph in dim light](/images/free-ai-photo-restoration-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -70,6 +73,8 @@ Fotor's pricing has moved to a credit model, and its pricing page no longer read
 
 Fotor is the tool to pick when the damage is physical — a crease across a face, a tear at the edge, a stain over a sari border — rather than a purely soft or faded image. After restoration, Fotor's normal editing tools can handle the small manual fixes the AI misses, which is where a [photo editor](/blog/free-ai-photo-editors-india/) still beats a one-click restorer.
 
+![An open vintage family photo album with sepia portraits](/images/free-ai-photo-restoration-india/02.jpg)
+
 ## Hotpot AI: restoration with a choice of finishes
 
 [*Hotpot AI's Photo Restorer*](https://hotpot.ai/restore-picture) takes a different approach from the tools above: after you upload a photo, you choose both a kind of restoration and a finish. The finishes listed on its own page include Natural, Vintage, Polaroid, Classic color, Modern black and white, and Classic black and white, so you can keep a classic black-and-white look or try a colour finish on the same photo. You can also upload more than one image and restore each with the same treatment, which helps when an album shares the same kind of damage.
@@ -112,6 +117,8 @@ Avoid any tool that promises to recover the exact original colours, the exact mi
 
 Avoid uploading your only copy anywhere. Scan first, keep the scan, and restore copies. Avoid tools that demand full access to your phone's photo library when a simple upload button would do, and avoid "unlimited free restoration" apps that turn out to be watermarked, low-resolution, or subscription traps after the first photo. Finally, avoid using a restored photo as evidence. A restorer can make a number plate, a signature, or a document detail look sharper while changing it, and that makes it unfit for any official purpose. The original, damaged as it is, remains the only trustworthy version.
 
+![Elderly hands holding a framed old photograph](/images/free-ai-photo-restoration-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can AI restore a photo that is torn in half or missing a face?** Partly. AI is good at scratches, creases, stains, and fading, and fair at soft faces. It cannot reliably rebuild a face or a large area that is completely gone, because there is nothing to reconstruct from. Expect a plausible guess, not a recovery, and check the result against what your family remembers.
@@ -133,3 +140,8 @@ Avoid uploading your only copy anywhere. Scan first, keep the scan, and restore 
 Start with MyHeritage for 10 free face fixes and Colourise.sg for colour. Use Canva or Fotor for scratches, and pay only after a test looks right. Use Canva or Fotor for scratches, tears, and faded colour, and Hotpot when you want to compare finishes on the same photo. Use Remini when the photo is already on your phone and you want the fastest result, and Picsart as a second opinion when the first result disappoints. Keep VanceAI in reserve for badly damaged photos, and only after its free preview looks right.
 
 Before you pay for anything, run this checklist. First, test the free tier on your hardest photo, not your easiest one, because free quality varies by damage type. Second, download the result and check it at full size for invented details on faces, hands, jewellery, and text. Third, confirm whether the free download carries a watermark, because that alone decides whether a tool is usable for printing. Fourth, check the renewal terms and the currency of any subscription, and cancel any trial at least a day before it ends. Fifth, keep your original scan untouched, and store the restored copy separately, labelled as restored, so the AI's guesses are never confused with the original memory.
+
+**Image credits:**
+- Hands holding an old black-and-white photograph in dim light — [Annushka Ahuja on Pexels](https://www.pexels.com/photo/photo-of-a-person-s-hands-holding-a-photograph-8114109/) (Pexels License)
+- An open vintage family photo album with sepia portraits — [Colin Fearing on Pexels](https://www.pexels.com/photo/old-photo-in-an-album-17323743/) (Pexels License)
+- Elderly hands holding a framed old photograph — [Ivan S on Pexels](https://www.pexels.com/photo/close-up-of-holding-a-photography-8964177/) (Pexels License)
