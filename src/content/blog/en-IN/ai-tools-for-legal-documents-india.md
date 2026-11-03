@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with GetNyay or OneFiling for free templates, then get a lawyer to check anything with real money at stake."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-legal-documents-india-en.png'
 ---
 
 If you need a rental agreement, an affidavit, or a simple contract in India, you no longer have to start from a blank page. Several free tools can draft the document from your details in minutes. But read this first: these tools produce templates and first drafts, not legal advice. A wrong clause, a wrong stamp value, or an outdated section number can cost far more than the draft saved. Use the free tools for the first draft, then get an advocate to check anything that involves real money, property, employment, or a dispute.
 
 The short answer is simple. For a free, no-signup first draft, start with [OneFiling's AI draft generator](https://onefiling.in/draft-generator/) or [GetNyay's free templates](https://getnyay.in/templates). For a rental agreement that is checked clause by clause, look at [DocScore AI's rent agreement tool](https://www.docscoreai.com/drafting/rent-agreement). For a basic ready-made template you can fill and download, [Vakilsearch's documents section](https://vakilsearch.com/documents) has a free tier. A general chatbot such as ChatGPT or Claude can help you word a letter, but never paste sensitive personal details into one, and never trust its section numbers without checking them.
+
+![A person signing a legal document with a pen](/images/ai-tools-for-legal-documents-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -71,6 +74,8 @@ What chatbots are good at is wording: turning a rough instruction into a polite,
 
 There is also a privacy rule that matters more here than in any other article in this series. Do not paste Aadhaar numbers, bank details, addresses, or the full facts of a dispute into a general chatbot. Free chatbot chats may be used for training unless you change the settings, and a legal dispute is the worst possible thing to leak into a training set. For the same reason, be careful with any drafting tool: read its privacy policy before uploading an existing agreement for analysis. If you want a safer approach to handling sensitive documents, see [AI privacy and safety free tools in India](/blog/ai-privacy-safety-free-tools-india/).
 
+![Document trays holding paperwork on an office desk](/images/ai-tools-for-legal-documents-india/02.jpg)
+
 ## Making the draft usable in India: stamp paper, e-stamping, and registration
 
 A draft is not a finished legal document. In India, a rental agreement must be executed on non-judicial stamp paper, and the stamp duty varies by state. DocScore AI's own guidance gives Maharashtra as an example, where it says the duty is 0.25% of annual rent — but that is an example for one state, not a rate you can apply everywhere. Check your state's rate before you buy stamp paper or pay online.
@@ -99,6 +104,8 @@ Avoid sending legal notices in anger. A legal notice is a formal step that can s
 
 Avoid uploading sensitive documents to tools you have not checked. An existing agreement contains names, addresses, and financial terms. Before uploading one for analysis, read the tool's privacy policy and remove anything the analysis does not need. If the tool is a general chatbot, do not upload it at all.
 
+![A professional reviewing documents at an office desk](/images/ai-tools-for-legal-documents-india/03.jpg)
+
 ## Frequently asked questions
 
 **Is an AI-drafted rent agreement legally valid in India?** Yes, when it is signed by both parties in the presence of witnesses and executed on the correct stamp paper or e-stamp for your state. Notarisation or registration with the local sub-registrar gives stronger enforceability, especially for agreements exceeding 11 months. The AI draft itself is only the text; the signing and stamping are what make it a legal document.
@@ -120,3 +127,8 @@ Avoid uploading sensitive documents to tools you have not checked. An existing a
 Start with GetNyay or OneFiling for free templates, then get a lawyer to check anything with real money at stake. That is the whole method: free tools for the first draft, a human advocate for the final check, and your state's e-stamping portal for the finished document. If you need help turning the finished document into a PDF or summarising a long agreement before you read it, see [AI PDF tools to summarise in India](/blog/ai-pdf-tools-summarize-india/).
 
 Before you sign, run this checklist: have you read every clause, including lock-in, deposit refund, termination, and jurisdiction? Is the stamp value correct for your state? Are all names, addresses, amounts, and dates exactly right? Are the section numbers current? Has an advocate checked it if money, property, or a dispute is involved? If any answer is no, fix that answer before you sign — a free draft is only useful when the signed version is correct.
+
+**Image credits:**
+- A hand signing documents with a pen — [Pexels](https://www.pexels.com/photo/a-person-signing-a-contract-8815849/) — Kampus Production — Pexels License
+- Document trays holding paperwork on a desk with pens nearby — [Pexels](https://www.pexels.com/photo/documents-in-paper-tray-on-office-desk-7845307/) — RDNE Stock project — Pexels License
+- A businesswoman reviewing documents at a desk with a laptop and papers — [Pexels](https://www.pexels.com/photo/a-woman-sitting-at-a-desk-looking-at-paperwork-7222858/) — MART PRODUCTION — Pexels License
