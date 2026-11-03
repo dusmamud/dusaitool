@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with WedMeGood for vendors, Joy for a free website and RSVP, and Canva for invites. Pay only when a free limit actually blocks you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-event-planning-india-en.png'
 ---
 
 If you are planning a wedding, an engagement, a birthday, or a family party in India, you do not need to hire an event planner on day one, and you do not need to pay for five different apps before you have even fixed a date. Most of the planning work — finding vendors, comparing prices, sending invites, tracking who is actually coming, and keeping the budget from running away — can be done with free tools that work in India on normal broadband and mobile data, without a VPN.
@@ -18,6 +19,8 @@ The direct answer is this: start with three free tools. Use [WedMeGood](https://
 One honest point first, because this article is called an AI tools article. Not everything here is truly AI. WedMeGood, WeddingBazaar, and [VenueLook](https://www.venuelook.com/) are mainly vendor marketplaces and planning tools — their value is local listings, reviews, and checklists, not artificial intelligence. The genuinely AI parts are narrower: Canva AI can turn a sentence into a design, [ChatGPT](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq) can draft your invite text, vendor messages, and a budget sheet, and [weddly.ai](https://weddly.ai/) tries to run budget, guests, invites, and timeline in one AI-assisted dashboard. That distinction matters, because a marketplace with 150,000 vendors helps you more than a chatbot that only sounds confident. Judge each tool below by the job it does, not by whether it has AI in its name.
 
 This article is written for India on purpose: normal internet, no VPN, Indian cities and prices in rupees where the tool shows them, and Hindi and English use where it matters. It also carries the warning that applies to almost every tool here: free limits and prices change. A number that was correct when this article was written can change without an email to you. Before you plan a deadline around a free limit, and certainly before you pay, open the official pricing or help page of that tool again and check the number yourself.
+
+![A decorated banquet hall stage with floral arrangements and a chandelier](/images/ai-tools-for-event-planning-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -75,6 +78,8 @@ Evite is the simplest free option for birthdays, housewarmings, and casual parti
 
 Evite also offers premium options with exclusive designs and more customisation, and an option to upload your own design — useful if you already made an invite in Canva, since Evite has a Canva app that lets you bring a Canva design straight in. The rule for Evite is the same as for every freemium tool here: start free, and pay only if a premium design is genuinely worth it to you. For most parties, the free design plus real-time RSVP tracking is the whole job.
 
+![Friends celebrating at a party with balloons and confetti](/images/ai-tools-for-event-planning-india/02.jpg)
+
 ## Joy: the free wedding website and guest list
 
 Joy is the strongest free wedding website option in this list. Its pricing page says it plainly: Joy is free to use, at $0 a month. Wedding websites, planning tools, and registry are free, online save-the-dates and invitations have hundreds of free designs alongside premium paid designs, and the guest list manager lets you collect addresses, import guest lists, send messages, and track RSVPs in one connected place.
@@ -123,6 +128,8 @@ VPN third. None of the tools in this article needs a VPN to work in India on nor
 
 Avoid paying for a planning tool before you have a date, a city, and a rough guest count. Without those three, every premium feature is a guess, and you will pay for capacity you never use. Avoid keeping your only guest list inside a single new or early-access tool; keep a second copy as a spreadsheet or in Joy or Zola, and export it after every big change. Avoid booking a vendor from a marketplace listing alone — always call, always visit the venue or see recent full work, and always get the quote in writing with inclusions and cancellation terms. Avoid sharing your full guest list, with phone numbers, on a public wedding website; keep phone numbers and addresses in the private guest-list tool and share only the public schedule link. Avoid believing any AI-generated budget, seating plan, or vendor shortlist without checking it: AI drafts are fast, but your money, your family, and your date are real, and the final check is always yours.
 
+![A crowd in front of a brightly lit concert stage at night](/images/ai-tools-for-event-planning-india/03.jpg)
+
 ## Frequently asked questions
 
 **Can I plan a full Indian wedding using only free tools?**
@@ -152,3 +159,8 @@ Free events are free and unlimited. For paid tickets, its published fee structur
 ## The final verdict, and a checklist before you pay
 
 Start with WedMeGood for vendors, Joy for a free website and RSVP, and Canva for invites, and add the other tools only when you reach their job: VenueLook for the venue, Evite for a casual party, Social Tables for seating, Eventbrite for tickets, and ChatGPT for drafting. Before you pay for anything, run this checklist: is the date, city, and guest count fixed; is the quote in writing with inclusions and cancellation terms; is the guest list backed up in a second place; and have you re-checked the tool's official pricing page this week. If all four answers are yes, pay with confidence. If any answer is no, fix that first — the tool will still be there tomorrow, but a rushed advance is much harder to undo.
+
+**Image credits:**
+- A decorated banquet hall stage with floral arrangements and a chandelier — [Matheus Bertelli on Pexels](https://www.pexels.com/photo/stage-in-banquet-hall-17315427/), Pexels License
+- Friends celebrating at a party with balloons and confetti — [RDNE Stock project on Pexels](https://www.pexels.com/photo/women-celebrating-at-a-gender-reveal-party-9215229/), Pexels License
+- A crowd in front of a brightly lit concert stage at night — [Wendy Wei on Pexels](https://www.pexels.com/photo/crowd-in-front-of-blue-and-orange-stage-during-a-concert-at-night-1387174/), Pexels License
