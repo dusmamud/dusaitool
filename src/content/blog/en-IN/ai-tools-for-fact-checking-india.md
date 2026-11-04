@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with Google Lens and Fact Check Explorer, add InVID for videos, and treat every AI detector score as a clue, never as proof."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-fact-checking-india-en.png'
 ---
 
 If a forwarded message makes you angry, scared, or proud within five seconds, stop before you forward it. Start with [Google Lens](https://lens.google.com/) for the photo and [Google Fact Check Explorer](https://toolbox.google.com/factcheck/explorer) for the claim, because those two free checks catch most recycled photos and already-debunked stories in under two minutes, and both work in India without a VPN. If the item is a video, add the free InVID plugin to pull out individual frames. If it is a government scheme or order, check [PIB Fact Check](https://factcheck.pib.gov.in/) before anything else. Everything else in this article is for a harder case: an AI-generated image, a clipped video, a photo claimed to be from a place it is not from, or a claim nobody has checked yet.
 
 That order matters. Most viral fakes in India are not brand-new creations. They are old photos given a new caption, real videos cut to remove context, or screenshots of headlines that were never published. Reverse image search and claim search attack exactly those tricks, and they cost nothing. AI detectors, by contrast, only guess whether pixels look machine-made, and every serious fact-checker warns that their scores are indicators, not verdicts. Use them last, not first, and never forward a message just because a detector said it looked real.
+
+![A person closely inspecting a handwritten paper through a magnifying glass](/images/ai-tools-for-fact-checking-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -63,6 +66,8 @@ Videos are harder to fake-check than photos because you cannot reverse-search a 
 This is how many professional fact-checkers catch recycled videos: a dramatic clip claimed to be from a protest this week often turns out to be a frame from a years-old event in another country, or from a film, a drill, or a different incident entirely. The plugin is free, but it can be slow on long videos, since keyframe extraction takes time. If it stalls, take screenshots of a few distinct frames yourself and reverse-search those manually; the method matters more than the tool.
 
 Also listen, not just watch. A video's audio can reveal a different language, accent, or background sound than the claimed location suggests, and a transcript search of a distinctive spoken phrase can find the original longer video from which a clip was cut. Whenever a clip feels too short to be fair, assume context may have been removed until you find the full version.
+
+![A person checking printed documents with a magnifying glass, with a phone on the desk](/images/ai-tools-for-fact-checking-india/02.jpg)
 
 ## 5. Hive Moderation and AI or Not: AI detectors, used with humility
 
@@ -122,6 +127,8 @@ When a suspicious message arrives, spend five minutes in this order. First, read
 
 For teachers, journalists, and community group admins, the same workflow scales: pin a short "check before forwarding" note in the group, share the fact check rather than the rumour, and correct a false post in the same group where it appeared. Corrections posted elsewhere rarely reach the people who saw the original.
 
+![A magnifying glass resting on a handwritten letter beside crumpled papers](/images/ai-tools-for-fact-checking-india/03.jpg)
+
 ## Frequently asked questions
 
 **What is the best free AI tool for fact-checking in India?**
@@ -161,3 +168,9 @@ Neither is strictly better; they are complementary. TinEye's oldest-first sortin
 Start with Google Lens and Fact Check Explorer, add InVID for videos, and treat every AI detector score as a clue, never as proof. That combination is free, works in India without a VPN, and catches the most common fakes: recycled photos, clipped videos, and already-debunked claims. When a claim is about the government, PIB Fact Check settles it. When you cannot verify something after a genuine five-minute check, the right move is simple: do not forward it.
 
 If you want to build the wider habit, read our guides to [news summary tools](/blog/ai-tools-for-news-summaries-india/) for following verified news, and [free AI tools](/blog/best-free-ai-tools-india/) for the broader free toolkit. Prices and free limits change, so before paying for any detector or promising a deadline that depends on one, re-check its official pricing and help page.
+
+**Image credits:**
+
+- A person closely inspecting a handwritten paper through a magnifying glass — [Pexels](https://www.pexels.com/photo/a-man-looking-at-a-paper-through-a-magnifying-glass-6980361/), photo by KoolShooters, Pexels License (resized for this page).
+- A person checking printed documents with a magnifying glass, with a phone on the desk — [Pexels](https://www.pexels.com/photo/man-sitting-with-magnifying-glass-over-papers-7693722/), photo by Yan Krukau, Pexels License (resized for this page).
+- A magnifying glass resting on a handwritten letter beside crumpled papers — [Pexels](https://www.pexels.com/photo/overhead-shot-of-a-magnifying-glass-near-crumpled-papers-6980885/), photo by KoolShooters, Pexels License (resized for this page).
