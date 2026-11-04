@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Stellarium and Sky Tonight; pay only for SkySafari if you own a telescope."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-stargazers-india-en.png'
 ---
 
 ## The direct answer
@@ -18,6 +19,8 @@ If you live in India and want to start stargazing tonight, you do not need an ex
 That is the honest order of things, and it matters because most stargazing apps sell the same excitement twice: first the free map, then the premium catalogue, then the telescope control you may never use. This guide separates what is genuinely useful from what is only nice to have, and it names free limits and prices as they appeared in public listings at the time of writing. Prices and limits change, so always re-check the official pricing or help page and the price shown in your own app store in India before paying or promising yourself a deadline for a purchase.
 
 One clarification is worth making right at the start. Very few of these tools are "AI" in the sense of a chatbot that invents answers. Most are planetarium and augmented-reality apps that calculate real sky positions from astronomy data, and a newer group, led by Night Sky with its Aura assistant, adds a conversational AI layer on top of that map. The calculation part is reliable and testable: point the phone at Jupiter and the label should sit on Jupiter. The chatty AI part is helpful for explanations, but it can still be wrong about a date, a time, or a rare event, so always cross-check an eclipse, a meteor shower peak, or a planetary conjunction against a second source before you travel for it.
+
+![A stargazer looking through a telescope under a starry night sky](/images/ai-tools-for-stargazers-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -93,6 +96,8 @@ The NASA app is free with no in-app purchases, and it is the best companion app 
 
 Its limitation is equally clear from independent reviews: it is not a stargazing app at its core. It has some sighting and identification features, but it does not replace a dedicated sky map for a night outside. Use it indoors, during the day, to learn what is happening in space, and use Sky Tonight or Sky Map outdoors to find it in your own sky. That division of labour is the whole trick of this guide: one app for learning, one app for looking, and no single app forced to do both badly.
 
+![The Milky Way stretching across a dark, starry night sky with clouds](/images/ai-tools-for-stargazers-india/02.jpg)
+
 ## Stargazing in India: dark skies, monsoon, and practical sense
 
 India is a wonderful and a difficult country for stargazing at the same time. The difficulty is light pollution and weather. Public light-pollution data summarised by SkyQI, an India-focused map, puts major metros such as Delhi, Mumbai, Bengaluru, Kolkata, Chennai, and Hyderabad typically at Bortle classes 8 to 9, which is to say bright city skies where only the Moon, planets, and the brightest stars punch through, while Hanle in Ladakh, India's first Dark Sky Reserve, the Spiti Valley, and the Rann of Kutch retain pristine Bortle 1 to 3 skies. That gap is not a small difference; it is the difference between seeing a few dozen stars and seeing thousands, and between guessing at the Milky Way and walking under it.
@@ -110,6 +115,8 @@ For readers who want to go deeper into free tools generally, the site's guide to
 Avoid paying for three sky apps at once. One map, one planner, and one satellite tracker cover the hobby, and duplicate subscriptions are the most common waste in this category. Avoid any app or website that promises to name a star after you for a fee as an official act; star names are assigned by the International Astronomical Union, and a paid certificate is a novelty gift, not an astronomical record, so do not buy one believing otherwise. Avoid trusting a single AI answer for a rare event: if an assistant tells you a meteor shower peaks tonight, confirm the peak night and the Moon phase in Sky Tonight's calendar or on a second source before driving anywhere.
 
 Avoid judging an app on one cloudy night, or on a phone with an uncalibrated compass standing next to a car. Move away from metal, calibrate, and try again on a clear night before deleting anything. Avoid pointing a telescope or binoculars at the Sun without a proper solar filter; this is not a minor warning, because solar viewing without a certified filter can cause permanent eye damage in seconds, and ordinary sunglasses are not a solar filter. And avoid the idea that a bigger catalogue is automatically better: an app listing billions of stars is no help if its interface hides tonight's five visible planets behind three menus, while a simpler app shows them immediately.
+
+![A lone astronomer silhouetted against a starry sky while using a telescope](/images/ai-tools-for-stargazers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -156,3 +163,9 @@ Nothing is a perfectly good answer, and that is not a trick. Stellarium, Sky Map
 ## Final verdict
 
 Start free with Stellarium and Sky Tonight; pay only for SkySafari if you own a telescope. That single sentence is the whole guide in miniature: learn the sky for nothing, plan properly on a computer, use your phone as a map and a reminder service, chase the space station for free, and spend money only at the exact moment a telescope makes a paid charting app useful. The Indian sky rewards patience far more than purchases, and the darkest, clearest winter night with a free app and twenty minutes of dark-adapted eyes will show you more than any subscription ever will on a cloudy night in the city. Go outside tonight, find one planet, and let the second one find you tomorrow.
+
+**Image credits:**
+
+- A stargazer looking through a telescope under a starry night sky — [Pexels](https://www.pexels.com/photo/anonymous-male-explorer-observing-stars-in-mountainous-valley-in-evening-5753506/), photo by Skyler Ewing, Pexels License (resized for this page).
+- The Milky Way stretching across a dark, starry night sky with clouds — [Pexels](https://www.pexels.com/photo/stars-and-clouds-at-nighttime-1229042/), photo by Arnie Chou, Pexels License (resized for this page).
+- A lone astronomer silhouetted against a starry sky while using a telescope — [Pexels](https://www.pexels.com/photo/person-under-a-starry-night-sky-8495484/), photo by Thirdman, Pexels License (resized for this page).
