@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start free with iFixit, Google Lens and WhatsApp Business, then add a job-card system like ServiceCalender or RepairDesk once daily tickets grow."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-repair-shops-india-en.png'
 ---
 
 A repair shop in India runs on two skills: finding the fault quickly, and keeping track of every phone, laptop or mixer that comes in. AI tools help with both, but they do not replace a technician. The best setup for most small shops is a free diagnosis helper at the workbench, plus one system that records every job from intake to delivery. Everything in this article works in India without a VPN, and every free limit is stated as it was found, because prices and limits change and you should re-check the official pricing or help page before paying or promising a customer a deadline.
 
 The short answer is this: start with iFixit and its AI helper FixBot for repair steps, Google Lens for identifying parts and models, and WhatsApp Business for customer updates. For a phone health check at the counter, add a scanning app such as DeviceGPT. When walk-ins grow beyond what a notebook can hold, move to a repair job system such as ServiceCalender or RepairDesk, and handle bills with Vyapar or Zoho Books so GST invoices stay clean. Nothing here needs expensive hardware, and the free tools alone are enough for a one- or two-person shop.
+
+![Technician repairing a phone under a microscope at a workbench](/images/ai-tools-for-repair-shops-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -61,6 +64,8 @@ General AI assistants such as ChatGPT and Gemini are useful in a repair shop as 
 
 These assistants are also handy for writing in plain language: a short explanation of why a motherboard repair costs more than a screen replacement, a polite message telling a customer a part will take four days, or a translated note for a customer who reads Hindi better than English. What they must not do is decide the diagnosis alone. They can confidently suggest a wrong part, mix up two similar models, or invent a specification. Every AI suggestion goes through the same filter: does it match the device on my bench, and can I test it before I order a part? If either answer is no, keep testing.
 
+![Hands repairing electronics with pliers and a soldering iron at a workbench](/images/ai-tools-for-repair-shops-india/02.jpg)
+
 ## ServiceCalender: an AI service-centre system for Indian repair shops
 
 ServiceCalender is a service-centre and appointment system built for mobile, laptop and computer repair shops, including shops with more than one branch. It covers repair tickets with device details, reported issues, handover condition and photos, appointments and a technician calendar, technician assignment and performance, spare-parts inventory, quotations, warranty tracking and customer communication. Its AI features are built around your own store data: smart ticket intake suggests a fault category, likely parts from your own stock, a cost range and a priority from a plain description of the problem; a technician repair assistant suggests likely causes and step-by-step fixes for the exact device model, informed by similar repairs your store has already completed; and a customer update writer drafts status messages for SMS, WhatsApp or email.
@@ -97,6 +102,8 @@ Avoid tools that promise a guaranteed diagnosis from a photo alone. A photo can 
 
 Avoid paying for a big repair management system before your job volume justifies it. A monthly dollar-priced subscription is a fixed cost that hurts in a slow month, and a half-used system creates two records, the notebook and the software, that disagree with each other. Avoid "AI" apps that demand full device access, contact lists or SMS permissions for a simple battery test; a diagnostic tool does not need your customers' contacts. Finally, avoid promising a deadline that depends on a part you have not confirmed. AI estimates of repair time are guesses based on other people's jobs; your supplier's delivery date is the only date you can promise, and you should say so plainly to the customer.
 
+![Precision screwdriver set in a red case for phone and laptop repair](/images/ai-tools-for-repair-shops-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free AI tool is best for a small mobile repair shop in India?**
@@ -126,3 +133,8 @@ Yes, but only if someone updates the stock. ServiceCalender and RepairDesk both 
 ## Final verdict
 
 Start free with iFixit, Google Lens and WhatsApp Business, then add a job-card system like ServiceCalender or RepairDesk once daily tickets grow. That sequence keeps your costs near zero while you are small, gives you a real diagnosis habit at the bench, and adds structure exactly when lost jobs and missed messages start costing you money. Re-check every price and free limit on the official page before you pay, test every AI suggestion on the device in front of you, and keep the customer's data out of public chatbots. A repair shop wins on trust, and trust comes from a correct diagnosis, a clear bill and a phone returned on the day you promised.
+
+**Image credits:**
+- A technician repairing a phone under a microscope — [Pexels](https://www.pexels.com/photo/man-person-smartphone-broken-6755092/) by Tima Miroshnichenko, Pexels License.
+- Hands repairing an electronic device with a soldering iron and pliers — [Pexels](https://www.pexels.com/photo/person-in-white-long-sleeve-shirt-holding-black-smartphone-4705606/) by cottonbro studio, Pexels License.
+- A precision screwdriver set in a red case — [Pexels](https://www.pexels.com/photo/multi-screwdriver-set-16720099/) by Ismael Campos Carrillo, Pexels License.
