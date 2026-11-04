@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free on Lichess for analysis and puzzles, add Chess.com Game Review for guided reviews, and pay only when a limit actually blocks you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-chess-players-india-en.png'
 ---
 
 ## The direct answer
@@ -16,6 +17,8 @@ heroAlt: ""
 If you play chess in India and want to improve with AI tools, start with Lichess. It is free, it works in India without a VPN, and it gives you engine analysis, puzzles, opening study and a "learn from your mistakes" review without a paid subscription. Add Chess.com Game Review when you want a guided, beginner-friendly explanation of a game, and add Chessable when you want structured courses and spaced repetition for openings and tactics. You do not need to pay for anything in your first month. Pay only later, and only for one tool, when you can name the exact limit that is blocking you.
 
 That order matters because chess improvement is not about having the strongest engine. Every serious engine today is far stronger than any human player. What matters is whether the tool shows you your own repeated mistakes, gives you puzzles built from those mistakes, and helps you remember the right idea next time. A tool that only tells you the best move in one position will not fix a weakness that appears in twenty games.
+
+![Chess pieces mid-game on a wooden board](/images/ai-tools-for-chess-players-india/01.jpg)
 
 ## Short-answer table
 
@@ -90,6 +93,8 @@ Not every training game should be against a superhuman engine. Stockfish at full
 
 Use sparring for a specific purpose, not as a replacement for playing real people. For example, play ten games against a bot at your level with one opening you are learning, and analyse each one on Lichess afterwards. That is deliberate practice. Playing a hundred casual bot games without analysis is entertainment, and there is nothing wrong with entertainment, but do not confuse it with improvement.
 
+![Two players concentrating over a chess game indoors](/images/ai-tools-for-chess-players-india/02.jpg)
+
 ## A weekly routine that actually works
 
 Tools only help if they become a routine. Here is a simple week that uses only free tools, with paid tools as optional extras.
@@ -127,6 +132,8 @@ Avoid cheating, and avoid tools that encourage it. Using an engine during a rate
 Avoid trusting any single number. An accuracy score, a centipawn loss figure and a rating are all useful, but they all move with the opponent, the time control and the engine depth. Judge yourself over twenty games, not one, and judge a tool over a month, not a day.
 
 Avoid copying a paid plan from a creator or a friend without checking your own limit. If someone says a tool is "free", check what free means: one game a day, forty games a day, free courses only, or fully free are very different offers, and this article has tried to state each one exactly.
+
+![A hand poised above a chessboard during a tense moment in a game](/images/ai-tools-for-chess-players-india/03.jpg)
 
 ## FAQ
 
@@ -173,3 +180,9 @@ Tactics first. Beginners lose games on hanging pieces and missed forks far more 
 ## Final verdict
 
 Start free on Lichess for analysis and puzzles, add Chess.com Game Review for guided reviews, and pay only when a limit actually blocks you.
+
+**Image credits:**
+
+- Chess pieces mid-game on a wooden board — [Pexels](https://www.pexels.com/photo/chess-pieces-on-wooden-checkered-board-6599548/), photo by Tima Miroshnichenko, Pexels License.
+- Two players concentrating over a chess game indoors — [Pexels](https://www.pexels.com/photo/two-men-playing-chess-19931494/), photo by soltani oussama, Pexels License.
+- A hand poised above a chessboard during a tense moment in a game — [Pexels](https://www.pexels.com/photo/wooden-chessboard-with-chess-pieces-6599591/), photo by Tima Miroshnichenko, Pexels License.
