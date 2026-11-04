@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Hive and Content Credentials, check the source too, and report harmful fakes on cybercrime.gov.in — no detector alone is proof."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-deepfake-safety-india-en.png'
 ---
 
 A video of a politician saying something shocking, a voice clip of a relative asking for money, or a photo of a celebrity in a situation that never happened — in India in 2026, any of these can be faked with AI in minutes, and forwarded on WhatsApp long before anyone checks. The direct answer is this: for a quick free check, start with Hive Moderation's free detection tools and a Content Credentials check, then verify the source itself, because no single detector is proof on its own. If the content harms someone, is non-consensual, or is being used for fraud, do not just debate it in a group chat — preserve the evidence and report it through official channels, starting with the National Cyber Crime Reporting Portal at cybercrime.gov.in and the cybercrime helpline 1930.
@@ -16,6 +17,8 @@ A video of a politician saying something shocking, a voice clip of a relative as
 This article is written for India on purpose: students, parents, teachers, journalists, small business owners, and anyone who forwards or receives viral clips, using a normal phone and laptop, with no assumption that you have a paid plan, a foreign account, or technical training. Every tool below is browser-based or works through a normal browser in India without a VPN, and every free limit is stated honestly. Prices and limits change often, so before paying for anything or promising anyone a deadline based on a tool, re-check the tool's official pricing or help page. Where sources disagree — and they do, especially on accuracy claims — this article says so rather than picking the most impressive number.
 
 A deepfake is media that has been generated or manipulated by AI to show a person doing or saying something they did not do or say. That includes face swaps in video, AI-generated photos of events that never happened, cloned voices on phone calls, and lip-sync edits that put new words into a real person's mouth. A related but different thing is fully AI-generated content: a photo or video that looks real but was never a photograph of anything at all. Detectors try to tell these apart from real media, but they work with probabilities, not certainty. A result that says "likely AI-generated" is screening evidence, not a court verdict, and a result that says "likely real" does not prove the event happened. Keep that sentence in mind through the whole article, because it is the single most important idea in deepfake safety.
+
+![A man with green binary code projected across his face, symbolising digital identity and cybersecurity](/images/ai-tools-for-deepfake-safety-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -106,6 +109,8 @@ Glaze and Nightshade, free tools from the University of Chicago, take a differen
 
 Be honest about what they do not do. They work on images only, they do not prove you took a photo, and they do not stop a screenshot or a determined human copy. They make AI misuse harder and less reliable; they do not make it impossible. Use them on the copies you post publicly, keep your originals private and uncloaked, and combine them with Content Credentials so your genuine work carries a verifiable history as well.
 
+![A woman with red binary code projected across her face, symbolising how AI can manipulate a real face](/images/ai-tools-for-deepfake-safety-india/02.jpg)
+
 ## Protecting your photos and identity: habits that beat any single tool
 
 Tools help, but the habits below protect more people than any detector, because deepfake generators need clear, front-facing, high-resolution source images to work well. Starve them of that material.
@@ -131,6 +136,8 @@ For journalists, teachers, and small businesses in India, one more India-specifi
 Avoid paying for a detector before testing its free tier on samples you already know are real and fake. A paid plan that cannot tell your own genuine photo from a known fake is not worth money, no matter how impressive its marketing page looks. Avoid tools that demand your full photo library, your contacts, or your social media login just to check one file — a legitimate checker needs the file, not your account. Avoid uploading intimate or sensitive images to an unknown checker: if a tool's privacy page does not say what happens to your upload, assume the worst and do not use it for sensitive material. StopNCII.org exists precisely because this distinction matters.
 
 Avoid sharing a suspected fake to "ask if it is real", because that shares the fake. Describe it in words, or share a detector result, instead of forwarding the file itself. Avoid confronting someone based on a single detector score, especially in a workplace or family dispute — a false positive can damage a reputation that no correction fully repairs. Avoid the idea that a "no AI detected" result proves a video is genuine: it proves only that the tool found no signal, which is very different. Avoid enterprise-only tools for personal use — Intel FakeCatcher, for example, is not sold as a consumer app, and Sensity is an enterprise and government forensic platform — and avoid treating a shut-down tool as available: TrueMedia.org, once a free nonprofit detector, closed in January 2025, so any guide still recommending it as a live service is out of date. Finally, avoid promising anyone a deadline or an outcome based on a detector. Prices, free limits, and accuracy all change, and the official pricing or help page is the only safe source before money or a promise is involved.
+
+![A smartphone wrapped in a chain with a combination padlock, symbolising phone and photo security](/images/ai-tools-for-deepfake-safety-india/03.jpg)
 
 ## FAQ
 
@@ -181,3 +188,9 @@ Start free with Hive and Content Credentials, check the source too, and report h
 That verdict is deliberately boring, because deepfake safety is a habit, not a purchase. Keep Hive and a Content Credentials check bookmarked, keep your public photos lower-resolution and your profiles private, agree a family code word today before anyone needs it, and know the reporting route — cybercrime.gov.in and helpline 1930 — before a crisis arrives. The tools in this article cost nothing to start with, and the habits cost nothing at all. Used together, they give you something no single score can: a reasoned answer about whether to trust what you are looking at, and a clear next step when the answer is no.
 
 *Disclaimer: this article is general information only, not professional, legal, or technical advice. No detector is perfect, and a detector result is not proof that content is real or fake. For a legal question, a serious fraud, or a harmful fake, check official sources and consult a qualified professional, and report suspicious content through official channels such as cybercrime.gov.in and helpline 1930. Prices, free limits, and tool availability change; re-check the official pricing or help page of any tool before paying or promising a deadline.*
+
+**Image credits:**
+
+- A man with green binary code projected across his face — [Pexels](https://www.pexels.com/photo/man-in-white-crew-neck-shirt-wearing-silver-framed-eyeglasses-5474034/), photo by cottonbro studio, Pexels License (resized for this page).
+- A woman with red binary code projected across her face — [Pexels](https://www.pexels.com/photo/woman-with-red-light-on-face-5473950/), photo by cottonbro studio, Pexels License (resized for this page).
+- A smartphone wrapped in a chain with a combination padlock — [Pexels](https://www.pexels.com/photo/close-up-of-a-smart-phone-with-a-lock-11391947/), photo by Towfiqu barbhuiya, Pexels License (resized for this page).
