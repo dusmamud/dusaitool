@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start free with Google Profile, WhatsApp Business and Zoho Invoice; pay for Jobber or an AI receptionist only when missed calls cost you work."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-home-services-india-en.png'
 ---
 
 An electrician, plumber or cleaning team in India rarely loses work because of poor skill. Work is lost because a call rings while the technician is on a ladder, a booking written on paper gets forgotten, a customer cannot find the business on Google, or a bill is never sent after the job is done. The tools in this article fix those four leaks: being found, booking the job, doing the job on time, and getting paid.
 
 The short answer is: start free with a Google Business Profile so nearby customers can find you, WhatsApp Business so customers can message and book on the app they already use, and Zoho Invoice so every job ends with a proper GST bill. When bookings grow beyond what one phone and one notebook can handle, add Zoho Bookings for online scheduling. Only pay for a full field-service system such as Jobber, or an India-based AI receptionist such as Kallix or Vocora, when missed calls and messy scheduling are actually costing you paid jobs. Every tool below works in India without a VPN, and every free limit is stated honestly. Prices and free limits change often, so re-check the official pricing or help page before paying for anything or promising a customer a deadline based on a tool.
+
+![An electrician using a screwdriver to fit electrical sockets on a wall at home](/images/ai-tools-for-home-services-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -69,6 +72,8 @@ Many home services teams run on Android phones, and Vyapar is a billing and acco
 
 The important limit is the platform. Vyapar works on Android phones and Windows desktop computers and is not available on iOS devices. On desktop, premium themes and live sync across devices need a paid licence for each device. So the honest rule is: if the business runs on one Android phone, Vyapar costs nothing for billing and stock. If you need the same data live on two computers, check the current desktop price on the official pricing page before paying. Vyapar and Zoho Invoice overlap, so do not run both for the same bills or you will create duplicate records. Pick one as the single place where bills live: Vyapar if stock on Android matters most, Zoho Invoice if formal quotes, recurring invoices and a customer portal matter most.
 
+![A plumber in gloves installing a pipe with tools indoors](/images/ai-tools-for-home-services-india/02.jpg)
+
 ## Jobber: the full system for teams that have outgrown notebooks
 
 Jobber is a field-service management platform built for home and commercial service businesses, covering quoting, scheduling, invoicing, payments, customer communication and dispatch in one place. It serves trades including plumbing, electrical, HVAC and cleaning. Its comparison with Housecall Pro, another well-known field-service platform, lists Jobber's starting price at around US$29 per month billed annually, with Housecall Pro starting higher at around US$59 to US$100 per month depending on industry and billing cycle, and both offering a 14-day free trial with no credit card required. Those are dollar prices for the international market, and they can change, so treat them as a starting point for comparison, not as a final quote.
@@ -103,6 +108,8 @@ Payment habits matter too. Indian home services customers expect UPI, and many e
 
 First, do not buy a big paid system before the free basics are working. If your Google profile is incomplete, your WhatsApp replies take a day, and bills go out late, Jobber will not fix those habits; it will only record them more expensively. Second, do not trust any tool's price, free limit or feature list from a blog post, including this one. Prices, limits and model names change, sometimes without notice, so re-check the official pricing and help pages before paying or promising a deadline. Third, do not let AI quote prices, diagnose faults or promise timings. An AI message can draft words, but only a technician who has seen the site can price a rewiring job or a seepage repair. Fourth, do not collect customer addresses and phone numbers carelessly. Keep them in one business system, share only what a technician needs for that job, and respect do-not-disturb preferences for promotional messages. Fifth, do not fake reviews, before-and-after photos or qualifications. One exposed fake review damages a local business more than ten real three-star reviews. Finally, do not join a marketplace or aggregator platform without reading its terms: a free partner app is not the same as free customers, because commission, training requirements, service standards and penalties all affect what you actually earn per job.
 
+![A professional cleaner in red overalls holding a mop indoors](/images/ai-tools-for-home-services-india/03.jpg)
+
 ## FAQ
 
 **Which free tools should a new electrician or plumber in India start with?**
@@ -129,3 +136,8 @@ No. Prices, free limits and AI model names change often. Re-check the official p
 ## Final verdict
 
 Start free with Google Profile, WhatsApp Business and Zoho Invoice; pay for Jobber or an AI receptionist only when missed calls cost you work.
+
+**Image credits:**
+- An electrician using a screwdriver to fit electrical sockets on a wall at home — [Pexels](https://www.pexels.com/photo/an-electrician-using-screwdriver-to-repair-the-ac-power-plugs-and-sockets-5691589/) by Ksenia Chernaya, Pexels License.
+- A plumber in gloves installing a pipe with tools indoors — [Pexels](https://www.pexels.com/photo/professional-plumber-installing-a-radiator-pipe-29226620/) by Sergei Starostin, Pexels License.
+- A professional cleaner in red overalls holding a mop indoors — [Pexels](https://www.pexels.com/photo/man-wearing-an-orange-coveralls-6197123/) by Tima Miroshnichenko, Pexels License.
