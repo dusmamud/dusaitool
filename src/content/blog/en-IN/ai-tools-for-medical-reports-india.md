@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Use Bharat Swasth or ChatGPT for plain-language explanations, keep records in ABHA, and always confirm flagged results with your doctor."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-medical-reports-india-en.png'
 ---
 
 > **Important health disclaimer:** This article gives general information only. It is not medical advice, and it does not replace a doctor. An AI explanation of a lab report can help you understand words and numbers, but it can never diagnose you, prescribe medicine, or tell you whether you are healthy or ill. If any value is flagged, if you have symptoms, or if you are deciding about treatment, medicine, or a test, check with a qualified doctor and with the official sources of the tools mentioned here. Prices and free limits change often, so re-check the official pricing and help page of any tool before you pay or promise yourself a deadline based on it.
@@ -18,6 +19,8 @@ heroAlt: ""
 If a lab report confuses you, start with a purpose-built Indian lab-report analyser such as Bharat Swasth for a plain-language reading of common blood tests, and use a general chatbot such as ChatGPT or Gemini only as a second opinion on wording, never as a diagnosis. For storing and tracking reports over time, use a proper health-record system — your ABHA-linked health locker through Aarogya Setu 2.0 or DigiLocker, or a records vault such as Practo — rather than leaving PDFs scattered across WhatsApp chats and photo galleries. The safest workflow is simple: upload a clean digital PDF, ask the AI to list every value with its unit and the reference range printed on your report, check that list against the paper yourself, read the explanation, and then take anything flagged or worrying to your doctor.
 
 That order matters. The most common AI mistake with lab reports is not a clever-sounding wrong explanation. It is a wrong number — a value read from the wrong column, a decimal point missed in a phone photo, or a reference range borrowed from another lab or another country. A clean PDF from your lab's portal, rather than a tilted photograph of a printout, sharply reduces that risk. And even a perfectly read number still needs a human doctor, because the same value can mean different things depending on your age, medicines, symptoms, family history, and earlier reports. AI tools do not know your full history unless you tell them, and even then they are not qualified to judge it.
+
+![A healthcare worker in scrubs and gloves reading a document on a clipboard](/images/ai-tools-for-medical-reports-india/01.jpg)
 
 ## Short-answer table
 
@@ -78,6 +81,8 @@ This is the most durable option for record-keeping, because it is not tied to on
 
 Set expectations honestly. Not every hospital, clinic, and lab in India is linked yet, so your locker may be incomplete, and setting up an ABHA and linking facilities takes a few steps with a mobile number and identity verification. Think of ABHA as your long-term filing cabinet and Bharat Swasth or ChatGPT as the reading glasses you use when a new report arrives. The cabinet keeps the records safe; the glasses help you read one report; neither replaces the doctor who interprets the whole picture.
 
+![A lab worker examining a specimen under a microscope](/images/ai-tools-for-medical-reports-india/02.jpg)
+
 ## Using AI tools in India: a practical workflow
 
 Start with the best source document you have. Download the PDF from your lab's portal or from the link sent by SMS or email, rather than photographing a printout. If you only have paper, photograph each page straight on, in good light, and check that every number is readable before uploading. Crop out unrelated personal details where the tool allows it, and never upload someone else's report without their permission.
@@ -97,6 +102,8 @@ Do not use an AI tool to diagnose yourself, to decide whether a symptom is serio
 Avoid acting on a single flagged value without context. Many values go slightly out of range for harmless reasons — a recent meal, dehydration, exercise, a medicine, or normal variation — and many serious conditions show a pattern across several values and several reports, not one red number. Avoid comparing your values with a friend's values or with a range you found in a random video, because ranges differ by lab, age, sex, and testing method. Avoid sharing your full report, with your name, phone number, and address visible, in a public group while asking strangers what it means; that exposes your health data and invites unqualified advice at the same time.
 
 Finally, avoid letting AI explanations delay real care. If you have chest pain, breathlessness, sudden weakness, severe pain, heavy bleeding, or any symptom that worries you urgently, do not open a chatbot first. Seek urgent medical care, or call your local emergency number, and let a doctor assess you in person. AI tools are for understanding paperwork after the fact, not for emergencies.
+
+![A doctor writing notes on a clipboard in a hospital room](/images/ai-tools-for-medical-reports-india/03.jpg)
 
 ## FAQ
 
@@ -143,3 +150,8 @@ Our guide to the [best free AI tools in India](/blog/best-free-ai-tools-india/) 
 ## Final verdict
 
 Use Bharat Swasth or ChatGPT for plain-language explanations, keep records in ABHA, and always confirm flagged results with your doctor.
+
+**Image credits:**
+- A healthcare worker reading a document on a clipboard — [Pexels](https://www.pexels.com/photo/crop-black-doctor-reading-document-on-clipboard-6097752/) — Laura James — Pexels License
+- A lab worker examining a specimen under a microscope — [Pexels](https://www.pexels.com/photo/close-up-of-lab-worker-looking-at-specimen-under-microscope-8770717/) — Gustavo Fring — Pexels License
+- A doctor writing notes on a clipboard in a hospital room — [Pexels](https://www.pexels.com/photo/a-doctor-writing-on-the-paper-6010796/) — Tima Miroshnichenko — Pexels License
