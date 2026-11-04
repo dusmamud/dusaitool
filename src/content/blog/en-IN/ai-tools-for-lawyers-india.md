@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Indian Kanoon free and a Manupatra or SCC trial, verify every citation, and keep client data out of free chatbots."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-lawyers-india-en.png'
 ---
 
 If you practise law in India, AI can genuinely save you hours — but only if you use it for the right jobs and check its output like a sceptic. The strongest use is not asking a chatbot to tell you the law from memory. It is searching a real Indian case database, getting a first draft from your own facts, and letting software handle diary dates, client updates and invoices. The weakest use, and the one that has already caused trouble in Indian courts, is copying an AI-generated citation into a filing without opening the judgment it claims to cite.
@@ -16,6 +17,8 @@ If you practise law in India, AI can genuinely save you hours — but only if yo
 **Important disclaimer: this article is general information only, not professional advice.** Nothing here replaces your own judgment, your bar obligations, or the primary sources themselves. Before anything is filed, advised on, or relied on by a client, verify it against the judgment, the statute, or the official record. Prices, free limits and features change often; re-check the official pricing and help page of any tool before you pay for it or promise a client a deadline based on it.
 
 The short answer is this. For free, everyday case research, start with Indian Kanoon. For serious litigation research with citation checks, take a trial of Manupatra or SCC Online and compare them on your own matters before subscribing. For drafting, use a tool that works from facts and documents you supply, not one that invents authorities. For running the practice itself, prefer an India-built practice tool over a foreign one that does not understand GST invoicing or Indian court diaries. And for every AI output, apply one rule without exception: never cite what you have not opened and read yourself.
+
+![A lawyer working on a laptop in an office, with a gavel on the desk](/images/ai-tools-for-lawyers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -75,6 +78,8 @@ The dangerous use is the opposite: asking the chatbot to tell you the law from i
 
 The practical workflow that follows from this is simple. Search in a real database yourself. Feed only verified material to the chatbot for analysis or drafting. Check every citation, party name, date and quoted paragraph against the original before it leaves your office. And never paste confidential client information — names, case strategy, settlement figures, privileged documents — into a free chatbot tier, where the provider's data-use terms may differ from a paid, enterprise or legal-specific product. If a matter is sensitive, use the tool's paid business tier with clear data terms, or do not use a general chatbot for it at all.
 
+![A stack of vintage hardcover books on a wooden table in a library](/images/ai-tools-for-lawyers-india/02.jpg)
+
 ## Running the practice: client management, diary, billing and documents
 
 Research and drafting get the attention, but most of a small firm's lost time is in administration: missed dates, unanswered clients, unbilled hours and documents scattered across email and chat. This is where practice management software earns its keep, and here the India question matters more than the brand name.
@@ -100,6 +105,8 @@ Fifth, cost must be judged per matter, not per feature. A solo advocate doing a 
 ## What to avoid
 
 Avoid citing any authority you have not opened and read in a real database. Avoid pasting privileged or confidential client material into free chatbot tiers. Avoid tools that publish no price and no data terms — if a vendor will not say what it costs or where your data goes, that silence is information. Avoid large-firm products with seat minimums if you practise solo: reported figures for global legal AI products such as Harvey run into lakhs per user per year with minimum seat counts, which makes them irrelevant for most Indian solos however good they are. Avoid promising a client a result or a deadline based on a free tier you have not re-checked, because free limits change. Avoid letting an AI draft go to a client or a court without a line-by-line read, especially names, dates, amounts, limitation periods and section numbers. And avoid treating an AI summary as research: a summary is a map, not the territory, and the territory is the judgment itself.
+
+![A wooden gavel on its sound block beside a law book on a desk](/images/ai-tools-for-lawyers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -132,3 +139,9 @@ It can be zero to start: Indian Kanoon free plus careful use of a free chatbot t
 Start with Indian Kanoon free and a Manupatra or SCC trial, verify every citation, and keep client data out of free chatbots.
 
 That is the whole discipline in one line. Free research covers most everyday questions. A paid database earns its fee on contested matters, where a missed overruling costs more than a year's subscription. Drafting AI earns its keep only when it works from facts and documents you verified yourself. And no tool, however expensive, transfers your responsibility to the court or the client. Use AI to work faster, check everything as if your reputation depends on it — because in this profession, it does.
+
+**Image credits:**
+
+- A lawyer working on a laptop in an office, with a gavel on the desk — [Pexels](https://www.pexels.com/photo/male-lawyer-working-on-laptop-in-office-5668791/), photo by Sora Shimazaki, Pexels License (resized for this page).
+- A stack of vintage hardcover books on a wooden table in a library — [Pexels](https://www.pexels.com/photo/pile-of-assorted-title-book-lot-selective-focus-photographt-1130980/), photo by Suzy Hazelwood, Pexels License (resized for this page).
+- A wooden gavel on its sound block beside a law book on a desk — [Pexels](https://www.pexels.com/photo/brown-gavel-8693379/), photo by Towfiqu barbhuiya, Pexels License (resized for this page).
