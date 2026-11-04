@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with one all-in-one system plus WhatsApp; add AI pricing and review replies only once bookings flow cleanly."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-hotels-india-en.png'
 ---
 
 ## The direct answer
@@ -19,6 +20,8 @@ For most properties with 5 to 30 rooms, the practical starting point is an all-i
 
 Prices and free limits in this article were checked against vendor pages and independent comparisons in late 2026, but they change often. Several sources disagree with each other on the same tool's starting price, and this article says so wherever that happens. Always re-check the official pricing and help page before paying, and never promise a guest a deadline or a price based only on what an AI tool told you.
 
+
+![A spacious hotel lobby with a central plant display, chandelier, and reception desk](/images/ai-tools-for-hotels-india/01.jpg)
 ## Short-answer table
 
 | Job to be done | Best starting pick | Free or trial option | Watch out for |
@@ -74,6 +77,8 @@ Its headline strength is language coverage: HiJiffy says its AI answers in more 
 
 HiJiffy makes sense once direct bookings and international guests are a large share of your business. For a property whose guests mostly message in Hindi or English on WhatsApp, the free WhatsApp Business app plus saved replies may do the same job for nothing until volume grows.
 
+
+![A modern hotel room with a neatly made bed, bedside lamp, and warm lighting](/images/ai-tools-for-hotels-india/02.jpg)
 ## 6. SiteMinder: distribution first, chatbot second
 
 SiteMinder is best known as a channel manager and booking engine, and it is worth listing separately because many small hotels already use it without realising it is the platform behind their channel sync. Its own chatbot guide recommends tools such as HiJiffy, Easyway and Bookboost, all of which integrate with SiteMinder so the chatbot can pull real availability, pricing and promotions. SiteMinder's own messaging product adds automated pre-stay and post-stay emails, online check-in, upsell prompts and TripAdvisor review integration, with a 14-day trial reported for new users followed by custom pricing.
@@ -116,6 +121,8 @@ Avoid buying an AI chatbot before your calendar is accurate. A chatbot that conf
 
 A short honest-limits note on money: every price in this article is a snapshot, and hotel software pricing is especially prone to changing by room count, region, add-ons and exchange rates. Euro and dollar prices will also move in rupees. Re-check the official pricing page, confirm taxes and booking fees, and ask what happens to your data if you cancel, before paying for any annual plan.
 
+
+![A receptionist standing at a hotel reception desk with a service bell](/images/ai-tools-for-hotels-india/03.jpg)
 ## FAQ
 
 **Which AI tool is best for a small hotel in India?**
@@ -153,3 +160,8 @@ Yes — the tools in this article are ordinary commercial web services sold to I
 ## Final verdict
 
 Start with one all-in-one system plus WhatsApp; add AI pricing and review replies only once bookings flow cleanly.
+
+**Image credits:**
+- A spacious hotel lobby with a central plant display, chandelier, and reception desk — [Pexels](https://www.pexels.com/photo/the-reception-area-of-a-hotel-14036253/) by Quang Nguyen Vinh, Pexels License (free to use).
+- A modern hotel room with a neatly made bed, bedside lamp, and warm lighting — [Pexels](https://www.pexels.com/photo/bed-and-pillows-in-a-hotel-room-5461582/) by Amelia Hallsworth, Pexels License (free to use).
+- A receptionist standing at a hotel reception desk with a service bell — [Pexels](https://www.pexels.com/photo/wooden-front-desk-for-reception-3771811/) by Andrea Piacquadio, Pexels License (free to use).
