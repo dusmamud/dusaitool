@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free: draft with ChatGPT, design the cover in Canva, format in Kindle Create, and publish on KDP — pay only for editing or a pro cover."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-self-publishing-india-en.png'
 ---
 
 Self-publishing in India no longer means finding a printer, printing a thousand copies, and hoping a bookshop stocks them. An author in Pune, Patna, or Kochi can now write a book with AI help, design a cover on a phone, format it for free, and sell the ebook on Amazon India the same week — while print copies are made only when a reader orders one. The catch is that not every tool in a global "best AI tools" list works the same way for an Indian author. Prices are in dollars, some print options do not reach Amazon India at all, and the royalty you actually earn depends on choices like KDP Select that are easy to get wrong.
@@ -16,6 +17,8 @@ Self-publishing in India no longer means finding a printer, printing a thousand 
 The short answer is this: draft with a free AI chatbot such as ChatGPT, Gemini, or Claude, clean the language with Grammarly free, design the cover in Canva free, format the ebook with Amazon's own free Kindle Create or with Reedsy Studio, and publish the ebook through Kindle Direct Publishing (KDP), which is free to use. For print in India, add an Indian print-on-demand platform such as Pothi.com or Notion Press, because KDP's own paperback distribution does not cover Amazon India — a fact Amazon's own help pages state plainly, and one that surprises many first-time Indian authors. If you want bookshops and libraries abroad as well, IngramSpark's Global Connect programme includes India among its print-partner countries. Get a free ISBN from India's official ISBN agency before you need one, keep your rights, and do not pay for a "publishing package" until you know exactly what it adds beyond these free tools.
 
 That stack costs nothing to start, and it covers the whole journey: idea, draft, edit, cover, format, ISBN, publish, and sell. Everything after that — a paid editor, a professional cover designer, a formatting tool such as Atticus — is an upgrade you buy once a book is earning or once a specific weakness is costing you readers. This article walks through each stage with honest free limits, India-specific warnings, and the mistakes that cost Indian authors the most money.
+
+![A stack of hardcover books on a wooden table](/images/ai-tools-for-self-publishing-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -80,6 +83,8 @@ Atticus, at about $147 as a one-time payment in one recent comparison, is the cr
 
 Whatever tool you choose, preview before you publish. KDP's own previewer shows how the book looks on a phone, a tablet, and an e-ink Kindle, and that ten-minute check catches most disasters: a contents page that links nowhere, a chapter that starts mid-sentence, or an image that covers the text. Print files need a second check: margins, page numbers, and a cover that includes the spine and back, not just the front.
 
+![An author writing in a notebook at a wooden desk with an open book and tea](/images/ai-tools-for-self-publishing-india/02.jpg)
+
 ## Publishing and distribution in India: KDP, Pothi, Notion Press, and IngramSpark
 
 This is the section where India-specific facts change the plan, so read it before choosing a platform. Kindle Direct Publishing is free to use and lets you publish ebooks for the Kindle store, including Amazon India. For ebooks, you choose between a 35% royalty option and a 70% royalty option. The 70% option applies only in certain territories and carries list-price requirements: for the India Kindle store, KDP's help pages list a 70% royalty price band of ₹99 to ₹599, with different minimum prices under the 35% option depending on file size. Crucially, for sales to customers in India, a book must also be enrolled in KDP Select to be eligible for the 70% royalty. KDP Select is a free 90-day programme, but it requires exclusivity: during the enrolment period, the ebook can only be distributed through KDP and public libraries, although print and other formats can still be sold elsewhere. That exclusivity is the price of Kindle Unlimited page-read income, and it is a bad deal if your main audience is on another store — so decide on exclusivity deliberately, not by accident.
@@ -115,6 +120,8 @@ Avoid the "publish and pray" launch. A book with no description, no categories, 
 Avoid promising a deadline that depends on a tool, a platform review, or an ISBN approval you do not control. KDP review, print proof copies, and ISBN processing all take variable time. Announce a launch window, not a single date, until the files are approved and the proof copy is in your hands.
 
 Avoid spending on ads before the book's page is ready. Paying to send readers to a listing with a blurry cover, no reviews, and a description full of errors wastes money and teaches the ad platform that your book does not convert. Fix the page first, get ten honest early readers, and only then test a small ad budget you can afford to lose.
+
+![A vintage printing press feeding orange paper in a workshop](/images/ai-tools-for-self-publishing-india/03.jpg)
 
 ## FAQ
 
@@ -153,3 +160,9 @@ Treat free AI tools as public workspaces with good intentions but no guarantee o
 Start free: draft with ChatGPT, design the cover in Canva, format in Kindle Create, and publish on KDP — pay only for editing or a pro cover.
 
 That sentence is the whole strategy in one line, and it survives contact with the India-specific facts: KDP reaches your ebook readers, Indian print-on-demand reaches your print readers, a free ISBN keeps you as publisher, and AI handles the drafting, cover, and formatting labour that used to cost a first-time author months or thousands of rupees. Your job is the part no tool can do: a book worth reading, a cover worth clicking, a description worth trusting, and the patience to publish, learn from real sales, and write the next one better. Start with one book, one free stack, and one honest launch — and re-check every price and rule on the official page before you spend a rupee or promise a date.
+
+**Image credits:**
+
+- A stack of hardcover books on a wooden table — [Pexels](https://www.pexels.com/photo/stack-of-hardbound-books-4861379/), photo by cottonbro studio, Pexels License (resized for this page).
+- An author writing in a notebook at a wooden desk with an open book and tea — [Pexels](https://www.pexels.com/photo/a-woman-writing-on-the-notebook-8055496/), photo by Annushka Ahuja, Pexels License (resized for this page).
+- A vintage printing press feeding orange paper in a workshop — [Pexels](https://www.pexels.com/photo/close-up-of-old-fashioned-printing-machinery-6620989/), photo by Antoni Shkraba, Pexels License (resized for this page).
