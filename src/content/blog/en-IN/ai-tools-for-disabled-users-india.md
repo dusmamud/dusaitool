@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free: Be My Eyes and Seeing AI for vision, Live Transcribe and Live Caption for hearing, and NVDA on Windows — check limits before paying."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-disabled-users-india-en.png'
 ---
 
 The best accessibility tool is not the one with the longest feature list. It is the one that works on the phone or computer you already own, on an Indian mobile connection, without a VPN, and without asking you to pay before you know whether it helps you. That is the test every tool in this article had to pass. If a tool needed a US account, a credit card for its free tier, or a VPN to open in India, it did not make the list.
@@ -16,6 +17,8 @@ The best accessibility tool is not the one with the longest feature list. It is 
 The short answer for India is this: if you are blind or have low vision, start with [Be My Eyes](https://www.bemyeyes.com/) and [Seeing AI](https://www.seeingai.com/) on your phone, and add [NVDA](https://www.nvaccess.org/download/) on a Windows computer. If you are deaf or hard of hearing, start with the free tools already built into Android — Live Transcribe with Sound Notifications, and Live Caption — and add [Otter.ai](https://otter.ai/) only when you need a written record of meetings. If reading printed or on-screen text is the barrier, try [Speechify](https://speechify.com/) free first, and use the text-to-speech already built into your phone before you pay for anything. If your speech is hard for standard voice assistants to understand, [Voiceitt](https://www.voiceitt.com/) is worth a careful trial, but go in knowing its free period is a 30-day trial, not a free plan.
 
 None of these tools replaces a person, a teacher, a doctor, or an official service. An AI description of a medicine label, a road crossing, or a legal notice can be wrong, and a wrong caption in a classroom or a workplace meeting can change the meaning of what was said. Use these tools to gain independence in everyday tasks, and double-check anything where a mistake would cost health, money, or safety. Prices and free limits change often, so before you pay for any plan, or promise a deadline that depends on a tool, re-check the official pricing and help page of that tool. Where sources disagreed or a limit was unclear, this article says so plainly instead of guessing.
+
+![A woman in a wheelchair working on a laptop at a table in a bright room](/images/ai-tools-for-disabled-users-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -98,6 +101,8 @@ Most voice assistants are trained on typical speech, and they fail people whose 
 
 Go in with honest expectations. Voiceitt starts everyone with a free 30-day trial, and it requires 50 recordings before it is ready for you to try, with more recordings improving it over time. The company itself says it cannot promise 100 percent accuracy. That means Voiceitt is a tool to evaluate carefully during the trial, with the help of a speech-language pathologist if you have access to one, and not a purchase to make on the first day. If after the trial it does not understand you reliably, that is a finding, not a failure on your part — the technology is still learning, and you should not pay for a tool that does not work for your voice.
 
+![A smooth ramp with handrails leading to a building entrance](/images/ai-tools-for-disabled-users-india/02.jpg)
+
 ## Using these tools in India: language, data, and cost
 
 India is where many accessibility tools meet their hardest test, and it is worth naming the three points of friction honestly. The first is language. A tool that works beautifully in American English may struggle with Hindi, Hinglish, Bengali, Tamil, or Marathi. Live Caption supports Hindi on newer phones, Lookout lists Hindi, Bengali, and Gujarati, and NVDA reads many Indian languages, but support is uneven across tools. Test every tool in the language you actually use every day, not just in English, before you rely on it.
@@ -119,6 +124,8 @@ Avoid sharing sensitive information with a tool that does not need it. Do not po
 Avoid tools that promise a cure, a diagnosis, or a guaranteed result. An app that claims it can diagnose a condition, replace therapy, or guarantee that a child will learn to speak is selling hope, not help. This article is general information only, not medical, legal, or professional advice, and for health, education, or benefits decisions, check official and professional sources.
 
 Avoid installing five similar apps at once and judging none of them properly. Pick one tool for one task, use it for a week, and only then decide whether to keep it, replace it, or add a second tool for a different task. Accessibility is a daily habit, not a download count.
+
+![A blind man reading a braille book in a library](/images/ai-tools-for-disabled-users-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -165,3 +172,8 @@ Start with exactly one tool for your most frequent daily task. If reading labels
 ## Final verdict
 
 Start free: Be My Eyes and Seeing AI for vision, Live Transcribe and Live Caption for hearing, and NVDA on Windows — check limits before paying.
+
+**Image credits:**
+- A woman in a wheelchair working on a laptop at a table — [Pexels](https://www.pexels.com/photo/a-woman-wearing-orange-long-sleeves-on-a-wheel-chair-beside-a-wooden-table-using-a-laptop-4064698/) by Marcus Aurelius, Pexels License (free to use).
+- A smooth ramp with handrails leading to a building entrance — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Innovation_Centre_phase_II,_University_of_Exeter_(3)_-_geograph.org.uk_-_1040549.jpg) by Derek Harper, CC BY-SA 2.0.
+- A blind man reading a braille book in a library — [Pexels](https://www.pexels.com/photo/man-sitting-on-chair-while-using-a-braille-6981093/) by Mikhail Nilov, Pexels License (free to use).
