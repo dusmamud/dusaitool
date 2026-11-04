@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Maket or Planner 5D for plans and D5 Render for visuals, and let a registered architect check every drawing before approval."
 heroAlt: "AI tools for architects in India for floor plans, 3D visualisation and rendering"
+ogImage: '/og/ai-tools-for-architects-india-en.png'
 ---
 
 ## The direct answer
@@ -18,6 +19,8 @@ If you are an architect, interior designer, or architecture student in India, th
 That last point matters more in India than in most marketing copy. Indian building permission depends on the local authority's bye-laws, which vary by state and city, and sanction drawings in India are signed by the owner and by a Council of Architecture-registered architect (or, for smaller plots, an engineer under the applicable rules). An AI-generated plan may look convincing while getting a setback, staircase width, ventilation rule, or parking requirement wrong. Treat every AI output in this article as a starting point for design discussion, not as a finished or compliant drawing.
 
 The good news is that the free starting points are genuinely usable for learning and for early client conversations. Maket offers a free plan with one-time credits, Planner 5D has a free plan with unlimited projects, Snaptrude starts free with a limited credit pack, and D5 Render has a free Community version for non-commercial use. The honest limits are just as important: free plans usually block exports, cap credits, add watermarks, or forbid commercial client work. Read the licence before you send a free render to a paying client, and always re-check the official pricing page before paying, because prices and credit limits change often.
+
+![An architect drafting plans on a large paper roll at a desk](/images/ai-tools-for-architects-india/01.jpg)
 
 ## Short-answer table
 
@@ -74,6 +77,8 @@ Forma Site Design is offered as a 30-day free trial, and it is also included at 
 
 Forma is best for feasibility and early-stage design decisions, not for room-by-room house plans. Autodesk has also announced experimental generative layout features inside Forma, but experimental features deserve extra caution: outputs vary, and an experimental layout still needs the same professional checking as any other AI output. Use Forma to compare site options and to support a client or developer discussion with analysis, then carry the chosen massing into detailed design.
 
+![An architect working on a detailed architectural scale model](/images/ai-tools-for-architects-india/02.jpg)
+
 ## D5 Render: fast, realistic rendering with a genuinely free version
 
 D5 Render is a real-time rendering tool for architects and designers, and it is the strongest free starting point for visualisation on this list. The free Community version supports image, panorama, and video rendering with unlimited projects, while its AI features come with 50 trial credits. Pro unlocks unlimited AI features, the full asset library, and unlimited tours and presentations, along with higher video output limits.
@@ -128,6 +133,8 @@ Avoid feeding confidential client information into a public AI tool without chec
 
 Avoid letting the tool choose the design. If every option looks the same, the brief is probably too vague, or the tool's defaults are doing the designing. Change the brief, add constraints from the site and the client, test a contradictory option on purpose, and keep the architect's judgement — on light, ventilation, privacy, circulation, and cost — as the final filter.
 
+![An architect's hands marking up floor plans at a desk](/images/ai-tools-for-architects-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which AI tool is best for floor plans for architects in India?**
@@ -159,3 +166,9 @@ No, and this list shows why. AI is fast at options, imagery, and early analysis,
 Start with Maket or Planner 5D for plans and D5 Render for visuals, and let a registered architect check every drawing before approval.
 
 *Prices, free credits, and trial terms change frequently. Re-check the official pricing and help page of any tool before paying, promising a client a deadline, or using a free render commercially. This article is general information about software tools, not architectural, structural, or legal advice for a specific project.*
+
+**Image credits:**
+
+- An architect drafting plans on a large paper roll at a desk — [Pexels](https://www.pexels.com/photo/male-constructor-drawing-draft-on-paper-roll-3760529/), photo by Andrea Piacquadio, Pexels License (resized for this page).
+- An architect working on a detailed architectural scale model — [Pexels](https://www.pexels.com/photo/architect-working-on-model-9618131/), photo by Ron Lach, Pexels License (resized for this page).
+- An architect's hands marking up floor plans at a desk — [Pexels](https://www.pexels.com/photo/architect-writing-on-floor-plans-5292194/), photo by Antoni Shkraba, Pexels License (resized for this page).
