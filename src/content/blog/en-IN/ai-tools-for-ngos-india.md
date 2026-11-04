@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free: ChatGPT for drafts, Canva Nonprofits for design, and Give.do or Ketto for fundraising. Add Zoho or Sevastack when spreadsheets break."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-ngos-india-en.png'
 ---
 
 The short answer for an NGO in India is this: you do not need an expensive AI platform to start. You need a small, honest stack. Use a free AI chatbot such as ChatGPT or Gemini to draft fundraising appeals, donor thank-you notes and volunteer messages, and then edit every word yourself before it goes out. Use Canva Nonprofits, if your organisation is eligible, to design campaign posters, social posts and impact-report layouts without hiring a designer for every single post. Use an Indian fundraising platform such as Give.do or Ketto to collect donations online, because donors in India already trust those pages, and because building your own payment page from scratch creates compliance and trust problems you do not need. Add a proper volunteer or donor system, such as Sevastack or Zoho for Nonprofits, only when spreadsheets and WhatsApp groups start losing track of people, money or hours. That is the whole stack. Everything else in this article is detail, limits and warnings around those four choices.
@@ -16,6 +17,8 @@ The short answer for an NGO in India is this: you do not need an expensive AI pl
 This article is written for small and medium NGOs in India: a team of five to fifty people, a mix of staff and volunteers, donors who give through UPI, bank transfer or a fundraising page, and funders who ask for a proper impact report at the end of a project. It assumes a normal phone and laptop, patchy internet in the field, and no budget for a large software purchase. It also assumes something important: AI can draft, summarise and organise, but it cannot verify a beneficiary story, audit your accounts or replace a human decision about who receives help. If a tool promises to do any of those things automatically, treat that promise with suspicion.
 
 Prices, free limits and eligibility rules change often, and different sources sometimes disagree about the exact current figure. Before you pay for anything, or before you promise a donor or a funder a deadline that depends on a tool, re-check the official pricing or help page of that tool. The figures in this article were verified against official or reputable sources before writing, but they are a starting point for your own check, not a substitute for it. This article is general information only, not professional advice on law, tax, accounting or fundraising compliance. For questions about registration, foreign funding rules, tax exemption or donor-data law, check official sources and speak to a qualified professional.
+
+![Volunteers cleaning a shoreline at sunset, collecting litter in blue bags](/images/ai-tools-for-ngos-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -64,6 +67,8 @@ When an NGO grows past the spreadsheet stage, the problem is usually not writing
 
 The honest question to ask before adopting any CRM, Zoho included, is whether your team will actually maintain it. A CRM with outdated donor records is worse than a spreadsheet that one person updates religiously, because the CRM creates a false sense of order. Start with one workflow only: record every donation and every thank-you in the CRM for one month, and see whether the team keeps it up. Only then add volunteer records, campaign tracking and reporting. Also note that a few Zoho apps are not covered by the programme, so check the programme details for the specific app you need before assuming the credit applies. And keep your donor data clean from the start: one record per donor, consistent spellings of names, and no duplicate entries created by importing the same list twice.
 
+![A donation box filled with colourful donated clothes](/images/ai-tools-for-ngos-india/02.jpg)
+
 ## Give.do and Ketto: fundraising where Indian donors already are
 
 Fundraising platforms solve a trust problem that AI cannot solve. A donor who has never heard of your NGO is far more likely to give through a familiar platform page, with visible verification, regular updates and a receipt, than through a link to an unfamiliar payment page. Give.do, formerly GiveIndia, describes itself as a platform for verified nonprofits, with thousands of vetted NGOs across causes such as education, health, elderly care, disability, environment and women's empowerment, and it conducts due diligence and periodic verification visits. That verification is part of the value: it signals to a donor that someone has checked the organisation. Before launching, read the platform's current terms on fees, payout timing, donor-data access and update requirements, because those terms decide how much of each donation reaches you and how quickly.
@@ -98,6 +103,8 @@ Payments come second. Indian donors expect UPI, and fundraising platforms alread
 
 Avoid pasting beneficiary data, donor phone numbers, bank details or children's information into a public AI chatbot. If a tool needs that data to work, it is the wrong tool for that job, or it needs a proper data-processing agreement and access controls first. Avoid publishing AI-generated beneficiary stories without verification: a moving story that never happened is a breach of donor trust and is unfair to the real people your NGO serves. Avoid buying a paid plan during a campaign week because a free limit blocked you once; wait until the same limit blocks you three times, because a one-off block is often a sign of a badly planned week, not a real capacity need. Avoid collecting volunteer or donor data you do not need, because every field you collect is a field you must protect. Avoid letting one person hold all the passwords: use shared drives, proper roles and a password manager so that a staff departure does not lock the NGO out of its own accounts. Avoid promising a funder a specific AI-generated output, such as a fully automated impact report, before you have tested the tool on your own data. And avoid copying another NGO's appeal, photographs or impact claims, even with AI paraphrasing, because that is still misrepresentation and donors notice it faster than you think.
 
+![Volunteers planting a tree together outdoors](/images/ai-tools-for-ngos-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free AI tool should a small NGO in India start with?**
@@ -127,3 +134,8 @@ For most small NGOs, a verified-NGO platform such as Give.do or a crowdfunding c
 ## Final verdict
 
 Start free: ChatGPT for drafts, Canva Nonprofits for design, and Give.do or Ketto for fundraising. Add Zoho or Sevastack when spreadsheets break.
+
+**Image credits:**
+- Volunteers cleaning a shoreline at sunset — [Pexels](https://www.pexels.com/photo/volunteers-cleaning-beach-shoreline-at-sunset-36713500/) by Vitaly Gariev, Pexels License (free to use).
+- A donation box filled with colourful donated clothes — [Pexels](https://www.pexels.com/photo/box-with-clothes-for-donation-11200117/) by Towfiqu barbhuiya, Pexels License (free to use).
+- Volunteers planting a tree together outdoors — [Pexels](https://www.pexels.com/photo/people-planting-plant-together-5029923/) by Anna Shvets, Pexels License (free to use).
