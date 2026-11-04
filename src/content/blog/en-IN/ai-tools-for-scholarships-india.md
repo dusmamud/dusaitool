@@ -9,11 +9,14 @@ category: "best-tools"
 draft: false
 verdict: "Start on NSP and Buddy4Study for Indian scholarships, use ChatGPT or Gemini free to draft, and re-check the official deadline first."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-scholarships-india-en.png'
 ---
 
 Finding a scholarship in India is rarely about one big website. It is about three different jobs: discovering schemes you are actually eligible for, preparing an application that is complete and honest, and submitting it before a deadline that will not wait. AI tools help most with the first and second jobs, and almost not at all with the third unless you set up your own tracking. No AI tool can apply on your behalf on the National Scholarship Portal, and no chatbot result is proof that a scholarship exists. The official scheme page is always the final authority.
 
 The short answer for students in India is this: start with the government portal and an Indian scholarship platform, then use a free AI assistant only as a helper. Search and apply through the [National Scholarship Portal](https://scholarships.gov.in/), which is the official government portal for central and state schemes, and through [Buddy4Study](https://www.buddy4study.com/), which lists Indian scholarships and sends profile-based alerts. Add [Vidyasaarathi](https://www.vidyasaarathi.co.in/) for corporate-funded scholarships in India. If you are also planning to study abroad, look at [Scholly](https://www.sallie.com/scholarships/scholly) and Bold.org, but understand that both are built mainly for students in the United States, so most of their listings will not apply to a student studying in India. Draft essays and emails with [ChatGPT](https://chatgpt.com/) free or Gemini free, and keep every deadline in your own calendar, because AI search results can be out of date, and a missed deadline cannot be appealed back into existence.
+
+![Graduates celebrating by throwing their caps into the air in a park](/images/ai-tools-for-scholarships-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -82,6 +85,8 @@ ScholarshipOwl takes a different approach: it gives you a matched list of schola
 
 For Indian students, the honest verdict on ScholarshipOwl is narrow. The free matched list costs nothing and can be useful for study-abroad research, but the paid single-application feature is priced in dollars, aimed at US scholarships, and unnecessary for Indian schemes, where you must apply on NSP or the provider's portal anyway. Never pay for a scholarship application service before checking whether the same scholarships can be applied to for free on the provider's own site, because in most cases they can.
 
+![Students studying together at a table in a library](/images/ai-tools-for-scholarships-india/02.jpg)
+
 ## ChatGPT
 
 ChatGPT is the most useful free AI assistant for scholarship work, not because it finds scholarships, but because it turns rough material into clean applications. Use it to turn your notes into a first essay draft, rewrite a statement of purpose in simpler English, draft a polite email to a scholarship officer or your institute, make a document checklist for a scheme, and prepare answers to common interview or application questions. It is also the tool most students already have on their phones, which matters when you are working from a shared device or a low-cost phone.
@@ -117,6 +122,8 @@ Avoid any scholarship that asks for an application fee, a processing fee, or a p
 Avoid trusting AI answers about deadlines, amounts and eligibility without an official source. Chatbots can mix up last year's dates with this year's, confuse a state scheme with a central scheme, and invent links that look real. If an AI tool gives you a deadline, open the scheme page and confirm it, and if the scheme page says something different, the scheme page wins. Also avoid applying to every scholarship you see: ten careful, complete applications beat fifty rushed ones with missing documents, and a rejected application due to a wrong category or incomplete form wastes the time you could have spent on a scheme you actually qualify for.
 
 Avoid sharing personal data carelessly across scholarship tools. Scholarship platforms legitimately need your class, course, marks and category to match you, but they do not need your Aadhaar number in a chatbot, your bank password anywhere, or your family's full financial documents uploaded to an unverified site. Read the privacy policy of any new platform before creating an account, prefer platforms with a clear Indian presence and a grievance contact, and keep a note of where you have created accounts so you can delete unused ones. For a fuller guide to staying safe with free AI tools, see [AI tools for privacy and safety](/blog/ai-privacy-safety-free-tools-india/).
+
+![A stack of old vintage books on a wooden table](/images/ai-tools-for-scholarships-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -155,3 +162,9 @@ Check whether the scheme has a renewal window, a second phase, or a state-level 
 ## Final verdict
 
 Start on NSP and Buddy4Study for Indian scholarships, use ChatGPT or Gemini free to draft, and re-check the official deadline first.
+
+**Image credits:**
+
+- Graduates celebrating by throwing their caps into the air in a park — [Pexels](https://www.pexels.com/photo/friends-throwing-their-graduation-caps-7972743/), photo by George Pak, Pexels License (re-encoded for this page).
+- Students studying together at a table in a library — [Pexels](https://www.pexels.com/photo/man-creative-books-desk-9572726/), photo by Tima Miroshnichenko, Pexels License (re-encoded for this page).
+- A stack of old vintage books on a wooden table — [Pexels](https://www.pexels.com/photo/four-pile-of-books-on-top-of-brown-wooden-surface-1290828/), photo by Suzy Hazelwood, Pexels License (re-encoded for this page).
