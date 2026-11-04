@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start free with Routific or Shipday for a small fleet, add OptimoRoute as stops grow, and consider FarEye, Locus or Shipsy only at enterprise scale."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-delivery-business-india-en.png'
 ---
 
 If you run a delivery business in India — a cloud kitchen, a courier service, a pharmacy chain, a grocery store with its own riders, or a small fleet of tempos and bikes — your biggest daily cost is not the vehicle. It is the wasted kilometre: the rider who crosses the same neighbourhood three times, the driver stuck in traffic that a better route would have avoided, and the customer who calls you because nobody told them when their order would arrive. AI route planning and delivery management tools exist to fix exactly that. They take your list of stops, work out the best order, assign stops to drivers, track everyone live, and collect proof of delivery.
 
 The direct answer is this: if you have one or two riders and under about 100 deliveries a month, start free with Routific or Shipday. If you have several drivers and hundreds of stops a week, OptimoRoute is the most practical paid step up, with a 30-day trial to test it first. Google Maps stays useful as a free navigation aid for very small routes, but it is not a delivery management tool. FarEye, Locus and Shipsy are powerful enterprise platforms built for large fleets and multi-city operations — they are not priced for a small business, and none of them publishes a small-business price list. Every tool in this article works in India without a VPN, because all of them are ordinary web and mobile apps. Prices and free limits change often, so re-check the official pricing page before you pay or promise a customer a delivery deadline based on a tool's claims.
+
+![A courier carrying a parcel out of a white delivery van loaded with boxes](/images/ai-tools-for-delivery-business-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -63,6 +66,8 @@ Google Maps deserves an honest place in this article because almost every Indian
 
 Its limits are just as clear. A single Google Maps route holds only 10 places in total — your start plus nine stops — and it does not reorder them for you. It routes through stops in exactly the order you typed them. With three or four nearby drops, that is fine. With fifteen stops, working out the best order by hand is slow and almost always wrong, and the extra kilometres cost real fuel money every day. Google Maps also has no dispatch, no proof of delivery, no customer ETA messages and no record of who delivered what. The honest threshold used by route-planning guides is this: under about eight stops, one driver, no delivery features needed — Google Maps is fine. Past that, you are fighting the tool. Use it as the navigation layer inside a proper route plan, not as the plan itself.
 
+![A delivery scooter with a large cargo box parked on a street](/images/ai-tools-for-delivery-business-india/02.jpg)
+
 ## FarEye: enterprise last-mile delivery, with an AI dispatcher
 
 FarEye is an enterprise delivery management platform spanning first mile to last mile, used by companies including Blue Dart, Tata Steel and Domino's, according to its G2 profile. It ranked first for Last Mile Delivery in G2's 2026 Best Software list, and in April 2026 it launched PILOT, an 11-agent AI dispatcher, alongside AI routing and carrier allocation. Its platform covers delivery experience and shipment visibility, with a very large carrier network — FarEye's own comparison material cites more than 1,500 carrier integrations.
@@ -99,6 +104,8 @@ Fifth, cost in rupees, not just dollars. Most route tools price in US dollars pe
 
 Do not buy an enterprise platform for a small fleet. If your volume fits Routific's free tier or Shipday's free plan, paying for FarEye, Locus or Shipsy buys you a five-month rollout and a sales process, not faster deliveries this week. Do not judge a tool on a demo with clean addresses; judge it on your own messy address list and your own peak-hour traffic. Do not ignore the free-trial limits: OptimoRoute's 250-stop trial cap and Route4Me's move away from public pricing and trials (reported in Routific's September 2026 update) both mean you may not be able to test at full scale before paying — say so in your evaluation, and ask the vendor for a paid pilot on real data instead. Do not promise customers a delivery time that your tool only estimates; traffic, weather and failed first attempts all break ETAs, and a missed promised time costs more trust than a slightly later honest estimate. Do not let riders use personal phones and personal Google Maps links with no record of deliveries, because the day a cash dispute or a lost parcel arrives, you will have no proof. Finally, do not sign a yearly enterprise contract before checking exit terms: what happens to your data, your address history and your customer records if you leave.
 
+![A courier pushing a trolley loaded with cardboard parcels beside a van](/images/ai-tools-for-delivery-business-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which AI delivery tool is free in India?**
@@ -130,3 +137,8 @@ It works best when the tool lets you set vehicle types and recalculates during t
 Start free with Routific or Shipday for a small fleet, add OptimoRoute as stops grow, and consider FarEye, Locus or Shipsy only at enterprise scale.
 
 A note on honest limits: prices, free limits and trial caps in this article come from vendor pages and comparison sources checked in November 2026, and they change without notice. Routific's own blog and older comparison pages already disagree about its pricing model, which is a live example of why you must re-check the official pricing and help pages before paying, signing a contract, or promising a customer a deadline. This article is general information about software options, not business or legal advice; for contracts, tax treatment of dollar-priced subscriptions, and service-level agreements, check with your accountant or adviser.
+
+**Image credits:**
+- A courier carrying a parcel out of a white delivery van loaded with boxes — [Pexels](https://www.pexels.com/photo/a-deliveryman-carrying-a-package-6407533/) by Pavel Danilyuk, Pexels License (free to use).
+- A delivery scooter with a large cargo box parked on a street — [Pexels](https://www.pexels.com/photo/black-and-white-scooter-with-delivery-box-31881110/) by Paolo Sanchez, Pexels License (free to use).
+- A courier pushing a trolley loaded with cardboard parcels beside a van — [Pexels](https://www.pexels.com/photo/delivery-man-pushing-a-trolley-with-carton-boxes-6169189/) by Tima Miroshnichenko, Pexels License (free to use).
