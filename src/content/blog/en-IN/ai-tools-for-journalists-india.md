@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Otter or Whisper, Gemini Notebook, and Fact Check Explorer — and always check the original source."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-journalists-india-en.png'
 ---
 
 ## The short answer
@@ -18,6 +19,8 @@ For most journalists in India, the strongest free starting stack is simple: Otte
 That stack matters because Indian newsrooms, freelancers, and student journalists often work in more than one language, on tight deadlines, and on phones or shared laptops. A tool that only works well in English, needs a VPN, or hides its real limits behind a trial is a poor fit. Every tool below was checked for whether it is usable in India without a VPN, what its free tier actually gives, and where it can go wrong.
 
 A warning that applies to the whole article: prices and free limits change often. The figures quoted here come from the tools' own pricing and help pages at the time of writing. Before you pay, or before you promise an editor a deadline that depends on a free limit, re-check the official pricing or help page of that tool. Where sources disagreed or a limit was described differently on different pages, this article says so rather than picking the friendlier number.
+
+![A reporter writing notes in a notebook with a pen](/images/ai-tools-for-journalists-india/01.jpg)
 
 ## Quick comparison
 
@@ -91,6 +94,8 @@ General chatbots such as ChatGPT and Google's Gemini app are available in India 
 
 They are bad, on their own, as sources of fact. Both tools can produce confident, well-written statements that are wrong about dates, statistics, names, and quotations. For journalism, the rule is simple: use chatbots to think and to draft, never to establish a fact. Every factual claim in a chatbot draft needs a primary source — an official document, a dataset, a named person on the record — before it goes anywhere near publication. If you cannot find that source, the claim does not go in.
 
+![Journalists working together with documents in a modern newsroom office](/images/ai-tools-for-journalists-india/02.jpg)
+
 ## Fact-checking: the part no AI tool can do for you
 
 ### 9. Google Fact Check Explorer — search existing fact-checks first
@@ -145,6 +150,8 @@ Fourth, source protection. This is the most serious India-specific concern. Uplo
 - **Using AI to write about a community you have not spoken to.** AI tools are good at producing generic text about a place or a community. That generic text is not reporting. If the story is about people, talk to people.
 - **Forgetting the correction.** AI tools make mistakes, and so do journalists. When an error reaches publication, correct it promptly and transparently, the way BOOM describes doing in its own methodology. A fast correction protects readers and your credibility far more than quietly editing a page.
 
+![An interviewer holding a plain microphone and a clipboard](/images/ai-tools-for-journalists-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free AI tool is best for transcribing interviews in India?**
@@ -176,3 +183,8 @@ No. Grammarly can catch spelling and grammar errors, and fact-checking tools can
 Start with Otter or Whisper, Gemini Notebook, and Fact Check Explorer — and always check the original source.
 
 That stack costs nothing to try, works in India without a VPN, and covers the three jobs where AI genuinely helps journalists: turning speech into text, making sense of documents, and finding existing verification. The discipline around it matters more than the choice of tool. Record with consent, keep the original audio, check every quote by listening back, open every cited source, and never publish a fact whose only support is an AI-generated paragraph. Do that, and AI tools become what they should be for journalism: a faster way to do the mechanical work, leaving more time for the reporting, the questions, and the judgement that no tool can supply. Prices and free limits will change, so re-check the official pricing and help pages before paying or promising a deadline — and when a tool stops earning its place on a real story, drop it without sentiment and keep the one that does.
+
+**Image credits:**
+- A reporter writing notes in a notebook with a pen — [Pexels](https://www.pexels.com/photo/a-person-writing-on-notebook-8430295/) by Kampus Production, Pexels License (free to use).
+- Journalists working together with documents in a modern newsroom office — [Pexels](https://www.pexels.com/photo/people-working-in-an-office-8468513/) by cottonbro studio, Pexels License (free to use).
+- An interviewer holding a plain microphone and a clipboard — [Pexels](https://www.pexels.com/photo/a-man-holding-a-microphone-and-a-clipboard-8872463/) by Mikhail Nilov, Pexels License (free to use).
