@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Gamma, Google Forms and Wellfound; pay only for the bottleneck in front of you — the deck, the MVP or the first hires."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-startups-india-en.png'
 ---
 
 A first-time founder in India does not need a big budget to look serious. What you need, in order, is proof that the problem is real, a story an investor can follow in ten slides, something a customer can actually click, and a way to find the first two or three people who will build it with you. AI tools can now do the heavy lifting on each of those steps, but only if you pick one tool per job and check its free limit before you depend on it.
 
 The short answer is this: validate with conversations and a short survey before you build anything, use Gamma for the pitch deck, use Lovable or Bolt to put a clickable MVP in front of users, use Wellfound to hire people who actually want to work at a startup, and use Notion, Canva and Brevo to run the launch. Start on free plans everywhere, and pay only when a free limit is genuinely blocking a deadline. Every tool in this article works in India without a VPN, and every free limit below is stated as honestly as the sources allow. Prices and limits change often, so re-check the official pricing or help page before you pay for anything or promise an investor or a customer a date that depends on a paid plan.
+
+![A small startup team brainstorming around a table in a bright office](/images/ai-tools-for-startups-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -81,6 +84,8 @@ Google Forms is free with a Google account and is enough for a short survey: ask
 
 Use them for: the first 30 interviews, a short problem survey, and a waitlist form. Do not use them for: declaring victory. Twenty friendly responses from friends are not validation. Interview strangers, charge a small amount as early as possible, and watch what people do, not what they say they will do.
 
+![A founder sketching ideas on a whiteboard while colleagues discuss in a startup office](/images/ai-tools-for-startups-india/02.jpg)
+
 ## Notion: one workspace for roadmap, docs and launch
 
 Notion is where a tiny team keeps its brain: the product roadmap, meeting notes, hiring pipeline, launch checklist and investor update drafts in one searchable place. For a two- or three-person founding team, that beats a mess of scattered documents and chat messages, especially when a new hire joins and needs to catch up without asking the founder everything.
@@ -131,6 +136,8 @@ Avoid building in secret for six months. The tools above exist so you can show s
 
 Avoid sharing sensitive information with AI tools carelessly. Do not paste unreleased financials, customer personal data, or signed agreements into a chatbot or a free tool unless you have read its privacy and data-use terms and are comfortable with them. For anything involving real customer data, prefer tools with clear business terms and data controls.
 
+![Colleagues working together on a laptop in a bright startup office](/images/ai-tools-for-startups-india/03.jpg)
+
 ## FAQ
 
 **Which AI tool is best for a startup pitch deck?**
@@ -166,3 +173,8 @@ Do not paste customer personal data, unreleased financials, passwords, or signed
 ## Final verdict
 
 Start free with ChatGPT, Gamma, Google Forms and Wellfound; pay only for the bottleneck in front of you — the deck, the MVP or the first hires.
+
+**Image credits:**
+- A small startup team brainstorming around a table in a bright office — [Pexels](https://www.pexels.com/photo/office-team-having-a-meeting-6913218/) by Tima Miroshnichenko, Pexels License (free to use).
+- A founder sketching ideas on a whiteboard while colleagues discuss in a startup office — [Pexels](https://www.pexels.com/photo/men-in-an-office-sitting-at-a-meeting-and-looking-at-a-whiteboard-6803529/) by cottonbro studio, Pexels License (free to use).
+- Colleagues working together on a laptop in a bright startup office — [Pexels](https://www.pexels.com/photo/excited-diverse-colleagues-of-different-ages-working-on-laptop-during-startup-project-3865817/) by Andrea Piacquadio, Pexels License (free to use).
