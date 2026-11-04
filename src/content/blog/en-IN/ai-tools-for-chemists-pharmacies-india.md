@@ -8,6 +8,7 @@ tags: ["pharmacy software", "chemist billing", "medicine inventory", "expiry man
 category: best-tools
 draft: false
 verdict: "For most single chemists, Marg ERP or Vyapar covers billing, stock and expiry; chains: Gofrugal, hospitals: Medeil — trial first."
+ogImage: '/og/ai-tools-for-chemists-pharmacies-india-en.png'
 ---
 
 ## The direct answer
@@ -17,6 +18,8 @@ If you run a chemist shop or pharmacy in India, the most useful "AI tools" for y
 For a single medical store, start with Marg ERP or Vyapar. For a chain of three or more stores, shortlist Gofrugal. For a hospital or clinic-attached pharmacy, look at Medeil. For a small shop going digital for the first time, eVitalRx is worth a trial. SwilERP, earlier known as RetailGraph, is the long-running option for independent chemists who want desktop billing with expiry and returns management. Whichever you pick, run a free trial on your real counter for at least a week before you pay, because prices and limits change often, and you must re-check the official pricing and help page before paying or promising any deadline to a customer or supplier.
 
 A note on honesty about the word "AI" here: most pharmacy software sold in India is really smart automation — barcode billing, batch tracking, expiry alerts, automatic purchase suggestions based on your own sales history, and WhatsApp reminders. True AI features, such as reading a handwritten prescription from a photo or forecasting demand from past sales, exist but are usually add-ons or separate tools, and their accuracy varies. This article separates the two, so you do not pay an "AI" price for what is actually basic billing software.
+
+![A pharmacist in a white coat standing in front of stocked pharmacy shelves](/images/ai-tools-for-chemists-pharmacies-india/01.jpg)
 
 ## Short-answer table
 
@@ -84,6 +87,8 @@ Why it fits a first-time digital shop: cloud setup, mobile access, and customer-
 
 Trial checklist for eVitalRx: send a bill on WhatsApp, set a refill reminder for a chronic patient, run the expiry report, and export your full item and stock list to a spreadsheet.
 
+![Two pharmacy staff in white coats standing by a wooden cabinet with shelves of medicine bottles](/images/ai-tools-for-chemists-pharmacies-india/02.jpg)
+
 ## Vyapar: the budget, mobile-first option
 
 Vyapar is a general billing app with a dedicated pharmacy offering, trusted according to its own page by more than ten thousand pharmacy businesses. Its pharmacy features include GST invoicing with the drug licence field, automatic GST calculation by medicine category, batch and expiry tracking on every bill, expiry-date filtering to clear near-expiry stock first, Schedule H and H1 digital records with role-based access, barcode billing, supplier purchasing and ledgers, and invoice sharing by print, WhatsApp or email. It works on supported mobile and desktop devices, with offline and sync behaviour depending on device and plan.
@@ -140,6 +145,8 @@ Beyond billing software, three kinds of AI help are genuinely useful, with clear
 
 **Do not run two billing systems in parallel for long.** A short parallel run during migration is wise. A permanent split — some bills in one app, some in a notebook — destroys your stock accuracy, your expiry reports and your GST data. Pick one system of record and bill everything in it.
 
+![A pharmacist assisting a customer at a wooden pharmacy counter](/images/ai-tools-for-chemists-pharmacies-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which software is best for a single chemist shop in India?**
@@ -172,3 +179,8 @@ For most single chemists, Marg ERP or Vyapar covers billing, stock and expiry; c
 This article is general information only, not medical, legal, tax or professional advice. Medicine dispensing, Schedule H, H1 and X compliance, drug licensing and GST treatment are governed by official rules and notifications, including the Drugs and Cosmetics Rules, 1945 and CBIC and GST Council material, which change from time to time. Always check the official pricing and help pages of any tool before paying, verify GST slabs and drug schedules against official sources, and consult a registered pharmacist, your accountant or a qualified professional for decisions affecting patients, licences or tax. Prices, free limits and features mentioned here were reported by sellers or comparison sites and may already have changed.
 
 *Sources checked for this article include the official product pages of Marg ERP, Gofrugal, Medeil, eVitalRx, Vyapar and SwilERP, CDSCO's Drugs Rules, 1945, and comparison coverage of pharmacy software in India. Where sources disagreed on prices or GST slabs, this article says so rather than picking one number as fact.*
+
+**Image credits:**
+- A pharmacist in a white coat standing in front of stocked pharmacy shelves — [BYB BYB on Pexels](https://www.pexels.com/photo/young-pharmacist-in-drugstore-19471013/) (Pexels License, free to use)
+- Two pharmacy staff in white coats standing by a wooden cabinet with shelves of medicine bottles — [cottonbro studio on Pexels](https://www.pexels.com/photo/a-man-and-a-woman-standing-behind-the-wooden-counter-8657299/) (Pexels License, free to use)
+- A pharmacist assisting a customer at a wooden pharmacy counter — [cottonbro studio on Pexels](https://www.pexels.com/photo/back-view-of-person-standing-near-the-wooden-counter-8657373/) (Pexels License, free to use)
