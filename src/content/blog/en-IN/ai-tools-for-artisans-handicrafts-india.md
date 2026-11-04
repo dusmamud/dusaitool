@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free: phone photos cleaned in Canva or remove.bg, listings drafted in ChatGPT or Gemini, sold first on WhatsApp and Meesho."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-artisans-handicrafts-india-en.png'
 ---
 
 ## The short answer
@@ -18,6 +19,8 @@ If you make pottery, textiles, woodwork, jewellery, baskets, embroidery or any o
 The reason this order matters is that handmade selling has a different economics from reselling factory goods. Your margin already pays for material, hours of skilled work and shipping. A paid photo tool or a marketplace commission eats that margin first. So the rule for artisans is strict: earn your first repeat sales on free tools, and only then spend money on the one bottleneck that is actually slowing you down — usually better photos, or too much time spent answering the same customer questions. A tool that saves you an hour a week is worth paying for. A tool that only makes a nice poster is not.
 
 All the tools in this article work in India on an ordinary phone and internet connection, without a VPN. That was checked before writing, because several "best AI tools" lists still recommend tools that are blocked, card-only or priced only in dollars with no Indian payment option. Where a price or a free limit is given below, it is the figure found during research for this article, and prices and limits change often. Re-check the official pricing or help page of each tool before you pay for anything or promise a buyer a deadline that depends on a tool. Where sources disagreed — and they did disagree on Canva Pro pricing in India — this article says so openly instead of picking the tidier number.
+
+![Artisan hands shaping wet clay on a pottery wheel](/images/ai-tools-for-artisans-handicrafts-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -70,6 +73,8 @@ remove.bg does one job and does it fast: upload a photo, get the background remo
 
 The limit to know is that free use is limited and full-resolution downloads are paid, so check the current free allowance on the official site before planning a bulk listing day around it. The practical workflow is to reserve remove.bg for your hero images — the first photo of each product, the one buyers see first — and use plain-background phone photos for the remaining angles. That way a limited free allowance still covers your whole catalogue's most important images. As with every tool here, keep your original photos safe; an AI cut-out is an edited copy, and you will want the original if a marketplace asks for it or if you re-shoot a listing later.
 
+![An artisan weaving colourful silk threads on a traditional wooden loom](/images/ai-tools-for-artisans-handicrafts-india/02.jpg)
+
 ## WhatsApp Business catalogue: your free shop, inside the app buyers already use
 
 For many artisans, WhatsApp is not a side channel — it is the shop. The WhatsApp Business app is free on Android and iOS, and its catalogue feature is included at no charge: up to 500 products per business account, up to 10 images per product, with name, price, description, product code and a link, organised into collections. A customer who messages you can browse the catalogue inside the chat instead of waiting for you to send photos one by one. For a seller with under fifty products and customers who already arrive on WhatsApp, this alone can be the whole online store.
@@ -107,6 +112,8 @@ Finally, protect your designs and your photos. Watermark catalogue images lightl
 Avoid five traps that catch new artisan sellers again and again. First, do not pay for a premium photo or design tool before your first repeat sales; free tiers cover the start, and a subscription bought in excitement becomes a monthly bill on a business that has not yet sold. Second, do not use a free plan outside its terms — Photoroom's free plan is personal, non-commercial use, so commercial listings need a paid plan or a different tool. Third, do not let AI invent facts about your product: material, origin, certificates, size and delivery time must come from you, checked every time. Fourth, do not list the same product at wildly different prices on WhatsApp, Meesho and Amazon without a reason; buyers compare, and a price gap looks like dishonesty even when it is only a forgotten update. Fifth, do not promise a delivery date that depends on a tool, a courier or a festival rush you have not confirmed — handmade means making time, and a missed deadline damages trust more than a slightly longer honest timeline.
 
 Two more warnings belong here. Beware of anyone selling "AI automation" that promises hundreds of listings overnight, or a course that promises marketplace success for a fee; the tools in this article are free or cheap, and the real work — making, photographing honestly, packing well, replying politely — cannot be automated away. And beware of AI-generated images presented as real products: a customer who receives a piece that looks nothing like its listing will return it, and a marketplace that finds AI images passed off as photographs may penalise the account. Use AI to clean and present real photos, never to fake a product you have not made.
+
+![An artisan carving a wooden block for hand-block textile printing in Jaipur](/images/ai-tools-for-artisans-handicrafts-india/03.jpg)
 
 ## FAQ
 
@@ -149,3 +156,8 @@ Start free: phone photos cleaned in Canva or remove.bg, listings drafted in Chat
 That is the verdict, and it is deliberately boring. No single tool will make a craft business; the combination of honest photos, clear listings in the buyer's language, a free catalogue where your customers already are, and a low-cost marketplace for new buyers will. Make the product well, photograph it honestly, describe it exactly, reply politely, pack it carefully, and let the AI tools do only the repetitive parts. Do that for a season, and then — only then — spend money on the one paid tool that removes your biggest bottleneck. Prices and free limits will change along the way, so re-check the official pricing and help pages before you pay or promise a deadline. The craft is yours. The tools are just help.
 
 For related reading on this site, see [AI tools for online sellers in India](/blog/ai-tools-for-online-sellers-india/), [AI tools for small business in India](/blog/ai-tools-for-small-business-india/), [free AI photo editors in India](/blog/free-ai-photo-editors-india/) and [AI tools for social media in India](/blog/ai-tools-for-social-media-india/).
+
+**Image credits:**
+- Artisan hands shaping wet clay on a pottery wheel — [Pexels](https://www.pexels.com/photo/a-close-up-shot-of-a-person-doing-pottery-13240729/) by Vivek Solanki, Pexels License (free to use).
+- An artisan weaving colourful silk threads on a traditional wooden loom — [Pexels](https://www.pexels.com/photo/man-weaving-silk-14695808/) by Narasimhan AVPL, Pexels License (free to use).
+- An artisan carving a wooden block for hand-block textile printing in Jaipur — [Pexels](https://www.pexels.com/photo/hand-block-making-sanganeri-print-indian-handicraft-28389703/) by Sumit photography, Pexels License (free to use).
