@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with Vyapar or Zoho Inventory for stock and orders, add Sheets plus Gemini forecasting, and keep a human checking every quality call."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-small-manufacturers-india-en.png'
 ---
 
 A small manufacturer in India does not lose money only on the shop floor. Money is lost when raw material runs out in the middle of a production run, when a finished batch fails a buyer inspection, when the same item is promised to two customers because stock was counted in two different notebooks, and when an order sits unread in a WhatsApp chat while the customer buys from someone else. Artificial intelligence will not fix a broken factory on its own, but the right tools can remove a large part of this daily guessing: what to make, how much raw material it needs, what is in stock, what is about to run out, and which finished pieces need a second look before dispatch.
 
 The short answer is this: if you make and sell physical goods in India with a small team, start with Vyapar or Zoho Inventory for stock, production and orders, use TallyPrime if GST accounting and job costing are your main pain, and add a free Google Sheets plus Gemini forecast for demand planning before you pay for any expensive planning software. Use ChatGPT or Gemini photo checks only as a second pair of eyes for visible defects, never as the final quality decision. Tools like Katana and the India-built ShivAI suite are worth looking at once your catalogue or your order volume outgrows a basic billing app. Every tool in this article works in India without a VPN, on an ordinary phone or computer, and every price or free limit below comes with a warning that applies to all of them: prices and limits change, so re-check the official pricing and help page before you pay or promise a customer a deadline based on a tool.
+
+![A worker operating large textile machinery in a factory](/images/ai-tools-for-small-manufacturers-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -62,6 +65,8 @@ Katana's free tier is a real, usable starting point for a very small catalogue: 
 
 Katana is priced in dollars, so a small Indian unit should check the current rupee cost, taxes and payment method before committing, and should test the free tier with real data first. It fits when your catalogue has outgrown a simple billing app, when you run production in batches against sales orders, and when you need to answer the question "can we promise this order by Friday?" from data rather than from memory. If you have fewer than 30 SKUs and simple production, Vyapar or Zoho Inventory will be simpler and cheaper.
 
+![Workers operating a large saw machine in a timber factory](/images/ai-tools-for-small-manufacturers-india/02.jpg)
+
 ## 5. Google Sheets plus Gemini: a free demand forecast from your own sales
 
 The most useful AI technique for a small manufacturer is often the least glamorous: forecasting demand from your own past sales, so you order raw material before a festival rush instead of after it. You can build a workable version for free with Google Sheets and the Gemini API, and this matters because dedicated forecasting tools often cost hundreds of dollars a month, which is out of reach for a small unit.
@@ -104,6 +109,8 @@ Costs deserve the same honesty. Free tiers are real, but they end: Zoho Inventor
 
 Avoid buying an expensive all-in-one ERP before you have fixed stock counting, because an ERP will faithfully automate your existing errors at a higher price. Avoid letting any AI tool place orders, promise delivery dates or approve dispatches without a human sign-off, especially during your first three months with it. Avoid using a photo AI as the only quality check for goods where a failure could harm someone or cost you a major buyer: use it as a screen, and keep a trained human as the judge. Avoid tools that need a VPN to work in India, tools with no Indian payment option, and tools whose support only answers in a time zone twelve hours away when your production problem is happening now. Avoid entering the same stock in two places, because two stock numbers will disagree, and nobody will know which one is true. And avoid sharing your factory's pricing, buyer list or product designs with a public AI chatbot in a way you would not share with a stranger: use business or enterprise settings where available, keep sensitive prompts generic, and never paste a buyer's confidential drawing or a customer's personal data into a free public tool without checking its data policy.
 
+![A craftsman operating a lathe machine in a metal workshop](/images/ai-tools-for-small-manufacturers-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which is the best AI tool for a small manufacturer in India?**
@@ -130,3 +137,8 @@ Run a two-week trial with your real data: enter ten real products with correct b
 ## Final verdict
 
 Start with Vyapar or Zoho Inventory for stock and orders, add Sheets plus Gemini forecasting, and keep a human checking every quality call.
+
+**Image credits:**
+- Worker operating textile machinery in a factory — [Pexels](https://www.pexels.com/photo/employee-in-a-manufacturing-plant-6525848/) by Engin Altundağ, Pexels License.
+- Workers operating lumber machinery in a factory — [Pexels](https://www.pexels.com/photo/people-working-with-lumber-15016528/) by Mandiri Abadi, Pexels License.
+- A craftsman operating machinery in an industrial workshop — [Pexels](https://www.pexels.com/photo/aged-white-hair-handyman-working-on-machine-3846042/) by Andrea Piacquadio, Pexels License.
