@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Search Console and Keyword Planner; pay only when a free limit blocks real work. AI assists SEO, it never replaces real data."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-seo-india-en.png'
 ---
 
 ## The direct answer
@@ -19,6 +20,8 @@ That distinction matters more than any single tool. Most beginners fail at SEO n
 
 This guide covers keyword research, ranking and site audits for beginners, with honest free limits for each tool. Every tool listed here works in India without a VPN, through an ordinary browser and internet connection. Prices and free limits change often, so before you pay for any plan or promise a client a deadline that depends on a tool, re-check the tool's official pricing and help pages. Where sources disagreed during research for this article, that disagreement is stated plainly rather than smoothed over.
 
+
+![A person reviewing pie and bar charts on a laptop screen](/images/ai-tools-for-seo-india/01.jpg)
 ## Short-answer table
 
 | Your job | Best free starting point | What it cannot do |
@@ -94,6 +97,8 @@ Screaming Frog is the right tool when you want to see your whole site at once. E
 
 Official pricing and free-version details: [Screaming Frog SEO Spider pricing](https://www.screamingfrog.co.uk/seo-spider/pricing/).
 
+
+![A laptop in an office displaying a line graph](/images/ai-tools-for-seo-india/02.jpg)
 ## PageSpeed Insights: speed, measured honestly
 
 PageSpeed Insights is Google's free tool for checking how fast a page loads on mobile and desktop. It combines lab data from Lighthouse with real-world field data from the Chrome User Experience Report, and it reports Core Web Vitals — Largest Contentful Paint, Interaction to Next Paint and Cumulative Layout Shift — classifying each as Good, Needs Improvement or Poor. You paste a URL, and it returns a score plus specific diagnostics, such as oversized images or render-blocking scripts.
@@ -156,6 +161,8 @@ Avoid copying a competitor's content with an AI paraphraser and calling it origi
 
 Free limits, plan names and AI features change frequently, and sources do not always agree on the same day. Semrush's free tier, for example, has been described slightly differently across its own help and blog pages as its plans were reorganised, and Ahrefs renamed its free tier from Webmaster Tools to Ahrefs Free. This article reports what its official pages said at the time of writing, but it is not a substitute for those pages. Before you pay, promise a client a result, or publish a claim about a tool, open the tool's official pricing or help page and confirm the current terms. This article is general information for beginners, not professional marketing advice for a specific business; a business with real revenue at stake should test tools on its own site and, where needed, consult an experienced SEO professional.
 
+
+![Coworkers analysing data charts on laptops during a team meeting](/images/ai-tools-for-seo-india/03.jpg)
 ## Frequently asked questions
 
 **What is the best free AI SEO tool for a beginner in India?**
@@ -197,3 +204,8 @@ Four things: the current price and currency on the official pricing page, the ex
 ## Final verdict
 
 Start free with Search Console and Keyword Planner; pay only when a free limit blocks real work. AI assists SEO, it never replaces real data.
+
+**Image credits:**
+- A person reviewing pie and bar charts on a laptop screen — [Pexels](https://www.pexels.com/photo/person-using-black-laptop-on-table-7948012/) by RDNE Stock project, Pexels License (free to use).
+- A laptop in an office displaying a line graph — [Pexels](https://www.pexels.com/photo/graph-on-laptop-screen-3861957/) by ThisIsEngineering, Pexels License (free to use).
+- Coworkers analysing data charts on laptops during a team meeting — [Pexels](https://www.pexels.com/photo/person-using-a-laptop-3183131/) by fauxels, Pexels License (free to use).
