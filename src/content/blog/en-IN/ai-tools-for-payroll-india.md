@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "For most small Indian teams, Zoho Payroll Free (up to 10 staff) is the smartest start; greytHR suits compliance-heavy teams over 25."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-payroll-india-en.png'
 ---
 
 For a small team in India, payroll is not just paying salaries on time. It is attendance, leave, loss of pay, salary revisions, payslips, and then the statutory chain that follows every month: provident fund (PF), employees' state insurance (ESI), professional tax (PT) where your state levies it, and tax deducted at source (TDS) on salaries. Miss one monthly date and the penalty clock starts, even if the salary itself went out on time. That is why a good payroll tool matters more than a prettier spreadsheet, and why the cheapest option is not always the safest one.
@@ -16,6 +17,8 @@ For a small team in India, payroll is not just paying salaries on time. It is at
 The short answer is this: if you have up to 10 employees, start with Zoho Payroll Free, because it covers real statutory payroll at no cost. If you have 25 to 100 employees and compliance is your biggest worry, greytHR Essential is the steadier pick. If you want salaries and statutory payments to leave from the same place, RazorpayX Payroll is built for that, but it costs more and has no free plan. Keka suits a growing team that wants payroll inside a full HR suite, and Kredily suits a zero-budget team that is willing to pay later for payouts and challan filing. Every tool below works in India without a VPN, and every price quoted here must be re-checked on the official pricing page before you pay, because prices and limits change.
 
 This article is general information only, not professional tax, legal or accounting advice. Payroll rules depend on your state, your headcount, your salary structure and the current law, so check the official government and vendor help pages, and talk to your chartered accountant before you promise a deadline, file a return or change anyone's salary structure.
+
+![A person working through payroll paperwork with a calculator and laptop on a desk](/images/ai-tools-for-payroll-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -48,6 +51,8 @@ greytHR is one of India's most established HR and payroll platforms, and it is t
 Pricing is straightforward but structured around a 50-employee block, which matters for small teams. Essential costs ₹2,495 a month and includes 50 employees, with each additional employee at ₹45 a month. Growth costs ₹4,495 a month, also for 50 employees, with additional employees at ₹85 a month. Premium is tailored, quote-based pricing with all modules included. For a team of 5 or 10, paying for a 50-employee block makes the cost per person high, which is why greytHR is a weaker value at very small sizes even though it is a strong product. For a team of 25 to 100, especially one spread across states or with a dedicated HR person, the per-person cost becomes reasonable and the compliance depth earns its price.
 
 Choose greytHR if your team is approaching 25 people, if you operate in more than one state and professional tax dates keep tripping you up, or if your accountant already knows the platform and its reports. Choose something cheaper if you have under 10 employees and a simple, single-state salary structure, because you would be paying for capacity you do not yet use. Like every tool here, re-check the official pricing page before paying, since plan contents and per-employee rates change.
+
+![Hands using a calculator over payroll charts and documents beside a laptop](/images/ai-tools-for-payroll-india/02.jpg)
 
 ## 3. RazorpayX Payroll: salaries, payouts and filings from one place
 
@@ -91,6 +96,8 @@ If you have up to 10 employees and a simple salary structure, start a Zoho Payro
 
 If you are also sorting out the wider small-business toolkit, the guides on [AI tools for small business in India](/blog/ai-tools-for-small-business-india/), [AI tools for HR and recruiters in India](/blog/ai-tools-for-hr-recruiters-india/) and [AI tools for freelancers in India](/blog/ai-tools-for-freelancers-india/) cover the neighbouring decisions, such as billing, hiring and contractor work, that usually sit next to payroll.
 
+![An office team gathered around a laptop in a bright office](/images/ai-tools-for-payroll-india/03.jpg)
+
 ## FAQ
 
 **Which is the best free payroll software in India for a small team?**
@@ -122,3 +129,9 @@ Yes, but plan the switch at a month boundary, carry over year-to-date salary, TD
 For most small Indian teams, Zoho Payroll Free (up to 10 staff) is the smartest start; greytHR suits compliance-heavy teams over 25.
 
 Start free where free is real, pay for compliance depth when your headcount or state spread demands it, test one month in parallel before you trust any new tool with real salaries, and re-check the official pricing and help pages before you pay or promise a deadline. Payroll is one of the few places where a small monthly fee reliably costs less than a single missed filing, so choose the tool that keeps you on the calendar, not just the one with the lowest headline price. Remember that this article is general information only, not professional advice, and your accountant and the official portals are the final word on your team's obligations.
+
+**Image credits:**
+
+- A person working through payroll paperwork with a calculator and laptop on a desk — [Pexels](https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-6964138/), photo by Mikhail Nilov, Pexels License (resized for this page).
+- Hands using a calculator over payroll charts and documents beside a laptop — [Pexels](https://www.pexels.com/photo/man-hands-over-calculator-16695382/), photo by Jakub Zerdzicki, Pexels License (resized for this page).
+- An office team gathered around a laptop in a bright office — [Pexels](https://www.pexels.com/photo/group-of-people-looking-at-the-laptop-3931511/), photo by Andrea Piacquadio, Pexels License (resized for this page).
