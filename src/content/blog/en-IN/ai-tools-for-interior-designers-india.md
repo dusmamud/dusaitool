@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free in Planner 5D for plans and Homestyler for renders; check IKEA Kreativ before buying IKEA. A render is not a drawing."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-interior-designers-india-en.png'
 ---
 
 An AI render is not a room. It is a picture of a room, and that distinction decides whether these tools save you money or cost you money. For interior designers in India, the useful AI tools fall into three different jobs: restyling a photo of an existing room, building an editable floor plan and 3D model from scratch, and collecting colours, materials and furniture into a mood board a client can actually approve. No single tool does all three jobs well, and the tool that makes the prettiest picture is often the worst tool for handing work to a carpenter, an electrician or a painter.
@@ -16,6 +17,8 @@ An AI render is not a room. It is a picture of a room, and that distinction deci
 The short answer for India is this: start free in [Planner 5D](https://planner5d.com/) for floor plans and editable 3D rooms, because its free plan covers unlimited projects and half its furniture catalogue. Use [Homestyler](https://www.homestyler.com/) free for renders and AI mood boards, because its Basic plan includes unlimited 1K rendering and more than 100,000 free 3D models and materials. Use [IKEA Kreativ](https://www.ikea.com/in/en/home-design/chooseRoom/) free, inside the IKEA India app, before buying IKEA furniture, because it scans your actual room and places IKEA products at true scale. Use [RoomGPT](https://roomgpt.io/) and [REimagineHome](https://www.reimaginehome.ai/) only for fast photo restyles and virtual staging, not for measured plans. Use [Coohom](https://www.coohom.com/) or [Foyr Neo](https://foyr.com/) when a client is paying for presentation-quality renders and walkthroughs, and check their current pricing page first, because their prices are shown differently on different pages and they change.
 
 This article is written for India on purpose: designers working from a phone and a laptop, homeowners renovating one flat, and small studios in cities where the furniture in an international catalogue may not be sold locally at all. Every tool below works in India in a normal browser or app without a VPN, as far as its own public pages and help pages show. Prices and free limits change often, so re-check the official pricing and help page before paying for any plan or promising a client a deadline based on a free limit. Where sources disagreed, this article says so instead of picking the friendlier number.
+
+![A modern living room with a green sofa, indoor plants, and natural light](/images/ai-tools-for-interior-designers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -78,6 +81,8 @@ IKEA Kreativ is different from every other tool here because it is tied to one s
 
 For Indian buyers, IKEA Kreativ is free to use and genuinely practical, but its limits are specific. It only contains IKEA catalogue items, so it cannot design a room around a local carpenter's wardrobe, a family heirloom, or a Jaipur rug. IKEA India's help pages state that textiles such as curtains, pillows, blankets and tablecloths cannot yet be added, ceiling-mounted accessories such as pendant lamps cannot yet be added, and kitchen design possibilities are limited. IKEA has stores in Hyderabad, Navi Mumbai, Mumbai, and Bengaluru, with online delivery in covered areas, so check delivery to your pin code before promising a client an IKEA-based design. Use Kreativ as the buying check at the end of a project: design the room in a plan tool, shortlist IKEA pieces, then place those exact pieces in Kreativ in the client's real room before ordering.
 
+![Fabric swatches and a colour palette laid out for an interior design project](/images/ai-tools-for-interior-designers-india/02.jpg)
+
 ## Mood boards: where Canva still earns its place
 
 A mood board deserves its own section because it is where most Indian client disagreements are actually settled. [Canva](https://www.canva.com/) remains the easiest free mood-board maker: drag-and-drop templates, more than 3 million free stock photos and graphics, AI media generation through Magic Studio, and sharing and collaboration built in. A designer can build a board in an hour with paint swatches, fabric textures, furniture photos, and a colour palette, and send the client a link instead of a PDF that gets lost in WhatsApp. Homestyler's AI Moodboard and Planner 5D's mood board features are better when the board must stay connected to a 3D room, because the client can move from the board to the render of the same room. For [presentation and graphic work](/blog/ai-tools-for-graphic-design-beginners-india/) around the board, such as a client proposal cover, Canva's templates save real time.
@@ -100,6 +105,8 @@ Sourcing is the other India trap. International catalogues show products, prices
 - **Uploading home photos without thinking.** A room photo reveals your home, your possessions, and sometimes your location. Remove personal items and location data from photos before uploading, and read the tool's terms on how uploaded images are used.
 - **Showing staged photos as real photos.** When selling or renting, label visualisations clearly. A staged image presented as a real photograph misleads buyers and can cause legal trouble.
 - **Designing for the render, not the room.** Dark colours, glass tables, and white sofas photograph beautifully and live badly with children, pets, dust, and Indian summers. Ask how the room will be cleaned and used every day.
+
+![An interior designer assessing colour swatches at her desk](/images/ai-tools-for-interior-designers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -132,3 +139,8 @@ That cannot be answered with one number from public pages, because its internati
 Start free in Planner 5D for plans and Homestyler for renders; check IKEA Kreativ before buying IKEA. A render is not a drawing.
 
 A short honest-limits note: prices, free allowances, and credit costs in this article were checked against vendor pricing pages and reputable roundups, but they change without notice and regional pages sometimes disagree. Re-check the official pricing and help page of any tool before paying, before promising a client a price, and before promising a deadline that depends on a free limit.
+
+**Image credits:**
+- A modern living room with a green sofa, indoor plants, and natural light — [Ksenia Chernaya on Pexels](https://www.pexels.com/photo/modern-interior-style-with-wooden-floor-and-cozy-sofa-3952034/) (Pexels License, free to use)
+- Fabric swatches and a colour palette laid out for an interior design project — [cottonbro studio on Pexels](https://www.pexels.com/photo/fabric-samples-and-color-palette-selection-on-flat-surface-6583362/) (Pexels License, free to use)
+- An interior designer assessing colour swatches at her desk — [Antoni Shkraba on Pexels](https://www.pexels.com/photo/woman-choosing-a-color-from-a-sample-palette-6322371/) (Pexels License, free to use)
