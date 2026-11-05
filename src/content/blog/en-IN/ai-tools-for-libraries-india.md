@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Koha or Librarika, choose SOUL or e-Granthalaya if you qualify, and pay for LIBSYS or Alma only after a written quote."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-libraries-india-en.png'
 ---
 
 A library runs on three jobs done every day: putting new books into the catalogue correctly, lending them and getting them back on time, and keeping member records straight. When any one of those jobs still lives in a paper register, the library spends its staff time searching for books, chasing overdue returns by memory, and retyping the same member details again and again. The tools in this article replace that register, and the newer ones add artificial intelligence on top: smarter search, automatic catalogue drafts, chatbots that answer reader questions, and reports that show which books actually get borrowed.
@@ -16,6 +17,8 @@ A library runs on three jobs done every day: putting new books into the catalogu
 The short answer for India is this: start with [Koha](https://koha-community.org/) if you want a full, free, open-source library system that you control, because it covers cataloging, circulation, membership and a public catalogue with no licence fee. Start with [Librarika](https://www.librarika.com/) instead if you want something running today in a browser with no installation, because its free Basic plan covers up to 2,000 records with unlimited patrons and check-outs. Choose [SOUL 3.0](https://soul.inflibnet.ac.in/) if you are a college or university library, because it is built by INFLIBNET for Indian academic libraries with multilingual support and member self-registration. Choose [e-Granthalaya 4.0](https://egranthalaya.nic.in/) if you are a government library, because it is the National Informatics Centre platform made for government libraries, with cloud hosting and a shared union catalogue. Consider [LIBSYS Neo](https://www.libsys.co.in/products/library-solutions/library-management-system) only when you want a paid, AI-first system with a chatbot and predictive reports, and get its price in writing first, because its official pages do not publish a price list. Consider Evergreen if you are part of a group of libraries sharing one catalogue, and consider [Alma](https://exlibrisgroup.com/products/alma-library-services-platform/) from Ex Libris only if you are a large academic institution that needs print, electronic and digital collections managed in one enterprise platform. Use a general AI chatbot only as a drafting helper for catalogue records, never as the catalogue itself, because studies disagree on how accurate its records are and every study agrees a human cataloguer must check the result.
 
 This article is written for India on purpose: school, college, public and government libraries, Hindi and other Indian languages in the catalogue, books bought in Indian markets, members who need SMS or email reminders rather than app notifications, normal broadband or even patchy connectivity, and budgets that range from zero to enterprise. Every tool below is normally accessible from India on a standard internet connection, with no VPN requirement found in the sources checked. Prices and free limits change, so re-check the official pricing and help page of any tool before you pay, promise a deadline to readers, or move a whole collection onto it. Where sources disagreed, this article says so instead of picking the friendlier number.
+
+![Library bookshelves filled with books in a quiet modern library](/images/ai-tools-for-libraries-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -78,6 +81,8 @@ Evergreen makes sense in India in one specific situation: several libraries that
 
 Alma is the right scale only for large institutions. It is a cloud subscription sold on a quote basis, with no public price found on the pages checked, and its cost, implementation time and training needs are all far above the free and small-library tools in this article. A university with large electronic subscriptions, multiple campuses and a research collection will get value from unified management and analytics. A school or small college will not, and should not let an enterprise demo set its budget. If you are evaluating Alma, ask for a written proposal covering the subscription, implementation, migration of your existing catalogue, training, annual increases, and exit terms including data export, and speak to at least one comparable Indian institution already running it before signing.
 
+![A woman reading a book in a peaceful library nook between bookshelves](/images/ai-tools-for-libraries-india/02.jpg)
+
 ## AI cataloging assistants: useful drafts, not finished records
 
 Beyond full library systems, general AI chatbots can draft catalogue records, and this is where the evidence needs care. A study using ChatGPT 4 for bibliographic description found that AI could significantly assist cataloging efficiency, was highly satisfactory at correcting errors in existing MARC21 records, and could convert catalogue card images into RDA-compliant MARC21 records, though in tests from January 2024 it struggled to convert Sinhala and Tamil data from images directly into MARC21 records. Another study reached a harsher conclusion: ChatGPT could generate MARC records, but their accuracy was questionable and correcting them took additional cataloguer time, so the efficiency gain was not automatic. A third line of work found AI helpful for drafting descriptive cataloging and access points, including generating tables of contents from uploaded files, but only with constant vigilance over titles, ISBNs, call numbers and subject headings, and with a daily limit on how many records could be generated.
@@ -93,6 +98,8 @@ Budget is the fifth test, and it separates this list cleanly. Zero budget means 
 ## What to avoid
 
 Avoid buying before a real-data trial. A demo with clean sample books hides the problems your collection will show: duplicate titles, books without ISBNs, Hindi titles typed inconsistently, members with the same name, and old fines nobody recorded. Avoid any tool that will not show you a working data export before you pay, because a library system that holds your catalogue and member list hostage is a risk, not a purchase. Avoid pasting reader personal data into free AI chatbots, and avoid publishing AI-generated catalogue records without a cataloguer's check, because errors in the catalogue become lost books on the shelves. Avoid judging an AI chatbot by its demo answers and avoid judging a library system by its feature list; judge both by your own fifty books, your own twenty loans, and your own readers asking real questions. Avoid promising a launch date to readers or management until the official pricing and help pages have been re-checked, because free limits, prices and eligibility rules change, and a deadline built on last month's price list is a deadline you may not keep. Finally, avoid the trap of digitising everything at once: catalogue the most borrowed section first, lend from the new system for a month, fix what breaks, and then expand.
+
+![A young man reading a book by a window in a sunlit library](/images/ai-tools-for-libraries-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -125,3 +132,8 @@ SOUL offers Unicode-based multilingual support for Indian and foreign languages,
 Start free with Koha or Librarika, choose SOUL or e-Granthalaya if you qualify, and pay for LIBSYS or Alma only after a written quote.
 
 This article is general information only, not professional procurement advice. Library systems hold member personal data and institutional records, so check the official pricing, help and privacy pages, and your institution's own rules, before buying, migrating a collection, or sharing member details with any tool.
+
+**Image credits:**
+- Library bookshelves filled with books in a quiet modern library — [Pexels](https://www.pexels.com/photo/brown-wooden-shelves-with-books-6279649/) — Yaroslav Shuraev — Pexels License
+- A woman reading a book in a peaceful library nook between bookshelves — [Pexels](https://www.pexels.com/photo/woman-reading-in-library-3747522/) — Polina Zimmerman — Pexels License
+- A young man reading a book by a window in a sunlit library — [Pexels](https://www.pexels.com/photo/young-man-reading-a-book-while-sitting-beside-a-window-8567002/) — cottonbro studio — Pexels License
