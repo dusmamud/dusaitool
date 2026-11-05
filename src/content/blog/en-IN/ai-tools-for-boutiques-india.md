@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with WhatsApp Business and Google Sheets, and pay for Darzi AI or Juvee only when lost measurements or missed deadlines cost real orders."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-boutiques-india-en.png'
 ---
 
 A boutique or tailoring shop in India does not fail because it cannot stitch. It fails, quietly, because a measurement written in a diary cannot be found on the day of the trial, because a delivery date promised at the counter was never written down anywhere the karigar can see it, or because a customer who ordered a bridal lehenga last year was never told about this year's festive collection. The direct answer, then, is simple: the best AI tools for a boutique are not the ones that generate the prettiest dress pictures. They are the ones that keep three things straight — orders, measurements, and customers — and they are the ones your staff will actually use on a normal phone, in Hindi, Hinglish, Tamil, or English, during a busy festive week.
@@ -16,6 +17,8 @@ A boutique or tailoring shop in India does not fail because it cannot stitch. It
 That means the starting stack for most small boutiques is deliberately boring. Use [WhatsApp Business](https://faq.whatsapp.com/833697274483076) for the catalogue and for order updates, because that is where your customers already are. Use [Google Sheets](https://sheets.google.com) for the order and measurement register, because it works on any phone, it is free to start, and it can be searched in seconds. Add a general chatbot such as [ChatGPT](https://chatgpt.com) or [Gemini](https://gemini.google.com) to draft polite messages, festival offers, and replies in the customer's language. Add [Canva](https://www.canva.com/en_in/canva-ai/) for the lookbook, price cards, and festive posters. Only when the diary-and-Sheets system starts breaking — when orders are missed, trials are forgotten, or pending payments pile up — should you pay for a dedicated tailoring system such as [Darzi AI](https://www.darziai.in/) or [Juvee](https://juvee.in/ai-tailoring-software), both built for Indian tailors and boutiques. Everything in this guide follows that order, cheapest and simplest first, because a tool that nobody opens during Diwali week is worth nothing, however clever its AI claims sound.
 
 A note on honesty before the details. Prices, free limits, and features change often, and different sources disagree about exact numbers. Where this article states a free plan or a feature, it is reporting what the tool's own pages and listings showed at the time of checking. Before you pay, or before you promise a customer a delivery date that depends on a paid tool, re-check the official pricing and help page of that tool. This article is general information only, not professional business, tax, or legal advice, and official or professional sources must be checked for anything that affects money, tax, or customer data.
+
+![A tailor stitching fabric on a sewing machine](/images/ai-tools-for-boutiques-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -77,6 +80,8 @@ A boutique sells partly on how its work looks before the customer ever visits. C
 
 Three cautions keep Canva honest for a boutique. First, use photos of your own finished garments wherever possible. An AI-generated model wearing a lehenga that you have never stitched is advertising a product you do not sell, and a customer who walks in expecting that exact piece will leave disappointed. Second, check premium elements before exporting: a design that looks free in the editor can lock at export if it uses a premium photo or font, so build festive templates from free elements and save them for reuse. Third, keep the poster truthful about the only two things customers actually act on: the price and the date. A beautiful poster with a wrong starting price or a finished offer date creates arguments at the counter that no design can undo.
 
+![Colourful rolls of fabric stacked on shelves in a textile shop](/images/ai-tools-for-boutiques-india/02.jpg)
+
 ## How boutiques in India should actually use these tools
 
 India-specific realities decide which tool survives contact with a real shop. The first is the phone. Most boutique staff and most customers work from a phone, not a computer, and many shops run on mobile data rather than broadband. Any tool that needs a desktop, a fast connection, or a long training video will be abandoned in the first busy week. Test every tool on the cheapest phone in the shop, on mobile data, before paying.
@@ -104,6 +109,8 @@ Avoid promising a delivery date that the system invented. If a forecasting featu
 Avoid photographing customers without permission and posting trial or fitting photos publicly. A boutique's social media should show finished garments, with the customer's clear permission, or garments on a model or stand. A fitting-room photo shared without consent is a trust violation that spreads faster than any festive offer.
 
 Avoid letting any tool hold your customer list hostage. Before subscribing, confirm that you can export customers, measurements, and orders in a usable format such as a spreadsheet. A boutique's customer list is its most valuable asset, built over years of fittings and festivals, and it must never live only inside a tool you cannot leave.
+
+![Inside a boutique with clothes displayed on wall rails and indoor plants](/images/ai-tools-for-boutiques-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -142,3 +149,8 @@ Not at the start. Both are worth paying for when the free register system starts
 ## Final verdict
 
 Start free with WhatsApp Business and Google Sheets, and pay for Darzi AI or Juvee only when lost measurements or missed deadlines cost real orders.
+
+**Image credits:**
+- A tailor stitching fabric on a sewing machine — [Pexels](https://www.pexels.com/photo/person-sewing-with-a-white-sewing-machine-3984840/) — Gustavo Fring — Pexels License
+- Colourful rolls of fabric stacked on shelves in a textile shop — [Pexels](https://www.pexels.com/photo/stacks-of-colorful-fabric-displayed-on-store-shelves-18359549/) — Muhammed zeya — Pexels License
+- Inside a boutique with clothes displayed on wall rails and indoor plants — [Pexels](https://www.pexels.com/photo/clothes-hanged-on-clothes-rack-3965545/) — Ksenia Chernaya — Pexels License
