@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Forms, WhatsApp Business and Canva; add YourFee from ₹299/month only when fee-chasing eats your teaching time."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-dance-schools-india-en.png'
 ---
 
 If you run a dance academy in India, the fastest free starting point is this: use Google Forms and Sheets for attendance and enquiries, WhatsApp Business for fee reminders and parent messages, and Canva for posters and class announcements. All three cost nothing to start, all three work in India without a VPN, and none of them asks you to change how you teach. Everything else in this article is for a specific pain — chasing fees every month, selling recital tickets, or cutting performance reels — and each paid wall is named honestly below.
@@ -16,6 +17,8 @@ If you run a dance academy in India, the fastest free starting point is this: us
 A dance school is not one job. It is at least four jobs at once: filling batches by style and level, collecting monthly fees on time, keeping parents informed without answering the same question fifty times, and putting on a show that actually fills seats. A tool that promises to do all four badly is worse than two tools that each do one job well, so do not buy an all-in-one platform until you know which of the four jobs is hurting you most. Most small academies in India hurt in exactly one place first: fees. Parents forget, cash goes unrecorded, and the teacher spends the first week of every month chasing payments instead of teaching. Fix that job first, and only then spend on the rest.
 
 Prices and free limits change often, and some of the prices below come from the provider's own pricing page as found during research for this article. Before you pay for anything, or promise a parent a deadline that depends on a paid plan, re-check the official pricing and help page of that tool. Where sources disagreed, or where a price could not be confirmed from the official page, this article says so instead of guessing.
+
+![A dance teacher guiding a young student during a ballet lesson in a studio](/images/ai-tools-for-dance-schools-india/01.jpg)
 
 ## Short answer
 
@@ -66,6 +69,8 @@ Canva is the design tool most small academies reach for first, and for posters, 
 
 The free plan has real limits, and they are worth naming. Premium stock photos, videos, fonts and brand-kit features sit behind the paid Pro plan, and some AI features such as background removal for video and Magic Video are limited or paid. Before paying, check the official Canva pricing page for India, because Pro pricing and the cheaper Pro Lite option have been reported at different rupee figures by different sources, and this article will not quote a figure it could not confirm from Canva's own page at the time of writing. The practical rule is simple: if the free plan makes every poster you need, stay free. Pay only when you repeatedly hit the same paywalled asset or when a brand kit would save real time every week.
 
+![Two ballet dancers practising at the barre in a bright dance studio](/images/ai-tools-for-dance-schools-india/02.jpg)
+
 ## Performance reels: CapCut
 
 CapCut is the free video editor most dance teachers use to cut class clips and performance reels for Instagram and YouTube, and its strength is speed: trim, split, splice, layer clips on a timeline, add text and transitions, and export a vertical reel without learning a professional editor. For a dance academy, that speed is the point. A thirty-second clip of a batch performing, posted the same evening, brings more trial enquiries than a polished video delivered three weeks later.
@@ -93,6 +98,8 @@ A sensible India setup for a small academy looks like this: Forms and Sheets for
 ## What to avoid
 
 Do not buy an all-in-one platform before you know which job hurts most, because you will pay for five features and use one. Do not let an AI tool send fee messages, dates or refund promises without a human reading them first, because a wrong number in a parent message damages trust faster than any late message. Do not post children's photos or videos without parental permission, and do not use a popular song in a promotional reel just because the app offered it — check whether the licence covers commercial use. Do not promise a parent a deadline, a discount or a refund that depends on a tool's paid plan until you have re-checked the official pricing page, because free limits and prices change and a promotion that was free last month may renew at full price this month. Do not keep fee records only in chat messages: a chat is not a ledger, and a dispute about whether a month was paid needs a receipt, not a screenshot. Do not share attendance sheets or fee lists through open links, and do not collect more personal data from children than the academy actually needs. Finally, do not hand your whole timetable, student list and fee history to a new tool on day one — run it with one batch for a month, check that reminders, receipts and attendance all work, and only then move the rest of the school onto it.
+
+![A male dancer rehearsing a pose in front of a mirror in a dance studio](/images/ai-tools-for-dance-schools-india/03.jpg)
 
 ## FAQ
 
@@ -131,3 +138,8 @@ No. Prices, free limits and promotions change, and some figures here come from p
 Start free with Forms, WhatsApp Business and Canva; add YourFee from ₹299/month only when fee-chasing eats your teaching time.
 
 *This article is general information only, not professional financial, legal or tax advice. Fee structures, tax treatment, payment-gateway charges and music licensing rules depend on your academy's situation, so check the official pages of the tools mentioned and consult a qualified professional before making financial or legal decisions.*
+
+**Image credits:**
+- A dance teacher guiding a young student during a ballet lesson in a studio — [Pexels](https://www.pexels.com/photo/ballerinas-dancing-in-studio-during-lesson-5149649/) — Budgeron Bach — Pexels License
+- Two ballet dancers practising at the barre in a bright dance studio — [Pexels](https://www.pexels.com/photo/female-ballet-dancers-performing-on-a-practice-room-10640443/) — cottonbro studio — Pexels License
+- A male dancer rehearsing a pose in front of a mirror in a dance studio — [Pexels](https://www.pexels.com/photo/a-ballet-dancer-rehearsing-rehearsing-in-the-dance-studio-8853881/) — Los Muertos Crew — Pexels License
