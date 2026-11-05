@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT or Gemini, Travefy and WhatsApp; add a CRM and payment links before any expensive all-in-one platform."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-travel-agents-india-en.png'
 ---
 
 ## The direct answer
@@ -24,6 +25,8 @@ Do not buy an expensive all-in-one tour-operator platform first. Tools such as T
 A warning that applies to every tool in this article: prices, free limits and features change often, sometimes without notice. Before you pay for anything, or before you promise a customer a price or a deadline that depends on a tool, re-check the official pricing and help page for that tool. Where this article reports a limit or a price, it says where that figure came from and that it must be re-checked, because a number that was true in October 2026 may not be true when you read this.
 
 This article is general information only, not professional tax, legal or financial advice. Travel money, GST invoicing and business registration rules depend on your exact business structure, so check official sources and your chartered accountant before changing how you bill or collect money.
+
+![Colourful letters spelling TRAVEL on a world map with a compass](/images/ai-tools-for-travel-agents-india/01.jpg)
 
 ## Short-answer table
 
@@ -75,6 +78,8 @@ Tripzio is different from the global tools because it is built only for travel w
 For an Indian agency, that India-specific knowledge is the point. A global assistant can suggest a generic Rajasthan circuit; Tripzio starts from how Indians actually travel — by train, on a family budget, across multi-city circuits such as Ooty to Munnar to Alleppey — and it produces plans in Hindi or Bengali as well as English, so the itinerary can be shared with the family member who actually approves the trip. Its site states that planning is free to try with no signup and no credit card for the first trip, that a free account lets you save, share and download plans, and that there is no subscription. It also states clearly that Tripzio does not take bookings itself; it links to booking sites so you book directly.
 
 Use Tripzio as a drafting and research tool, not as your booking record. Let it build the first draft of a domestic package, then replace its hotel suggestions with your contracted hotels, verify every train number and timing on the day of quoting, and re-price the package with your own margins. For agents, it also offers planning for multiple clients and branded plans. If most of your business is domestic India travel, Tripzio can save hours of first-draft work every week. If most of your business is international, ChatGPT or Gemini plus Travefy will serve you better, and Tripzio becomes a secondary tool for the domestic side.
+
+![An open suitcase packed with clothes, a camera and a sun hat](/images/ai-tools-for-travel-agents-india/02.jpg)
 
 ## WhatsApp: where Indian travel is actually sold
 
@@ -132,6 +137,8 @@ Do not collect customer money into personal accounts, and do not promise a price
 
 Do not buy every tool at once. Start free, prove the workflow with ten real enquiries, and only pay for the tool that removes a bottleneck you can name. If follow-ups are the bottleneck, pay for the CRM. If replies are the bottleneck, pay for the WhatsApp platform. If quotes look weak, pay for the itinerary builder. A tool bought before its bottleneck is just a subscription.
 
+![A traveller opening a world map on the floor beside packed suitcases](/images/ai-tools-for-travel-agents-india/03.jpg)
+
 ## FAQ
 
 **Which AI tool is best for a small travel agency in India?**
@@ -169,3 +176,8 @@ Avoid letting AI confirm availability or bookings it cannot see, publishing AI i
 Start with ChatGPT or Gemini, Travefy and WhatsApp; add a CRM and payment links before any expensive all-in-one platform.
 
 That order matters because it fixes the jobs that lose bookings first: slow replies, weak quotes and forgotten follow-ups. Once those three are clean and your payment record is proper, you will know from your own numbers — not from a sales page — whether a bigger tour-operator platform is worth paying for.
+
+**Image credits:**
+- A world map with colourful letters spelling TRAVEL and a compass — [Pexels](https://www.pexels.com/photo/map-and-a-compass-7235893/) — Nataliya Vaitkevich — Pexels License
+- An open suitcase packed with clothes, a camera and a sun hat — [Pexels](https://www.pexels.com/photo/photo-of-a-packed-suitcase-8212231/) — Kindel Media — Pexels License
+- A traveller opening a world map on the floor beside packed suitcases — [Pexels](https://www.pexels.com/photo/person-opening-a-map-on-the-floor-7368277/) — Vlada Karpovich — Pexels License
