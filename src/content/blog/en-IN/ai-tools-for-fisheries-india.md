@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with INCOIS, IMD and AquaConnect or AquaClue; pay for pond sensors only after the free routine works."
 heroAlt: "AI tools for fisheries in India"
+ogImage: '/og/ai-tools-for-fisheries-india-en.png'
 ---
 
 ## The direct answer
@@ -18,6 +19,8 @@ If you farm fish in ponds or fish at sea in India, the most useful AI tools are 
 That order matters because fisheries work punishes guesswork. A wrong feeding decision wastes expensive feed and fouls pond water. A missed weather warning can cost a boat, a net, or a life. A tool that looks impressive but needs daily data you will never enter is worse than a simple notebook used honestly. The tools below are chosen for India: they work on an ordinary Android phone, they do not need a VPN, and the government ones are free.
 
 A note on prices and limits before anything else: prices and free limits change often, and different comparison pages disagree about exact caps because the providers themselves often do not publish a fixed number of free messages. Treat every price or limit in this article as a snapshot from early November 2026. Before you pay, or before you promise a buyer a delivery date that depends on a tool, re-check the tool's official pricing or help page. Where a price is not published, this article says so plainly rather than guessing.
+
+![Fishermen unloading their boats on the shore in Kerala](/images/ai-tools-for-fisheries-india/01.jpg)
 
 ## Short answer: which tool for which job
 
@@ -68,6 +71,8 @@ AquaClue is an Indian AI-powered aquaculture management platform for fish and sh
 For a small pond farmer, this is the lowest-friction way to start with AI: there is no sensor to install and no hardware to maintain. You type or speak the problem, you get an answer immediately, and you can act the same morning. The site describes the app as free to install with access to Aqbot, but as with every app that promises "free", check inside the app whether any advanced feature is paid before you build your routine around it, and never let a chatbot answer replace a water test when fish are actually dying.
 
 Use AquaClue or AquaConnect, not both at once, at least for the first month. Running two diaries means neither has your full history, and both will give weaker advice. Pick the one whose language, layout, and local support feel easiest on your phone, commit to daily entries for a month, and only then judge it.
+
+![Fishermen casting nets from boats on calm water at sunset](/images/ai-tools-for-fisheries-india/02.jpg)
 
 ## 5. AquaSense by Keleno: sensors that watch the pond for you
 
@@ -123,6 +128,8 @@ This article also connects to the wider set of guides on this site: if you also 
 - **Do not break the seasonal fishing ban or local mesh and size rules because an app suggested a good zone.** The PFZ service itself pauses during the ban, and local rules still apply. Check with the state fisheries department when unsure.
 - **Do not let an app replace your own eyes.** Fish gasping at the surface, a change in water colour, or a strange smell at the landing centre are data too, and they arrive faster than any dashboard.
 
+![Fresh fish on display at a fish market stall](/images/ai-tools-for-fisheries-india/03.jpg)
+
 ## FAQ
 
 **Which single free tool should a sea fisherman start with?**
@@ -160,3 +167,8 @@ Through your state fisheries department and the Pradhan Mantri Matsya Sampada Yo
 Start free with INCOIS, IMD and AquaConnect or AquaClue; pay for pond sensors only after the free routine works.
 
 *General information only: this article is general information, not professional veterinary, financial, or legal advice. Fish health, medicine doses, subsidy eligibility, and fishing rules depend on your species, location, and current official notifications, so check with your state fisheries department, a qualified veterinarian, or another relevant professional before acting on anything here.*
+
+**Image credits:**
+- Fishermen unloading boats on the shore in Kerala — [Pexels](https://www.pexels.com/photo/fishermen-docking-boats-in-kerala-india-33987792/) — SAI SHANKAR — Pexels License
+- Fishermen casting nets from boats on calm water at sunset — [Pexels](https://www.pexels.com/photo/unrecognizable-fishermen-catching-fish-with-nets-in-shiny-sea-6710881/) — Quang Nguyen Vinh — Pexels License
+- Fresh fish on display at a market stall in Mangaluru — [Pexels](https://www.pexels.com/photo/fresh-fish-display-at-mangaluru-market-28785535/) — Joerg Hartmann — Pexels License
