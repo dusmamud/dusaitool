@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with LibreTime and Adobe Podcast, add Radio.co for hosted playout, and use AI voices only for fill-in tracks."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-radio-stations-india-en.png'
 ---
 
 A radio station in India is not one job. Programming the music log, presenting shows, selling and producing ads, taking listener calls and requests, and keeping the station on air around the clock are five different jobs, and no single free tool does all five well. The tool that schedules music best does not record your RJ, and the tool that generates an AI voice does not hold a broadcast licence for you. The setup that actually works is **a combination, not a single app**.
@@ -16,6 +17,8 @@ A radio station in India is not one job. Programming the music log, presenting s
 The short answer for India is this: run the station free on [LibreTime](https://libretime.org/), which is open-source radio automation with calendar scheduling and playout, and clean show audio free in [Adobe Podcast](https://podcast.adobe.com/en), whose free Enhance Speech handles one file at a time. If you want hosted playout without running your own server, [Radio.co](https://www.radio.co/pricing) starts at 35 dollars a month billed yearly on its Lite plan, with AI voice credits from the 59-dollar Standard plan upward. For AI voice tracks, [ElevenLabs](https://elevenlabs.io/pricing) has a free plan for text to speech, and for transcript-based show editing, [Descript](https://www.descript.com/pricing) charges 16 dollars a month per person for its Hobbyist plan. Do not buy any of these before you read the India section below, because an internet-radio tool and an FM licence are different things, and music licensing that covers listeners in the United States does not automatically cover listeners in India.
 
 This article is written for India on purpose: community radio teams, college stations, internet-radio starters, small FM teams, and independent RJs working in Hindi, Hinglish, and regional languages, on a normal laptop and phone, with no assumption that you have a studio, a paid plan, or a US account. It also carries a warning that matters for radio more than for any other creator group in this series: **dead air, unlicensed music, and a fake-sounding RJ damage trust faster than a rough edit ever will**, so automation should remove the boring work, not replace the human voice your listeners tune in for.
+
+![A radio host wearing headphones and speaking into a microphone in a studio](/images/ai-tools-for-radio-stations-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -95,6 +98,8 @@ For a radio station, Descript's real value is repurposing. A two-hour morning sh
 
 [Audacity](https://www.audacityteam.org/) is the other free pillar, and the honest one: free, open source, no caps, no subscription, waveform editing only, and no transcript editing. It cannot do what Descript does, but it never runs out of credits, never watermarks anything, and never changes its price. A sensible Indian station workflow is therefore Audacity for routine trimming and levelling, Adobe Podcast free for rescuing the worst recordings, and Descript only when transcript editing and clip creation justify the monthly cost. That stack costs nothing until it earns its keep, which is exactly the right order for a station still building its audience.
 
+![Close-up of a studio condenser microphone with a pop filter](/images/ai-tools-for-radio-stations-india/02.jpg)
+
 ## AI for ads: writing, voicing, and scheduling sponsor spots
 
 Ads are where AI helps a small station most and where it can embarrass it fastest, so treat the two halves separately. For writing, a general AI chat assistant can draft sponsor scripts, promo liners, and contest announcements in minutes, and can rework one script into Hindi, Hinglish, and English variants for different dayparts. That is a genuine time saving for a team that writes ten liners a week. For voicing, ElevenLabs or Radio.co's Voice Studio can produce a clean sponsor tag without booking studio time, which matters when a local shop changes its offer on a Friday evening and the spot must air on Saturday morning.
@@ -110,6 +115,8 @@ Two practical consequences follow. First, before you buy any tool, settle which 
 ## What to avoid
 
 AI radio tools fail in predictable ways, and most of them are avoidable. Do not let an AI voice fully replace your RJs, because listeners tune in for people, and a station with no human voice is a playlist with announcements. Do not air AI-generated listener calls, messages, or testimonials that are not real, because a fake caller discovered once destroys trust permanently. Do not play commercial music on the assumption that a foreign platform's licence covers India, and do not promise advertisers reach figures your dashboard cannot support. Do not auto-schedule a whole week without listening to the junctions, and do not let an AI scheduler bury your local content under imported hits, especially on a community station whose licence expects local participation. Finally, do not buy an annual plan on day one. Run the free tier or the trial for a full broadcast week, including a festival day or a match day if you can, and only then commit money. A tool that survives your hardest week is worth paying for; a tool that only survives a quiet demo is not.
+
+![A microphone and laptop set up in a radio studio next to a chair](/images/ai-tools-for-radio-stations-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -148,3 +155,8 @@ They will replace scheduling drudgery, rough editing, and repetitive promo produ
 ## Final verdict
 
 Start free with LibreTime and Adobe Podcast, add Radio.co for hosted playout, and use AI voices only for fill-in tracks.
+
+**Image credits:**
+- A radio host speaking into a microphone in a studio — [Pexels](https://www.pexels.com/photo/man-with-headphones-on-talking-and-gesturing-in-a-studio-23883629/) — Erman Kayıkcı — Pexels License
+- Close-up of a studio condenser microphone with a pop filter — [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-studio-condenser-microphone-8197233/) — RDNE Stock project — Pexels License
+- A microphone and laptop set up in a radio studio — [Pexels](https://www.pexels.com/photo/laptop-and-microphone-placed-near-chair-in-radio-studio-6953872/) — George Milton — Pexels License
