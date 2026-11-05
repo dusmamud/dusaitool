@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Zoho Projects or Trello plus Zoho Books, and add Fieldwire or Procore only when site volume justifies a paid quote."
 heroAlt: "AI tools for builders in India for projects, workers, materials and billing"
+ogImage: '/og/ai-tools-for-builders-india-en.png'
 ---
 
 ## The direct answer
@@ -18,6 +19,8 @@ If you run a construction business in India — one site or ten, houses or small
 No tool in this article replaces a qualified engineer, a chartered accountant, or your own site visit. An AI assistant can draft a scope of work, turn a messy site note into a checklist, or reformat a bill of quantities, but it can also invent a rate, misread a drawing dimension, or quote a rule that does not apply in your state. Prices and free limits also change often, so before you pay for anything, or before you promise a client a deadline that depends on a tool, re-check the official pricing and help page of that tool. Everything below states the free limit as verified at the time of research, and flags clearly where sources disagree.
 
 This article is general information only, not professional engineering, accounting, tax or legal advice. For structural decisions, GST filing, contract wording and safety compliance, check official sources and a qualified professional. That warning is not decoration: in construction, a wrong quantity, a wrong tax split or an unchecked drawing costs real money and can create real liability.
+
+![Two construction workers in helmets and safety vests working on scaffolding at a building site](/images/ai-tools-for-builders-india/01.jpg)
 
 ## Short-answer table
 
@@ -77,6 +80,8 @@ Two India-focused platforms deserve attention precisely because they are designe
 
 ProjectBase, also built for Indian contractors, connects project teams and back-office teams in one cloud system, with particular strength in procurement and inventory: online material requests, RFQs sent to suppliers with quotes entered directly in a portal, automated quote comparison, purchase order approvals, and instant reports of material available at each site and warehouse, separated between project stock and common stock. It also offers project financial dashboards showing costs incurred, billing done, unbilled value, cost overruns and estimated versus actual margins. For a contractor whose biggest leak is material — ordered twice, issued without record, or sitting unused at a closed site — that procurement chain is more valuable than a prettier task board. Both platforms work in India without a VPN. Neither publishes a simple monthly price you can safely quote here, so treat any number from a third-party directory as unverified until the vendor confirms it for your project count and user count.
 
+![A tall building under construction covered in scaffolding, viewed from below](/images/ai-tools-for-builders-india/02.jpg)
+
 ## Zoho Books: GST billing that fits a small construction firm
 
 Billing is where many builders lose money quietly: work done but not invoiced, invoices without the right tax split, or a running total that only the accountant understands. Zoho Books is built around Indian GST, with GST-compliant invoicing, HSN and SAC codes, place-of-supply logic, and GSTR-1 and GSTR-3B report preparation. Multiple guides report that its free plan covers businesses below Rs. 25 lakh in annual revenue, with 1 user plus 1 accountant, and that its Standard plan costs Rs. 899 per month, or Rs. 749 per month billed annually, plus GST. The difference between those two Standard figures is billing period, not a contradiction: monthly billing costs more per month than annual billing. Confirm the current revenue threshold and user limit on Zoho's own pricing page before relying on the free plan, because thresholds change.
@@ -113,6 +118,8 @@ Fourth, materials are the leak. Cement bags, steel tonnage, sand and aggregate, 
 
 Avoid buying a volume-priced annual platform before you have a free-stack habit. If your team does not update Trello or Zoho Projects weekly, Procore or Buildertrend will not create that habit; it will only make the unused system more expensive. Avoid trusting any AI-generated rate, drawing dimension, structural note or legal clause without a human check. Avoid uploading full tender sets, client identity documents or worker personal data to free consumer AI plans without checking data-use settings. Avoid storing your only copy of drawings, contracts or measurement sheets inside a single free tool with a small storage limit, such as ClickUp's 60 MB free storage. Avoid choosing a tool from a single blog's price table: prices, free limits and plan names change, and secondary sources already disagree on Vyapar's paid price and on small details of other plans. Avoid promising a client a completion date, a final price or a tax treatment based on what a tool suggested; promise only what your engineer, your supplier quotation and your accountant have confirmed. Avoid running billing and site progress in completely separate worlds — if the site says a slab is done and billing says it is not invoiced, that gap is lost money. And avoid paying for five tools when two will do: a project tool, a billing tool and a drafting assistant cover most small builders, and every extra tool is another login the site team will forget.
 
+![Two builders in hard hats working on a wooden house under construction](/images/ai-tools-for-builders-india/03.jpg)
+
 ## Frequently asked questions
 
 **Which free tool should a small Indian builder start with?**
@@ -142,3 +149,8 @@ Re-check the official pricing and help page for the current free limit, paid pri
 ## Final verdict
 
 Start free with Zoho Projects or Trello plus Zoho Books, and add Fieldwire or Procore only when site volume justifies a paid quote.
+
+**Image credits:**
+- Two construction workers on scaffolding at a building site — [Pexels](https://www.pexels.com/photo/men-in-helmets-working-on-scaffolding-on-building-site-14367420/) — Boris Hamer — Pexels License
+- A tall building under construction covered in scaffolding — [Pexels](https://www.pexels.com/photo/white-concrete-building-with-scaffoldings-on-the-side-11091137/) — Rupinder Singh — Pexels License
+- Two builders working on a wooden house under construction — [Pexels](https://www.pexels.com/photo/people-doing-work-in-the-construction-site-8961526/) — Mikael Blomkvist — Pexels License
