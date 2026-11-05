@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, Canva, WhatsApp Business and Trello. Pay for Caterease only when events are frequent enough to need one catering system."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-caterers-india-en.png'
 ---
 
 Running a catering business in India is not one job, it is five jobs happening at the same time. A client wants a menu and a quotation today, the kitchen needs quantities for 300 guests tomorrow, staff need to know where to report and at what time, the venue needs a layout and a serving plan, and somewhere in between you need photos that make the food look as good as it tastes. Most caterers do all of this on phone calls and WhatsApp chats, and that works until two weddings fall on the same weekend, a guest count changes at the last minute, or a helper does not turn up. AI tools do not cook the food and they do not replace tasting sessions, but they do take over the repetitive writing, calculating, organising and designing work that eats up a caterer's day.
@@ -16,6 +17,8 @@ Running a catering business in India is not one job, it is five jobs happening a
 The short answer for India is this: use [ChatGPT](https://chatgpt.com/) free for menus, quotations, client messages and staff briefs, because it is the most versatile free AI for writing and planning work. Use [Canva](https://www.canva.com/) free for menu cards, quotation PDFs and event posters, because it has templates and a free plan that works in India. Use [WhatsApp Business](https://www.whatsapp.com/business) free for enquiries, catalogues, labels and quick replies, because that is where most Indian clients already talk to you. Use [Trello](https://trello.com/pricing) free for event checklists and staff tasks, because its free plan covers small teams. Use [Google Business Profile](https://business.google.com/) free so nearby clients can find you, read reviews and see your photos. Use [Caterease](https://caterease.com/pricing/) only when you run enough events to justify a paid, catering-specific system, because its published pricing starts at 99 US dollars a month billed annually, with no free plan shown in the checks, and you should confirm India availability and payment terms before paying. Everything else in this article is for a specific job, not for every caterer.
 
 This article is written for India on purpose: vegetarian and non-vegetarian menus, Jain and no-onion-garlic requests, regional dishes from biryani to dhokla to appam, guests counted in plates and in heads, UPI payments, FSSAI and GST realities, a normal phone and laptop, and no assumption that you have a paid plan, an agency or a US account. It also carries two warnings that matter for caterers more than for most businesses. First, never show food you do not serve. AI can clean up a photo, but it must not invent a dish, a portion size or an ingredient, because a client who is served something different from the photo will complain in front of 300 guests. Second, never let AI invent a price, a quantity or a food-safety rule. Check every number against your own rates and your own recipes, and check food-safety and licensing questions against official FSSAI sources or a qualified professional, because this article is general information only, not professional advice. Prices and free limits change often, so re-check the official pricing or help page of any tool before you pay for it or promise a deadline around it. Where sources disagree, this article says so rather than picking the convenient number.
+
+![A buffet table laid out with fresh vegetables, small bowls of food and stacked plates](/images/ai-tools-for-caterers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -76,6 +79,8 @@ Before buying any software, build your catering system in Google Sheets and Goog
 
 Google Forms handles the jobs that otherwise arrive as messy WhatsApp messages. Send a short enquiry form that asks for date, city, guest count, vegetarian split, budget per plate and service style, so every enquiry arrives in the same format. Send a feedback form after the event that asks about food quality, service, timing and value, and read the answers every month to find the one problem that keeps repeating. Keep one master copy of each sheet, share edit access only with people who need it, and download a backup copy every month, because a sheet that only one phone can open is not a system.
 
+![A chef carefully plating a dish with tweezers in a professional kitchen](/images/ai-tools-for-caterers-india/02.jpg)
+
 ## Photoroom: food photos without a studio
 
 Good food photos win catering enquiries, and Photoroom cleans up phone photos by removing backgrounds and improving presentation. That is genuinely useful for a menu card, a catalogue item or a status post. But its free plan needs careful reading: earlier checks found it limited, with lower export limits and marked for personal, non-commercial use only, with Pro at US$7.50 a month billed yearly. That means a caterer who uses the free plan for commercial menu cards may be outside its terms, so check the current Photoroom pricing and terms page before relying on it for business use, and consider Canva or your phone's own editor for commercial photos if the terms do not suit you.
@@ -99,6 +104,8 @@ Staffing is also where AI should stay in its lane. Use it to draft rosters, chec
 ## What to avoid
 
 Avoid the free-tool trap of signing up for ten tools and using none of them properly. Pick four tools, use them for a month, and only add a fifth when a real event exposes a gap. Avoid putting client phone numbers, addresses and payment details into every AI chat without thinking, because a chat history is not a secure customer database; keep sensitive details in your own booking sheet with limited sharing. Avoid AI-generated menus that list dishes your kitchen has never cooked, because a tasting will expose them. Avoid promising a deadline, a dish or a price that an AI tool suggested but you have not verified, because the client holds you to the promise, not the tool. Avoid copying another caterer's menu card, photos or brand name with an AI rewrite, because that is still copying. And avoid believing any single price or limit in this article without re-checking it: tools change their plans often, and the official pricing or help page on the day you pay is the only version that matters.
+
+![Guests serving themselves food from a long buffet table at an event](/images/ai-tools-for-caterers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -131,3 +138,8 @@ AI can draft rosters, shift messages and checklists, and Trello can track who is
 Start free with ChatGPT, Canva, WhatsApp Business and Trello. Pay for Caterease only when events are frequent enough to need one catering system.
 
 If you also run a restaurant or plan events, the companion guides on [AI tools for restaurants in India](/blog/ai-tools-for-restaurants-india/) and [AI tools for event planning in India](/blog/ai-tools-for-event-planning-india/) cover the overlapping jobs of menus, bookings and guest management. For the wider small-business picture, see [AI tools for small business in India](/blog/ai-tools-for-small-business-india/).
+
+**Image credits:**
+- Fresh vegetables and small dishes laid out on a buffet table — [Pexels](https://www.pexels.com/photo/delicious-vegetable-serving-on-buffet-table-7245472/) — Olga Lioncat — Pexels License
+- A chef plating a dish in a professional kitchen — [Pexels](https://www.pexels.com/photo/person-holding-silver-fork-and-knife-slicing-vegetable-on-white-ceramic-plate-4253320/) — cottonbro studio — Pexels License
+- Guests serving themselves at a buffet table — [Pexels](https://www.pexels.com/photo/a-group-of-people-getting-food-on-buffet-table-14199733/) — Roderick Salatan — Pexels License
