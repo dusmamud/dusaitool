@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Gemini and Canva for designs and posts, WhatsApp for customers, and Vyapar or TallyPrime for GST billing and stock by weight."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-jewellers-india-en.png'
 ---
 
 ## The short answer
@@ -18,6 +19,8 @@ If you run a jewellery shop in India — gold, silver, diamond, imitation, or a 
 The most important rule in this whole article is simple: AI pictures are for ideas, never for selling. Show a customer an AI image only when you clearly say it is a design idea or a concept, and show the real photograph of the actual piece before you take an advance or a booking. An AI tool cannot count prongs reliably, cannot guarantee a stone count, and cannot promise that a design can actually be made at the weight and price you quoted. A jeweller's eye and a karigar's judgement still decide what is real. Everything else in this article explains which tool does which job, what each one genuinely costs, and which traps to avoid.
 
 All the tools in this article work in India on an ordinary phone and internet connection, without a VPN. Where a price or a free limit is given below, it is the figure found during research for this article, and prices and limits change often. Re-check the official pricing or help page of each tool before you pay for anything or promise a buyer a deadline that depends on a tool. Where sources disagreed, this article says so openly instead of picking the tidier number.
+
+![A jeweller's hands filing a gold ring at a workbench surrounded by tools](/images/ai-tools-for-jewellers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -78,6 +81,8 @@ WhatsApp Business is free, and for most Indian jewellery shops it is the single 
 
 Quick replies save hours on festival weeks: one saved reply for today's gold-rate question, one for making charges, one for exchange policy, one for delivery time. Labels keep the chaos organised — new enquiry, advance paid, making in progress, ready for delivery, old customer. One hard rule: the catalogue photo must be the real piece, or a real photograph of the same design in stock. If a customer orders from a catalogue photo and receives something visibly different, no AI disclaimer will save the relationship. WhatsApp is also where trust is lost fastest, because a forwarded AI image looks exactly like a real photograph in a chat, so label concepts as concepts, every time.
 
+![Close-up of a jeweller setting a green emerald stone into a gold ring](/images/ai-tools-for-jewellers-india/02.jpg)
+
 ## Jewellery-specific software: Valenza and Uji, for growing shops
 
 When a shop outgrows general billing apps, jewellery-specific systems such as Valenza and Uji are the next step, and both are built for Indian jewellers. Valenza offers an AI-powered owner dashboard that watches sales, stock, and dues and flags what needs attention, plus alerts for late orders, overdue memos, and scheme dues, and tools that read a photograph of a piece to search a design library, preview another metal tone, or draft a catalogue line. Its own pages are clear that billing, stock, HUID, schemes, accounts, and GST work without any AI key, and that the AI assistant runs on the shop's own AI provider account, billed by that provider. Uji, similarly, tracks every piece by weight, purity, and HUID, shares live catalogue links over WhatsApp, manages karigars and campaigns, and offers design AI, virtual try-ons, and sales forecasting.
@@ -97,6 +102,8 @@ Language is a quiet advantage for Indian jewellers. Most customers are happier i
 ## What to avoid
 
 First, never sell from an AI image as if it were the real piece. Label every concept image, photograph the finished piece before delivery, and refund or remake promptly when the finished piece does not match what was approved — that policy costs little and saves the shop's name. Second, never paste customer names, phone numbers, addresses, or purchase records into a public AI chatbot; keep customer data in your billing system. Third, never quote a price, a weight, or a delivery date that an AI tool invented; prices come from real weight, real purity, real stones, and today's rate, and delivery dates come from your karigar, in writing. Fourth, never buy a paid tool before the free tools are actually being used daily — an unused subscription is the most common waste in small shops. Fifth, never skip hallmarking, GST records, or proper invoices to save time on a busy day; the busy day is exactly when records matter most. Sixth, never post another jeweller's design photo as your own, and never let an AI tool copy a branded or trademarked design for you to sell; use AI for direction, then make the design yours through your own karigar's work.
+
+![Hands trying on a gold beaded bracelet in front of hanging necklaces](/images/ai-tools-for-jewellers-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -134,3 +141,8 @@ Start free with Gemini and Canva for designs and posts, WhatsApp for customers, 
 That single line is the whole plan, and it works because it follows the order a jewellery shop actually runs in: ideas first, customers second, correct billing always. AI earns its place in your shop the day it saves real time on real work — a faster festival post, a clearer customer reply, a design direction a buyer loves — without ever pretending that a picture is a piece, a guess is a price, or a chatbot is a karigar. Keep the real piece, the real weight, and the real bill at the centre, and let the tools serve them.
 
 *Disclaimer: this article is general information only, not professional advice. Tax, GST, hallmarking, and business rules change over time and depend on your specific situation, so check official sources such as BIS and the GST portal, and speak to your chartered accountant or a qualified professional before acting on any tax, legal, or compliance point in this article.*
+
+**Image credits:**
+- A jeweller's hands filing a gold ring at a workbench — [Pexels](https://www.pexels.com/photo/man-people-woman-art-6262846/) — Tima Miroshnichenko — Pexels License
+- Close-up of a jeweller setting a green emerald stone into a gold ring — [Pexels](https://www.pexels.com/photo/a-jeweler-making-an-emerald-ring-6263143/) — Tima Miroshnichenko — Pexels License
+- Hands trying on a gold beaded bracelet in front of hanging necklaces — [Pexels](https://www.pexels.com/photo/a-person-wearing-gold-beaded-bracelet-8886920/) — Lara Jameson — Pexels License
