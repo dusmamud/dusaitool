@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Koko or TouchVet for bookings and records, WhatsApp for reminders, and teleconsults only for follow-ups — never instead of examination."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-veterinarians-india-en.png'
 ---
 
 A veterinary clinic in India runs on the same three things every day: the appointment list, the pet's record, and the reminders that bring the pet back on time. A missed vaccination reminder means a lapsed vaccine. A lost paper record means the next vet starts from zero. A phone that rings all morning means the vet is answering booking calls instead of examining animals. AI and clinic software can take a real share of that load, but the tool that books appointments is not the tool that writes your notes, and neither one replaces an in-person examination, a blood test, or a vet's own judgement.
@@ -18,6 +19,8 @@ The direct answer for an Indian vet clinic is this: use an India-built veterinar
 This article is written for India on purpose: solo vets, two-vet clinics, and small animal hospitals, pet parents who message in Hindi, Hinglish, Tamil, Telugu, Marathi, or English, a normal phone and laptop, and no assumption that you have a hospital IT team or a large monthly budget. It covers dogs and cats mainly, because that is where most Indian small-animal clinics work, with notes on where the same tools help for other pets. It also carries a warning that matters for vets more than for almost any other group in this series: an AI tool cannot feel a lump, hear a heart murmur, or see how an animal moves. If a pet parent describes vomiting, collapse, breathing difficulty, a wound, or sudden pain, the answer is an in-person visit, urgently, not a chatbot reply.
 
 **Disclaimer:** This article is general information only, not veterinary, legal, or professional advice. It does not replace a veterinarian's clinical judgement, professional obligations, or the advice of a qualified professional. Before adopting any tool for animal care, check official sources, your professional body's current guidance, and the tool's own privacy, security, and pricing pages.
+
+![A veterinarian in scrubs examining a small dog with a stethoscope in a clinic](/images/ai-tools-for-veterinarians-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -69,6 +72,8 @@ Its free tier is genuinely usable for a trial: listed at $0, it includes unlimit
 
 The privacy questions matter as much as the accuracy ones, and they deserve a direct written answer from the vendor before any client data flows through the tool: where is consultation audio processed, is it stored, for how long, is it used to train models, and can you delete a session completely? A good answer is specific and written down. A vague answer is a reason to walk away. Also confirm consent practice: tell the pet parent you are recording for notes, and do not record a consultation where the owner is uncomfortable with it. Scribenote is best for a busy vet whose bottleneck is documentation time. It is not a diagnosis tool, and it should never be treated as one. Read every note, correct it, and sign it yourself, because the note is yours the moment your name goes on it.
 
+![A veterinarian sitting beside a black dog on an examination counter in a modern vet clinic room](/images/ai-tools-for-veterinarians-india/02.jpg)
+
 ## Teleconsult and home visits: Supertails and Vetic as follow-up channels
 
 Teleconsultation in veterinary care has a narrower honest role than in human medicine, because so much of a vet's examination is hands-on. It is genuinely useful for follow-ups, behaviour questions, diet advice, reviewing a lab report, checking a healing wound by photo or video, and deciding whether a pet needs to come in urgently or can wait for a routine slot. It is not a substitute for examining an animal that is collapsed, struggling to breathe, bleeding, in visible pain, or suddenly unable to walk, and any service that suggests otherwise should not be trusted.
@@ -98,6 +103,8 @@ Avoid letting any AI tool make, or appear to make, a diagnosis on its own. A cha
 Avoid choosing a system you cannot leave. Before paying, ask for data export in writing: pets, owners, appointments, prescriptions, lab reports, and bills, in a usable file, not a locked report. Avoid a system whose price you cannot find, whose renewal price is unstated, or whose reminder charges are buried in credit pools you cannot forecast. Avoid recording consultations without telling the pet parent, and avoid keeping clinical photos in personal phone galleries or casual chat groups where they can be forwarded by accident.
 
 Avoid the cheapest trap of all: buying software nobody on the team uses. A system the receptionist bypasses and the vet ignores is worse than a paper register everyone trusts, because it creates two competing records and neither one is complete. Pick the system the team will actually open every morning, train everyone on it, and review after a month whether reminders went out, records were completed, and no-shows fell. If the answer is no, the problem is usually the workflow, not the software, and changing vendors without fixing the workflow will repeat the failure.
+
+![A pet owner holding her Pomeranian dog while consulting a veterinarian in a clinic](/images/ai-tools-for-veterinarians-india/03.jpg)
 
 ## FAQ
 
@@ -134,3 +141,8 @@ It is safer than a paper register only if the vendor protects it properly, so as
 ## Final verdict
 
 Start with Koko or TouchVet for bookings and records, WhatsApp for reminders, and teleconsults only for follow-ups — never instead of examination.
+
+**Image credits:**
+- A veterinarian checks a Pomeranian dog using a stethoscope in a clinic — [Pexels](https://www.pexels.com/photo/a-dog-at-the-clinic-6235650/) — Tima Miroshnichenko — Pexels License
+- A veterinarian sits beside a black dog in a modern clinic examination room — [Pexels](https://www.pexels.com/photo/a-veterinarian-sitting-beside-a-black-dog-lying-on-the-table-6234618/) — Tima Miroshnichenko — Pexels License
+- A veterinarian consults a pet owner holding her Pomeranian dog in a clinic — [Pexels](https://www.pexels.com/photo/a-pomeranian-inside-a-veterinary-clinic-6235107/) — Tima Miroshnichenko — Pexels License
