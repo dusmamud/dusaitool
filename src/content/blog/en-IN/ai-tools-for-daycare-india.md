@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start with Illumine or free WhatsApp plus Sheets, and use ChatGPT or Gemini only for drafting — never for children's private data."
 heroAlt: "Daycare staff and children in a bright, safe playroom"
+ogImage: '/og/ai-tools-for-daycare-india-en.png'
 ---
 
 A daycare or creche does not need the fanciest artificial intelligence on the market. It needs four things to work every single day without fail: children signed in and out safely, staff knowing who is responsible for which room, parents getting a short honest update before they worry, and records that can be found again next week. The tools below are judged on exactly those four jobs, for Indian centres, not on how impressive their demos look.
 
 The short answer is this. If you run a small centre and money is tight, start with the free WhatsApp Business app plus Google Sheets and Google Forms, and use a free chatbot only to draft messages, menus and activity plans. If you run a centre with fifty or more children, or more than one branch, look seriously at Illumine, an India-based childcare management platform, and compare it with Brightwheel and Procare before you pay anything. Do not put a child's full name, photograph, medical detail or home address into a public chatbot. That one rule matters more than any feature list in this guide.
+
+![Children playing with colourful shapes on the classroom floor at a daycare](/images/ai-tools-for-daycare-india/01.jpg)
 
 ## Short-answer table
 
@@ -74,6 +77,8 @@ For a daycare, Canva's real value is not fancy design. It is a clean holiday not
 
 Best for: notices, menus, posters and parent handouts that look trustworthy.
 
+![Two children playing with wooden toys in a bright playroom](/images/ai-tools-for-daycare-india/02.jpg)
+
 ## WhatsApp Business: where parents already are
 
 Parents in India already check WhatsApp, which is why the free WhatsApp Business app remains the most practical parent channel for a small centre. It gives a business profile, quick replies for repeated questions, labels to sort families, and away messages for evenings. The key safety upgrade is to stop using one giant parent group, where every parent sees every other parent's phone number, and instead message families individually or through broadcast lists with consent.
@@ -109,6 +114,8 @@ Avoid putting children's full names, photos, medical details, addresses or picku
 Avoid the trap of collecting data you do not need. If a form asks for a child's blood group, caste, religion or other sensitive detail that your centre has no reason to hold, remove the question. Avoid keeping children's photos forever; set a retention rule, delete old photos on a schedule, and tell parents the rule. Avoid letting one staff member hold the only password, the only admin login or the only copy of the register. Avoid AI-generated safety, medical or legal advice: an AI answer is not a doctor, a lawyer or your licensing authority, and it must never override your centre's written policy.
 
 Finally, avoid announcing a new system to parents before staff have practised with it for a week. A parent app that staff cannot use confidently creates more worry than a simple WhatsApp message sent on time.
+
+![Children playing and dancing in a decorated indoor playroom](/images/ai-tools-for-daycare-india/03.jpg)
 
 ## FAQ
 
@@ -147,3 +154,8 @@ Use short, simple messages and a translation feature you have tested, such as th
 Start with Illumine or free WhatsApp plus Sheets, and use ChatGPT or Gemini only for drafting — never for children's private data. That combination is honest about cost, safe about children's information, and practical for staff who have to use it every morning. Grow into a paid platform when your daily routine proves you need one, not before.
 
 *Disclaimer: This article is general information only, not professional advice. Child safety, health, legal and licensing rules vary, so check official sources and qualified professionals before making decisions about children's care, medical matters, fees or legal obligations.*
+
+**Image credits:**
+- Children playing with colourful shapes on the classroom floor — [Pexels](https://www.pexels.com/photo/kids-playing-on-the-floor-8364641/) — RDNE Stock project — Pexels License
+- Two children playing with wooden toys in a bright playroom — [Pexels](https://www.pexels.com/photo/two-children-playing-a-wooden-toys-3662666/) — cottonbro studio — Pexels License
+- Children playing and dancing in a decorated indoor playroom — [Pexels](https://www.pexels.com/photo/photo-of-girls-playing-inside-the-playroom-3662802/) — cottonbro studio — Pexels License
