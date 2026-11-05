@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Google Forms, WhatsApp Business and Canva; pay only for a preschool system like CuePilot once admissions need one shared pipeline."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-kindergartens-india-en.png'
 ---
 
 A kindergarten does not need the most powerful AI in the world. It needs three ordinary jobs done well, every single day: answer admission enquiries before the parent next door answers them, give teachers activity ideas that actually work with three-year-olds, and tell parents what their child did today without creating twenty WhatsApp groups. The tools below are judged on exactly those three jobs, not on how impressive their demos look.
@@ -18,6 +19,8 @@ The direct answer is simple. If you run a single small preschool in India, start
 This article is written for India: play schools, nurseries, pre-primary sections and kindergartens in metros and smaller towns, parents who read Hindi, English and regional languages, fees collected largely through UPI, and staff who work mostly from a phone. Every tool listed here works in India without a VPN. Prices and free limits change often, so before paying for anything, or before promising a parent a deadline that depends on a tool, re-check the official pricing and help page of that tool. Where sources disagreed or a price was not publicly confirmed, this article says so instead of guessing.
 
 One rule comes before every tool in this article, and it is not negotiable. Never paste a child's full name, photo, address, health note, allergy detail or fee record into a public chatbot, a free image generator or any tool your school has no written agreement with. Draft the words with AI if you like, but keep children's personal data inside your school's own system, share photos only with the consent of that child's parents, and share them only with that child's own family, never in a public group or a public post. AI can write the notice. It must never become the place where children's records live.
+
+![Children playing with colourful wooden blocks on a green carpet in a kindergarten](/images/ai-tools-for-kindergartens-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -78,6 +81,8 @@ Fledgly describes itself as an AI-powered ERP for playschools, nurseries, presch
 
 That breadth is both the attraction and the question to ask about. A system that does everything is only useful if staff actually use the parts that matter most — admissions follow-up, daily parent updates and fee reminders — every single day. Fledgly's public pages do not state a fixed price in the material checked for this article, so treat pricing as a quote to be confirmed in writing, including how many children and staff are covered, what support is included, and what happens to the school's data if the school later leaves. Ask for a trial with real admission data, even if only a week's worth, and judge it on one test: can a new enquiry be answered, booked for a visit and reminded automatically without anyone opening a second app? If the answer is yes, the system earns its keep. If staff still keep a parallel diary, it does not.
 
+![Young children playing with colourful balls and toys in a bright preschool classroom](/images/ai-tools-for-kindergartens-india/02.jpg)
+
 ## Minilytic: a preschool CRM that starts from the admission season
 
 Minilytic takes a narrower starting point, and for many small preschools that narrowness is a virtue. It is described as a CRM built for pre-schools and play schools from day one, aimed at the specific pains of admission season: enquiries flooding in during the February to April season, parents expecting a daily update or photo, fee cycles tangled with sibling discounts and transport charges, and attendance that needs a simple pickup and drop record rather than a register built for teenagers. Its answers are correspondingly concrete: an AI calling agent that responds to admission enquiries within minutes, one-tap WhatsApp updates and photos from the same place enquiries and fees live, custom fields for sibling discounts, transport charges and annual renewal dates, and simple daily attendance built around pickup and drop.
@@ -95,6 +100,8 @@ Connectivity and phones are part of the plan, not an afterthought. Choose tools 
 ## What to avoid
 
 Avoid putting children's photos, names or personal details into any public AI tool, including chatbots and image generators. A cute classroom photo fed into a public tool is no longer under the school's control, and no admission gained is worth that loss. Avoid AI-generated activity sheets that nobody has checked: wrong counting, unsafe instructions, words too advanced for the age group, and images that do not match the Indian classroom all slip through when generation replaces review. Avoid promising parents a feature, a date or a fee detail that came from an AI draft without checking it against the school's own records. Avoid running parent communication from a teacher's personal WhatsApp account, where messages disappear when staff change and where professional boundaries blur. Avoid buying a large system before the free setup has been used well for one full admission season, because the school will not yet know which features it actually needs. And avoid judging a tool by its advertisement: judge it by one real week of enquiries, updates and fee reminders.
+
+![A teacher doing artwork with young children at a table in a kindergarten classroom](/images/ai-tools-for-kindergartens-india/03.jpg)
 
 ## FAQ
 
@@ -129,3 +136,8 @@ Start free with Google Forms, WhatsApp Business and Canva; pay only for a presch
 That verdict is deliberately boring, because kindergarten administration should be boring: enquiries answered the same day, one clear update to each family, activity sheets checked before printing, and children's data kept where the school controls it. AI earns its place in a kindergarten not by sounding clever, but by giving teachers back the hour they would have spent retyping the same reply, so they can spend it with the children instead.
 
 *This article is general information only, not professional advice. Prices, free limits and features change, so re-check the official pricing and help page of each tool before paying, promising a parent a deadline, or choosing a system for your school. For questions about children's safety, health, fees or legal obligations, check official and professional sources and consult a qualified professional.*
+
+**Image credits:**
+- Children playing with colourful wooden blocks — [Pexels](https://www.pexels.com/photo/children-playing-with-colorful-wooden-blocks-8535193/) — Ksenia Chernaya — Pexels License
+- Young children playing with colourful balls and toys in a preschool classroom — [Pexels](https://www.pexels.com/photo/boys-playing-on-the-floor-8422255/) — Pavel Danilyuk — Pexels License
+- A teacher doing artwork with children in a kindergarten classroom — [Pexels](https://www.pexels.com/photo/kids-doing-artwork-8535599/) — Ksenia Chernaya — Pexels License
