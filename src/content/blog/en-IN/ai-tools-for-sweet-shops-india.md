@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "WhatsApp Business plus Google Business Profile and Canva cover most mithai shops free; add Sheets for orders and Vyapar only when billing grows."
 heroAlt: "Indian sweet shop counter with mithai trays and gift boxes"
+ogImage: '/og/ai-tools-for-sweet-shops-india-en.png'
 ---
 
 ## The short answer
@@ -18,6 +19,8 @@ If you run a mithai shop in India, you do not need an expensive system to start 
 That order matters. A sweet shop lives or dies on trust, freshness and timing. Customers order laddoo for a wedding, kaju katli for Diwali, or a mixed gift box for Raksha Bandhan, and they expect the shop to remember the order, confirm the price, and deliver on the promised day. No AI tool can taste your sweets or replace that promise. The tools in this guide only help you answer faster, write more clearly, keep better records, and look more professional online. They do not replace your recipes, your staff, or your own checking of every order before it leaves the counter.
 
 This guide is general information only, not professional business, tax or legal advice. Prices and free limits change often, so re-check the official pricing and help page of any tool before you pay for it or promise a customer a deadline based on it. Food licensing and tax rules also depend on your city, your turnover and the kind of food you sell, so check the official government sources for your situation, or speak to a qualified professional, before acting on anything here.
+
+![Motichoor laddoo arranged in a gift box](/images/ai-tools-for-sweet-shops-india/01.jpg)
 
 ## Short-answer table: which tool does what
 
@@ -76,6 +79,8 @@ Make one sheet with columns that match your real workflow: order date, customer 
 
 Sheets has real limits. Two people editing the same cell at the same time can overwrite each other, and a sheet with thousands of festival rows becomes slow and easy to break. Give one person ownership of the sheet, agree on who may change prices, and take a copy of the sheet at the end of each festival so you can look back next year and see what actually sold, in what quantity, and on which days. That history is more valuable than any AI forecast, because it is your shop's own record, not a generic prediction.
 
+![A hand picking a nut-coated sweet from a festive platter](/images/ai-tools-for-sweet-shops-india/02.jpg)
+
 ## Vyapar: when billing and stock outgrow a sheet
 
 Vyapar is an Indian billing, inventory and accounting app built for small businesses. Its own pricing page describes invoice creation, sales and purchase orders, payment reminders, expense recording, live stock status with low-stock alerts and expiry or batch tracking, and GST invoice formats and reports where GST applies. Those are exactly the jobs that become painful in a sheet once a shop sells many items every day, offers gift boxes in several sizes, and needs proper bills and tax reports.
@@ -99,6 +104,8 @@ Finally, plan for the day after the festival as well. Thank customers on WhatsAp
 Avoid buying a big, expensive system before you have a simple one that works. A shop that cannot keep a clean order sheet will not be saved by costly software; it will only make the same mistakes faster. Avoid posting AI-generated photos of sweets you do not sell, because customers will notice the difference at the counter. Avoid letting an AI tool write your prices, weights or festival dates without checking them, because one wrong price on a poster can cost you a whole day of arguments at the counter.
 
 Avoid sharing customer data carelessly. Do not paste customer lists, phone numbers or addresses into tools you do not need to share them with, and do not forward order screenshots to groups that do not need them. Avoid promising delivery dates, discounts or bulk rates in an AI-drafted message until you have checked that you can actually deliver them. And avoid ignoring reviews and messages during a festival, because a customer who hears nothing for two days will simply order from the next shop on the map.
+
+![Besan barfi garnished with almonds and pistachios in a wooden bowl](/images/ai-tools-for-sweet-shops-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -137,3 +144,8 @@ Share only what each tool needs, keep customer phone numbers and addresses out o
 ## Final verdict
 
 WhatsApp Business plus Google Business Profile and Canva cover most mithai shops free; add Sheets for orders and Vyapar only when billing grows. Start small, confirm every order yourself, use your own photos and prices, and let the tools handle the repetitive work while you keep the trust, freshness and timing that make customers come back for every festival.
+
+**Image credits:**
+- Motichoor laddoo in a gift box — [Pexels](https://www.pexels.com/photo/close-up-of-a-box-of-laddu-19151506/) — Sharath G. — Pexels License
+- A hand picking a nut-coated sweet from a festive platter — [Pexels](https://www.pexels.com/photo/traditional-indian-sweets-18488319/) — Gaurav Kumar — Pexels License
+- Besan barfi garnished with almonds and pistachios in a wooden bowl — [Pexels](https://www.pexels.com/photo/indian-sweets-in-plate-on-table-7182054/) — Pure Punjabi — Pexels License
