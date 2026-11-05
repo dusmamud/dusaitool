@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Klippme for bookings and Google Meet for online classes; add Classroom only when you need structured student progress."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-yoga-teachers-india-en.png'
 ---
 
 A yoga teacher's hardest work is often not the teaching. It is the work around the teaching: answering the same booking question ten times on WhatsApp, chasing fees, remembering who paid for which batch, finding a link five minutes before class, and trying to remember which student is still struggling with balance poses and which one is ready for a harder sequence. The right tools do not replace your judgement as a teacher. They remove the admin work so that your judgement gets more time.
@@ -16,6 +17,8 @@ A yoga teacher's hardest work is often not the teaching. It is the work around t
 The short answer for India is this: use [Klippme](https://klippme.com/for/yoga-teachers) for class bookings and payments if you teach in India, because it is built for Indian teachers, supports UPI and Razorpay payments, and has a free plan. Use [Momoyoga](https://www.momoyoga.com/) if you run a yoga studio and want a yoga-specific system with classes, memberships, video on demand and a student app. Use [Calendly](https://calendly.com/) only for simple one-to-one bookings, such as private sessions and trial calls, because its free plan covers just one event type. Use Google Meet for online group classes up to 60 minutes on a free personal account, and Zoom when you need its recording and breakout features, remembering that free Zoom group meetings end after 40 minutes. Use Google Classroom to organise course material and track assignments and progress in a structured way, and WhatsApp Business to send reminders and answer students quickly. Prices and free limits change often, so re-check the official pricing and help page of any tool before you pay or promise a student a deadline.
 
 This article is written for yoga teachers in India: solo teachers with morning and evening batches, teachers who run a small studio, and teachers who teach online to students in different cities. It assumes a normal phone and laptop, patchy internet on some days, students who prefer WhatsApp and UPI, and no assumption that you have a large studio budget or an international payment account. Every tool named here works in India without a VPN. Where a price is given, it is the price found during research for this article, and it must be re-checked before you spend money, because vendors change prices, free limits and fees without warning.
+
+![A group yoga class practising standing poses on mats in a bright studio](/images/ai-tools-for-yoga-teachers-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -75,6 +78,8 @@ A practical way to use Classroom for yoga is to keep it simple and regular. Crea
 
 Classroom has limits worth knowing. It is not a booking system, it does not collect fees, and it does not manage seat limits or waitlists, so it works best alongside Klippme or Momoyoga, not instead of them. Live video through Meet on a personal account still follows the 60-minute group limit described above, and school accounts through Google Workspace for Education have different limits and controls, so a teacher working with a school should follow the school's account rules rather than a personal account setup. Do not paste students' personal or health information into any free AI tool connected to Classroom, and do not share a class code publicly, because anyone with the code and a Google account can try to join.
 
+![Women practising the Warrior II pose outdoors in a park](/images/ai-tools-for-yoga-teachers-india/02.jpg)
+
 ## WhatsApp Business, Canva and payments: the supporting tools
 
 WhatsApp Business is free to download on Android and iPhone, and for most Indian yoga teachers it is the tool students actually read. Use it for what it does best: a business profile with your class timings and location, greeting messages for new students, quick replies for common questions about fees and timings, and reminders the day before class. Broadcast lists can send a private one-to-one message to many students at once, which is useful for announcements, but broadcast rules and spam limits apply, and students must have saved your number in many cases, so do not rely on broadcasts as your only reminder system. Your booking tool's email and WhatsApp reminders should carry the class link and timing, and WhatsApp should be the friendly nudge, not the only record.
@@ -105,6 +110,8 @@ Avoid the free-plan trap: a free plan that ends your class at 40 minutes, takes 
 
 Avoid one more subtle mistake: letting tools decide your teaching. A booking system that pushes you to add more batches, a social media tool that pushes you to post every day, and a progress dashboard that pushes you to grade everything can quietly turn a yoga practice into a content business. Use the tools to protect your teaching time, then protect the teaching itself: time for your own practice, time to plan sequences properly, and time to rest. A teacher who is exhausted by admin will teach worse classes, no matter how good the software is.
 
+![Rolled yoga mats stacked on a rack in a studio](/images/ai-tools-for-yoga-teachers-india/03.jpg)
+
 ## Frequently asked questions
 
 **What is the best free tool for yoga class bookings in India?**
@@ -133,3 +140,8 @@ Re-check the official pricing and help page on the day you pay, confirm the free
 Start with Klippme for bookings and Google Meet for online classes; add Classroom only when you need structured student progress. That combination covers bookings, payments, live teaching and progress tracking for most yoga teachers in India without a large monthly bill, and it leaves room to grow into a studio system like Momoyoga when your student numbers justify it. Keep your progress records small and private, check official pricing before you pay, and let the tools handle the admin so your teaching gets your best energy.
 
 *Disclaimer: this article is general information only, not professional medical, legal or financial advice. For health questions, check with a qualified doctor or physiotherapist, and for tax, payment or business questions, check official government and vendor sources or a qualified professional.*
+
+**Image credits:**
+- A group yoga class practising poses in a bright studio — [Pexels](https://www.pexels.com/photo/people-in-a-yoga-class-8436610/) — Yan Krukau — Pexels License
+- Women practising Warrior II pose in a park — [Pexels](https://www.pexels.com/photo/unrecognizable-ladies-performing-warrior-ii-asana-during-outdoor-yoga-class-in-park-4097301/) — Alexander Zvir — Pexels License
+- Rolled yoga mats neatly stacked on a rack in a studio — [Pexels](https://www.pexels.com/photo/healthy-art-relaxation-girl-7319812/) — MART PRODUCTION — Pexels License
