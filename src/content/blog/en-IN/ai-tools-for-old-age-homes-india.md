@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp, Gemini voice and free reminders; add a care-home system like Silvora only after a trial and a written price."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-old-age-homes-india-en.png'
 ---
 
 ## The direct answer
@@ -18,6 +19,8 @@ If you run an old age home in India, or you are choosing one for a parent, the b
 Safety deserves its own place in this list. A fall is one of the most serious risks for an older resident, and a watch with fall detection, such as an Apple Watch, can call for help when the wearer cannot reach a phone. It cannot detect every fall, so it is a back-up, not a replacement for staff checks and call bells. For families worried about a parent's rights, pension, or legal problem, the government's toll-free Elder Line, 14567, gives information, guidance and emotional support, and it can coordinate help on the ground. That helpline is free to call, and it is a better first step than trusting a chatbot with a legal or pension question.
 
 This article explains each tool in plain language, what it costs in India, where it works well, and where it falls short. Prices and free limits change often, so before paying for anything or promising a family a deadline based on a tool, re-check the official pricing and help page of that tool. Where sources disagree, this article says so. Nothing here is medical, legal or financial advice: this is general information only, and health, money and legal decisions must be checked with a doctor, a pharmacist, a qualified professional, or an official source.
+
+![Happy elderly couple smiling together outdoors among blooming flowers](/images/ai-tools-for-old-age-homes-india/01.jpg)
 
 ## Short answer: which tool for which need
 
@@ -79,6 +82,8 @@ How to start: sit beside the resident for the first conversation, raise the phon
 
 Watch out for: Gemini can be wrong, especially about dates, times, medical details, or local information, so important facts must be double-checked with a trusted source or a family member. Never share bank passwords, one-time passwords, or full personal documents with any chatbot, and never use it as a substitute for medical advice.
 
+![A caregiver visiting a smiling elderly resident in her room](/images/ai-tools-for-old-age-homes-india/02.jpg)
+
 ## 5. Amazon Alexa: a speaker for the room, in Hindi and Hinglish
 
 Many residents do not want another screen, and that is where a smart speaker helps. Amazon Alexa, on an Echo speaker or smart display, lets a resident speak to the room: ask for music, hear the news, set a reminder, or ask a question, without picking up a phone. Alexa has supported Hindi in India since 2019, and its newer Alexa+ version, launched in India in September 2026 as an Early Access programme, supports English, Hindi and Hinglish, including switching between languages inside one sentence, which matches how many Indians actually speak.
@@ -131,6 +136,8 @@ For families choosing a home, ask four questions on your visit: how do you send 
 
 Avoid any tool that promises to replace doctors, nurses, or family attention. An AI chatbot cannot examine a resident, and an AI alert cannot lift someone who has fallen. Avoid tools that demand full identity documents, bank details, or passwords before showing any value, and avoid any app that will not let you export your own care records. Avoid buying a system for the whole home on the strength of one sales demo: trial it on one wing, with your own nurses, for at least a week. Avoid a speaker or camera in a bedroom without the resident's clear permission, because privacy in a care home is already fragile. Avoid trusting AI answers about medicines, pensions, or the law without checking a doctor, a pharmacist, or an official source, and avoid promising a family a result or a deadline based on an AI tool, because prices, limits and features change, and the official pricing and help page must be re-checked before paying or promising anything. Finally, avoid the trap of collecting data nobody reads: a dashboard that nobody checks each morning is decoration, not care.
 
+![A peaceful garden path lined with green trees and shrubs](/images/ai-tools-for-old-age-homes-india/03.jpg)
+
 ## Frequently asked questions
 
 **What is the best AI tool for an old age home in India?**
@@ -170,3 +177,8 @@ Start with WhatsApp, Gemini voice and free reminders; add a care-home system lik
 That verdict is deliberately boring, and that is the point. An old age home does not need the cleverest AI; it needs records that are accurate, rosters that are fair, medicines given on time, and families who hear the truth regularly. Free tools do most of that today, and a paid Indian care system earns its place only when it proves, on one wing, with your own nurses, that it makes those four jobs easier. Check prices and limits on the official pages before paying, keep a human in charge of every AI output, and judge any tool by one question: did today go better for the residents? If the answer is yes, keep it. If not, no brochure should persuade you otherwise.
 
 *Disclaimer: this article is general information only, not medical, legal, or financial advice. Health, medicine, money and legal decisions affecting a resident must be checked with a doctor, a pharmacist, a qualified professional, or an official source before acting.*
+
+**Image credits:**
+- Happy elderly couple smiling together outdoors among blooming flowers — [Pexels](https://www.pexels.com/photo/elderly-couple-smiling-together-9408538/) — Miguel Alonso Rivera Bojórquez — Pexels License
+- A caregiver visiting a smiling elderly resident in her room — [Pexels](https://www.pexels.com/photo/caregiver-talking-with-patient-on-bed-18459702/) — Jsme MILA — Pexels License
+- A peaceful garden path surrounded by lush greenery and trees — [Pexels](https://www.pexels.com/photo/serene-garden-pathway-lined-with-greenery-31758659/) — Mysara Hassan — Pexels License
