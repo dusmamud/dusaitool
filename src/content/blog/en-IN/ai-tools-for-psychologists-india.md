@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Calendly and a private notes system; add Mentalyc or Upheal only with written client consent, and never let an AI note go unsigned."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-psychologists-india-en.png'
 ---
 
 A psychologist's working day is not only the fifty minutes in the session. It is the booking message at 9 pm, the rescheduled appointment, the intake form that never came back, the invoice that is two weeks late, and the progress note that still has to be written at 10 pm after the last client has left. AI tools promise to take some of that admin away. Some of them do, and genuinely well. But in therapy, the admin is not neutral paperwork. A scheduling tool holds a client's name and phone number. A notes tool holds what a client said in their most private hour. A client-management system holds the whole story of a practice. So the question for a psychologist in India is never only "which tool is fastest?" It is "which tool is fast, honest about its limits, and safe enough for the trust a client places in me?"
@@ -16,6 +17,8 @@ A psychologist's working day is not only the fifty minutes in the session. It is
 The short answer is this: start simple. Use [Calendly](https://calendly.com/pricing) or Google Calendar appointment scheduling for bookings, keep your clinical notes in a private system you control, and add an AI notes tool such as Mentalyc or Upheal only after you have written client consent, checked where the data goes, and committed to reading and signing every note yourself. If you want one all-in-one practice system, [SimplePractice](https://www.simplepractice.com/pricing/) and TherapyNotes are the established names, but both are built for the United States, bill in US dollars, and carry insurance features that mean little in Indian private practice. Nothing here replaces your professional judgement, your ethics code, or legal advice. Prices and free limits change often, so before you pay for anything, or promise a client a deadline or a feature, re-check the official pricing or help page linked in each section.
 
 This article is general information only, not professional, legal, or medical advice. Mental health practice in India sits under real rules — the Mental Healthcare Act, 2017, the Digital Personal Data Protection Act, 2023 (DPDP Act), and, for clinical psychologists, Rehabilitation Council of India (RCI) registration and guidance — and those rules, plus your own ethics code and any guidance from your institution or supervisor, must be checked with official and professional sources before you change how you handle client data. If you are a client reading this, these tools support a therapist's work; they do not make a therapist good, and no AI tool can replace a qualified professional. If you are in distress, call Tele MANAS, India's free national mental health helpline, on **14416**, any time of day or night.
+
+![A calm, bright therapy room with an armchair, small table and plants](/images/ai-tools-for-psychologists-india/01.jpg)
 
 ## The short answer, in one table
 
@@ -66,6 +69,8 @@ Google Calendar's appointment scheduling does much of what Calendly does, inside
 
 Whichever booking tool you choose, two habits protect your practice more than any feature. First, build in buffers: back-to-back sessions with no gap leave no time for notes, water, or a client who runs five minutes over, and a calendar that looks efficient on screen becomes exhaustion by Thursday. Second, keep your booking page professional and minimal: session length, mode (in person or online), and a short note about cancellations are enough. A booking page is not the place for clinical promises, and a client should never learn your fees, your cancellation policy, or your limits to confidentiality for the first time from a calendar link.
 
+![A therapist talking with a young client on a sofa during a counselling session](/images/ai-tools-for-psychologists-india/02.jpg)
+
 ## Notion: organising the practice, not holding the clinical record
 
 [Notion](https://www.notion.com/pricing) is free for individuals, including databases, subtasks, dependencies, custom properties, basic forms and sites, and Notion Calendar, with Plus at $10 per member a month adding file uploads, custom forms, and collaborative blocks. For a psychologist, that makes it a genuinely good place for practice admin: session-plan templates, reading lists, supervision notes without identifying details, workshop planning, fee and expense tracking, and a library of worksheets and resources you reuse with clients.
@@ -91,6 +96,8 @@ The fourth difference is the law and ethics frame, and it is the most important 
 ## What to avoid
 
 Avoid recording a session without explicit, prior, written consent that names the tool, the purpose, and how long the recording will be kept. Avoid pasting identifiable client material into a free general chatbot to "summarise" it, because a general chatbot is not a clinical system, its data-use terms are not written for therapy, and you cannot control where that text goes next. Avoid letting an AI tool set the treatment plan, diagnose, or decide risk on its own: AI can draft and organise, but clinical judgement, including risk assessment, stays with you, and a tool that claims otherwise is selling something it cannot deliver. Avoid storing identifiable notes in a shared drive, a general notes app, or a chat group, and avoid keeping client data on a personal device with no passcode, no encryption, and no backup plan. Avoid promising a client that a tool is "fully private" or "HIPAA-certified, so it is safe in India": neither claim is accurate on its own, and a client who consents on the basis of a promise you cannot keep has not given informed consent at all. Finally, avoid building your whole practice on a single free tier: free limits shrink, tools close, and pricing changes, as TherapyNotes' December 2026 change shows, so keep your own exportable copies of your records in a format you can move.
+
+![A quiet workspace with a laptop, notebooks and a glass of water](/images/ai-tools-for-psychologists-india/03.jpg)
 
 ## FAQ
 
@@ -137,3 +144,8 @@ Call Tele MANAS on **14416**, India's free, confidential, round-the-clock mental
 ## Final verdict
 
 Start with Calendly and a private notes system; add Mentalyc or Upheal only with written client consent, and never let an AI note go unsigned. That order — bookings first, private notes second, AI notes last and only with consent — keeps the admin gains without trading away the confidentiality that therapy depends on. Re-check prices and privacy pages before you pay, keep your own exportable records, and let your ethics code, not a tool's marketing page, decide what belongs in your practice.
+
+**Image credits:**
+- A calm, bright therapy room with an armchair, small table and plants — [Pexels](https://www.pexels.com/photo/modern-room-with-white-walls-20437636/) — Gül Işık — Pexels License
+- A therapist talking with a young client on a sofa during a counselling session — [Pexels](https://www.pexels.com/photo/young-woman-talking-with-therapist-3958461/) — Polina Zimmerman — Pexels License
+- A quiet workspace with a laptop, notebooks and a glass of water — [Pexels](https://www.pexels.com/photo/laptop-placed-near-notebooks-and-glass-of-water-on-a-table-9040482/) — Alena Darmel — Pexels License
