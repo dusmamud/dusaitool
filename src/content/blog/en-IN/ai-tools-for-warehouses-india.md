@@ -9,11 +9,14 @@ category: best-tools
 draft: false
 verdict: "Start free with Vyapar or Sortly for a small godown, move to Zoho Inventory as orders grow, and consider Shiprocket Fulfilment before renting space."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-warehouses-india-en.png'
 ---
 
 If you run a godown, a small warehouse, a distribution centre, or a fulfilment room behind an online store in India, your daily problems are rarely exotic. Stock written in a notebook does not match stock on the shelf. A picker walks to the wrong rack, picks the wrong variant, and the mistake is discovered only when the customer complains. Dispatch happens late because nobody knows which orders are ready, which are packed, and which are still waiting for stock. A warehouse tool exists to fix exactly this chain: know what you have, know where it is, pick it correctly, pack it, and dispatch it with a record. The newer tools add forecasting and automation on top, and vendors call that "AI", but the unglamorous core — barcodes, bin locations, and a single stock number everyone trusts — is where most of the money is saved.
 
 The direct answer is this: for a small Indian godown, start free with Vyapar or with Sortly's free tier. Vyapar fits a business that also needs GST billing and offline working, while Sortly fits a team that mainly needs simple QR-code item tracking with photos. When orders grow past a few hundred a month and you need multiple locations, bin tracking, and batch or serial tracking, Zoho Inventory is the most practical paid step up, starting at $29 per organisation per month billed annually on the pricing page checked. Odoo Inventory is the stronger choice for a larger operation that wants deep warehouse logic such as putaway rules and wave picking, but it is paid per-user software and needs proper setup. inFlow Inventory is capable but dollar-priced from $99 a month billed annually, which makes it hard to justify for a small Indian warehouse. And if the real problem is that you do not want to run a warehouse at all, Shiprocket Fulfilment lets you store goods in its fulfilment centres and have orders picked, packed, and shipped for you, with no storage charge for the first 30 days. Every tool in this article works in India without a VPN, because all of them are ordinary web and mobile apps. Prices and free limits change often, so re-check the official pricing and help page before you pay, sign a contract, or promise a customer a dispatch deadline based on a tool's claims.
+
+![Workers walking between tall warehouse shelves stacked with boxes](/images/ai-tools-for-warehouses-india/01.jpg)
 
 ## Short answer: which tool for which warehouse
 
@@ -62,6 +65,8 @@ It also covers the unglamorous operations that decide whether a warehouse stays 
 
 The trade-off is setup effort and price. Odoo is sold as paid per-user plans covering all its apps, and its pricing page lists Standard and Custom tiers rather than a free warehouse plan, so a small godown should not adopt it expecting a free ride. It also rewards a business that will invest time in defining locations, routes, and rules; a team that wants to start scanning in an afternoon will find Vyapar or Sortly faster. Choose Odoo when your warehouse has multiple zones, cold storage, batch or expiry rules, or a picking team large enough that walking routes and wave planning actually change labour cost. For that scale, its depth is the point, and no simpler tool on this list matches it.
 
+![A warehouse worker carrying a box down an aisle between stocked shelves](/images/ai-tools-for-warehouses-india/02.jpg)
+
 ## 5. inFlow Inventory — strong pick, pack, and ship, at dollar prices
 
 inFlow Inventory positions itself as one system for inventory and orders: real-time stock across locations, pick, pack, and ship from any device, and connections to more than 95 integrations. Its pricing page lists Lite at $99 a month billed annually with 1 location and 2 team members, Core at $299, Pro at $499, and Max at $699, with add-ons for lot numbers, serial numbers, an AI Report Assistant, API access, a B2B showroom portal, and a mobile Stockroom scanning app from $39 a month. Barcode generation, custom labels, and label printing are included, and a hardware credit is offered to new customers toward scanners and portable printers.
@@ -95,6 +100,8 @@ Do not buy the most expensive tool first. A warehouse with 200 products and one 
 Do not ignore the total cost. A dollar-priced plan, a per-user charge, a scanning-app add-on, label-printer hardware, and storage charges after a free window can double the headline price. Add them up for a full year before comparing. Do not hand over your entire catalogue and supplier pricing to a tool without checking its data export: you should be able to leave with your products, stock levels, and movement history in a usable file. And do not treat a forecast as an order. A demand forecast is a suggestion built from past sales; a festival, a supplier delay, or a viral product can break it in a week. Keep a human approving every purchase order, especially for perishable or seasonal stock.
 
 A short general-information note: this article is general information only, not professional tax, legal, or logistics advice. GST treatment, warehousing contracts, food and drug storage rules, and courier liability terms vary by product and state, so check the official government, tax, and carrier sources, or a qualified professional, before acting on anything here.
+
+![A worker operating a forklift between tall shelves of packaged goods](/images/ai-tools-for-warehouses-india/03.jpg)
 
 ## Frequently asked questions
 
@@ -133,3 +140,8 @@ A simple Sortly or Vyapar setup — products, photos or barcodes, locations, and
 ## Final verdict
 
 Start free with Vyapar or Sortly for a small godown, move to Zoho Inventory as orders grow, and consider Shiprocket Fulfilment before renting space.
+
+**Image credits:**
+- Workers walking between tall warehouse shelves stacked with boxes — [Pexels](https://www.pexels.com/photo/men-walking-in-a-warehouse-4481323/) — Tiger Lily — Pexels License
+- A warehouse worker carrying a box down an aisle between stocked shelves — [Pexels](https://www.pexels.com/photo/man-standing-in-an-aisle-of-a-warehouse-carrying-a-box-4483774/) — Tiger Lily — Pexels License
+- A worker operating a forklift between tall shelves of packaged goods — [Pexels](https://www.pexels.com/photo/man-in-machine-working-on-warehouse-13532504/) — Jimmy Nilsson Masth — Pexels License
