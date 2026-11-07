@@ -33,9 +33,9 @@ const { href, title, description, date, minutes, locale, verdict, tags = [], tag
       <span class="flex flex-wrap items-center gap-2">
         {tags.map((tag) => (
           tagHref ? (
-            <a href={tagHref(tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] text-stone-700 dark:border-border-dark-2 dark:text-text-dark-2">{tag}</a>
+            <a href={tagHref(tag)} class="flex min-h-[44px] items-center rounded-md border border-stone-300 px-2.5 text-[13px] text-stone-700 dark:border-border-dark-2 dark:text-text-dark-2">{tag}</a>
           ) : (
-            <span class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-2.5 text-[13px] dark:border-border-dark-2">{tag}</span>
+            <span class="flex min-h-[44px] items-center rounded-md border border-stone-300 px-2.5 text-[13px] dark:border-border-dark-2">{tag}</span>
           )
         ))}
       </span>

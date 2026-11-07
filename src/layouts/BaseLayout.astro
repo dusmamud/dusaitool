@@ -14,7 +14,6 @@ import '@fontsource/noto-serif-devanagari/700.css';
    Only the exact subset file the page needs is preloaded. */
 import instrumentLatin400 from '@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2?url';
 import notoDevanagari400 from '@fontsource/noto-serif-devanagari/files/noto-serif-devanagari-devanagari-400-normal.woff2?url';
-import notoDevanagari700 from '@fontsource/noto-serif-devanagari/files/noto-serif-devanagari-devanagari-700-normal.woff2?url';
 
 interface Props {
   title: string;
@@ -51,14 +50,13 @@ const htmlLang = locale === 'hi' ? 'hi' : 'en-IN';
          preload is wasted and the file downloads twice). Preload
          ignores unicode-range, so preload the exact subset file the
          page needs: en pages need Instrument latin 400 (hero, nav,
-         body; bold is synthesised from this file), hi pages need
-         Noto Devanagari 400 (body) + 700 (bold headings/nav).
+         body; medium weight is synthesised from this file), hi pages
+         need Noto Devanagari 400 only — headings and nav are 400
+         since the 2026-11-07 unslop polish, and the 700 file still
+         loads via CSS for <strong> in article text.
          Italic and latin/latin-ext subsets load via CSS when used. -->
     {locale === 'hi' ? (
-      <>
-        <link rel="preload" as="font" type="font/woff2" crossorigin href={notoDevanagari400} />
-        <link rel="preload" as="font" type="font/woff2" crossorigin href={notoDevanagari700} />
-      </>
+      <link rel="preload" as="font" type="font/woff2" crossorigin href={notoDevanagari400} />
     ) : (
       <link rel="preload" as="font" type="font/woff2" crossorigin href={instrumentLatin400} />
     )}

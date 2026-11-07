@@ -90,11 +90,13 @@ html.dark {
 }
 
 body {
-  /* USER DECISION 2026-11-03 (supersedes v3 no-bold rule for headings
-     and nav): headings + nav are bold. Instrument Serif has no bold
-     face, so English bold is synthesised by the browser; Hindi bold
-     is real Noto Serif Devanagari 700, which is loaded. Body text,
-     meta, tags and TOC links stay 400, so bold means hierarchy. */
+  /* USER DECISION 2026-11-07 (unslop polish, supersedes the
+     2026-11-03 bold-700 decision): headings and nav are 400, so
+     hierarchy comes from size, spacing and colour. font-medium
+     places (Read more, search button, tested label) still render
+     as 500, so synthesis stays auto; Instrument Serif has no bold
+     face, so any weight above 400 is synthesised by the browser,
+     while Hindi bold is real Noto Serif Devanagari 700. */
   font-synthesis-weight: auto;
   /* Instrument Serif is light at small sizes: give it air. */
   line-height: 1.65;
@@ -161,10 +163,11 @@ h1,
 h2,
 h3 {
   text-wrap: balance;
-  /* Headings are bold (user decision 2026-11-03): size + weight.
-     English renders as synthesised bold (no Instrument bold face);
-     Hindi renders as real Noto Serif Devanagari 700. */
-  font-weight: 700;
+  /* Headings are 400 (user decision 2026-11-07, unslop polish:
+     supersedes the 2026-11-03 bold-700 decision). Hierarchy comes
+     from size, spacing and colour, never from synthesised weight —
+     Instrument Serif has no bold face. */
+  font-weight: 400;
 }
 p {
   text-wrap: pretty;
@@ -236,18 +239,18 @@ article h3[id] {
     animation: hero-in var(--dur-slow) var(--ease-out) both;
   }
   .hero-in-1 {
-    animation-delay: 60ms;
+    animation-delay: 50ms;
   }
   .hero-in-2 {
-    animation-delay: 140ms;
+    animation-delay: 100ms;
   }
   .hero-in-3 {
-    animation-delay: 220ms;
+    animation-delay: 150ms;
   }
   @keyframes hero-in {
     from {
       opacity: 0;
-      transform: translateY(14px);
+      transform: translateY(8px);
     }
     to {
       opacity: 1;

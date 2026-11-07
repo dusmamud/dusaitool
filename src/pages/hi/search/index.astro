@@ -25,7 +25,7 @@ const searchingText = t(locale, 'searching');
       type="search"
       placeholder={t(locale, 'searchPlaceholder')}
       autocomplete="off"
-      class="h-12 w-full rounded-xl border border-stone-300 bg-white px-4 text-[16px] dark:border-border-dark-2 dark:bg-surface-dark"
+      class="h-12 w-full rounded-lg border border-stone-300 bg-white px-4 text-[16px] dark:border-border-dark-2 dark:bg-surface-dark"
     />
   </form>
   <p class="mt-3 text-sm text-stone-500 dark:text-text-dark-3">{t(locale, 'searchHint')}</p>
@@ -35,7 +35,7 @@ const searchingText = t(locale, 'searching');
       <h2 class="text-sm">{t(locale, 'popularSearches')}</h2>
       <ul class="mt-3 flex flex-wrap gap-2">
         {popular.map((tag) => (
-          <li><button type="button" data-search-term={tag} class="search-term flex min-h-[44px] items-center rounded-full border border-stone-300 px-4 text-sm dark:border-border-dark-2">{tag}</button></li>
+          <li><button type="button" data-search-term={tag} class="search-term flex min-h-[44px] items-center rounded-md border border-stone-300 px-4 text-sm dark:border-border-dark-2">{tag}</button></li>
         ))}
       </ul>
     </section>

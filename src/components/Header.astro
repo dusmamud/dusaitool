@@ -23,7 +23,7 @@ const isCurrent = (href: string) =>
 /* Desktop primary nav: text link with animated underline (transform
    only). Current page is underlined + coloured, never colour alone. */
 const desktopLink = (href: string) =>
-  `flex min-h-[44px] items-center px-1 text-[17px] font-bold transition-colors duration-150 ${
+  `flex min-h-[44px] items-center px-1 text-[17px] transition-colors duration-150 ${
     isCurrent(href)
       ? 'text-brand underline decoration-2 underline-offset-8 dark:text-brand-dark'
       : 'text-stone-700 hover:text-brand dark:text-text-dark-2 dark:hover:text-brand-dark'
@@ -49,7 +49,7 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
         bleeds through and distracts. Shadow appears after scrolling
         via IntersectionObserver, not a scroll listener.
      4. Search is a CTA, not a third nav link: desktop main bar has
-        a blue Search pill on the right; mobile menu still lists
+        a blue Search button on the right; mobile menu still lists
         Search, so no path is lost.
      5. Mobile menu is a full-screen modal (v9, not a dropdown):
         hidden with display:none until opened (so its links are
@@ -97,7 +97,7 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
   <div class="mx-auto max-w-6xl px-4 sm:px-6">
     <div class="flex min-h-[56px] items-center gap-3">
       <a href={home} class="flex min-h-[44px] shrink-0 items-center gap-2.5" aria-label="Dus AI Tool — home">
-        <img src="/favicon.svg" alt="" aria-hidden="true" width="36" height="36" class="size-9 shrink-0 transition-transform duration-250 hover:rotate-[-6deg]" />
+        <img src="/favicon.svg" alt="" aria-hidden="true" width="36" height="36" class="size-9 shrink-0" />
         <span class="font-display text-[22px] leading-none tracking-tight text-ink dark:text-text-dark">Dus AI Tool</span>
       </a>
 
@@ -107,7 +107,7 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
       </nav>
 
       <div class="ms-auto flex items-center gap-2">
-        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-full bg-brand px-4 text-[16px] font-bold text-white transition-transform duration-150 hover:-translate-y-0.5 dark:bg-brand-dark dark:text-paper-dark sm:flex">
+        <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="hidden min-h-[44px] items-center rounded-lg bg-brand px-4 text-[16px] font-medium text-white transition-opacity duration-150 hover:opacity-90 dark:bg-brand-dark dark:text-paper-dark sm:flex">
           {t(locale, 'search')}
         </a>
         <button
@@ -118,7 +118,7 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
           aria-label={menuLabel}
           data-menu-label={menuLabel}
           data-close-label={closeLabel}
-          class="flex min-h-[44px] min-w-[44px] flex-col items-center justify-center gap-1.5 rounded-full border border-stone-300 px-3 dark:border-border-dark-2 sm:hidden"
+          class="flex min-h-[44px] min-w-[44px] flex-col items-center justify-center gap-1.5 rounded-lg border border-stone-300 px-3 dark:border-border-dark-2 sm:hidden"
         >
           <span aria-hidden="true" class="menu-bar block h-[2px] w-5 bg-current transition-transform duration-250"></span>
           <span aria-hidden="true" class="menu-bar block h-[2px] w-5 bg-current transition-transform duration-250"></span>
@@ -154,15 +154,15 @@ const utilityClass = 'flex min-h-[44px] items-center text-[15px] text-stone-600 
       type="button"
       id="menu-close"
       aria-label={closeLabel}
-      class="flex min-h-[44px] min-w-[44px] items-center justify-center rounded-full border border-stone-300 dark:border-border-dark-2"
+      class="flex min-h-[44px] min-w-[44px] items-center justify-center rounded-lg border border-stone-300 dark:border-border-dark-2"
     >
       <svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M4 4l12 12M16 4L4 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg>
     </button>
   </div>
   <nav aria-label={locale === 'hi' ? 'मुख्य नेविगेशन' : 'Primary navigation'} class="mx-auto w-full max-w-6xl flex-1 px-4 pt-6">
-    <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'home')}</a>
-    <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'blog')}</a>
-    <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] font-bold dark:border-border-dark">{t(locale, 'search')}</a>
+    <a href={home} aria-current={isCurrent(home) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'home')}</a>
+    <a href={blog} aria-current={isCurrent(blog) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'blog')}</a>
+    <a href={search} aria-current={isCurrent(search) ? 'page' : undefined} class="menu-link flex min-h-[64px] items-center border-b border-stone-200 font-display text-[28px] dark:border-border-dark">{t(locale, 'search')}</a>
   </nav>
   <div class="mx-auto flex w-full max-w-6xl flex-wrap items-center gap-6 px-4 pb-8">
     <a href={otherPath} lang={other === 'hi' ? 'hi' : 'en-IN'} class="flex min-h-[44px] items-center text-[16px] text-stone-600 dark:text-text-dark-3">{t(locale, 'language')}: {otherLabel}</a>

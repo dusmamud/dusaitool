@@ -624,3 +624,61 @@ Applied, in BaseLayout only, no .md/.mdx touched:
 Verified: build exit 0, preload hrefs in built en/hi HTML match
 the hashed woff2 files in dist, no external font URLs, fonts
 render in both locales, no overflow.
+
+## v31 — Unslop polish (2026-11-07)
+User added the unslop skill (Damir Sokolovsky, CC-BY-4.0) and asked
+to fix the blog with it, analysing carefully. Skill run, in order:
+screenshots of home (light + dark), article, mobile 390px and
+footer, then a full audit against references/signs.md, then the
+direction shown to the user for approval before editing (skill
+step 4). Verdict: LIGHT SLOP, polish mode — the site was already
+designed (no gradients, glows, blobs, emoji, hype words or
+exclamation marks; headline specific; dark grading quiet), so the
+fix only touches what the audit found and keeps the brand,
+palette, layout and fonts. Direction, from the existing brand:
+product is AI tools tested by hand in India, prices in rupees,
+Hindi support; character calm, exact, a little warm; world is
+newsprint and ink, a tester's notebook; moments are the Verdict
+box and the featured test card; signature is the Verdict line on
+every tool plus the Orbit Spark mark.
+Changes, all in web-app code, no .md/.mdx touched:
+- Type (user chose headings 400, superseding the 2026-11-03
+  bold-700 decision): h1/h2/h3 700 -> 400 in global.css, so
+  hierarchy is size + spacing + colour again; desktop nav links,
+  Search pill and mobile menu links lose font-bold (Search pill
+  is font-medium now, which is inside unslop's 400-500 range);
+  font-synthesis-weight stays auto so the remaining font-medium
+  places still render as 500.
+- Radii by size, no more everything-a-pill: buttons (header
+  Search, hero Browse/Search, 404 home) rounded-full -> rounded-lg;
+  tag chips everywhere (home, blog index, article, search terms,
+  PostRow) rounded-full -> rounded-md; hamburger and mobile menu
+  close rounded-full -> rounded-lg; search input rounded-xl ->
+  rounded-lg; TOC count pill -> quiet tabular text. Cards stay
+  rounded-2xl (16px, inside the 12-16 token) and verdict boxes
+  stay rounded-lg.
+- Copy, honest counts: the hero pill badge above the headline is
+  gone — it said "Tested this week: 312 tools tested" but 312 is
+  the total count, not this week. It is now quiet muted text
+  "312 tools tested" (tabular figures). The featured card label
+  is now "Latest test" (new i18n key latestTest, en + hi);
+  testedThisWeek is removed from i18n.
+- Motion: hover lift on buttons (-translate-y-0.5) removed,
+  primary buttons now fade opacity on hover; logo hover rotate
+  -6deg removed; hero entrance 14px rise -> 8px and stagger
+  60/140/220ms -> 50/100/150ms (tokens: 6-12px, 40-60ms).
+- Spacing: footer mt-20 -> mt-12, closing the dead band between
+  the last post row and the footer.
+- Fonts follow the type change: hi pages now preload 1 file
+  (Noto Devanagari 400) instead of 2 — 700 is no longer an
+  above-fold weight, but the 700.css import stays so <strong> in
+  article text still gets the real Devanagari 700 on demand.
+Kept on purpose, against unslop's generic rules: the italic
+utility-bar tagline (editorial brand voice), the Orbit Spark
+logo (user-chosen mark, gradient spark), the Verdict boxes on
+every row (the product's signature content), and the featured
+test card as the hero visual (no generated image — no image
+tool was connected for this run, and the card is the product).
+Not fixed here, flagged as a follow-up: tag case-duplicates
+(India/india, AI tools/ai tools) are a data issue across 100+
+articles, not a UI pass.

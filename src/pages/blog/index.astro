@@ -24,7 +24,7 @@ const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
     <section aria-label={t(locale, 'tags')} class="mt-6">
       <ul class="flex flex-wrap gap-2">
         {tags.map(({ tag, count }) => (
-          <li><a href={tagUrl(locale, tag)} class="flex min-h-[44px] items-center rounded-full border border-stone-300 px-4 text-sm dark:border-border-dark-2">{tag} ({count})</a></li>
+          <li><a href={tagUrl(locale, tag)} class="flex min-h-[44px] items-center rounded-md border border-stone-300 px-4 text-sm dark:border-border-dark-2">{tag} ({count})</a></li>
         ))}
       </ul>
     </section>
