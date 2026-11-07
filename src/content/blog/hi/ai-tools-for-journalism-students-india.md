@@ -8,6 +8,7 @@ tags: ["पत्रकारिता", "छात्र", "ट्रांस�
 category: best-tools
 draft: false
 verdict: "Otter.ai, NotebookLM और Grammarly इंटरव्यू, रिसर्च और साफ़ कॉपी का काम मुफ़्त में करते हैं — बस उनकी सीमाओं का ध्यान रखें।"
+ogImage: '/og/ai-tools-for-journalism-students-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

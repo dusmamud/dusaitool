@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "WhatsApp Business, Google Calendar और Sheets मुफ्त से शुरुआत करें; बुकिंग सॉफ़्टवेयर तभी लें जब एक तारीख पर दो शादियाँ आ जाएँ।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tent-houses-india-hi.jpg'
 ---
 
 ## सीधा जवाब

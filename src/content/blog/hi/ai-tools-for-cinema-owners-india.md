@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "बुकमायशो, व्हाट्सऐप बिज़नेस और गूगल बिज़नेस प्रोफाइल मुफ्त से शुरुआत करें; ईमानदार शो समय और त्वरित जवाब से सीटें भरें, पेड तरकीबों से नहीं।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cinema-owners-india-hi.jpg'
 ---
 
 ## सीधा जवाब

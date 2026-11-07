@@ -8,6 +8,7 @@ tags: ["ai-tools", "electronics-shops", "india", "billing", "inventory"]
 category: best-tools
 draft: false
 verdict: "बिलिंग के लिए Vyapar, ग्राहकों के लिए WhatsApp Business, और ऑनलाइन ऑर्डर बढ़ने पर Zoho Inventory अपनाएँ। छोटी दुकान के लिए मुफ्त प्लान काफी हैं।"
+ogImage: '/og/ai-tools-for-electronics-shops-india-hi.jpg'
 ---
 
 इलेक्ट्रॉनिक्स दुकान के लिए सबसे आसान सेटअप यह है: GST बिलिंग और स्टॉक के लिए Vyapar, ऑनलाइन ऑर्डर बढ़ने पर Zoho Inventory, और सामान दिखाने व ग्राहकों से बात करने के लिए WhatsApp Business। तीनों मिलकर बिलिंग, स्टॉक और ग्राहक सेवा लगभग मुफ्त में संभाल लेते हैं।

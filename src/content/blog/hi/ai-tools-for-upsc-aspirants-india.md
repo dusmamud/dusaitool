@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Gemini Notebook se notes, Perplexity se current affairs aur Anki se revision muft shuru karein — paise tabhi dein jab koi limit roke."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-upsc-aspirants-india-hi.jpg'
 ---
 
 Koi bhi AI tool aapke liye UPSC clear nahi kar sakta — Prelims, Mains aur Personality Test me ab bhi aapki apni padhai, likhai aur yaad rakhne ki mehnat chahiye. Sahi tools sirf roz ka kaam halka kar sakte hain. Seedha jawab: apne notes aur PDF se padhne ke liye Gemini Notebook (pehle NotebookLM), sources ke saath current affairs ke liye Perplexity, tutor aur answer practice ke liye ChatGPT, revision flashcards ke liye Anki, aur muft mock test aur purane prashn-patra ke liye Testbook. Har AI tool galat tathya bhi bana sakta hai, isliye har baat ko asli source se check karein.

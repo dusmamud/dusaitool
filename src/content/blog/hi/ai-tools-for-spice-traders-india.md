@@ -8,6 +8,7 @@ tags: ["एआई उपकरण", "मसाला व्यापार", "�
 category: best-tools
 draft: false
 verdict: "मुफ्त से शुरू करें: Vyapar बिलिंग-स्टॉक के लिए, ChatGPT कोटेशन के लिए, WhatsApp Business बिक्री के लिए — मुफ्त सीमा खत्म होने पर ही भुगतान करें।"
+ogImage: '/og/ai-tools-for-spice-traders-india-hi.jpg'
 ---
 
 ## सीधा जवाब

@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "मुफ़्त से शुरू करें: WHO Anthro, AnthroCal, TinyDose और WhatsApp Business; Practo Ray तभी लें जब क्लिनिक इनसे आगे बढ़ जाए।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-pediatricians-india-hi.jpg'
 ---
 
 भारत में बाल क्लिनिक तीन कामों पर चलता है: वृद्धि जाँच, टीकाकरण कार्यक्रम, और माता-पिता के संदेश। छूटी वृद्धि गिरावट, भूला बूस्टर, या रात 10 बजे का अनुत्तरित संदेश परिवार का भरोसा तोड़ सकता है।

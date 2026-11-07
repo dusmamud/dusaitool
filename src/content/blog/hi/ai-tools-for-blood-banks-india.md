@@ -8,6 +8,7 @@ tags: ["ब्लड बैंक", "AI टूल्स", "स्वास्थ
 category: best-tools
 draft: false
 verdict: "मुफ्त e-RaktKosh और WhatsApp Business से शुरू करें, दैनिक काम बढ़ने पर RAKT जोड़ें।"
+ogImage: '/og/ai-tools-for-blood-banks-india-hi.jpg'
 ---
 
 भारतीय ब्लड बैंक के लिए सबसे अच्छी शुरुआत: आधिकारिक स्टॉक और डोनर रिकॉर्ड के लिए e-RaktKosh, रोज़ के डोनर, कैंप और इन्वेंटरी काम के लिए RAKT, और डोनर रिमाइंडर के लिए WhatsApp Business। ये तीनों डोनर खोजने, कैंप चलाने, स्टॉक देखने और अस्पतालों को अलर्ट करने में मदद करते हैं — बिना VPN, बिना बड़े बजट के।

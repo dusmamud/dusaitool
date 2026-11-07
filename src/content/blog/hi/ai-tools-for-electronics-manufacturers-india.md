@@ -8,6 +8,7 @@ tags: ["एआई-टूल्स", "इलेक्ट्रॉनिक्स"
 category: best-tools
 draft: false
 verdict: "निरीक्षण के लिए Landing AI के मुफ्त प्लान और ऑर्डर के लिए Zoho Inventory से शुरुआत करें; Instrumental तभी लें जब खरीदार ऑडिट माँगे।"
+ogImage: '/og/ai-tools-for-electronics-manufacturers-india-hi.jpg'
 ---
 
 भारत के ज़्यादातर इलेक्ट्रॉनिक्स निर्माताओं के लिए शुरुआत है — दृश्य निरीक्षण के लिए Landing AI, ऑर्डर व स्टॉक के लिए Zoho Inventory। Instrumental उन PCB लाइनों के लिए है जिन्हें बड़े खरीदारों को दोष दर साबित करनी हो।

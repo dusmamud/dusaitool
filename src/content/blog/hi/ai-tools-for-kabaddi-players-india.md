@@ -8,6 +8,7 @@ tags: ["कबड्डी", "खेल", "फिटनेस", "ट्रेन
 category: best-tools
 draft: false
 verdict: "मुफ्त से शुरू करें: फिटनेस के लिए Strava, तकनीक के वीडियो के लिए Coach's Eye, डाइट के लिए MyFitnessPal — पैसे तभी दें जब मुफ्त सीमा अड़चन बने।"
+ogImage: '/og/ai-tools-for-kabaddi-players-india-hi.jpg'
 ---
 
 ## सीधा जवाब

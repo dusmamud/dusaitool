@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "इंस्टाग्राम, कैनवा और गूगल शीट्स मुफ्त से शुरुआत करें; पोर्टफोलियो असली फोटो पर बनाएँ, और सॉफ़्टवेयर के लिए भुगतान तभी करें जब कास्टिंग ट्रैक करना कठिन हो।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-modeling-agencies-india-hi.jpg'
 ---
 
 ## सीधा जवाब

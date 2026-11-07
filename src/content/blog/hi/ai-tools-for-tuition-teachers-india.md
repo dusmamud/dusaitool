@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "ChatGPT, Google Classroom और Meet मुफ्त से शुरुआत करें; टीचिंग ऐप तभी लें जब छात्रों की सूची साधारण क्लास से आगे बढ़ जाए।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tuition-teachers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

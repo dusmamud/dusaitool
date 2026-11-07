@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "चैटजीपीटी, कैनवा और व्हाट्सऐप बिज़नेस मुफ्त से शुरुआत करें; एआई से समझाएँ, रिटर्न का वादा कभी न करें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mutual-fund-advisors-india-hi.jpg'
 ---
 
 ## सीधा जवाब

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Strava और Intervals.icu से फ्री में शुरू करें; TrainingPeaks तभी लें जब कोच कहे, और दर्द पर कभी ऐप को हावी न होने दें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-athletes-india-hi.jpg'
 ---
 
 भारत में ट्रैक और फील्ड एथलीट हैं तो ट्रेनिंग लॉग के लिए Strava फ्री और विश्लेषण के लिए Intervals.icu फ्री से शुरू करें। यह जोड़ी मुफ्त है, भारत में बिना VPN के चलती है, और हर सेशन दर्ज करती है और लोड बढ़ने पर चेतावनी देती है। पेड टूल तभी लें जब कोई सीमा आड़े आए।

@@ -8,6 +8,7 @@ tags: ["टेबल टेनिस", "एआई-टूल्स", "खेल",
 category: best-tools
 draft: false
 verdict: "मैच आँकड़ों के लिए PaddleIQ, तकनीक के लिए SportArc, कोर्ट के लिए Playo — पहले मुफ्त में शुरू करें, ट्रायल के बाद ही भुगतान करें।"
+ogImage: '/og/ai-tools-for-table-tennis-players-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

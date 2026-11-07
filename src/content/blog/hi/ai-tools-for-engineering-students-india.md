@@ -8,6 +8,7 @@ tags: ["एआई-टूल्स", "इंजीनियरिंग छात
 category: best-tools
 draft: false
 verdict: "Gemini, ChatGPT और Copilot Student से मुफ्त में शुरू करें; पैसे तभी दें जब कोई सीमा सच में काम रोके।"
+ogImage: '/og/ai-tools-for-engineering-students-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

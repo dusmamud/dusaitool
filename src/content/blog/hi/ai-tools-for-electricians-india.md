@@ -8,6 +8,7 @@ tags: ["इलेक्ट्रीशियन", "फील्ड-सर्व�
 category: best-tools
 draft: false
 verdict: "अकेले इलेक्ट्रीशियन के लिए Zoho Invoice मुफ़्त और बेस्ट है; बढ़ती टीम के लिए Jobber या Housecall Pro सही हैं।"
+ogImage: '/og/ai-tools-for-electricians-india-hi.jpg'
 ---
 
 भारत में एक इलेक्ट्रीशियन को ऐसा AI नहीं चाहिए जो घर की वायरिंग करे। आपको ऐसे टूल्स चाहिए जो काम दिलाएँ, विज़िट बुक करें, कोट भेजें और पेमेंट दिलवाएँ। Jobber और Housecall Pro पूरा काम संभालते हैं। Zoho Invoice GST कोट और बिल मुफ़्त में बनाता है। मुफ़्त से शुरू करें, और जब काम बढ़े तभी पैसे दें।

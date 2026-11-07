@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "WhatsApp Business, MyGate और Sheets मुफ्त से शुरुआत करें; प्रबंधन सॉफ़्टवेयर तभी लें जब एक सोसायटी के अनुरोध छूटने लगें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-property-managers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

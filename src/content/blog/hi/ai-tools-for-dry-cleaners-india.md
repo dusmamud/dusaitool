@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "WhatsApp Business, Google Business Profile और Sheets मुफ्त से शुरुआत करें; लॉन्ड्री सॉफ़्टवेयर तभी लें जब कपड़े मिलने-जुलने लगें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-dry-cleaners-india-hi.jpg'
 ---
 
 ## सीधा जवाब

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "जियोहॉटस्टार, फैनकोड और प्रो कबड्डी ऐप मुफ्त से शुरुआत करें; मैच लाइव देखें, और आँकड़े केवल आधिकारिक स्रोतों से जाँचें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-kabaddi-fans-india-hi.jpg'
 ---
 
 ## सीधा जवाब

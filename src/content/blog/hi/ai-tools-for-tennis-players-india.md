@@ -8,6 +8,7 @@ tags: ["टेनिस", "एआई-टूल्स", "खेल", "ट्र�
 category: best-tools
 draft: false
 verdict: "मैच विश्लेषण के लिए SwingVision, स्ट्रोक फीडबैक के लिए OnCourt AI, स्कोर के लिए ATP WTA Live — पहले फ्री में आज़माएँ, ट्रायल के बाद ही भुगतान करें।"
+ogImage: '/og/ai-tools-for-tennis-players-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

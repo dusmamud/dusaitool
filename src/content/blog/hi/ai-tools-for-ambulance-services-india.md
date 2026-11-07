@@ -8,6 +8,7 @@ tags: ["एम्बुलेंस", "डिस्पैच", "फ्लीट"
 category: best-tools
 draft: false
 verdict: "डिस्पैच के लिए LifeSupport EMS, फ्लीट के लिए MedCab Partner, बिलिंग के लिए Zoho Invoice — असली आपातकाल में 108 पर कॉल करें।"
+ogImage: '/og/ai-tools-for-ambulance-services-india-hi.jpg'
 ---
 
 ## सीधा जवाब

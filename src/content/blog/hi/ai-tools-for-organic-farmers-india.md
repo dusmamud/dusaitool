@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "WhatsApp, Google Sheets और Canva मुफ्त से शुरुआत करें; बेचने वाला ऐप तभी लें जब सीधे ऑर्डर आपके फोन से आगे बढ़ जाएँ।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-organic-farmers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

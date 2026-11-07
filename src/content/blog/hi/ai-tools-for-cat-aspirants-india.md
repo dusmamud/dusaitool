@@ -8,6 +8,7 @@ tags: ["CAT", "MBA प्रवेश", "मॉक टेस्ट", "क्व�
 category: best-tools
 draft: false
 verdict: "क्वांट के लिए ChatGPT, VARC और DILR के लिए Claude, मॉक रिवीज़न के लिए NotebookLM — CAT की मुफ़्त, भारत में चलने वाली टूलकिट।"
+ogImage: '/og/ai-tools-for-cat-aspirants-india-hi.jpg'
 ---
 
 CAT की तैयारी में AI टूल्स सबसे अच्छे डाउट-सॉल्वर और मॉक विश्लेषक हैं, असली मॉक का विकल्प नहीं। ChatGPT क्वांट की प्रैक्टिस कराता है, Claude VARC और DILR की तर्क-शक्ति बढ़ाता है, और NotebookLM मॉक की गलतियों को रिवीज़न नोटबुक में बदल देता है। तीनों भारत में मुफ़्त प्लान पर चलते हैं।

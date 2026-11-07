@@ -8,6 +8,7 @@ tags: ["सब्जी विक्रेता", "मंडी भाव", "wh
 category: best-tools
 draft: false
 verdict: "मुफ्त से शुरू करें: Agmarknet पर मंडी भाव देखें, WhatsApp Business पर बेचें, Khatabook पर उधार रखें।"
+ogImage: '/og/ai-tools-for-vegetable-vendors-india-hi.jpg'
 ---
 
 सब्जी विक्रेता को हर सुबह तीन चीज़ें चाहिए: खरीद से पहले मंडी भाव, ग्राहकों को आज के दाम, और उधार-पैसा का हिसाब। तीन मुफ्त टूल ये तीनों काम करते हैं — मंडी भाव के लिए Agmarknet, ग्राहकों के लिए WhatsApp Business, भुगतान के लिए Khatabook — और ये एक साधारण Android फोन पर चलते हैं।

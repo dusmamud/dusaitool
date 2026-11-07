@@ -8,6 +8,7 @@ tags: ["इन्फ्लुएंसर", "कंटेंट क्रिए�
 category: best-tools
 draft: false
 verdict: "ChatGPT, Canva और Metricool से मुफ्त में शुरू करें, और ब्रांड डील शुरू होने पर Beacons जोड़ें।"
+ogImage: '/og/ai-tools-for-influencers-india-hi.jpg'
 ---
 
 ## संक्षिप्त जवाब

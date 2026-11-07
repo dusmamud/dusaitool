@@ -8,6 +8,7 @@ tags: ["ai-tools", "stock-brokers", "trading", "research", "india"]
 category: best-tools
 draft: false
 verdict: "TradingView और Screener.in से ज़्यादातर रिसर्च मुफ़्त में होती है; एनालिस्ट डेटा के लिए Trendlyne जोड़ें, AI की सिफ़ारिश बिना जाँचे न भेजें।"
+ogImage: '/og/ai-tools-for-stock-brokers-india-hi.jpg'
 ---
 
 भारत में एक स्टॉक ब्रोकर तीन काम संभालता है: आइडिया खोजना, क्लाइंट को समझाना, और SEBI नियमों के अंदर रहना। AI टूल्स मदद कर सकते हैं, लेकिन कोई भी ब्रोकर की समझ या लाइसेंस की जगह नहीं ले सकता। नीचे दिए टूल्स भारत में बिना VPN चलते हैं, फ्री प्लान काम का है।

@@ -8,6 +8,7 @@ tags: ["एआई-टूल्स", "जूस बार", "रेस्टो�
 category: best-tools
 draft: false
 verdict: "WhatsApp Business, Vyapar और Canva से मुफ्त में शुरू करें; Petpooja तभी लें जब रोज़ के ऑर्डर एक फोन से संभलना बंद हो जाएँ।"
+ogImage: '/og/ai-tools-for-juice-bars-india-hi.jpg'
 ---
 
 भारत में जूस बार के लिए महँगा सॉफ्टवेयर ज़रूरी नहीं है। ज़्यादातर छोटे आउटलेट का सबसे अच्छा सेटअप मुफ्त है: ऑर्डर के लिए WhatsApp Business, बिलिंग और स्टॉक के लिए Vyapar, मेन्यू के लिए Canva, और लिखने के लिए ChatGPT। Petpooja तभी खरीदें जब रोज़ के ऑर्डर एक फोन से संभलना बंद हो जाएँ।

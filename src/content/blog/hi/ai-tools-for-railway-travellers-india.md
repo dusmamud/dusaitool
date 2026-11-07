@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "व्हेयर इज़ माय ट्रेन, ट्रेनमैन और कन्फर्मटिकट मुफ्त से शुरुआत करें; बुकिंग केवल आईआरसीटीसी या भरोसेमंद पार्टनर पर करें और भुगतान से पहले किराया दोबारा जाँचें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-railway-travellers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

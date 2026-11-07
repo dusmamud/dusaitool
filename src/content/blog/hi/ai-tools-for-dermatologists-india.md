@@ -8,6 +8,7 @@ tags: ["एआई-टूल", "त्वचा-रोग-विशेषज्�
 category: best-tools
 draft: false
 verdict: "रिकॉर्ड और बुकिंग के लिए HealthPlix या Practo Ray से शुरू करें; तिल इमेजिंग के लिए DermEngine और नोट्स के लिए Heidi जोड़ें।"
+ogImage: '/og/ai-tools-for-dermatologists-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

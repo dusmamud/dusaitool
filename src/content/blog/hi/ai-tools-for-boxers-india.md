@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Heavy Bag Pro और Hevy से मुफ्त शुरुआत करें; पंच ट्रैकिंग के लिए PunchLab जोड़ें, TrainHeroic सिर्फ तब जब कोच आपका प्रोग्राम चलाता हो।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-boxers-india-hi.jpg'
 ---
 
 अगर आप भारत में बॉक्सिंग करते हैं, तो मुफ्त में शुरुआत करें: बैग राउंड के लिए Heavy Bag Pro, स्ट्रेंथ लॉगिंग के लिए Hevy, और स्पैरिंग नोट्स के लिए नोटबुक। तीनों मुफ्त हैं, बिना VPN चलते हैं। आगे पंच गिनने और कोच के प्रोग्राम की बात है।

@@ -8,6 +8,7 @@ tags: ["nri", "रेमिटेंस", "wise", "chatgpt", "gemini"]
 category: best-tools
 draft: false
 verdict: "पैसे के लिए Wise, दस्तावेज़ों के लिए ChatGPT, परिवार के लिए Gemini — मुफ्त से शुरू करें और भुगतान से पहले हर शुल्क जाँच लें।"
+ogImage: '/og/ai-tools-for-nri-india-hi.jpg'
 ---
 
 अधिकतर NRIs के काम तीन टूल्स से हो जाते हैं: घर पैसे भेजने के लिए Wise, दस्तावेज़ के लिए ChatGPT, और परिवार व अनुवाद के लिए Gemini। कोई भी बैंक, अकाउंटेंट या वकील की जगह नहीं लेता, लेकिन ये NRI जीवन की भागदौड़ कम करते हैं।

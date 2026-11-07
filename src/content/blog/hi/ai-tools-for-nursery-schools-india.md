@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "व्हाट्सऐप बिज़नेस, क्लासडोजो और कैनवा मुफ्त से शुरुआत करें; अभिभावक अपडेट गर्मजोशी से व नियमित रखें, और बच्चे की फोटो कभी सार्वजनिक न करें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-nursery-schools-india-hi.jpg'
 ---
 
 ## सीधा जवाब

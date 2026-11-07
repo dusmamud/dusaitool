@@ -8,6 +8,7 @@ tags: ["पेट शॉप", "AI टूल्स", "छोटा व्यव�
 category: best-tools
 draft: false
 verdict: "WhatsApp Business और Vyapar से मुफ्त शुरुआत करें, पोस्टर के लिए Canva जोड़ें — ज़्यादातर छोटी पेट शॉप के लिए यही काफी है।"
+ogImage: '/og/ai-tools-for-pet-shops-india-hi.jpg'
 ---
 
 भारत की छोटी पेट शॉप WhatsApp Business से शुरू करे — ग्राहक चैट और ऑर्डर; Vyapar से GST बिलिंग और स्टॉक; Canva से पोस्टर और ऑफर के लिए। तीनों के मुफ्त प्लान हैं, ये बिना VPN के Android फोन पर चलते हैं, और खाना, सामान व रोज़ की बिलिंग संभालते हैं।

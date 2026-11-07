@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "कोटेशन और सुरक्षा के लिए ChatGPT, बिलिंग के लिए Zoho Invoice और ग्राहक पोस्टर के लिए Canva से फ्री में शुरुआत करें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-welders-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

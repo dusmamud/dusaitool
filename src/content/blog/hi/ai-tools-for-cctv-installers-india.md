@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "कोटेशन के लिए ChatGPT, सर्वे के लिए magicplan, GST बिलिंग के लिए Zoho Invoice, काम के लिए Trello और AMC के लिए WhatsApp Business से शुरू करें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cctv-installers-india-hi.jpg'
 ---
 
 भारत में CCTV इंस्टॉलर एक साथ चार काम करता है: साइट सर्वे, भरोसेमंद कोटेशन, समय पर इंस्टॉलेशन, और हर AMC विज़िट याद रखना। मुफ़्त चैटबॉट कोटेशन बनाता है, फ़ोन ऐप सर्वे को फ़्लोर प्लान बनाता है, मुफ़्त GST टूल बिल संभालता है, बोर्ड हर काम देखता है, और WhatsApp Business AMC रिमाइंडर संभालता है। कीमतें और सीमाएँ बदलती हैं, इसलिए भुगतान से पहले आधिकारिक प्राइसिंग पेज दोबारा देखें।

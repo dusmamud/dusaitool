@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Lightroom, Google Drive और WhatsApp Business मुफ्त से शुरुआत करें; एडिटिंग उपकरण के लिए भुगतान तभी करें जब मौसम का बैकलॉग बढ़े।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-wedding-photographers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "फेट, खान अकादमी और चैटजीपीटी मुफ्त से शुरुआत करें; एआई का इस्तेमाल अवधारणाएँ समझने के लिए करें, होमवर्क के जवाब बिना सीखे कॉपी करने के लिए कभी नहीं।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-science-students-india-hi.jpg'
 ---
 
 ## सीधा जवाब

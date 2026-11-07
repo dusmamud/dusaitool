@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "ChatGPT, Canva और CapCut मुफ्त से शुरुआत करें; एडिटिंग उपकरण के लिए भुगतान तभी करें जब वीडियो अपनी लागत से ज़्यादा कमाने लगे।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-travel-bloggers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

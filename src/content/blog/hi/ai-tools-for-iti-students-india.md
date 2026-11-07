@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "चैटजीपीटी और जेमिनी से मुफ्त में पढ़ाई शुरू करें, विंडोज़ पर कोपायलट इस्तेमाल करें; असली अप्रेंटिसशिप के लिए NAPS पोर्टल देखें।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-iti-students-india-hi.jpg'
 ---
 
 ## संक्षिप्त उत्तर

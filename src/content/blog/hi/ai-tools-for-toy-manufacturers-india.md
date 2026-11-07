@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "IndiaMART, WhatsApp Business और Canva मुफ्त से शुरुआत करें; लीड के लिए भुगतान तभी करें जब पूछताछ असली ऑर्डर में बदलने लगे।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-toy-manufacturers-india-hi.jpg'
 ---
 
 ## सीधा जवाब

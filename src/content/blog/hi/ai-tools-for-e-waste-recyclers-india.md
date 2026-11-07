@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "व्हाट्सऐप बिज़नेस, गूगल बिज़नेस प्रोफाइल और गूगल शीट्स मुफ्त से शुरुआत करें; पिकअप रिकॉर्ड ईमानदार रखें, और सॉफ़्टवेयर के लिए भुगतान तभी करें जब मात्रा बढ़े।"
 heroAlt: ""
+ogImage: '/og/ai-tools-for-e-waste-recyclers-india-hi.jpg'
 ---
 
 ## सीधा जवाब
