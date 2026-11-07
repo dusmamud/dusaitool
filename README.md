@@ -120,3 +120,4 @@ WordPress (needs PHP + database), Next.js (server features, heavier JS),
 React for the whole blog, a CMS, a database, Bootstrap/jQuery, Disqus.
 Each of those breaks the free, static, no-backend constraint.
 Tip: use `.md` for 90% of posts and reach for `.mdx` only when a post needs a component such as `ToolCard`, `ProsCons` or `Callout`.
+Note: a post's frontmatter `locale` must match its folder (`en-IN` or `hi`), or the build schema check will fail — that failure is intentional.
