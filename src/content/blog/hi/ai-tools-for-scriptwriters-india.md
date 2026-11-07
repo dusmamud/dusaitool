@@ -4,7 +4,7 @@ description: "भारत में पटकथा लेखकों के �
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: hi
-tags: ["पटकथा", "स्क्रिप्ट लेखन", "एआई टूल", "फिल्म", "लेखन"]
+tags: ["पटकथा", "स्क्रिप्ट लेखन", "एआई-टूल", "फिल्म", "लेखन"]
 category: "best-tools"
 draft: false
 verdict: "WriterDuet या Arc Studio Pro से मुफ्त में शुरू करें; Final Draft तभी खरीदें जब कोई निर्माता या प्रतियोगिता उसका फॉर्मेट माँगे।"

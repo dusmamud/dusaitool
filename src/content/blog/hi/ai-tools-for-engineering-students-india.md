@@ -4,7 +4,7 @@ description: "भारत के इंजीनियरिंग छात्
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: hi
-tags: ["एआई टूल्स", "इंजीनियरिंग छात्र", "कोडिंग", "पढ़ाई", "प्लेसमेंट"]
+tags: ["एआई-टूल्स", "इंजीनियरिंग छात्र", "कोडिंग", "पढ़ाई", "प्लेसमेंट"]
 category: best-tools
 draft: false
 verdict: "Gemini, ChatGPT और Copilot Student से मुफ्त में शुरू करें; पैसे तभी दें जब कोई सीमा सच में काम रोके।"

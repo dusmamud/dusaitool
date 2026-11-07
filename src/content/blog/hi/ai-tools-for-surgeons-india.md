@@ -4,7 +4,7 @@ description: "भारतीय सर्जनों के लिए बे�
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: hi
-tags: ["एआई टूल्स", "सर्जन", "स्वास्थ्य", "भारत", "ईएमआर", "क्लिनिक सॉफ्टवेयर"]
+tags: ["एआई-टूल्स", "सर्जन", "स्वास्थ्य", "भारत", "ईएमआर", "क्लिनिक सॉफ्टवेयर"]
 category: best-tools
 draft: false
 verdict: "Heidi Health से मुफ़्त नोट्स और Practo Ray से शेड्यूलिंग शुरू करें; OPD बढ़ने पर HealthPlix जोड़ें।"

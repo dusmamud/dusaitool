@@ -4,7 +4,7 @@ description: "भारत में CA Foundation, Intermediate और Final �
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: hi
-tags: ["सीए", "चार्टर्ड-अकाउंटेंसी", "आईसीएआई", "मॉक-टेस्ट", "रिवीजन", "मुफ्त"]
+tags: ["सीए", "चार्टर्ड-अकाउंटेंसी", "आईसीएआई", "मॉक टेस्ट", "रिवीजन", "मुफ्त"]
 category: "best-tools"
 draft: false
 verdict: "ChatGPT, Gemini Notebook और ICAI मॉक टेस्ट से मुफ्त शुरुआत करें, Anki से रोज़ रिवीजन करें। सिर्फ अपने CA स्तर की एक मॉक सीरीज़ के लिए भुगतान करें।"

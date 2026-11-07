@@ -4,7 +4,7 @@ description: "भारत के गन्ना किसानों के �
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: hi
-tags: ["गन्ना", "खेती", "ai-टूल", "भारत", "कृषि"]
+tags: ["गन्ना", "खेती", "AI टूल", "भारत", "कृषि"]
 category: best-tools
 draft: false
 verdict: "Plantix, IFFCO Kisan और Kisan Suvidha भारतीय गन्ना किसानों के लिए सबसे अच्छा मुफ्त शुरुआती सेट है।"

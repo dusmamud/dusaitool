@@ -4,7 +4,7 @@ description: "मुफ्त टूल जो भारतीय सब्ज�
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: hi
-tags: ["सब्जी विक्रेता", "मंडी भाव", "WhatsApp Business", "Khatabook", "UPI"]
+tags: ["सब्जी विक्रेता", "मंडी भाव", "whatsapp-business", "Khatabook", "UPI"]
 category: best-tools
 draft: false
 verdict: "मुफ्त से शुरू करें: Agmarknet पर मंडी भाव देखें, WhatsApp Business पर बेचें, Khatabook पर उधार रखें।"
