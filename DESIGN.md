@@ -587,3 +587,40 @@ bold is browser-synthesised; Hindi bold is real Noto Serif
 Devanagari 700, which is loaded. If the synthetic English bold
 ever looks too heavy, the revert is one line (h1–h3 back to
 400) plus removing font-bold from Header nav.
+
+## v30 — Fonts: self-hosted + preload critical files (2026-11-07)
+User asked to download all fonts locally and cross-verify best
+practice with Exa so fonts load fastest. Audit first: fonts were
+ALREADY self-hosted — @fontsource npm packages, bundled into
+dist/_astro as woff2, served same-origin, zero Google Fonts
+requests anywhere in src. Built CSS already uses
+font-display: swap. What was missing was preload: the browser
+only discovered fonts after the stylesheet, so serif text
+arrived late. Exa (2 searches, $0.007 each, web.dev + DebugBear
++ font best practices, all agreeing): self-host woff2 only,
+font-display: swap, preload ONLY above-fold fonts with
+crossorigin even when self-hosted, preload ignores
+unicode-range so preload the exact subset file, do not preload
+too many (bandwidth competition), keep weights minimal, serve
+via CDN + HTTP/2 with immutable cache (Cloudflare Pages does
+this for hashed _astro assets).
+Applied, in BaseLayout only, no .md/.mdx touched:
+- en pages preload 1 file: Instrument Serif latin 400 normal
+  (21 KB, hero + nav + body; English bold is synthesised from
+  this file, so no 700 file exists to preload).
+- hi pages preload 2 files: Noto Serif Devanagari 400 (51 KB,
+  body) + 700 (55 KB, bold headings/nav, real 700 face).
+- Preload URLs come from Vite ?url imports of the exact
+  Fontsource files, so they resolve to the same hashed asset
+  the @font-face CSS references — no double download.
+- Not preloaded on purpose: Instrument italic (small tagline
+  only), latin-ext subsets and Noto latin subsets (small, load
+  via CSS when a page actually uses those characters;
+  unicode-range means they are not downloaded at all on pages
+  that do not need them, so removing them would not speed
+  anything up). Weights stay minimal: Instrument 400 + italic,
+  Noto 400 + 700. Dist woff2 total is 212 KB across 10 files,
+  but a page only downloads the subsets its characters need.
+Verified: build exit 0, preload hrefs in built en/hi HTML match
+the hashed woff2 files in dist, no external font URLs, fonts
+render in both locales, no overflow.
