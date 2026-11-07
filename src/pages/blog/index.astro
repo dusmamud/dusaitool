@@ -32,7 +32,7 @@ const site = Astro.site?.toString() ?? 'https://dusaitool.pages.dev/';
 
   <div class="mt-8 border-t border-stone-200 dark:border-border-dark">
     {rows.map(({ post, minutes }) => (
-      <PostRow href={entryUrl(post)} title={post.data.title} description={post.data.description} date={isoDate(post.data.pubDate)} minutes={minutes} locale={locale} verdict={post.data.verdict} tags={post.data.tags} tagHref={(tag) => tagUrl(locale, tag)} />
+      <PostRow href={entryUrl(post)} title={post.data.title} description={post.data.description} date={isoDate(post.data.pubDate)} minutes={minutes} locale={locale} verdict={post.data.verdict} tags={post.data.tags} image={post.data.ogImage} tagHref={(tag) => tagUrl(locale, tag)} />
     ))}
   </div>
   {rows.length === 0 && <p class="mt-6">{t(locale, 'noPosts')}</p>}

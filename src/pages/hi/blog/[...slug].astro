@@ -99,7 +99,7 @@ const relatedRows = await Promise.all(related.map(async (p) => ({ post: p, minut
       <h2 class="text-2xl">{t('hi', 'related')}</h2>
       <div class="mt-6 border-t border-stone-200 dark:border-border-dark">
         {relatedRows.map(({ post: p, minutes: m }) => (
-          <PostRow href={entryUrl(p)} title={p.data.title} description={p.data.description} date={isoDate(p.data.pubDate)} minutes={m} locale="hi" verdict={p.data.verdict} />
+          <PostRow href={entryUrl(p)} title={p.data.title} description={p.data.description} date={isoDate(p.data.pubDate)} minutes={m} locale="hi" verdict={p.data.verdict} image={p.data.ogImage} />
         ))}
       </div>
     </section>

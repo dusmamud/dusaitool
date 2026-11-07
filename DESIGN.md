@@ -682,3 +682,36 @@ tool was connected for this run, and the card is the product).
 Not fixed here, flagged as a follow-up: tag case-duplicates
 (India/india, AI tools/ai tools) are a data issue across 100+
 articles, not a UI pass.
+
+## v32 — Home shows latest 10 + thumbnails in list rows (2026-11-07)
+User asked why the home page shows every article and for
+thumbnails in some sections, after a git pull (pull first: local
+was already up to date at 0860c68, no new articles). Answer to
+his question: the home "Latest tested tools" list mapped every
+published post with no limit. That was fine at 19 posts; at 312
+posts the home page became a 312-row wall. Fix, web-app code
+only, no .md/.mdx touched:
+- Home (en + hi) now shows the latest 10 rows after the featured
+  card, plus a "View all N tools tested" link to /blog/ (new
+  i18n key viewAll, en "View all", hi "सभी देखें"). /blog/ still
+  lists everything — that is the archive page, where the full
+  list belongs.
+- Thumbnails: PostRow takes an optional image prop. When an
+  article has an ogImage in frontmatter, the row shows it at the
+  left of the text, 16:9, lazy, 96px mobile / 144px desktop,
+  rounded-lg with a hairline border, linked to the article with
+  an empty alt (the title link next to it names it). Rows without
+  an image keep the text-only layout — nothing is invented.
+  Coverage is real, not complete: 161 of 312 en articles and
+  161 of 311 hi articles have an ogImage (files live in
+  public/og/, 323 files, en + hi pairs, 1200x630).
+- The image is passed at every PostRow call site, so thumbnails
+  appear in the home list, the blog index, tag pages and the
+  related-guides rows under articles, in both locales. Search
+  results stay text-only (Pagefind results do not carry the
+  image). The article sidebar "Related guides" links stay
+  text-only (narrow rail).
+- The featured card on the home page now shows the featured
+  post's ogImage at the top, full card width, 16:9, when it has
+  one — the hero finally has a real visual moment instead of
+  only text.
