@@ -121,3 +121,4 @@ React for the whole blog, a CMS, a database, Bootstrap/jQuery, Disqus.
 Each of those breaks the free, static, no-backend constraint.
 Tip: use `.md` for 90% of posts and reach for `.mdx` only when a post needs a component such as `ToolCard`, `ProsCons` or `Callout`.
 Note: a post's frontmatter `locale` must match its folder (`en-IN` or `hi`), or the build schema check will fail — that failure is intentional.
+The Hindi language switcher links to the same post when a translation exists, and falls back to the Hindi home page when it does not.
