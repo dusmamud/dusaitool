@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Canva free; pay for ordering software only when missed orders cost you regulars."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-coffee-shops-india-en.jpg'
 ---
 
 If you run a coffee shop in India — a small café near a college, a takeaway counter in an office complex, or a quiet corner shop with six tables — your business runs on regulars. A customer who comes in every morning for a filter coffee or a cold brew is worth far more than ten one-time visitors, and they come back when the coffee is consistent, the order is remembered, and the wait is short. The best AI tools for coffee shops help with exactly that: taking orders without a missed call, reminding regulars about a new brew, and showing off your coffee with photos. Start with WhatsApp Business for orders, Google Business Profile so nearby coffee lovers find you, Canva for menu boards, and ChatGPT for messages — all free to begin with.

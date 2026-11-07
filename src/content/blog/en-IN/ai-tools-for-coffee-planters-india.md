@@ -8,6 +8,7 @@ tags: ["coffee", "planters", "agriculture", "ai-tools", "India"]
 category: best-tools
 draft: false
 verdict: "Plantix for disease checks, KisanGPT for voice advice, Fasal for monitoring — start free, verify advice locally."
+ogImage: '/og/ai-tools-for-coffee-planters-india-en.jpg'
 ---
 
 For most Indian coffee planters, start with Plantix for leaf-disease diagnosis, KisanGPT for voice advice in Indian languages, and Fasal for sensor-based monitoring. All three work on ordinary Android phones in India, no VPN needed. Start free, test on one block, and confirm big decisions with a local agronomist first.

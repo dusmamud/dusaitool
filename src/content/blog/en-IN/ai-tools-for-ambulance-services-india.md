@@ -8,6 +8,7 @@ tags: ["ambulance", "dispatch", "fleet", "billing", "emergency services"]
 category: best-tools
 draft: false
 verdict: "LifeSupport EMS for dispatch, MedCab Partner for fleet, Zoho Invoice for billing — call 108 in a real emergency."
+ogImage: '/og/ai-tools-for-ambulance-services-india-en.jpg'
 ---
 
 ## The short answer

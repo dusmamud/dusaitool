@@ -8,6 +8,7 @@ tags: ["ai-tools", "panchayat", "India", "government", "free-tools"]
 category: best-tools
 draft: false
 verdict: "eGramSwaraj for records, Google Forms for grievances, ChatGPT for drafts — free, and enough for most panchayat offices."
+ogImage: '/og/ai-tools-for-panchayats-india-en.jpg'
 ---
 
 Most panchayat offices do not need expensive software. Three free tools cover the daily work: eGramSwaraj for official planning, accounts and payments; Google Forms for grievances and service requests; and ChatGPT Free for drafting notices in Hindi or the local language. All three work in India without a VPN, even on a basic Android phone. Remember: official records belong on government systems, never inside a chatbot.

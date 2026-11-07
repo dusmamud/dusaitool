@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with WHO Anthro, AnthroCal, TinyDose and WhatsApp Business; pay for Practo Ray only when the clinic outgrows them."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-pediatricians-india-en.jpg'
 ---
 
 A child clinic in India runs on three repeating jobs: growth checks, vaccination schedules, and parent messages at all hours. A missed growth dip, a forgotten booster, or an unanswered 10 pm message can each cost a family its trust.

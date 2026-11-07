@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free on WriterDuet or Arc Studio Pro; buy Final Draft only when a producer or contest demands its file format."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-scriptwriters-india-en.jpg'
 ---
 
 Start free on WriterDuet or Arc Studio Pro, and buy Final Draft only when a producer, agent, or contest asks for its file format. AI helps most with brainstorming, outlining, and rewriting weak scenes — not with writing the script for you.

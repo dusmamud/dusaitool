@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with JioHotstar, FanCode and the Pro Kabaddi app free; watch the match live, and check stats only from official sources."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-kabaddi-fans-india-en.jpg'
 ---
 
 ## The direct answer

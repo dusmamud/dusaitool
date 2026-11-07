@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Shiprocket, Google Maps, WhatsApp Business and Sheets free; pay for fleet software only when late or lost shipments start costing you clients."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-logistics-companies-india-en.jpg'
 ---
 
 If you run a logistics company in India — a small transport firm with a few trucks, a regional carrier moving goods between cities, or a growing company handling e-commerce deliveries — your business runs on shipments delivered on time. A client hands you goods and expects them to reach the right warehouse, on the right day, without a phone call to chase them. The best AI tools for logistics companies help with exactly that: tracking every shipment, planning routes that save fuel and time, keeping clients updated without a call, and keeping a clear record of vehicles, drivers, and payments. The direct answer is simple: start with Shiprocket for online shipments, Google Maps for routes, WhatsApp Business for client updates, and Google Sheets for fleet records — mostly free to begin with.

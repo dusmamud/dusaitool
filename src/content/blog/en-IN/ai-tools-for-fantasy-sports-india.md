@@ -8,6 +8,7 @@ tags: ["fantasy sports", "cricket", "Dream11", "ai-tools", "team selection"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT and Perplexity for research; pay for FantasyPros only if you play season-long leagues seriously."
+ogImage: '/og/ai-tools-for-fantasy-sports-india-en.jpg'
 ---
 
 No AI tool can guarantee a winning fantasy team, but the right tools make research far faster. For most Indian players, a free chatbot plus a cited research tool covers team selection, stats and contest strategy.

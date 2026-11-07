@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Canva free; pay for billing software only when orders start getting mixed up."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-stationery-shops-india-en.jpg'
 ---
 
 If you run a stationery shop in India, your year has a rhythm every shopkeeper knows. The new school session brings a flood of parents with long book lists, exam season brings a rush for guides and geometry boxes, and the rest of the year is a steady stream of notebooks, pens and printing work. The daily trouble is small but costly: a book list photographed on a phone that nobody can read, a bulk order for a school that was promised but never written down, a parent who was told the books would arrive on Monday and came on Monday to find they had not, and a regular customer who slowly drifted to the shop that answers on WhatsApp.

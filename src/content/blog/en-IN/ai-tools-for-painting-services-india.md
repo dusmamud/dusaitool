@@ -8,6 +8,7 @@ tags: ["painting services", "colour visualizer", "quotes", "invoicing", "small b
 category: best-tools
 draft: false
 verdict: "Start with the two free brand visualizers, Zoho Invoice for quotes, and WhatsApp Business for customers — that combo covers most small painting jobs."
+ogImage: '/og/ai-tools-for-painting-services-india-en.jpg'
 ---
 
 A painting contractor in India does four jobs at once: help the customer pick a colour, measure the work, quote a fair price, and keep the customer updated until the last coat dries. The tools below cover all four, and the useful ones are free.

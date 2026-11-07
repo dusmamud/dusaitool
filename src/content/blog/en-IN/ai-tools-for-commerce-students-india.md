@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with NotebookLM for your own notes, Gemini for doubts, and Quizlet for revision. Pay nothing until a free limit actually blocks you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-commerce-students-india-en.jpg'
 ---
 
 Commerce students in India juggle three kinds of work: accounting practice, long theory notes in business law and economics, and exam prep for B.Com or CA Foundation. AI tools help with all three, but only when each tool does the job it is good at. A chatbot explains a journal entry well but gives poor GST rates, and copying its answers unchecked is risky.

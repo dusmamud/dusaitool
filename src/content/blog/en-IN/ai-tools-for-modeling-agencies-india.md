@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Instagram, Canva and Google Sheets free; build portfolios on real photos, and pay for software only when castings get hard to track."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-modeling-agencies-india-en.jpg'
 ---
 
 ## The direct answer

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Where is my Train, Trainman and ConfirmTkt free; book only on IRCTC or a trusted partner and re-check the fare before paying."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-railway-travellers-india-en.jpg'
 ---
 
 ## The direct answer

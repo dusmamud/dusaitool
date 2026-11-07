@@ -8,6 +8,7 @@ tags: ["electricians", "field-service", "invoicing", "small business", "ai-tools
 category: best-tools
 draft: false
 verdict: "Zoho Invoice is free and best for solo electricians; Jobber or Housecall Pro suit growing teams."
+ogImage: '/og/ai-tools-for-electricians-india-en.jpg'
 ---
 
 An electrician in India does not need AI that wires a house. You need tools that win the job, book the visit, send a quote, and get you paid. Jobber and Housecall Pro cover the whole job. Zoho Invoice handles GST quotes and bills for free. Start free, and pay only when jobs grow.

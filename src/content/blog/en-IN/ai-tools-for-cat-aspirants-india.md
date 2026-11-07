@@ -8,6 +8,7 @@ tags: ["CAT", "MBA entrance", "mock tests", "quant", "VARC", "revision"]
 category: best-tools
 draft: false
 verdict: "ChatGPT for quant, Claude for VARC and DILR, NotebookLM for mock revision — a free, India-ready CAT toolkit."
+ogImage: '/og/ai-tools-for-cat-aspirants-india-en.jpg'
 ---
 
 For CAT aspirants, AI tools work best as a doubt-solver and mock-test analyst, not as a replacement for real mocks. ChatGPT handles quant practice, Claude sharpens VARC and DILR reasoning, and NotebookLM turns mock mistakes into a revision notebook. All three work in India on free plans, and none needs a VPN.

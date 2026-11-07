@@ -8,6 +8,7 @@ tags: ["wrestling", "ai-tools", "fitness", "diet", "sports"]
 category: best-tools
 draft: false
 verdict: "Start free: Hevy for lifts, Cronometer for diet, Coach's Eye for video. Pay for HealthifyMe Pro only if you need deep Indian food data."
+ogImage: '/og/ai-tools-for-wrestlers-india-en.jpg'
 ---
 
 Wrestling in India runs on akhara discipline, but the best wrestlers now pair it with data. Good tools fix the three things that decide most bouts: gym strength, diet, and technique on video. Here are four tools that work in India without a VPN, with honest free limits and real tournament sources.

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, SketchUp Free and Canva — but measure twice and check every number."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-carpenters-india-en.jpg'
 ---
 
 Yes. A carpenter in India can use free AI tools today to find work, draw measurements, send neat quotes, and reply to customers faster. The best starting set is ChatGPT for quotes and messages, SketchUp Free for 3D drawings, and Canva for a simple rate card. None of them replaces skill, measuring, or a site visit.

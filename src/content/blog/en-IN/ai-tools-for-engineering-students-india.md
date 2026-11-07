@@ -8,6 +8,7 @@ tags: ["ai-tools", "engineering students", "coding", "study", "placements"]
 category: best-tools
 draft: false
 verdict: "Start free with Gemini, ChatGPT and Copilot Student; pay only when a limit actually blocks your work."
+ogImage: '/og/ai-tools-for-engineering-students-india-en.jpg'
 ---
 
 ## The short answer

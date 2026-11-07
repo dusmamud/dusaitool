@@ -8,6 +8,7 @@ tags: ["agriculture", "students", "ai-tools", "exams", "fieldwork"]
 category: best-tools
 draft: false
 verdict: "Plantix for the field, Notion for notes, and Quizlet for revision — a free, practical trio for agriculture students in India."
+ogImage: '/og/ai-tools-for-agriculture-students-india-en.jpg'
 ---
 
 Agriculture students in India juggle lecture notes, field visits, and competitive exams such as ICAR AIEEA. The best tools help in all three places: Plantix identifies crop problems from a field photo, Notion organises notes and revision plans, and Quizlet turns notes into flashcards. All three work in India without a VPN, and each has a usable free tier.

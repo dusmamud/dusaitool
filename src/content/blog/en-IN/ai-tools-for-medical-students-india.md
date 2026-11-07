@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Anki and your college notes; add one question bank before exams, and never let an AI answer replace a textbook or a teacher."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-medical-students-india-en.jpg'
 ---
 
 MBBS in India means memorising thousands of facts across anatomy, physiology, biochemistry, pathology, pharmacology and medicine, while preparing for exams and NEET PG. No single AI tool covers all of that. The stack that works is small: Anki for memory, a 3D anatomy app, one question bank, and a video platform. Start free, pay only for tools you use daily, and re-check prices on the official page before paying — prices were correct in November 2026 and can change.

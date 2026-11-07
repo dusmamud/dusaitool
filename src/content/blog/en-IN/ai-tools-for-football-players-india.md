@@ -8,6 +8,7 @@ tags: ["football", "ai-tools", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Film with Veo if your club plays weekly; track yourself with Trace or Playermaker if you train alone."
+ogImage: '/og/ai-tools-for-football-players-india-en.jpg'
 ---
 
 For most Indian football players, the best start is simple: film your matches, measure your numbers, and review one clip at a time. Veo suits clubs that film weekly, Trace suits players who want personal highlights, and Playermaker suits players who want hard data on touches, speed, and distance. No tool replaces a coach.

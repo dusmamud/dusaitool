@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Canva and CapCut free; pay for editing tools only when a video starts earning more than it costs."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-travel-bloggers-india-en.jpg'
 ---
 
 ## The direct answer

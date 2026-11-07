@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Google Classroom and Meet free; pay for a teaching app only when your student list outgrows a simple class."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tuition-teachers-india-en.jpg'
 ---
 
 ## The direct answer

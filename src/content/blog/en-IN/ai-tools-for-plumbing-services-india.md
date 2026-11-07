@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Calendar free; pay for job software only when emergency calls start getting lost."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-plumbing-services-india-en.jpg'
 ---
 
 If you run a plumbing service in India, your phone rings at the worst times: a burst pipe at midnight, a leaking tap on a festival morning, a blocked drain in a housing society. The customer is stressed, water is on the floor, and they want two things at once — someone now, and a fair price. The business behind the wrench is memory work. You need to remember which house had the same leak last year, which society pays monthly, what was quoted on the phone, and which job is still waiting for a part. When that memory fails, an emergency call goes unanswered and the customer calls the next plumber in the search results.

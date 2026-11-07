@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Strava plus Intervals.icu; add TrainingPeaks only when a coach asks for it, and never let an app overrule pain."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-athletes-india-en.jpg'
 ---
 
 If you are a track and field athlete in India, start with Strava free for your training log and Intervals.icu free for performance analysis. That pair costs nothing, works in India without a VPN, and covers recording every session and spotting load climbing too fast. Add a paid tool only when a specific limit blocks you.

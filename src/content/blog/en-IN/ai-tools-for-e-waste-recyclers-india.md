@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Google Sheets free; keep pickup records honest, and pay for software only when volume grows."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-e-waste-recyclers-india-en.jpg'
 ---
 
 ## The direct answer

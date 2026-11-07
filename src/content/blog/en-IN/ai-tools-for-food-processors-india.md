@@ -8,6 +8,7 @@ tags: ["ai-tools", "food processing", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Canva, and Zoho Inventory; pay only when orders outgrow the free limits."
+ogImage: '/og/ai-tools-for-food-processors-india-en.jpg'
 ---
 
 Food processors in India juggle raw-material buying, batch production, packaging, and sales, often with a tiny team. AI tools can handle the repetitive writing, design, and record-keeping. The three tools below cover those jobs, work in India without a VPN, and start free.

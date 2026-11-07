@@ -8,6 +8,7 @@ tags: ["karate", "ai-tools", "fitness", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Hudl Technique, OnForm and Nike Training Club cover kata review, coach feedback and fitness — free or cheap for Indian karate players."
+ogImage: '/og/ai-tools-for-karate-players-india-en.jpg'
 ---
 
 Yes. Three free or low-cost apps cover most of what a karate player in India needs: slow-motion video review for kata and kumite, remote coach feedback, and strength and mobility work between classes. None replaces a qualified sensei, and none can award a belt — grading stays with your federation and dojo.

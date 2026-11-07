@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Vyapar free on mobile and ChatGPT free for customer messages; add Zoho Books free once turnover nears ₹25 lakh."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-bookshops-india-en.jpg'
 ---
 
 A bookshop rarely fails for lack of good books. It fails slowly: stock is counted by memory, the same title is ordered twice, a customer is never told their book has arrived, and billing takes so long that a buyer walks out. These tools handle the mechanical work.

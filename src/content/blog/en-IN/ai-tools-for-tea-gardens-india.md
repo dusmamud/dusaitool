@@ -8,6 +8,7 @@ tags: ["tea gardens", "ai-tools", "Assam", "agriculture", "small growers"]
 category: best-tools
 draft: false
 verdict: "Start free with Plantix, Gemini, and Canva, verify every leaf diagnosis and price locally, and only pay once a tool earns its keep."
+ogImage: '/og/ai-tools-for-tea-gardens-india-en.jpg'
 ---
 
 For most tea gardens in India, the best starting point is three free tools used together: Plantix for leaf health, Google Gemini for worker communication and records, and Canva for packaging and direct sales. They cover plucking, processing notes, and selling, with no VPN or paid subscription.

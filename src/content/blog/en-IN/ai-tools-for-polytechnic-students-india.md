@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "ChatGPT, Notion and Canva cover notes, practicals and placements — all free to start in India."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-polytechnic-students-india-en.jpg'
 ---
 
 Polytechnic students need three things from AI: organised notes, help with practicals, and a placement-ready resume. The best free trio is ChatGPT for doubts and practical write-ups, Notion for notes and timetables, and Canva for resumes. All three work in India without a VPN, with a genuinely usable free plan.

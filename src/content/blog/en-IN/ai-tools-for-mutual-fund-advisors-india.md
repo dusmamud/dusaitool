@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Canva and WhatsApp Business free; use AI to explain, never to promise returns, and check every claim against SEBI rules."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mutual-fund-advisors-india-en.jpg'
 ---
 
 ## The direct answer

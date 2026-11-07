@@ -8,6 +8,7 @@ tags: ["golf", "ai-tools", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with 18Birdies for GPS and scoring; add V1 Golf for swing video and Golfshot Pro only if you wear an Apple Watch."
+ogImage: '/og/ai-tools-for-golfers-india-en.jpg'
 ---
 
 AI tools now cover the three jobs Indian golfers pay for: yardages on the course, a scorecard that tracks your handicap trend, and swing feedback on the range. Start free with 18Birdies for GPS and scoring, Golfshot if you wear an Apple Watch, and V1 Golf for swing video. None replaces a coach.

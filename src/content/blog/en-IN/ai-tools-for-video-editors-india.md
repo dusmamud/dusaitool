@@ -8,6 +8,7 @@ tags: ["AI video editing", "video editors", "Descript", "OpusClip", "Runway"]
 category: best-tools
 draft: false
 verdict: "Descript for spoken video, OpusClip for short clips, Runway for generated shots — check prices before paying."
+ogImage: '/og/ai-tools-for-video-editors-india-en.jpg'
 ---
 
 Video editors in India juggle three jobs: cutting raw footage, turning long videos into short clips, and delivering clean files to clients on deadline. AI tools help with each job, but free plans are narrow and prices change often. The shortlist: Descript for spoken video, OpusClip for short clips, Runway for generated shots.

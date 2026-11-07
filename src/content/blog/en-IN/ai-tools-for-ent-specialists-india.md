@@ -8,6 +8,7 @@ tags: ["ai-tools", "ent", "clinics", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray for bookings and records, KiraDoc for notes, and a free hearing-test app for screening — a solid, low-cost ENT setup."
+ogImage: '/og/ai-tools-for-ent-specialists-india-en.jpg'
 ---
 
 ENT specialists in India juggle three jobs: filling the appointment book, documenting hearing tests, and keeping patient records searchable. The best setup is three focused tools: Practo Ray for appointments and records, KiraDoc for AI consultation notes, and the free Hearing Test app for screening. Two cost nothing to start.

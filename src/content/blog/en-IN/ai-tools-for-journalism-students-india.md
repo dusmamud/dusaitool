@@ -8,6 +8,7 @@ tags: ["journalism", "students", "transcription", "research", "writing"]
 category: best-tools
 draft: false
 verdict: "Otter.ai, NotebookLM and Grammarly cover interviews, research and clean copy — free, if you respect their limits."
+ogImage: '/og/ai-tools-for-journalism-students-india-en.jpg'
 ---
 
 ## Short answer

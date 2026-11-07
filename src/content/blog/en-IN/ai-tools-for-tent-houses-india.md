@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Calendar and Sheets free; pay for booking software only when two weddings land on one date."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tent-houses-india-en.jpg'
 ---
 
 ## The direct answer

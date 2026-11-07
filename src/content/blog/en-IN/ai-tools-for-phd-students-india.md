@@ -8,6 +8,7 @@ tags: ["ai-tools", "PhD", "research", "citations", "India"]
 category: best-tools
 draft: false
 verdict: "Zotero for citations, Elicit for literature search, NotebookLM for notes — start free, verify every AI claim."
+ogImage: '/og/ai-tools-for-phd-students-india-en.jpg'
 ---
 
 A PhD in India means dozens of papers, messy notes and a thesis deadline. Three free tools cover most of it: Zotero organises papers and citations, Elicit searches the literature, and NotebookLM turns your papers into searchable notes. All three work in India without a VPN. Start free, and re-check official pricing before paying.

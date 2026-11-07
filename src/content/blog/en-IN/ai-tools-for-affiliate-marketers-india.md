@@ -8,6 +8,7 @@ tags: ["affiliate marketing", "ai-tools", "earn online", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with EarnKaro and Amazon Associates; use Bitly only for short links, not analytics."
+ogImage: '/og/ai-tools-for-affiliate-marketers-india-en.jpg'
 ---
 
 Affiliate marketing in India comes down to three things: the link, the tracking, and the payout. EarnKaro turns store links into commission-earning Profit Links, Amazon Associates pays for Amazon.in sales, and Bitly shortens links for sharing. Start free, promote products you use, and check every rate on the official page before counting on an income.

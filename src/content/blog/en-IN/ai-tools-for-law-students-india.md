@@ -8,6 +8,7 @@ tags: ["ai-tools", "law students", "legal-research", "case law", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Indian Kanoon and NotebookLM; use SCC Online through your college library before paying for anything."
+ogImage: '/og/ai-tools-for-law-students-india-en.jpg'
 ---
 
 The best AI tools for law students in India are Indian Kanoon for free case research, NotebookLM for revision from your own notes, and SCC Online through your college library for authoritative citations. ChatGPT explains hard concepts and Perplexity checks facts with sources. No paid subscription is needed — but an AI summary never replaces reading the judgment itself.

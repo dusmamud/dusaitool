@@ -8,6 +8,7 @@ tags: ["ai-tools", "radiology", "radiologists", "medical imaging", "India"]
 category: best-tools
 draft: false
 verdict: "Start with qXR for X-ray volume, Aidoc for emergency triage, and Rad AI Omni for reporting speed."
+ogImage: '/og/ai-tools-for-radiologists-india-en.jpg'
 ---
 
 For most Indian radiologists, the best starting point is Qure.ai's qXR for chest X-ray screening, Aidoc for urgent CT triage, and Rad AI Omni for faster reporting. None replaces a radiologist: each flags, prioritises, or drafts, and a qualified doctor still signs every report. Pick the tool matching your biggest bottleneck.

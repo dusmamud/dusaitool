@@ -8,6 +8,7 @@ tags: ["ai-tools", "electronics-shops", "India", "billing", "inventory"]
 category: best-tools
 draft: false
 verdict: "Start with Vyapar for billing, WhatsApp Business for customers, and Zoho Inventory when online orders grow. Free plans cover a small shop well."
+ogImage: '/og/ai-tools-for-electronics-shops-india-en.jpg'
 ---
 
 For an electronics shop in India, the best setup is simple: Vyapar for GST billing and stock, Zoho Inventory when online orders grow, and WhatsApp Business to show products and answer customers. Together they cover billing, inventory, and customer contact for little or no cost, and all three work on a basic Android phone.

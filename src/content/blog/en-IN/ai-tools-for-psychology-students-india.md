@@ -8,6 +8,7 @@ tags: ["ai-tools", "psychology-students", "study", "notes", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Notion and Quizlet; pay only when a real limit blocks your notes, cases or revision."
+ogImage: '/og/ai-tools-for-psychology-students-india-en.jpg'
 ---
 
 Psychology students in India need three things from AI: clean notes from long lectures, practice for theory-heavy exams, and help organising case studies and internship logs. Three free tools cover it — ChatGPT for explanations and quizzes, Notion for notes and case files, and Quizlet for memorising terms. All work in India without a VPN.

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Canva and WhatsApp Business; add Vyapar for stock and Petpooja only when orders outgrow one phone."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-ice-cream-shops-india-en.jpg'
 ---
 
 An ice cream parlour lives or dies on three things: flavours people remember, orders that never get missed, and stock that never runs out on a hot Sunday evening. Start free: ChatGPT writes flavour descriptions and festival offers, Canva designs menu boards and Instagram posts, and WhatsApp Business takes orders and tells customers when their tub is ready. Add Vyapar for billing and stock records, and Petpooja when counter, takeaway and delivery orders need one screen. Nothing here needs a VPN.

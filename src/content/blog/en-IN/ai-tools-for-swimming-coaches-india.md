@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Calendar and Forms free; pay for coaching software only when batches and fees get hard to track."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-swimming-coaches-india-en.jpg'
 ---
 
 If you coach swimming in India, your pool is full of different people at different hours: children learning to float at six in the morning, adults learning in the evening, and a small group training for competition on weekends. The daily trouble is organisation, not swimming. A parent does not know which batch their child is in, a fee was paid by UPI but nobody recorded which month it was for, a class was cancelled for pool cleaning and half the parents were never told, and a beginner who is afraid of water needs a patient word that a busy coach forgot to say.

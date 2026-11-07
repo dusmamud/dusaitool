@@ -8,6 +8,7 @@ tags: ["dental labs", "CAD CAM", "prosthetics", "case management", "India"]
 category: best-tools
 draft: false
 verdict: "exocad for design, 3Shape LMS for case tracking, Medit Link for scans — the practical trio for Indian dental labs."
+ogImage: '/og/ai-tools-for-dental-labs-india-en.jpg'
 ---
 
 A dental lab in India needs three things from software: CAD design, a case tracker that never loses an order, and a simple way to receive digital scans. exocad covers design, 3Shape LMS covers case management, and Medit Link covers scan intake. Together they handle crowns, bridges, dentures and implant cases without paper job cards.

@@ -8,6 +8,7 @@ tags: ["ai-tools", "steel-fabrication", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: FreeCAD for drawings, ChatGPT for quotes, Zoho Invoice for GST billing — check prices before paying."
+ogImage: '/og/ai-tools-for-steel-fabricators-india-en.jpg'
 ---
 
 Steel fabrication shops in India run on drawings, quotes, cutting lists and delivery dates. The right tools cut the paperwork so welders can weld. For most small workshops, three free tools cover the whole job: FreeCAD for designs, ChatGPT for quotes and client messages, and Zoho Invoice for billing and GST paperwork.

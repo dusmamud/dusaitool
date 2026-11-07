@@ -8,6 +8,7 @@ tags: ["ai-tools", "surgeons", "healthcare", "India", "emr", "clinic software"]
 category: best-tools
 draft: false
 verdict: "Start free with Heidi Health for notes and Practo Ray for scheduling; add HealthPlix when your OPD volume grows."
+ogImage: '/og/ai-tools-for-surgeons-india-en.jpg'
 ---
 
 A surgeon's day is split between the OPD, the operation theatre, and the paperwork that follows both. The right AI tools do not replace surgical judgement — they take the typing, the scheduling calls, and the follow-up chasing off your plate. The shortlist is small: a free AI scribe, an Indian EMR, and a scheduling system patients will actually use.

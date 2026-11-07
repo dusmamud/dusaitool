@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Riyaz, iTabla Pro and ChatGPT free; let apps handle daily practice, and keep your ears and judgement in charge of teaching."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-singing-teachers-india-en.jpg'
 ---
 
 ## The direct answer

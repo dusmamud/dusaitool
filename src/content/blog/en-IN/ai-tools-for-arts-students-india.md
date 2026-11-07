@@ -8,6 +8,7 @@ tags: ["ai-tools", "arts-students", "humanities", "study", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Gemini and Perplexity, add Grammarly and Elicit for writing and research — pay only when a limit actually blocks you."
+ogImage: '/og/ai-tools-for-arts-students-india-en.jpg'
 ---
 
 Arts students in India do not need a dozen paid apps. Understanding concepts, turning notes into clear essays, finding citable sources and revising for exams are all covered by a small free stack: ChatGPT for study help, Gemini for guided learning, Perplexity for sourced answers, Grammarly for clean English, and Elicit with Zotero for papers. All work in India without a VPN. Prices and limits were checked in November 2026; re-check official pricing before paying.

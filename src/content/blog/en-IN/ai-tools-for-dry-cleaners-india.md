@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Sheets free; pay for laundry software only when garments start getting mixed up."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-dry-cleaners-india-en.jpg'
 ---
 
 ## The direct answer

@@ -8,6 +8,7 @@ tags: ["influencers", "content creators", "social media", "brand deals", "analyt
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Canva and Metricool, and add Beacons when brand deals begin."
+ogImage: '/og/ai-tools-for-influencers-india-en.jpg'
 ---
 
 ## The short answer

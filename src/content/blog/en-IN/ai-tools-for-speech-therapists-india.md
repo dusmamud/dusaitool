@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Constant Therapy's free clinician app and Stamurai for stuttering; pay only after a trial proves it fits your caseload."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-speech-therapists-india-en.jpg'
 ---
 
 If you are a speech therapist in India, the most useful AI tools solve three daily jobs: home exercises clients will actually do, tracking improvement between sessions, and cutting paperwork after each session. Start with Constant Therapy's free clinician app for adult exercises and Stamurai for stuttering in India. Prices below are snapshots — re-check before paying.

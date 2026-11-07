@@ -8,6 +8,7 @@ tags: ["table tennis", "ai-tools", "sports", "coaching", "India"]
 category: best-tools
 draft: false
 verdict: "PaddleIQ for match stats, SportArc for technique, Playo for courts — start free, pay only after a trial week."
+ogImage: '/og/ai-tools-for-table-tennis-players-india-en.jpg'
 ---
 
 ## The short answer

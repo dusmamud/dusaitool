@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Canva and Figma; add Firefly only when you need commercial-safe images. Your portfolio matters more than any subscription."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-design-students-india-en.jpg'
 ---
 
 For design students in India, the best free starting trio is Canva, Figma, and Adobe Firefly. Canva handles posters and presentations, Figma covers UI design and portfolios, and Firefly makes images safer for commercial use. All three work in India without a VPN and have usable free tiers — but re-check official pricing before paying, as limits change often.

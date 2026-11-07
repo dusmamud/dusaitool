@@ -8,6 +8,7 @@ tags: ["ai-tools", "stock-brokers", "trading", "research", "India"]
 category: best-tools
 draft: false
 verdict: "TradingView plus Screener.in covers most broker research free; add Trendlyne for analyst data, and never send an AI-written recommendation unchecked."
+ogImage: '/og/ai-tools-for-stock-brokers-india-en.jpg'
 ---
 
 A stock broker in India juggles three jobs: finding ideas, explaining them, and staying inside SEBI rules. AI tools can help with all three, but none replaces the broker's judgement or licence. The tools below work in India without a VPN, with a usable free tier.

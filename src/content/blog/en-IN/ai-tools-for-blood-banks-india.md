@@ -8,6 +8,7 @@ tags: ["blood banks", "ai-tools", "healthcare", "donors", "India"]
 category: best-tools
 draft: false
 verdict: "Start with free e-RaktKosh and WhatsApp Business, add RAKT when daily volume justifies a paid system."
+ogImage: '/og/ai-tools-for-blood-banks-india-en.jpg'
 ---
 
 For an Indian blood bank, the best starting stack is e-RaktKosh for official stock and donor records, RAKT for day-to-day donor, camp and inventory work, and WhatsApp Business for donor reminders. Together they cover donors, camps, stock and hospital alerts — without a VPN or a large budget.

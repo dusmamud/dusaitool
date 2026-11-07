@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Canva free; pay for CRM software only when site visits and quotes start getting lost."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-solar-installers-india-en.jpg'
 ---
 
 If you install rooftop solar in India, your customer is making one of the biggest purchases of their life, and they are nervous. They have heard about government subsidy, they have seen a neighbour's panels, and they have three installers quoting three different prices for what sounds like the same system. The sale takes weeks, not hours: a site visit, a roof measurement, a shadow check, a quote, a subsidy application, and then installation. The daily trouble is keeping track of all of it — which house was visited, which quote was sent, which subsidy form is pending, and which customer is waiting for a call back.

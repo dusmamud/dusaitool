@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT or Gemini, Plantix for sick-crop photos and WhatsApp Business for sales; confirm disease calls with your KVK."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mushroom-farmers-india-en.jpg'
 ---
 
 A mushroom farmer needs four answers at the right time: which variety suits my climate, is my room too hot or damp, what is wrong with this bag, and who will buy today's harvest? Mushrooms are perishable, so a slow answer is a lost sale. The tools below work on an ordinary phone in India. Prices change often, so re-check the official pricing page before paying.

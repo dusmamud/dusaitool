@@ -8,6 +8,7 @@ tags: ["vegetable vendors", "mandi prices", "whatsapp-business", "Khatabook", "U
 category: best-tools
 draft: false
 verdict: "Start free: check mandi rates on Agmarknet, sell on WhatsApp Business, track udhar on Khatabook."
+ogImage: '/og/ai-tools-for-vegetable-vendors-india-en.jpg'
 ---
 
 A vegetable vendor needs three things every morning: the mandi rate before buying, a way to tell regular customers today's prices, and a record of who paid and who took udhar. Three free tools cover all three — Agmarknet for mandi prices, WhatsApp Business for customers, and Khatabook for payments — and all work on a basic Android phone.

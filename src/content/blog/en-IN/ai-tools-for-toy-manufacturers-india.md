@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with IndiaMART, WhatsApp Business and Canva free; pay for leads only when enquiries start turning into real orders."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-toy-manufacturers-india-en.jpg'
 ---
 
 ## The direct answer

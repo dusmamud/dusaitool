@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT for quotes and safety, Zoho Invoice for billing, and Canva for customer posters."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-welders-india-en.jpg'
 ---
 
 ## Short answer

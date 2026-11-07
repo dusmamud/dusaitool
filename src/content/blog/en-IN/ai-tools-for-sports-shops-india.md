@@ -8,6 +8,7 @@ tags: ["ai-tools", "sports-shops", "inventory", "GST billing", "whatsapp-busines
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and WhatsApp Business for orders; add Zoho Inventory only when online orders grow."
+ogImage: '/og/ai-tools-for-sports-shops-india-en.jpg'
 ---
 
 A sports goods shop stocks hundreds of items — bats, rackets, boots, gloves, jerseys in every size. The right tools cut billing time, stop stock-outs, and keep academy customers coming back. Here are five tools that work in India without a VPN, with honest free limits. Prices change often, so re-check the official pricing page before paying.

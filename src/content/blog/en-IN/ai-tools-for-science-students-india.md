@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with PhET, Khan Academy and ChatGPT free; use AI to understand concepts, never to copy homework answers without learning them."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-science-students-india-en.jpg'
 ---
 
 ## The direct answer

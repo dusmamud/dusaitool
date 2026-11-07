@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, MyGate and Sheets free; pay for management software only when one society's requests start slipping."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-property-managers-india-en.jpg'
 ---
 
 ## The direct answer

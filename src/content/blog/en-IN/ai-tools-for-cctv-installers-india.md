@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with ChatGPT for quotes, magicplan for surveys, Zoho Invoice for GST billing, Trello for jobs and WhatsApp Business for AMC reminders."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cctv-installers-india-en.jpg'
 ---
 
 A CCTV installer in India does four jobs at once: surveying sites, quoting prices, installing on schedule, and remembering every AMC visit. A free chatbot drafts quotes, a phone app maps the survey, a free GST tool handles bills, a board tracks each job, and WhatsApp Business manages AMC renewals. Prices and limits change, so re-check the official pricing page before paying or promising a deadline.

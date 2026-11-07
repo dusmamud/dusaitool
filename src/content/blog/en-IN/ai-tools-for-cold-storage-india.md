@@ -8,6 +8,7 @@ tags: ["cold storage", "cold chain", "inventory", "temperature monitoring", "agr
 category: best-tools
 draft: false
 verdict: "Start with StoreCrop or ColdStorageOS for full cold-storage operations; Zoho Inventory works as a low-cost inventory add-on."
+ogImage: '/og/ai-tools-for-cold-storage-india-en.jpg'
 ---
 
 Running a cold storage in India means the same daily work everywhere: trucks arrive, lots go into chambers, and rent is charged per bag per day. The best tools are systems built for Indian cold storage — lot tracking, temperature alerts, gate passes, and billing with GST and hamali. Prices and limits change often — re-check the official pricing page before paying.

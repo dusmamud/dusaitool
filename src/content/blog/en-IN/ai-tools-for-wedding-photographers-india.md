@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Lightroom, Google Drive and WhatsApp Business free; pay for editing tools only when the season's backlog grows."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-wedding-photographers-india-en.jpg'
 ---
 
 ## The direct answer

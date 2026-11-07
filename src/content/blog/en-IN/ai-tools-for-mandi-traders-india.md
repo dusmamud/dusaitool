@@ -8,6 +8,7 @@ tags: ["mandi", "traders", "agriculture", "prices", "khata", "UPI"]
 category: best-tools
 draft: false
 verdict: "Start free: Agmarknet and eNAM for prices, WhatsApp Business for buyers, Khatabook for udhaar — pay only for Vyapar desktop when billing grows."
+ogImage: '/og/ai-tools-for-mandi-traders-india-en.jpg'
 ---
 
 A mandi trader's day runs on four things: today's price, a ready buyer, a payment that arrives, and a record that survives. The price tools are government-run and free, and the rest have free tiers that work in India without a VPN.

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, ClassDojo and Canva free; keep parent updates warm and regular, and never post a child's photo publicly."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-nursery-schools-india-en.jpg'
 ---
 
 ## The direct answer

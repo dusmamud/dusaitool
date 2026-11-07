@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Perplexity and Gamma; add Grammarly for placement writing and Notion for organising notes."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mba-students-india-en.jpg'
 ---
 
 An MBA in India is a sprint: weekly cases, group presentations, internships, then placements. Start with ChatGPT for drafting, Perplexity for cited research, Gamma for decks, Grammarly for placement writing, and Notion for notes. All five work in India without a VPN, and all have a free tier.

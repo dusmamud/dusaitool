@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp, Google Sheets and Canva free; pay for a selling app only when direct orders outgrow your phone."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-organic-farmers-india-en.jpg'
 ---
 
 ## The direct answer

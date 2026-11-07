@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Sheets and Forms free; pay for guard software only when rosters and attendance get hard to track."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-security-agencies-india-en.jpg'
 ---
 
 If you run a security agency in India, your business is people on duty at the right gate at the right hour, every hour of every day. The daily trouble is rarely a single big failure; it is a guard who did not turn up for the night shift, a roster that nobody updated after a leave, a client who was never told the guard changed, and a salary sheet built from memory at the end of the month. Clients pay for reliability, and one empty gate at 2 am can cost you a contract that took a year to win.

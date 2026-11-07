@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Forms and Sheets free; pay for PG software only when rooms and rent records get hard to track."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-pg-owners-india-en.jpg'
 ---
 
 If you own a paying guest house in India, your business runs on two things that never stop: enquiries from students and working professionals looking for a room, and rent that must be collected on time every month. The daily trouble is small but constant. A room is vacant but the listing still says it is full, a tenant paid by UPI but nobody recorded which month it was for, a food complaint was mentioned in passing and forgotten, and a notice about water timing never reached the third floor. Good PGs fill up by word of mouth, but they empty just as fast when tenants feel ignored.

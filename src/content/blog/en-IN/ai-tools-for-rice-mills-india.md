@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Vyapar for GST billing and stock, add ChatGPT or Gemini for drafting, and move to TallyPrime as volumes grow."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-rice-mills-india-en.jpg'
 ---
 
 A rice mill runs on four daily jobs: buying paddy right, milling it well, knowing godown stock, and selling with correct GST invoices. The out-turn — head rice, broken, bran, and husk from each quintal — decides the season's margin. On paper alone, a wrong moisture reading becomes a bad purchase and a forgotten lot a buyer dispute.

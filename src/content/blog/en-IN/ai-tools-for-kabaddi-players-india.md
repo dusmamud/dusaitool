@@ -8,6 +8,7 @@ tags: ["kabaddi", "sports", "fitness", "training", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Start free: Strava for fitness, Coach's Eye for technique video, MyFitnessPal for diet — pay only when the free limits bite."
+ogImage: '/og/ai-tools-for-kabaddi-players-india-en.jpg'
 ---
 
 ## The short answer

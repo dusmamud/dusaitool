@@ -8,6 +8,7 @@ tags: ["tennis", "ai-tools", "sports", "training", "India"]
 category: best-tools
 draft: false
 verdict: "SwingVision for match analysis, OnCourt AI for stroke feedback, ATP WTA Live for scores — start free, pay only after a trial."
+ogImage: '/og/ai-tools-for-tennis-players-india-en.jpg'
 ---
 
 ## The short answer

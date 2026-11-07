@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with free CricHeroes; add StanceBeam or academy PitchVision analysis only for a specific weakness."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cricket-players-india-en.jpg'
 ---
 
 Yes. Three tools cover most of what an Indian cricketer needs: CricHeroes for free live scoring and profiles, StanceBeam for bat-swing training data, and PitchVision for video and ball-tracking analysis at academies. Start free with CricHeroes; spend only when coaching points to a specific weakness. Prices change — re-check official pricing before paying.

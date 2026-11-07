@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Gemini and Google Forms free; pay for a test or CRM only when student numbers outgrow sheets."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-career-counsellors-india-en.jpg'
 ---
 
 If you counsel students in India — Class 10 and 12 students choosing a stream, graduates weighing a government job against a private career, or parents worried about fees and futures — your work is trust. A student’s choice of course, college and career shapes years of their life, and a parent’s savings often ride on it. The best AI tools for career counsellors help you research faster, organise student information, and communicate clearly, so the human conversation can focus on the student instead of the paperwork. The direct answer is simple: use ChatGPT to research courses and draft guidance notes, Gemini to compare options and explain them in Hindi, Google Forms to collect student profiles, Canva for simple charts and handouts, and Notion to keep every student’s plan in one place, all free to start.

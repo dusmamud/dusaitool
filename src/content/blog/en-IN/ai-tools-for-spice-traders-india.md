@@ -8,6 +8,7 @@ tags: ["ai-tools", "spice-trade", "small business", "inventory", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: Vyapar for billing and stock, ChatGPT for quotes and messages, WhatsApp Business for sales — pay only when free limits run out."
+ogImage: '/og/ai-tools-for-spice-traders-india-en.jpg'
 ---
 
 ## The short answer

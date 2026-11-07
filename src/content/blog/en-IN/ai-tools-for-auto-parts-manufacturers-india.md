@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free: Zoho for orders, Katana for production planning, Odoo for a full MRP system — pick by your biggest pain point."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-auto-parts-manufacturers-india-en.jpg'
 ---
 
 Auto parts makers in India juggle buyer orders, raw-material stock, and quality checks — and spreadsheets break once orders cross a few dozen a month. The fix is a small MRP or inventory tool linking orders, stock, and production in one place — here are three that work in India, starting free.

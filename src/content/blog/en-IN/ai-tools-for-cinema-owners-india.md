@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with BookMyShow, WhatsApp Business and Google Business Profile free; fill seats with honest showtimes and quick replies, not paid gimmicks."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cinema-owners-india-en.jpg'
 ---
 
 ## The direct answer

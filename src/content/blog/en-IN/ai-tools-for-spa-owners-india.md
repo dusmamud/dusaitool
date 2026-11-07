@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Calendar and Calendly free; pay for spa software only when appointments start getting double-booked."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-spa-owners-india-en.jpg'
 ---
 
 If you run a spa in India, your business is calm sold by the hour, and the calm breaks the moment the booking book goes wrong. A client arrives for a massage that was never written down, two clients are booked into the same room, a regular is kept waiting because a walk-in took her slot, and a membership that should have been renewed was never mentioned. Spa clients pay for relaxation, and nothing destroys relaxation faster than a confused reception, a rushed therapist, or a bill that does not match the price on the menu.

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Heavy Bag Pro and Hevy; add PunchLab for punch tracking and TrainHeroic only if a coach runs your programme."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-boxers-india-en.jpg'
 ---
 
 If you box in India, start free with Heavy Bag Pro for bag rounds, Hevy for strength logging, and a notebook for sparring notes. All three are free, work without a VPN, and cover bag work, strength, and sparring notes. The rest covers counting punches and a coach programming your week.

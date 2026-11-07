@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Canva free; pay for anything else only when regulars start getting missed."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tea-stalls-india-en.jpg'
 ---
 
 ## The direct answer

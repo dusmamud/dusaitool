@@ -8,6 +8,7 @@ tags: ["ai-tools", "nursing students", "exam-prep", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Anki and Quizlet — and always verify clinical facts against your textbook."
+ogImage: '/og/ai-tools-for-nursing-students-india-en.jpg'
 ---
 
 For most nursing students in India, the best starting trio is ChatGPT for explanations and practice questions, Anki for long-term memory, and Quizlet for ready-made flashcard sets. Together they cover lectures, clinical postings, and exam revision for free. Start free, build a daily habit, and pay only when a limit blocks you.

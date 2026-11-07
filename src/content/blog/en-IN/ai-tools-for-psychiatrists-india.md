@@ -8,6 +8,7 @@ tags: ["ai-tools", "psychiatry", "mental-health", "doctors", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray runs the clinic; Heidi drafts notes free. Freed suits solo psychiatrists who want fast SOAP notes — always review before signing."
+ogImage: '/og/ai-tools-for-psychiatrists-india-en.jpg'
 ---
 
 For Indian psychiatrists, the best mix is Practo Ray for appointments and prescriptions, Heidi for free AI therapy-note drafts, and Freed for fast SOAP notes. No single tool does all three well, so pick one clinic system plus one scribe. The psychiatrist — not the software — stays responsible for every diagnosis and prescription.

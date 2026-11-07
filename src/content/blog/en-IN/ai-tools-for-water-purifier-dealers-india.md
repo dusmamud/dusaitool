@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Calendar and Sheets free; pay for service software only when AMC renewals start slipping."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-water-purifier-dealers-india-en.jpg'
 ---
 
 ## The direct answer

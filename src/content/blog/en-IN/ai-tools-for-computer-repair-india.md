@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with WhatsApp Business and Zoho Bookings; pay for RepairShopr or RepairDesk only when tickets and parts outgrow a notebook."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-computer-repair-india-en.jpg'
 ---
 
 The short answer: a small repair shop in India needs no expensive software on day one. Start free with WhatsApp Business and Zoho Bookings, use ChatGPT free to read error messages, and pay for RepairShopr or RepairDesk only when jobs and spare parts outgrow a notebook. The paid tools cost roughly 5,000 to 8,000 rupees a month, which a one-person shop will not recover from organisation alone.

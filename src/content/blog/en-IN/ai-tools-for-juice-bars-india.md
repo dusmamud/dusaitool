@@ -8,6 +8,7 @@ tags: ["ai-tools", "juice bars", "restaurant pos", "India", "small business"]
 category: best-tools
 draft: false
 verdict: "Start free with WhatsApp Business, Vyapar and Canva; pay for Petpooja only when daily orders outgrow a phone-based setup."
+ogImage: '/og/ai-tools-for-juice-bars-india-en.jpg'
 ---
 
 A juice bar in India does not need expensive software. The best setup for most small outlets is free: WhatsApp Business for orders, Vyapar for billing and stock, Canva for the menu, and ChatGPT for writing. Petpooja, a proper restaurant POS, is only worth paying for once daily orders outgrow one phone.

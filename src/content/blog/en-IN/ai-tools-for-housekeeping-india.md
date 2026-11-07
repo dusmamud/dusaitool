@@ -8,6 +8,7 @@ tags: ["housekeeping", "cleaning business", "scheduling", "staff management", "I
 category: best-tools
 draft: false
 verdict: "Start free with WhatsApp Business and Connecteam; add ZenMaid when recurring bookings grow past 40 a month."
+ogImage: '/og/ai-tools-for-housekeeping-india-en.jpg'
 ---
 
 Running a housekeeping business in India means juggling bookings, staff, checklists, payments and complaints — often on WhatsApp. Start free, and pay only when volume forces you to. WhatsApp Business plus Connecteam's free plan covers bookings, checklists and staff chat at zero cost. Past about 40 recurring bookings a month, ZenMaid is the cheapest purpose-built option at roughly $19 a month, while Jobber fits larger crews that also need quotes and invoicing.

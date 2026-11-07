@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Otter.ai and Google Sheets free; add Zoho Desk only when ticket volume outgrows shared inboxes."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-bpo-call-centres-india-en.jpg'
 ---
 
 If you run a BPO call centre in India — twenty agents answering support calls for a telecom client, a night shift handling US customers, or a small team doing outbound sales — your costs are people, and your quality is what keeps the client. The best AI tools for BPO call centres help agents answer faster and more accurately, turn long calls into short summaries, and train new hires without pulling your best agents off the floor. The direct answer is simple: start with ChatGPT for reply drafts and knowledge answers, Otter.ai for call transcripts and summaries, Krisp for clearer call audio, and Google Sheets to track quality, with Zoho Desk when tickets outgrow a shared inbox.

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Plantix first for diagnosis, Plant.id for plant ID, Fasal only for high-value irrigated crops."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-horticulturists-india-en.jpg'
 ---
 
 For most Indian horticulturists, Plantix is the best place to start. It is free, works in Hindi and other Indian languages, and diagnoses pests, diseases and nutrient problems from a phone photo. Add Plant.id to identify unknown nursery plants, and consider Fasal only for high-value crops like grapes or pomegranate, where sensors can pay for themselves.

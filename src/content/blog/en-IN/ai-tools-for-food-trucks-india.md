@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Instagram and Google Business Profile free; pay for ordering software only when missed pre-orders cost you sales."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-food-trucks-india-en.jpg'
 ---
 
 If you run a food truck in India — a dosa truck near an office park, a momos truck outside a college, or a burger truck that moves between weekend markets — your business runs on location and timing. Customers need to know where you are today, what is on the menu, and whether their order will be ready when they arrive. The best AI tools for food trucks help with exactly that: announcing today's location, taking pre-orders without a missed call, showing off your food with photos that make people hungry, and keeping a record of the day's sales. The direct answer is simple: start with WhatsApp Business for pre-orders, Instagram for today's location and food photos, Google Business Profile so nearby food lovers find you, and ChatGPT for messages — all free to begin with.

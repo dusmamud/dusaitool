@@ -8,6 +8,7 @@ tags: ["ai-tools", "dermatologists", "skin-clinics", "India", "healthcare"]
 category: best-tools
 draft: false
 verdict: "Start with HealthPlix or Practo Ray for records and bookings; add DermEngine for mole imaging and Heidi for notes."
+ogImage: '/og/ai-tools-for-dermatologists-india-en.jpg'
 ---
 
 ## The short answer

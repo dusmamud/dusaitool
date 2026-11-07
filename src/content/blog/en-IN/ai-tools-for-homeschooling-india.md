@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Khan Academy and MagicSchool, add ChatGPT for planning, and check NIOS rules before promising any board exam."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-homeschooling-india-en.jpg'
 ---
 
 Homeschooling in India is mostly a planning job. You are teacher, timetable, and record keeper at once. AI tools can carry the repetitive half: drafting lesson plans, making worksheets, writing practice questions, and recording what your child finished.

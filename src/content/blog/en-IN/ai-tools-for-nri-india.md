@@ -8,6 +8,7 @@ tags: ["nri", "remittance", "wise", "chatgpt", "gemini"]
 category: best-tools
 draft: false
 verdict: "Wise for money, ChatGPT for documents, Gemini for family — start free and verify every fee before you pay."
+ogImage: '/og/ai-tools-for-nri-india-en.jpg'
 ---
 
 For most NRIs, three tools cover the daily work: Wise for sending money home at the real mid-market rate, ChatGPT for drafting documents and explaining paperwork plainly, and Gemini for family coordination and translation. None replaces a bank, accountant or lawyer, but together they cut the back-and-forth that makes NRI life slow and expensive.

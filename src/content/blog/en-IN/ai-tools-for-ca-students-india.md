@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, Gemini Notebook and ICAI mock tests, then revise daily with Anki. Pay only for one mock series for your exact CA level."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-ca-students-india-en.jpg'
 ---
 
 CA exams reward solving problems under time pressure and revising weak topics before you forget. AI helps — but it also misleads: a chatbot can explain a tax provision well and still get the section number wrong. Short answer: ChatGPT or Gemini free for explanations, Gemini Notebook for your own ICAI material, Quizlet or Anki for revision, and ICAI for mock tests.

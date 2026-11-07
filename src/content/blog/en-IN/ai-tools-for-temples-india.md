@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start with Netra for receipts and queues, Razorpay for donations, and WhatsApp Business for updates. Add more only when the queue forces you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-temples-india-en.jpg'
 ---
 
 Running a temple in India means practical problems: long queues, a receipt book that never matches the cash box, and donors who want a proper 80G receipt. Most tools that fix these jobs are not really AI.

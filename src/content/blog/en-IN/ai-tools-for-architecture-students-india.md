@@ -8,6 +8,7 @@ tags: ["ai-tools", "architecture", "students", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: PromeAI and LookX for renders, ChatGPT for study help — check limits before paying."
+ogImage: '/og/ai-tools-for-architecture-students-india-en.jpg'
 ---
 
 Architecture students in India juggle hand sketches, CAD drawings, models, juries and theory exams — often on a tight budget. The right AI tool helps at one stage: turning a sketch into a render, or explaining theory simply. It never replaces drawing skill or your own judgement, and no AI render is a working drawing.

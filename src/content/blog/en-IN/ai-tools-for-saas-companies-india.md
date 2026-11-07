@@ -8,6 +8,7 @@ tags: ["ai-tools", "SaaS", "India", "customer support", "billing", "analytics"]
 category: best-tools
 draft: false
 verdict: "Intercom, Chargebee and Mixpanel cover support, billing and analytics — start free or on trial, then pay only as usage grows."
+ogImage: '/og/ai-tools-for-saas-companies-india-en.jpg'
 ---
 
 For most Indian SaaS teams, use Intercom for support and onboarding, Chargebee for billing, and Mixpanel for analytics. Together they cover trial signup to renewal without building billing or analytics in-house. All three work in India without a VPN, but none is free forever — check current limits before you commit.

@@ -8,6 +8,7 @@ tags: ["ai-tools", "electronics", "manufacturing", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Landing AI's free tier for inspection and Zoho Inventory for orders; add Instrumental only when buyer audits demand it."
+ogImage: '/og/ai-tools-for-electronics-manufacturers-india-en.jpg'
 ---
 
 For most Indian electronics manufacturers, the best start is Landing AI for visual quality inspection and Zoho Inventory for orders and stock. Instrumental is the specialist choice for PCB assembly lines that must prove defect rates to large buyers.

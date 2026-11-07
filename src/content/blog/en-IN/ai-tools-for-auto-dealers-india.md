@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, ChatGPT and Canva free; add Zoho CRM only when lead follow-up starts slipping."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-auto-dealers-india-en.jpg'
 ---
 
 If you run a car dealership in India, your day is a race against unanswered enquiries. A buyer messages about a used Swift at 10 pm, another asks for the on-road price of a new Creta, and a third wants to know if a car is still available — and by morning, half of them have already messaged another dealer. The best AI tools for auto dealers do not replace your sales team; they help you reply faster, write better listings, and remember every lead so no buyer slips away. The direct answer is simple: start with WhatsApp Business for customer chats, ChatGPT for writing listings and replies, and Canva for photos and festival posters, all free to begin with.

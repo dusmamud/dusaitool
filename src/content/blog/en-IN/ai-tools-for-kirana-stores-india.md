@@ -8,6 +8,7 @@ tags: ["kirana stores", "billing software", "inventory management", "udhaar khat
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and Khatabook for udhaar, plus WhatsApp Business for orders. Pay only when the free limits pinch."
+ogImage: '/og/ai-tools-for-kirana-stores-india-en.jpg'
 ---
 
 A kirana store needs three jobs done well: fast billing, stock that never surprises you, and an udhaar ledger customers trust. For most single-counter shops, the best start is free: Vyapar for billing and stock, Khatabook for credit, and WhatsApp Business for orders. Pay only when free limits pinch; re-check official prices first.

@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Use free ChatGPT, Claude and Gemini for study and drafts, Notion for shifts, UWorld for NCLEX — never paste patient details into any of them."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-nurses-india-en.jpg'
 ---
 
 Nursing in India means long shifts and heavy documentation. A 2025 study found nurses spend about 23% of a 12-hour shift on records. The short answer: use the free plans of ChatGPT, Claude and Gemini for study help, blank handover templates and patient-education drafts; use Notion to plan shifts; and use UWorld for NCLEX-RN preparation.

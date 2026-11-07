@@ -8,6 +8,7 @@ tags: ["ai-tools", "plastic manufacturing", "inventory", "GST billing", "MSME"]
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and Zoho Inventory for stock; add Odoo only when production planning gets complex."
+ogImage: '/og/ai-tools-for-plastic-manufacturers-india-en.jpg'
 ---
 
 For a small plastic factory in India, three tools cover most daily work: Vyapar for GST billing and buyer ledgers, Zoho Inventory for resin and finished-goods stock, and Odoo Community for mould-wise production planning. Start with the free plans, keep one tool as the single source of truth for stock, and re-check official pricing before paying.

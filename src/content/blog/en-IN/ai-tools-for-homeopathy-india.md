@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Similia's free tier is the best starting point; add Practo Ray and WhatsApp Business for records and reminders."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-homeopathy-india-en.jpg'
 ---
 
 Homeopathy runs on long, detailed case-taking: symptoms in the patient's own words become repertory rubrics, then remedies are compared in the materia medica. Software helps exactly there — finding rubrics faster, keeping case files searchable, and making sure follow-ups are not forgotten. It does not prescribe for you, and it cannot diagnose conditions that need modern medical care. Prices change often; re-check official pricing pages before paying.

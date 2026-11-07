@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with ChatGPT and Gemini for study help, and use Copilot on Windows; check the NAPS portal for real apprenticeships."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-iti-students-india-en.jpg'
 ---
 
 ## The short answer

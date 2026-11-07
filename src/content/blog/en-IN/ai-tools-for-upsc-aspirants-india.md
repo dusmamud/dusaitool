@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Start free with Gemini Notebook for notes, Perplexity for current affairs and Anki for revision — pay only when a limit actually blocks you."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-upsc-aspirants-india-en.jpg'
 ---
 
 No AI tool can clear UPSC for you — Prelims, Mains and the Personality Test still need your own study, writing and memory. The direct answer: use Gemini Notebook (formerly NotebookLM) to study from your own notes and PDFs, Perplexity to research current affairs with sources you can open, ChatGPT as a tutor and answer-writing partner, Anki for spaced-revision flashcards, and Testbook for free mock tests and previous-year questions. Every AI tool can invent facts with total confidence, so never memorise or write anything in an answer until you have checked it against the original source.

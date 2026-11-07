@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Sheets free; pay for repair software only when jobs start getting lost."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-mobile-repair-shops-india-en.jpg'
 ---
 
 If you run a mobile repair shop in India, your day is a queue of cracked screens, dead batteries, water-damaged phones and customers asking the same question: how much will it cost, and when will it be ready? The repair itself is skilled work, but the business around it is memory work. You need to remember which phone belongs to whom, which spare part was ordered, what price was quoted, and which customer is still waiting for a call. When that memory fails, a customer waits three days for a phone that was ready yesterday, or two customers are quoted two different prices for the same screen.

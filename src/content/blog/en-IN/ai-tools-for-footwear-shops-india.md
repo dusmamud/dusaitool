@@ -8,6 +8,7 @@ tags: ["footwear", "retail", "billing", "inventory", "GST"]
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and WhatsApp Business for customers; move to Zoho or Tally only when stock and GST outgrow them."
+ogImage: '/og/ai-tools-for-footwear-shops-india-en.jpg'
 ---
 
 A footwear shop lives or dies on sizes: a customer asks for a UK 8 in tan, you have UK 7 and UK 9, and the sale walks out. Good software does three jobs: it bills fast, shows which sizes are left, and remembers the customer. No AI counts your stock. These tools automate the boring parts: barcode scanning updates stock, low-stock alerts warn before a size runs out, and GST reports are ready for your accountant. Prices change often, so re-check the official pricing page before paying.

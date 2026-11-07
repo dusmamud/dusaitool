@@ -8,6 +8,7 @@ tags: ["ai-tools", "orthopedics", "healthcare", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray, Heidi Health and Physitrack together cover bookings, notes and physio follow-ups for Indian orthopedics clinics."
+ogImage: '/og/ai-tools-for-orthopedists-india-en.jpg'
 ---
 
 For an orthopedics clinic in India, the best setup is Practo Ray for appointments, Heidi Health for consultation notes, and Physitrack for physio follow-ups. Together they cover booking, the consult, and home exercises after surgery or injury. None reads X-rays or MRI scans — that needs separate, hospital-grade imaging software.

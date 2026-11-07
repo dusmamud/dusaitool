@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with Vyapar, Canva and WhatsApp Business free; pay for inventory software only when stock mistakes start costing you money."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-soap-manufacturers-india-en.jpg'
 ---
 
 ## The direct answer

@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start free with Strava for tracking and groups, Komoot for routes, and Intervals.icu for deep analysis; pay only for offline maps or coaching."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-cycling-enthusiasts-india-en.jpg'
 ---
 
 If you cycle in India and want help with routes, training and group rides, start with three free tools: Strava for recording rides and joining groups, Komoot for planning safe routes, and Intervals.icu for understanding your fitness. All three work in India without a VPN, and none makes you pay to record a ride or plan a route. Free tiers suit most riders, but offline navigation and leaderboards are paid, and prices change often — re-check the official pricing page before paying.

@@ -8,6 +8,7 @@ tags: ["ai-tools", "music production", "mastering", "distribution", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with BandLab, master with LANDR previews, and release through DistroKid only when you ship often."
+ogImage: '/og/ai-tools-for-music-producers-india-en.jpg'
 ---
 
 Indian music producers can now record, master and release songs without a studio. BandLab gives you a free DAW for recording and mixing, LANDR polishes finished mixes with AI mastering, and DistroKid puts songs on Spotify and JioSaavn for a flat yearly fee. Start free, pay only when a track is ready to release.

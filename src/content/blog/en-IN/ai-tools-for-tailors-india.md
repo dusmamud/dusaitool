@@ -9,6 +9,7 @@ category: best-tools
 draft: false
 verdict: "Start with WhatsApp Business, Google Business Profile and Canva free; pay for order software only when measurements and deliveries get mixed up."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-tailors-india-en.jpg'
 ---
 
 If you are a tailor in India, your busiest weeks are the ones before a wedding or a festival, when every customer wants their outfit ready on the same day. The daily trouble is not the stitching; it is the paper. A measurement written on a loose slip that gets lost, two customers with the same name and different measurements, a blouse promised for Thursday that nobody started, and a customer who arrives on the delivery date to find the work is not ready. A good tailor is remembered for perfect fitting, but a tailor who delivers late is remembered for that instead.

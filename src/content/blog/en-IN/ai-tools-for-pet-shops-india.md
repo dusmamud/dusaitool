@@ -8,6 +8,7 @@ tags: ["pet shops", "ai-tools", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with WhatsApp Business and Vyapar, add Canva for posters — that covers billing, stock and customers for most small pet shops."
+ogImage: '/og/ai-tools-for-pet-shops-india-en.jpg'
 ---
 
 For a small Indian pet shop, start with WhatsApp Business for customer chats and orders, Vyapar for GST billing and stock, and Canva for posters and offers. All three have free plans, work on an Android phone without a VPN, and together cover pets, food, accessories, repeat customers and daily billing.

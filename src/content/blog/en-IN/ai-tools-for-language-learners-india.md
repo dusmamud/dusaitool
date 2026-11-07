@@ -9,6 +9,7 @@ category: "best-tools"
 draft: false
 verdict: "Duolingo for daily habit, Memrise for words, ELSA for pronunciation, Anki for memory, and Gemini Live for free speaking practice."
 heroAlt: ""
+ogImage: '/og/ai-tools-for-language-learners-india-en.jpg'
 ---
 
 Learning a language is three jobs at once: remembering words, speaking out loud, and getting grammar right. No single app does all three well, so the stack that works for most Indian learners is a combination: one app for lessons, one for vocabulary, one for pronunciation, one for memory, and a free AI voice chat for speaking. Everything below works in India without a VPN and has a usable free tier.

@@ -8,6 +8,7 @@ tags: ["ac-repair", "field-service", "hvac", "small business", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Zoho FSM or ServiceM8, add WhatsApp Business for customers, and pay for Jobber or Housecall Pro only when job volume grows."
+ogImage: '/og/ai-tools-for-ac-repair-india-en.jpg'
 ---
 
 An AC repair business in India lives or dies on answering fast in May, dispatching the right technician, and getting paid without follow-up calls — and the tools below cover booking, dispatch, parts, invoicing and reminders. None fixes a compressor; they organise the work so fewer jobs slip through the cracks.
