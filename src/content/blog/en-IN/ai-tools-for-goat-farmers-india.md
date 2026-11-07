@@ -4,7 +4,7 @@ description: "The best AI tools for goat farmers in India — breed advice, feed
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["goat farming", "livestock", "AI tools", "India", "animal husbandry"]
+tags: ["goat farming", "livestock", "ai-tools", "India", "animal husbandry"]
 category: best-tools
 draft: false
 verdict: "Pashushala, FarmingGoat and WhatsApp Business cover breeds, health and sales free on one phone."

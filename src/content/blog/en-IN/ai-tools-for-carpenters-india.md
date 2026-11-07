@@ -4,7 +4,7 @@ description: "Free AI tools Indian carpenters can use to find jobs, draw measure
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "carpenters", "woodwork", "India", "small business"]
+tags: ["ai-tools", "carpenters", "woodwork", "India", "small business"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, SketchUp Free and Canva — but measure twice and check every number."

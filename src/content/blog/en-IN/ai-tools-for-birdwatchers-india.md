@@ -4,7 +4,7 @@ description: "Free AI bird apps that work in India: identify birds by photo and 
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["birds", "birdwatching", "india", "free", "nature"]
+tags: ["birds", "birdwatching", "India", "free", "nature"]
 category: "best-tools"
 draft: false
 verdict: "Start free with Merlin for identification and eBird for logging; add BirdNET for birdsong and plan trips from eBird hotspots."

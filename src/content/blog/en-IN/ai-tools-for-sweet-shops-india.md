@@ -4,7 +4,7 @@ description: "The best free and low-cost AI tools for Indian mithai shops to tak
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai tools", "sweet shops", "mithai", "small business", "india", "festivals", "delivery"]
+tags: ["ai-tools", "sweet shops", "mithai", "small business", "India", "festivals", "delivery"]
 category: best-tools
 draft: false
 verdict: "WhatsApp Business plus Google Business Profile and Canva cover most mithai shops free; add Sheets for orders and Vyapar only when billing grows."

@@ -4,7 +4,7 @@ description: "Compare AI salon tools for booking, customer management and style 
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "salons", "beauty", "booking", "small business", "India"]
+tags: ["ai-tools", "salons", "beauty", "booking", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Salonify or Fresha for bookings, add YouCam for try-on, and re-check pricing before paying — no single tool does it all."

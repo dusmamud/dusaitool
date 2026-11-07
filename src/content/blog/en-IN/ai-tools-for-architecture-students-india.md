@@ -4,7 +4,7 @@ description: "Free and affordable AI tools for architecture students in India â€
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "architecture", "students", "india"]
+tags: ["ai-tools", "architecture", "students", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: PromeAI and LookX for renders, ChatGPT for study help â€” check limits before paying."

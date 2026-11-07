@@ -4,7 +4,7 @@ description: "AI tools for Indian beekeepers: hive tracking, smart sensors, hone
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["beekeeping", "honey", "ai-tools", "india", "farming"]
+tags: ["beekeeping", "honey", "ai-tools", "India", "farming"]
 category: best-tools
 draft: false
 verdict: "Start free with HiveTracks and ChatGPT; buy sensors only after one season of good records."

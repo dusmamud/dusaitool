@@ -4,7 +4,7 @@ description: "The best AI golf tools for Indian golfers in 2026 — free GPS and
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["golf", "ai-tools", "sports", "india"]
+tags: ["golf", "ai-tools", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with 18Birdies for GPS and scoring; add V1 Golf for swing video and Golfshot Pro only if you wear an Apple Watch."

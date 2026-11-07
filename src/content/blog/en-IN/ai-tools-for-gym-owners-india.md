@@ -4,7 +4,7 @@ description: "Compare the best AI tools for Indian gym owners — UPI billing, G
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai tools", "gym", "fitness", "india", "billing"]
+tags: ["ai-tools", "gym", "fitness", "India", "billing"]
 category: best-tools
 draft: false
 verdict: "Centrl Studio is the safest pick for most Indian gyms; Trainerize suits trainers, Gymdesk suits small gyms."

@@ -4,7 +4,7 @@ description: "Payroll tools Indian small teams can use for salary, attendance, P
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["payroll", "small business", "HR", "compliance", "India"]
+tags: ["payroll", "small business", "hr", "compliance", "India"]
 category: best-tools
 draft: false
 verdict: "For most small Indian teams, Zoho Payroll Free (up to 10 staff) is the smartest start; greytHR suits compliance-heavy teams over 25."

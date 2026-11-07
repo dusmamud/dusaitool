@@ -4,7 +4,7 @@ description: "AI coaching, match stats, live scores and court booking for Indian
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["table tennis", "ai tools", "sports", "coaching", "india"]
+tags: ["table tennis", "ai-tools", "sports", "coaching", "India"]
 category: best-tools
 draft: false
 verdict: "PaddleIQ for match stats, SportArc for technique, Playo for courts — start free, pay only after a trial week."

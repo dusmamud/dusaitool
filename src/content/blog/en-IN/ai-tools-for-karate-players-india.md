@@ -4,7 +4,7 @@ description: "Free and low-cost AI tools for karate players in India — video r
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["karate", "ai-tools", "fitness", "sports", "india"]
+tags: ["karate", "ai-tools", "fitness", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Hudl Technique, OnForm and Nike Training Club cover kata review, coach feedback and fitness — free or cheap for Indian karate players."

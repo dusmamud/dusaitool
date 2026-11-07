@@ -4,7 +4,7 @@ description: "AI tools for Indian eye shops and clinics: virtual try-on, screeni
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["opticians", "eye-care", "eyewear", "small-business", "free"]
+tags: ["opticians", "eye-care", "eyewear", "small business", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start with WhatsApp Business reminders and a try-on demo, trial OptoSoft on your own frames, and never let an app replace a full eye exam."

@@ -4,7 +4,7 @@ description: "Canva, Adobe Express, PosterMyWall, Microsoft Designer, Ideogram, 
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "poster-maker", "free-tools", "india", "design"]
+tags: ["ai-tools", "poster-maker", "free-tools", "India", "design"]
 category: best-tools
 draft: false
 verdict: "Start with Canva free for editable posters and PosterMyWall for ready templates; use Ideogram only for artwork, and check free limits before paying."

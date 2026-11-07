@@ -4,7 +4,7 @@ description: "Best AI tools for Indian music producers — free DAW recording, A
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "music production", "mastering", "distribution", "India"]
+tags: ["ai-tools", "music production", "mastering", "distribution", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with BandLab, master with LANDR previews, and release through DistroKid only when you ship often."

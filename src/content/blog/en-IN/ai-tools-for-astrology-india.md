@@ -4,7 +4,7 @@ description: "AI kundli and horoscope apps that work in India without a VPN, wit
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "astrology", "kundli", "horoscope", "panchang", "india"]
+tags: ["ai-tools", "astrology", "kundli", "horoscope", "panchang", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with AstroSage for a Vedic kundli and Melooha or KundliGPT for one AI question; treat every reading as entertainment, not a decision."

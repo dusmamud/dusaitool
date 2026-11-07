@@ -4,7 +4,7 @@ description: "Free and paid AI tools for Indian child clinics: WHO growth charts
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["pediatricians", "child clinics", "growth tracking", "vaccination", "parent communication"]
+tags: ["pediatricians", "child clinics", "growth tracking", "vaccination", "parent-communication"]
 category: "best-tools"
 draft: false
 verdict: "Start free with WHO Anthro, AnthroCal, TinyDose and WhatsApp Business; pay for Practo Ray only when the clinic outgrows them."

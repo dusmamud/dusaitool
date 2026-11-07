@@ -4,7 +4,7 @@ description: "Practical AI and software tools for Indian mobile, laptop and appl
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["repair shop", "mobile repair", "laptop repair", "AI tools", "India", "GST billing"]
+tags: ["repair-shop", "mobile repair", "laptop repair", "ai-tools", "India", "GST billing"]
 category: best-tools
 draft: false
 verdict: "Start free with iFixit, Google Lens and WhatsApp Business, then add a job-card system like ServiceCalender or RepairDesk once daily tickets grow."

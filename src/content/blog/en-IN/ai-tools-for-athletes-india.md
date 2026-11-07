@@ -4,7 +4,7 @@ description: "AI tools for Indian track and field athletes that log training, an
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "athletes", "track-and-field", "training", "running", "india"]
+tags: ["ai-tools", "athletes", "track-and-field", "training", "running", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Strava plus Intervals.icu; add TrainingPeaks only when a coach asks for it, and never let an app overrule pain."

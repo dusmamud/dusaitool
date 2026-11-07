@@ -4,7 +4,7 @@ description: "Free AI workout and diet planners that work in India without a VPN
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "fitness", "workout", "diet", "free-apps", "india"]
+tags: ["ai-tools", "fitness", "workout", "diet", "free-apps", "India"]
 category: best-tools
 draft: false
 verdict: "Start with FitOn free for home workouts and HealthifyMe free for Indian food tracking; pay only when a coach or meal plan actually blocks you."

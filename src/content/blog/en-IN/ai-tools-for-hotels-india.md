@@ -4,7 +4,7 @@ description: "AI tools for small hotels and guesthouses in India, compared for b
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["AI tools", "hotels", "hospitality", "small business", "India", "bookings", "reviews"]
+tags: ["ai-tools", "hotels", "hospitality", "small business", "India", "bookings", "reviews"]
 category: best-tools
 draft: false
 verdict: "Start with one all-in-one system plus WhatsApp; add AI pricing and review replies only once bookings flow cleanly."

@@ -4,7 +4,7 @@ description: "Free AI and advisory apps for sugarcane growers in India — disea
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["sugarcane", "farming", "ai-tools", "india", "agriculture"]
+tags: ["sugarcane", "farming", "ai-tools", "India", "agriculture"]
 category: best-tools
 draft: false
 verdict: "Plantix, IFFCO Kisan and Kisan Suvidha form the best free starter kit for Indian sugarcane growers."

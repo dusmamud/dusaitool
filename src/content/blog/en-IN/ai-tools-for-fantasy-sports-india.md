@@ -4,7 +4,7 @@ description: "Compare the best AI tools for fantasy sports in India — team pic
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["fantasy sports", "cricket", "Dream11", "AI tools", "team selection"]
+tags: ["fantasy sports", "cricket", "Dream11", "ai-tools", "team selection"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT and Perplexity for research; pay for FantasyPros only if you play season-long leagues seriously."

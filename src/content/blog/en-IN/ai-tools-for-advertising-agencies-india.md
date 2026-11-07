@@ -4,7 +4,7 @@ description: "The best AI tools for Indian ad agencies in 2026: copywriting, cre
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["advertising", "agencies", "campaigns", "creatives", "marketing", "AI tools"]
+tags: ["advertising", "agencies", "campaigns", "creatives", "marketing", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Canva and the ad platforms' own AI; add AdCreative.ai or HeyGen only when client volume justifies the cost."

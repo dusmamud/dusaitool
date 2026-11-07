@@ -4,7 +4,7 @@ description: "Free and paid AI cycling tools that work in India — route planne
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "cycling", "route-planning", "fitness-tracking", "strava", "india"]
+tags: ["ai-tools", "cycling", "route planning", "fitness-tracking", "strava", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Strava for tracking and groups, Komoot for routes, and Intervals.icu for deep analysis; pay only for offline maps or coaching."

@@ -4,7 +4,7 @@ description: "Trekking apps that work in India: offline route maps, mountain wea
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["trekking", "hiking", "maps", "weather", "safety", "india"]
+tags: ["trekking", "hiking", "maps", "weather", "safety", "India"]
 category: "best-tools"
 draft: false
 verdict: "Download offline maps before you leave, check IMD and Windy together, and never trust a single app alone on a Himalayan trail."

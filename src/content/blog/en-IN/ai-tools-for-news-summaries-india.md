@@ -4,7 +4,7 @@ description: "Free AI news summary tools that work in India: Inshorts, Dailyhunt
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "news", "india", "free-tools", "news-summaries"]
+tags: ["ai-tools", "news", "India", "free-tools", "news-summaries"]
 category: best-tools
 draft: false
 verdict: "Start with Inshorts for 60-word Hindi and English news, add Finshots for money news, and check Perplexity answers against its citations."

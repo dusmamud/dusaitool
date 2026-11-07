@@ -4,7 +4,7 @@ description: "Free AI tools for Indian artisans selling crafts online: clean pro
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "artisans", "handicrafts", "online selling", "india", "product photos"]
+tags: ["ai-tools", "artisans", "handicrafts", "online selling", "India", "product photos"]
 category: best-tools
 draft: false
 verdict: "Start free: phone photos cleaned in Canva or remove.bg, listings drafted in ChatGPT or Gemini, sold first on WhatsApp and Meesho."

@@ -4,7 +4,7 @@ description: "Best AI and software tools for Indian plastic manufacturers to man
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "plastic manufacturing", "inventory", "GST billing", "MSME"]
+tags: ["ai-tools", "plastic manufacturing", "inventory", "GST billing", "MSME"]
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and Zoho Inventory for stock; add Odoo only when production planning gets complex."

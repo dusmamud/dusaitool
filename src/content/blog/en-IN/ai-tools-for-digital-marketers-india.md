@@ -4,7 +4,7 @@ description: "Five verified AI tools Indian digital marketers use for campaigns,
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["digital marketing", "AI tools", "campaigns", "analytics", "social media", "SEO"]
+tags: ["digital marketing", "ai-tools", "campaigns", "analytics", "social media", "seo"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Canva and Buffer; pay for HubSpot or Jasper only when client work outgrows the free limits."

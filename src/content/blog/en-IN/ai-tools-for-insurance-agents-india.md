@@ -4,7 +4,7 @@ description: "AI tools for Indian insurance agents: quote comparisons, client an
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["insurance", "agents", "crm", "quotes", "whatsapp", "renewals", "free"]
+tags: ["insurance", "agents", "crm", "quotes", "WhatsApp", "renewals", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start with Zoho CRM free for clients, WhatsApp Business for renewals, and ChatGPT or Gemini free for explainers — check every quote yourself."

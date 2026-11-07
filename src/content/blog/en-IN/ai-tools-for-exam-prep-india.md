@@ -4,7 +4,7 @@ description: "Free and paid AI exam-prep tools for UPSC, SSC, banking and railwa
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["exams", "upsc", "ssc", "banking", "mock-tests", "free"]
+tags: ["exams", "upsc", "ssc", "banking", "mock tests", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start with Embibe's free mocks and Testbook's free tests, then revise daily with Anki. Pay only for the test series of the exam you are taking."

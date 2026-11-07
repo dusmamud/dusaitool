@@ -4,7 +4,7 @@ description: "AI tools for ENT clinics in India: appointment booking, hearing-te
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "ent", "clinics", "india"]
+tags: ["ai-tools", "ent", "clinics", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray for bookings and records, KiraDoc for notes, and a free hearing-test app for screening — a solid, low-cost ENT setup."

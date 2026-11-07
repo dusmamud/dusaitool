@@ -4,7 +4,7 @@ description: "Free tools for gram panchayat offices: eGramSwaraj for records and
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "panchayat", "india", "government", "free-tools"]
+tags: ["ai-tools", "panchayat", "India", "government", "free-tools"]
 category: best-tools
 draft: false
 verdict: "eGramSwaraj for records, Google Forms for grievances, ChatGPT for drafts — free, and enough for most panchayat offices."

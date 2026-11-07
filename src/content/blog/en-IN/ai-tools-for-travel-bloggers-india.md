@@ -4,7 +4,7 @@ description: "Practical AI tools for Indian travel bloggers — story drafts, sh
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["travel bloggers", "travel blogging", "video editing", "trips", "India"]
+tags: ["travel bloggers", "travel blogging", "video-editing", "trips", "India"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Canva and CapCut free; pay for editing tools only when a video starts earning more than it costs."

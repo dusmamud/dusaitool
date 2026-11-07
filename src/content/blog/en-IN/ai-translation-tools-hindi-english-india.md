@@ -4,7 +4,7 @@ description: "AI translation tools for Hindi and English in India: Google Transl
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["translation", "hindi", "english", "india"]
+tags: ["translation", "hindi", "english", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start with Google Translate free for everyday Hindi-English. Use Sarvam for colloquial Hinglish and DeepL free for polished business text."

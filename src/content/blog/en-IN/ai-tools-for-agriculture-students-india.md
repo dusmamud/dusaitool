@@ -4,7 +4,7 @@ description: "Plantix, Notion and Quizlet for agriculture students in India — 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["agriculture", "students", "AI tools", "exams", "fieldwork"]
+tags: ["agriculture", "students", "ai-tools", "exams", "fieldwork"]
 category: best-tools
 draft: false
 verdict: "Plantix for the field, Notion for notes, and Quizlet for revision — a free, practical trio for agriculture students in India."

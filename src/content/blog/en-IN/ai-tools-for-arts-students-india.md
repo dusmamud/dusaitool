@@ -4,7 +4,7 @@ description: "Free AI tools for arts and humanities students in India — study 
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "arts-students", "humanities", "study", "india"]
+tags: ["ai-tools", "arts-students", "humanities", "study", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Gemini and Perplexity, add Grammarly and Elicit for writing and research — pay only when a limit actually blocks you."

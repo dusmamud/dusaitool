@@ -4,7 +4,7 @@ description: "Free AI tools for Indian buyers, sellers and agents: listing descr
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai tools", "real estate", "property", "India", "free tools"]
+tags: ["ai-tools", "real estate", "property", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Start with BoxBrownie for descriptions, CubiCasa for a free floor plan and PropWorth for price checks; never quote an AI price without checking it."

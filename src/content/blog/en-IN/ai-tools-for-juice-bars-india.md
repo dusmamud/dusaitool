@@ -4,7 +4,7 @@ description: "AI tools Indian juice bars can use for menus, orders, stock and de
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai tools", "juice bars", "restaurant pos", "india", "small business"]
+tags: ["ai-tools", "juice bars", "restaurant pos", "India", "small business"]
 category: best-tools
 draft: false
 verdict: "Start free with WhatsApp Business, Vyapar and Canva; pay for Petpooja only when daily orders outgrow a phone-based setup."

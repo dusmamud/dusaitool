@@ -4,7 +4,7 @@ description: "Run a temple better in India: receipts and queues on Netra, online
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "temples", "donations", "india", "temple-management", "devotees"]
+tags: ["ai-tools", "temples", "donations", "India", "temple-management", "devotees"]
 category: "best-tools"
 draft: false
 verdict: "Start with Netra for receipts and queues, Razorpay for donations, and WhatsApp Business for updates. Add more only when the queue forces you."

@@ -4,7 +4,7 @@ description: "Practical AI tools for Indian kabaddi fans — live scores, match 
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["kabaddi fans", "kabaddi", "pro kabaddi", "sports", "live scores", "India"]
+tags: ["kabaddi fans", "kabaddi", "pro kabaddi", "sports", "live-scores", "India"]
 category: best-tools
 draft: false
 verdict: "Start with JioHotstar, FanCode and the Pro Kabaddi app free; watch the match live, and check stats only from official sources."

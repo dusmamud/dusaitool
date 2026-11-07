@@ -4,7 +4,7 @@ description: "Free AI tools for Indian tea gardens: check leaf health, organise 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["tea gardens", "AI tools", "Assam", "agriculture", "small growers"]
+tags: ["tea gardens", "ai-tools", "Assam", "agriculture", "small growers"]
 category: best-tools
 draft: false
 verdict: "Start free with Plantix, Gemini, and Canva, verify every leaf diagnosis and price locally, and only pay once a tool earns its keep."

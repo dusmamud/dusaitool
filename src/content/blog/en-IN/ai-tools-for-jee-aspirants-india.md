@@ -4,7 +4,7 @@ description: "JEE prep in India: free NTA mock tests, AI practice on Embibe, pho
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["JEE", "AI tools", "mock tests", "exam preparation", "India"]
+tags: ["JEE", "ai-tools", "mock tests", "exam preparation", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free with NTA Abhyas for mocks, add Embibe for weak-topic practice and a chatbot for doubts, and verify every AI answer."

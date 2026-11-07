@@ -4,7 +4,7 @@ description: "Free and student-priced AI tools for engineering students in India
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai tools", "engineering students", "coding", "study", "placements"]
+tags: ["ai-tools", "engineering students", "coding", "study", "placements"]
 category: best-tools
 draft: false
 verdict: "Start free with Gemini, ChatGPT and Copilot Student; pay only when a limit actually blocks your work."

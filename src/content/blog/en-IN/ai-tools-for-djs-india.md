@@ -4,7 +4,7 @@ description: "AI DJ tools that work in India without a VPN, from stem separation
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["AI tools", "DJs", "music", "events", "India"]
+tags: ["ai-tools", "DJs", "music", "events", "India"]
 category: best-tools
 draft: false
 verdict: "Start with djay Free or VirtualDJ Free to learn, add Serato or rekordbox for paid gigs, and keep DJ.Studio for prepared mixes."

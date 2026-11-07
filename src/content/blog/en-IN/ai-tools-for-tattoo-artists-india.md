@@ -4,7 +4,7 @@ description: "The best AI tools for tattoo artists in India — design ideas, bo
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai tools", "tattoo artists", "tattoo studios", "booking software", "tattoo design", "india"]
+tags: ["ai-tools", "tattoo artists", "tattoo studios", "booking software", "tattoo design", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Perchance and Canva for free ideas, add BlackInk AI or Tatship for try-ons, and run bookings on EasyWeek or WhatsApp."

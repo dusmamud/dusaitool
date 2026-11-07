@@ -4,7 +4,7 @@ description: "Compare free CIBIL and Experian score checkers in India, learn to 
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["credit score", "CIBIL", "personal finance", "free tools", "India"]
+tags: ["credit score", "CIBIL", "personal finance", "free-tools", "India"]
 category: best-tools
 draft: false
 verdict: "Start with CIBIL's free annual report plus OneScore or Paisabazaar for monthly tracking; no app can guarantee a higher score."

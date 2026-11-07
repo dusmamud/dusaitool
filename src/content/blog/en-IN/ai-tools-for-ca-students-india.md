@@ -4,7 +4,7 @@ description: "AI tools for CA Foundation, Intermediate and Final students in Ind
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ca", "chartered-accountancy", "icai", "mock-tests", "revision", "free"]
+tags: ["ca", "chartered-accountancy", "icai", "mock tests", "revision", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, Gemini Notebook and ICAI mock tests, then revise daily with Anki. Pay only for one mock series for your exact CA level."

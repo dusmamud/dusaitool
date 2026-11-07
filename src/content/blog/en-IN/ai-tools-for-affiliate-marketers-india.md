@@ -4,7 +4,7 @@ description: "Three verified tools for Indian affiliate marketers: EarnKaro, Ama
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["affiliate marketing", "AI tools", "earn online", "India"]
+tags: ["affiliate marketing", "ai-tools", "earn online", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with EarnKaro and Amazon Associates; use Bitly only for short links, not analytics."

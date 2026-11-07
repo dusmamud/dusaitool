@@ -4,7 +4,7 @@ description: "Best AI tools for Indian surgeons compared: AI scribes, EMR, sched
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai tools", "surgeons", "healthcare", "india", "emr", "clinic software"]
+tags: ["ai-tools", "surgeons", "healthcare", "India", "emr", "clinic software"]
 category: best-tools
 draft: false
 verdict: "Start free with Heidi Health for notes and Practo Ray for scheduling; add HealthPlix when your OPD volume grows."

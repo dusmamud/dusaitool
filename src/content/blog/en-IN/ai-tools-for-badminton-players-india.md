@@ -4,7 +4,7 @@ description: "Badminton apps that work in India without a VPN: live scores, trai
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai-tools", "badminton", "sports", "training-plans", "live-scores", "india"]
+tags: ["ai-tools", "badminton", "sports", "training-plans", "live-scores", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: Badminton4U for scores, BAI for Indian events, a scoreboard app for your games. Pay for video analysis only when you train weekly."

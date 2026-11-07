@@ -4,7 +4,7 @@ description: "Free and paid tools for Indian hockey fans: live field-hockey scor
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["hockey", "ai-tools", "sports", "india", "free-tools"]
+tags: ["hockey", "ai-tools", "sports", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Use Hockey Scores Live for scores, the Hockey India app for Indian hockey, and check every AI summary against an official source."

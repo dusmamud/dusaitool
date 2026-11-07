@@ -4,7 +4,7 @@ description: "Compare Qure.ai qXR, Aidoc, and Rad AI Omni for Indian radiologist
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "radiology", "radiologists", "medical imaging", "India"]
+tags: ["ai-tools", "radiology", "radiologists", "medical imaging", "India"]
 category: best-tools
 draft: false
 verdict: "Start with qXR for X-ray volume, Aidoc for emergency triage, and Rad AI Omni for reporting speed."

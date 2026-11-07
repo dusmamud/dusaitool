@@ -4,7 +4,7 @@ description: "Canva, Figma, and Adobe Firefly compared for Indian design student
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "design students", "portfolio", "India", "free tools"]
+tags: ["ai-tools", "design students", "portfolio", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Canva and Figma; add Firefly only when you need commercial-safe images. Your portfolio matters more than any subscription."

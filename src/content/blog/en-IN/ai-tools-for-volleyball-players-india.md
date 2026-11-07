@@ -4,7 +4,7 @@ description: "Volleyball apps that work in India without a VPN: AI video analysi
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "volleyball", "sports", "training", "team-management", "tournaments", "india"]
+tags: ["ai-tools", "volleyball", "sports", "training", "team-management", "tournaments", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: Koach for scoring and drills, Spond for team chat; pay for Balltime video stats only if you film matches every week."

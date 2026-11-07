@@ -4,7 +4,7 @@ description: "The best AI tools for NEET aspirants in India — free mocks from 
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["NEET", "AI tools", "mock tests", "medical entrance", "revision"]
+tags: ["NEET", "ai-tools", "mock tests", "medical entrance", "revision"]
 category: best-tools
 draft: false
 verdict: "Start free with SATHEE and NTA Abhyas, add Embibe or PW only for analytics, and verify every AI answer against NCERT."

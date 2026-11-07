@@ -4,7 +4,7 @@ description: "A practical, India-first guide to AI and daycare software for atte
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai-tools", "daycare", "creche", "childcare", "parent-communication", "india"]
+tags: ["ai-tools", "daycare", "creche", "childcare", "parent-communication", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Illumine or free WhatsApp plus Sheets, and use ChatGPT or Gemini only for drafting — never for children's private data."

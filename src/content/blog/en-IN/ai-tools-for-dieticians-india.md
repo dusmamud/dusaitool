@@ -4,7 +4,7 @@ description: "AI tools dieticians in India can actually use for diet plans, Indi
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "dieticians", "nutrition", "diet-plans", "health", "india"]
+tags: ["ai-tools", "dieticians", "nutrition", "diet-plans", "health", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Cronometer free for nutrient checks and Nutrium's trial for client plans; add HealthifyMe for Indian food logging."

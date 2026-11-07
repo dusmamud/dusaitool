@@ -4,7 +4,7 @@ description: "AI tools for gamers in India that improve performance, clean up vo
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "gaming", "streaming", "pc gaming", "india"]
+tags: ["ai-tools", "gaming", "streaming", "pc gaming", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with OBS, Medal and Broadcast if you have RTX; add Mobalytics for competitive games, a clip tool only when editing eats time."

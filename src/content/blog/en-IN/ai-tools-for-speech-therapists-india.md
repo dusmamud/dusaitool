@@ -4,7 +4,7 @@ description: "AI tools that help Indian speech therapists assign home exercises,
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "speech-therapy", "speech-therapist", "slp", "exercises", "india"]
+tags: ["ai-tools", "speech-therapy", "speech-therapist", "slp", "exercises", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Constant Therapy's free clinician app and Stamurai for stuttering; pay only after a trial proves it fits your caseload."

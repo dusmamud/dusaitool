@@ -4,7 +4,7 @@ description: "CricHeroes, StanceBeam and PitchVision compared for Indian cricket
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["cricket", "ai-tools", "sports", "india", "training"]
+tags: ["cricket", "ai-tools", "sports", "India", "training"]
 category: best-tools
 draft: false
 verdict: "Start with free CricHeroes; add StanceBeam or academy PitchVision analysis only for a specific weakness."

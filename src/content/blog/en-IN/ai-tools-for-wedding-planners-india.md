@@ -4,7 +4,7 @@ description: "AI tools that help Indian wedding planners manage vendors, budgets
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai tools", "wedding planners", "wedding planning", "vendors", "budget", "india"]
+tags: ["ai-tools", "wedding planners", "wedding planning", "vendors", "budget", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Aisle Planner for weddings, HoneyBook for money, and Canva plus a chatbot for drafts — check prices before you pay."

@@ -4,7 +4,7 @@ description: "The best free AI tools for tour guides in India — plan itinerari
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai-tools", "tour-guides", "travel", "india"]
+tags: ["ai-tools", "tour-guides", "travel", "India"]
 category: "best-tools"
 draft: false
 verdict: "ChatGPT and Gemini plan, Translate and Maps handle language and routes, WhatsApp Business manages bookings — all free to start in India."

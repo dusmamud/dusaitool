@@ -4,7 +4,7 @@ description: "AI tools for Indian indie game developers: code, concept art, 3D a
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["game development", "indie games", "ai tools", "unity", "godot"]
+tags: ["game development", "indie games", "ai-tools", "unity", "godot"]
 category: "best-tools"
 draft: false
 verdict: "Start free with Godot plus Copilot or Cursor for code, Meshy for 3D drafts, and real playtests before you pay for art, voices or Steam."

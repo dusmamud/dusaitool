@@ -4,7 +4,7 @@ description: "Practical AI tools for Indian tuition teachers — lesson notes, o
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["tuition teachers", "tuitions", "online classes", "students", "India"]
+tags: ["tuition teachers", "tuitions", "online-classes", "students", "India"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Google Classroom and Meet free; pay for a teaching app only when your student list outgrows a simple class."

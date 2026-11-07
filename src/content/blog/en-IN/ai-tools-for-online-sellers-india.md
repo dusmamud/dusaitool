@@ -4,7 +4,7 @@ description: "Free and trial AI tools for Meesho, Amazon and Flipkart sellers in
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai tools", "online selling", "meesho", "amazon", "flipkart", "ecommerce india"]
+tags: ["ai-tools", "online selling", "meesho", "amazon", "flipkart", "ecommerce india"]
 category: best-tools
 draft: false
 verdict: "Start on Meesho for 0% commission, use Claid.ai's trial for photos and ChatGPT free for descriptions — pay only when sales repeat."

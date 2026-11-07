@@ -4,7 +4,7 @@ description: "AI tools that help remote workers in India focus, run shorter meet
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["remote work", "AI tools", "meetings", "productivity", "work from home"]
+tags: ["remote work", "ai-tools", "meetings", "productivity", "work from home"]
 category: best-tools
 draft: false
 verdict: "Start free with Otter, Notion and Toggl; pay only when meeting minutes or team history actually run out."

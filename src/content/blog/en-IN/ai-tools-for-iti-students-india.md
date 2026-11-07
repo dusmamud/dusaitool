@@ -4,7 +4,7 @@ description: "Free AI tools that help ITI students learn trades, prepare for pra
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "ITI students", "vocational training", "apprenticeships", "jobs"]
+tags: ["ai-tools", "ITI students", "vocational training", "apprenticeships", "jobs"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT and Gemini for study help, and use Copilot on Windows; check the NAPS portal for real apprenticeships."

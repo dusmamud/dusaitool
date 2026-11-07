@@ -4,7 +4,7 @@ description: "Free and paid AI chess tools that actually help Indian players: ga
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["chess", "AI tools", "tactics", "game analysis", "India"]
+tags: ["chess", "ai-tools", "tactics", "game analysis", "India"]
 category: best-tools
 draft: false
 verdict: "Start free on Lichess for analysis and puzzles, add Chess.com Game Review for guided reviews, and pay only when a limit actually blocks you."

@@ -4,7 +4,7 @@ description: "AI tools for mushroom farmers in India: ChatGPT and Gemini for pla
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["mushroom farming", "mushroom farmers", "AI tools", "agriculture", "free"]
+tags: ["mushroom farming", "mushroom farmers", "ai-tools", "agriculture", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT or Gemini, Plantix for sick-crop photos and WhatsApp Business for sales; confirm disease calls with your KVK."

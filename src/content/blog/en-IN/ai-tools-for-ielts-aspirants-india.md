@@ -4,7 +4,7 @@ description: "Free and paid AI tools for IELTS mock tests, speaking practice and
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["IELTS", "English test", "mock tests", "speaking", "writing", "study abroad"]
+tags: ["IELTS", "English test", "mock tests", "speaking", "writing", "study-abroad"]
 category: best-tools
 draft: false
 verdict: "Start free with IELTS Ready, add Write & Improve for writing, and pay for E2 only if you need teacher feedback."

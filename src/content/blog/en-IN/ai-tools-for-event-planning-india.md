@@ -4,7 +4,7 @@ description: "Plan weddings and parties in India: vendors on WedMeGood and Weddi
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "event-planning", "wedding", "india", "invitations", "budget"]
+tags: ["ai-tools", "event-planning", "wedding", "India", "invitations", "budget"]
 category: "best-tools"
 draft: false
 verdict: "Start with WedMeGood for vendors, Joy for a free website and RSVP, and Canva for invites. Pay only when a free limit actually blocks you."

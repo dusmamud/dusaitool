@@ -4,7 +4,7 @@ description: "The best AI tools for psychology students in India for notes, case
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "psychology-students", "study", "notes", "india"]
+tags: ["ai-tools", "psychology-students", "study", "notes", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Notion and Quizlet; pay only when a real limit blocks your notes, cases or revision."

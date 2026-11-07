@@ -4,7 +4,7 @@ description: "Free AI fact-checking tools that work in India: reverse image sear
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "fact-checking", "fake-news", "india", "free-tools", "verification"]
+tags: ["ai-tools", "fact-checking", "fake-news", "India", "free-tools", "verification"]
 category: best-tools
 draft: false
 verdict: "Start with Google Lens and Fact Check Explorer, add InVID for videos, and treat every AI detector score as a clue, never as proof."

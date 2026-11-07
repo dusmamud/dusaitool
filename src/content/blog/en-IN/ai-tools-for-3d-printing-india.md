@@ -4,7 +4,7 @@ description: "How to design, generate, slice and order 3D prints in India: free 
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["3D printing", "AI tools", "prototyping", "manufacturing", "India"]
+tags: ["3D printing", "ai-tools", "prototyping", "manufacturing", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Tinkercad or Blender, slice in PrusaSlicer, and order from an instant-quote Indian service — compare the full landed price before paying."

@@ -4,7 +4,7 @@ description: "Free tools that help Indian vegetable vendors check mandi prices, 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["vegetable vendors", "mandi prices", "WhatsApp Business", "Khatabook", "UPI"]
+tags: ["vegetable vendors", "mandi prices", "whatsapp-business", "Khatabook", "UPI"]
 category: best-tools
 draft: false
 verdict: "Start free: check mandi rates on Agmarknet, sell on WhatsApp Business, track udhar on Khatabook."

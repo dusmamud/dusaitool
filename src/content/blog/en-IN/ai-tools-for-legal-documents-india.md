@@ -4,7 +4,7 @@ description: "Free AI tools in India for rental agreements, affidavits, NDAs and
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "legal-documents", "india", "rental-agreement", "contracts"]
+tags: ["ai-tools", "legal-documents", "India", "rental-agreement", "contracts"]
 category: best-tools
 draft: false
 verdict: "Start with GetNyay or OneFiling for free templates, then get a lawyer to check anything with real money at stake."

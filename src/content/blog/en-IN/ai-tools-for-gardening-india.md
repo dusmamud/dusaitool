@@ -4,7 +4,7 @@ description: "AI gardening tools for India: free plant identification, disease c
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["gardening", "plants", "balcony garden", "free", "india"]
+tags: ["gardening", "plants", "balcony garden", "free", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free with Google Lens and Pl@ntNet for plant IDs; pay for Planta only if you want smart watering reminders for many plants."

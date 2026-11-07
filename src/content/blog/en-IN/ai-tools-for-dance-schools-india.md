@@ -4,7 +4,7 @@ description: "AI and app tools for Indian dance academies: batch schedules, fee 
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai-tools", "dance", "dance-schools", "classes", "fees", "performances", "india"]
+tags: ["ai-tools", "dance", "dance-schools", "classes", "fees", "performances", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Forms, WhatsApp Business and Canva; add YourFee from ₹299/month only when fee-chasing eats your teaching time."

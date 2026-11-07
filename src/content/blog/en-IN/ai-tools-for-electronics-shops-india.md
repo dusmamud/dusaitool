@@ -4,7 +4,7 @@ description: "Free and low-cost tools for electronics shops in India: GST billin
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "electronics-shops", "india", "billing", "inventory"]
+tags: ["ai-tools", "electronics-shops", "India", "billing", "inventory"]
 category: best-tools
 draft: false
 verdict: "Start with Vyapar for billing, WhatsApp Business for customers, and Zoho Inventory when online orders grow. Free plans cover a small shop well."

@@ -4,7 +4,7 @@ description: "Free and paid AI and smart tools for Indian football fans: live sc
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["football", "ai-tools", "sports", "india", "free-tools"]
+tags: ["football", "ai-tools", "sports", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with FotMob for scores and Sofascore for stats, add OneFootball for news, and pay only for video you actually watch."

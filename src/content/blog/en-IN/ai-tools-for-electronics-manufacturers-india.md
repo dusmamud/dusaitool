@@ -4,7 +4,7 @@ description: "Compare AI tools for PCB inspection, assembly quality, orders and 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "electronics", "manufacturing", "india"]
+tags: ["ai-tools", "electronics", "manufacturing", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Landing AI's free tier for inspection and Zoho Inventory for orders; add Instrumental only when buyer audits demand it."

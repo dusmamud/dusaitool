@@ -4,7 +4,7 @@ description: "Five practical tools Indian sports goods shops can use for stock, 
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "sports-shops", "inventory", "gst-billing", "whatsapp-business"]
+tags: ["ai-tools", "sports-shops", "inventory", "GST billing", "whatsapp-business"]
 category: best-tools
 draft: false
 verdict: "Start free with Vyapar for billing and WhatsApp Business for orders; add Zoho Inventory only when online orders grow."

@@ -4,7 +4,7 @@ description: "Best AI and digital tools for Indian blood banks — manage donors
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["blood banks", "AI tools", "healthcare", "donors", "India"]
+tags: ["blood banks", "ai-tools", "healthcare", "donors", "India"]
 category: best-tools
 draft: false
 verdict: "Start with free e-RaktKosh and WhatsApp Business, add RAKT when daily volume justifies a paid system."

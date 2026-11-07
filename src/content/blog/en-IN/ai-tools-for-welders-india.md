@@ -4,7 +4,7 @@ description: "Best AI tools for Indian welders to find jobs, draft quotes, stay 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["welders", "ai tools", "india", "quotes", "work safety"]
+tags: ["welders", "ai-tools", "India", "quotes", "work safety"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT for quotes and safety, Zoho Invoice for billing, and Canva for customer posters."

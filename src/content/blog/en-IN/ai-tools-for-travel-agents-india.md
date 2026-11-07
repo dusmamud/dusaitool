@@ -4,7 +4,7 @@ description: "AI tools for Indian travel agents compared for package design, iti
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["AI tools", "travel agents", "tour packages", "bookings", "small business", "India", "WhatsApp", "CRM"]
+tags: ["ai-tools", "travel agents", "tour packages", "bookings", "small business", "India", "WhatsApp", "crm"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT or Gemini, Travefy and WhatsApp; add a CRM and payment links before any expensive all-in-one platform."

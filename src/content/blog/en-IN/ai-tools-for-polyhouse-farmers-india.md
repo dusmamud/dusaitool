@@ -4,7 +4,7 @@ description: "The best AI tools for Indian polyhouse farmers — climate control
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai tools", "polyhouse farming", "agriculture", "India", "greenhouse"]
+tags: ["ai-tools", "polyhouse farming", "agriculture", "India", "greenhouse"]
 category: best-tools
 draft: false
 verdict: "Start free with Plantix, automate climate with Sonoff, and add Fasal when disease forecasting is worth paying for."

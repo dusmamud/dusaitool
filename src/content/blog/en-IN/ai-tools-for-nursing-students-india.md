@@ -4,7 +4,7 @@ description: "Free AI tools for nursing students in India: clearer notes, clinic
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "nursing students", "exam prep", "India"]
+tags: ["ai-tools", "nursing students", "exam-prep", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Anki and Quizlet — and always verify clinical facts against your textbook."

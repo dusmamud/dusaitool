@@ -4,7 +4,7 @@ description: "AI diabetes tools that work in India without a VPN: sugar logging,
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "diabetes", "health", "sugar-tracking", "diet", "india"]
+tags: ["ai-tools", "diabetes", "health", "sugar-tracking", "diet", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with mySugr for logging and LibreView reports for your doctor; add BeatO or HealthifyMe only when you need a coach or Indian diet plan."

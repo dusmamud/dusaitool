@@ -4,7 +4,7 @@ description: "Boxing apps that work in India without a VPN: AI training plans, p
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "boxing", "sports", "training-plans", "sparring", "fitness", "india"]
+tags: ["ai-tools", "boxing", "sports", "training-plans", "sparring", "fitness", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Heavy Bag Pro and Hevy; add PunchLab for punch tracking and TrainHeroic only if a coach runs your programme."

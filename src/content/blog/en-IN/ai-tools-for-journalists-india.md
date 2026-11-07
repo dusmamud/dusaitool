@@ -4,7 +4,7 @@ description: "A practical, India-focused guide to AI tools for journalists: tran
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["AI tools", "journalism", "transcription", "fact-checking", "research", "India"]
+tags: ["ai-tools", "journalism", "transcription", "fact-checking", "research", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Otter or Whisper, Gemini Notebook, and Fact Check Explorer — and always check the original source."

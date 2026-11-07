@@ -4,7 +4,7 @@ description: "Compare Jobber, Housecall Pro and Zoho Invoice for electricians in
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["electricians", "field-service", "invoicing", "small-business", "ai-tools"]
+tags: ["electricians", "field-service", "invoicing", "small business", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Zoho Invoice is free and best for solo electricians; Jobber or Housecall Pro suit growing teams."

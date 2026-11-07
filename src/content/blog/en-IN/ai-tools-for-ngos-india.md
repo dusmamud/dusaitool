@@ -4,7 +4,7 @@ description: "AI tools for NGOs in India that help with fundraising appeals, vol
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ngo", "nonprofit", "fundraising", "volunteers", "india"]
+tags: ["ngo", "nonprofit", "fundraising", "volunteers", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free: ChatGPT for drafts, Canva Nonprofits for design, and Give.do or Ketto for fundraising. Add Zoho or Sevastack when spreadsheets break."

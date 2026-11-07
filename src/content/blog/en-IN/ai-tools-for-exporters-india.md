@@ -4,7 +4,7 @@ description: "AI tools for Indian exporters: find real buyers, draft export docu
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "exporters india", "export business", "finding buyers", "export documents", "freight", "compliance"]
+tags: ["ai-tools", "exporters india", "export business", "finding buyers", "export documents", "freight", "compliance"]
 category: best-tools
 draft: false
 verdict: "Start with XIMPEX or Eximium to find real buyers, compare shipping on Freightos or Shiprocket X, and never ship on an AI document alone."

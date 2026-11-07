@@ -4,7 +4,7 @@ description: "Three practical AI tools for Indian food processors — drafting, 
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "food processing", "small business", "India"]
+tags: ["ai-tools", "food processing", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with ChatGPT, Canva, and Zoho Inventory; pay only when orders outgrow the free limits."

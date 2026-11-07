@@ -4,7 +4,7 @@ description: "Beginner guide to AI stock research tools in India: screeners, fun
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["stocks", "investing", "screeners", "research", "india"]
+tags: ["stocks", "investing", "screeners", "research", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free with Screener.in for fundamentals, Tickertape for screening, and Trendlyne for scores. Research first, decide slowly, never on a tip."

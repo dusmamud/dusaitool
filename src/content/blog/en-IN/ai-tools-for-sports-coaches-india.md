@@ -4,7 +4,7 @@ description: "AI coaching tools that work in India without a VPN: training plans
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "sports", "coaching", "training-plans", "team-management", "india"]
+tags: ["ai-tools", "sports", "coaching", "training-plans", "team-management", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: Heja or Spond for team management, YouCoach AI for plans. Pay for video or load tracking only when your squad needs it."

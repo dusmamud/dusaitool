@@ -4,7 +4,7 @@ description: "Free and paid sky-map, planet and telescope apps that work in Indi
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "stargazing", "astronomy", "sky maps", "telescopes", "india"]
+tags: ["ai-tools", "stargazing", "astronomy", "sky maps", "telescopes", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Stellarium and Sky Tonight; pay only for SkySafari if you own a telescope."

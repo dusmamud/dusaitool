@@ -4,7 +4,7 @@ description: "The best AI tools for architects in India for floor plans, 3D visu
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["AI tools", "architecture", "floor plans", "3D visualisation", "rendering", "India"]
+tags: ["ai-tools", "architecture", "floor plans", "3D visualisation", "rendering", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Maket or Planner 5D for plans and D5 Render for visuals, and let a registered architect check every drawing before approval."

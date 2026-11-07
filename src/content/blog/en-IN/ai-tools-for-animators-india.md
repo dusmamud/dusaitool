@@ -4,7 +4,7 @@ description: "Best AI tools for animators in India for 2D and 3D animation, rigg
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "animation", "3d-animation", "motion-capture", "rigging", "india"]
+tags: ["ai-tools", "animation", "3d-animation", "motion-capture", "rigging", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free with Cascadeur and Plask, add Runway only when a client pays for it — skill still beats any AI shortcut."

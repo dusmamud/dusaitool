@@ -4,7 +4,7 @@ description: "A beginner-friendly guide to free and paid AI SEO tools that work 
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "seo", "keyword research", "site audit", "india", "beginners"]
+tags: ["ai-tools", "seo", "keyword research", "site audit", "India", "beginners"]
 category: best-tools
 draft: false
 verdict: "Start free with Search Console and Keyword Planner; pay only when a free limit blocks real work. AI assists SEO, it never replaces real data."

@@ -4,7 +4,7 @@ description: "Free and paid AI tools for Indian fish farmers and fishermen — p
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["fisheries", "fish-farming", "aquaculture", "ai-tools", "india"]
+tags: ["fisheries", "fish-farming", "aquaculture", "ai-tools", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with INCOIS, IMD and AquaConnect or AquaClue; pay for pond sensors only after the free routine works."

@@ -4,7 +4,7 @@ description: "Plantix, KisanGPT and Fasal help Indian coffee planters spot disea
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["coffee", "planters", "agriculture", "ai-tools", "india"]
+tags: ["coffee", "planters", "agriculture", "ai-tools", "India"]
 category: best-tools
 draft: false
 verdict: "Plantix for disease checks, KisanGPT for voice advice, Fasal for monitoring — start free, verify advice locally."

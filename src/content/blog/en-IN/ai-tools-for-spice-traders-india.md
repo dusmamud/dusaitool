@@ -4,7 +4,7 @@ description: "Free and low-cost AI and software tools Indian spice traders can u
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "spice-trade", "small-business", "inventory", "india"]
+tags: ["ai-tools", "spice-trade", "small business", "inventory", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: Vyapar for billing and stock, ChatGPT for quotes and messages, WhatsApp Business for sales — pay only when free limits run out."

@@ -4,7 +4,7 @@ description: "AI tools that help Indian physiotherapists prescribe home exercise
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai-tools", "physiotherapy", "physio", "exercise-plans", "clinic", "india"]
+tags: ["ai-tools", "physiotherapy", "physio", "exercise-plans", "clinic", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Physitrack's free trial for exercise plans and Google Calendar's free booking page; add Flestra only if camera tracking earns its fee."

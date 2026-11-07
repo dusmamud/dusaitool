@@ -4,7 +4,7 @@ description: "Practical AI and site tools for Indian builders: track projects, w
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["AI tools", "construction", "builders", "project management", "GST billing", "India"]
+tags: ["ai-tools", "construction", "builders", "project management", "GST billing", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Zoho Projects or Trello plus Zoho Books, and add Fieldwire or Procore only when site volume justifies a paid quote."

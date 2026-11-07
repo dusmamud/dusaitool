@@ -4,7 +4,7 @@ description: "Free and paid AI tools for Indian law students: case research, not
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai tools", "law students", "legal research", "case law", "india"]
+tags: ["ai-tools", "law students", "legal-research", "case law", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Indian Kanoon and NotebookLM; use SCC Online through your college library before paying for anything."

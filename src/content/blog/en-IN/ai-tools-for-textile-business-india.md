@@ -4,7 +4,7 @@ description: "AI tools for Indian textile businesses covering fabric design, pro
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "textile business", "india", "fabric design", "inventory", "b2b sales"]
+tags: ["ai-tools", "textile business", "India", "fabric design", "inventory", "b2b sales"]
 category: best-tools
 draft: false
 verdict: "Start free with Canva and ChatGPT, add PatternAI for production files, and Zoho or Tally for stock and GST."

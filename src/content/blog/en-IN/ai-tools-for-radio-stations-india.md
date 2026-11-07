@@ -4,7 +4,7 @@ description: "AI tools for radio stations in India: LibreTime, Radio.co, Live365
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["radio", "ai-tools", "broadcasting", "india", "podcast"]
+tags: ["radio", "ai-tools", "broadcasting", "India", "podcast"]
 category: "best-tools"
 draft: false
 verdict: "Start free with LibreTime and Adobe Podcast, add Radio.co for hosted playout, and use AI voices only for fill-in tracks."

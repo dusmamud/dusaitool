@@ -4,7 +4,7 @@ description: "Compare AI skin-analysis apps, routine builders and ingredient che
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "skincare", "skin analysis", "beauty", "India"]
+tags: ["ai-tools", "skincare", "skin analysis", "beauty", "India"]
 category: best-tools
 draft: false
 verdict: "Start free with Nikhaar AI or Minimalist Skin Insights, use chatbots only for research, and see a dermatologist for anything persistent."

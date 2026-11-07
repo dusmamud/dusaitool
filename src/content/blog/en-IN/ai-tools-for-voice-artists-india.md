@@ -4,7 +4,7 @@ description: "A practical guide for Indian voice artists: free recording and cle
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["voice-over", "voice artists", "audio tools", "freelancing", "AI tools"]
+tags: ["voice-over", "voice artists", "audio tools", "freelancing", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Audacity and Adobe Enhance Speech, add Descript or Murf only when paid work demands it, and price every job in writing first."

@@ -4,7 +4,7 @@ description: "Practical AI tools for Indian app developers — faster coding, UI
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["app developers", "developers", "coding", "mobile apps", "india", "ai-tools"]
+tags: ["app developers", "developers", "coding", "mobile apps", "India", "ai-tools"]
 category: best-tools
 draft: false
 verdict: "Start with GitHub Copilot free, ChatGPT and Figma free; pay only when a tool clearly saves hours every week."

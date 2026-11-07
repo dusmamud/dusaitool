@@ -4,7 +4,7 @@ description: "AI tools for Indian psychiatrists compared: Practo Ray for appoint
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "psychiatry", "mental-health", "doctors", "india"]
+tags: ["ai-tools", "psychiatry", "mental-health", "doctors", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray runs the clinic; Heidi drafts notes free. Freed suits solo psychiatrists who want fast SOAP notes — always review before signing."

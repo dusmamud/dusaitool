@@ -4,7 +4,7 @@ description: "Free and low-cost AI tools for steel fabrication shops in India â€
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "steel-fabrication", "small-business", "india"]
+tags: ["ai-tools", "steel-fabrication", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start free: FreeCAD for drawings, ChatGPT for quotes, Zoho Invoice for GST billing â€” check prices before paying."

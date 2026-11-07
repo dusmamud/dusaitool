@@ -4,7 +4,7 @@ description: "AI and billing tools for Indian jewellery shops: design ideas, GST
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["ai tools", "jewellers", "jewellery", "billing", "inventory", "india", "small business"]
+tags: ["ai-tools", "jewellers", "jewellery", "billing", "inventory", "India", "small business"]
 category: best-tools
 draft: false
 verdict: "Start free with Gemini and Canva for designs and posts, WhatsApp for customers, and Vyapar or TallyPrime for GST billing and stock by weight."

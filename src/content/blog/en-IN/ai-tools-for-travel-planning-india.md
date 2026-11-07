@@ -4,7 +4,7 @@ description: "Free AI trip planners that work in India: day-wise itineraries, tr
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["travel", "trip-planner", "india", "free"]
+tags: ["travel", "trip-planner", "India", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start with ixigo PLAN for India trips and Wanderlog for shared plans; use Gemini for the first draft and Skyscanner alerts before you pay."

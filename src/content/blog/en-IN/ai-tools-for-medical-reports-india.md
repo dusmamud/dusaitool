@@ -4,7 +4,7 @@ description: "Discover AI tools that explain lab reports in plain language and h
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai tools", "medical reports", "lab reports", "health records", "india"]
+tags: ["ai-tools", "medical reports", "lab reports", "health records", "India"]
 category: best-tools
 draft: false
 verdict: "Use Bharat Swasth or ChatGPT for plain-language explanations, keep records in ABHA, and always confirm flagged results with your doctor."

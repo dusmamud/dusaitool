@@ -4,7 +4,7 @@ description: "Compare Veo, Trace and Playermaker for Indian footballers — matc
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["football", "ai-tools", "sports", "india"]
+tags: ["football", "ai-tools", "sports", "India"]
 category: best-tools
 draft: false
 verdict: "Film with Veo if your club plays weekly; track yourself with Trace or Playermaker if you train alone."

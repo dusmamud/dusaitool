@@ -4,7 +4,7 @@ description: "AI tools for Indian study-abroad aspirants: shortlisting universit
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["study-abroad", "sop", "universities", "visa", "ielts", "students", "free"]
+tags: ["study-abroad", "sop", "universities", "visa", "IELTS", "students", "free"]
 category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, Studyportals and Grammarly; use AI for drafts and research only, and verify fees and visa rules on official pages."

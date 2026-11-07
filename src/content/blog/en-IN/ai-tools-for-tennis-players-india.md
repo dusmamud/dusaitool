@@ -4,7 +4,7 @@ description: "AI tools for Indian tennis players: SwingVision, OnCourt AI, PlayS
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["tennis", "ai-tools", "sports", "training", "india"]
+tags: ["tennis", "ai-tools", "sports", "training", "India"]
 category: best-tools
 draft: false
 verdict: "SwingVision for match analysis, OnCourt AI for stroke feedback, ATP WTA Live for scores — start free, pay only after a trial."

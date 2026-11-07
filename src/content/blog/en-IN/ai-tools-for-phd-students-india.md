@@ -4,7 +4,7 @@ description: "PhD research made easier: compare Zotero, Elicit and NotebookLM fo
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["AI tools", "PhD", "research", "citations", "India"]
+tags: ["ai-tools", "PhD", "research", "citations", "India"]
 category: best-tools
 draft: false
 verdict: "Zotero for citations, Elicit for literature search, NotebookLM for notes — start free, verify every AI claim."

@@ -4,7 +4,7 @@ description: "Zoho Desk, Freshdesk, Crisp, JivoChat and HubSpot for Indian small
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "customer-support", "chatbots", "small-business", "india"]
+tags: ["ai-tools", "customer support", "chatbots", "small business", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Zoho Desk free or Crisp free for tickets and chat; pay only when ticket volume or AI answers genuinely outgrow the free limits."

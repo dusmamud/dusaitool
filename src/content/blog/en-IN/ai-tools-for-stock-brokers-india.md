@@ -4,7 +4,7 @@ description: "Five verified AI and research tools Indian stock brokers can use f
 pubDate: 2026-11-06
 updatedDate: 2026-11-06
 locale: en-IN
-tags: ["ai-tools", "stock-brokers", "trading", "research", "india"]
+tags: ["ai-tools", "stock-brokers", "trading", "research", "India"]
 category: best-tools
 draft: false
 verdict: "TradingView plus Screener.in covers most broker research free; add Trendlyne for analyst data, and never send an AI-written recommendation unchecked."

@@ -4,7 +4,7 @@ description: "Free and paid AI and smart tools for Indian cricket fans: live sco
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["cricket", "ai-tools", "sports", "india", "free-tools"]
+tags: ["cricket", "ai-tools", "sports", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Use Cricbuzz for free scores, Statsguru for stats, and CricHeroes for local matches; pay only for streaming or highlights you actually use."

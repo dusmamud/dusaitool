@@ -4,7 +4,7 @@ description: "AI tools for Indian lawyers for case research, drafting and client
 pubDate: 2026-11-04
 updatedDate: 2026-11-04
 locale: en-IN
-tags: ["ai-tools", "lawyers", "india", "legal-research", "case-research", "drafting"]
+tags: ["ai-tools", "lawyers", "India", "legal-research", "case-research", "drafting"]
 category: best-tools
 draft: false
 verdict: "Start with Indian Kanoon free and a Manupatra or SCC trial, verify every citation, and keep client data out of free chatbots."

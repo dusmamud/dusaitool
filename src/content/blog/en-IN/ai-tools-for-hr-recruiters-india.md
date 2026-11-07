@@ -4,7 +4,7 @@ description: "Free and low-cost AI hiring tools for small Indian teams: Zoho Rec
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["ai-tools", "hr", "recruitment", "hiring", "india", "free-tools"]
+tags: ["ai-tools", "hr", "recruitment", "hiring", "India", "free-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Zoho Recruit free, Indeed free posts and Calendly free; pay for Manatal only when candidate volume grows."

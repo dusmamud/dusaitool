@@ -4,7 +4,7 @@ description: "Eight free AI business name generators that work in India without 
 pubDate: 2026-11-03
 updatedDate: 2026-11-03
 locale: en-IN
-tags: ["business names", "branding", "domains", "free ai tools", "india"]
+tags: ["business names", "branding", "domains", "free ai tools", "India"]
 category: best-tools
 draft: false
 verdict: "Start with Namelix for names and Namify for domain plus trademark screening, then check the name on IP India's trademark search before paying."

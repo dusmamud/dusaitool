@@ -4,7 +4,7 @@ description: "AI tools for orthopedics clinics in India: Practo Ray for appointm
 pubDate: 2026-11-07
 updatedDate: 2026-11-07
 locale: en-IN
-tags: ["ai-tools", "orthopedics", "healthcare", "india"]
+tags: ["ai-tools", "orthopedics", "healthcare", "India"]
 category: best-tools
 draft: false
 verdict: "Practo Ray, Heidi Health and Physitrack together cover bookings, notes and physio follow-ups for Indian orthopedics clinics."

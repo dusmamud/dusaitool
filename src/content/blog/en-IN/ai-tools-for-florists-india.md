@@ -4,7 +4,7 @@ description: "AI tools for Indian flower shops: arrangement ideas, costing, What
 pubDate: 2026-11-05
 updatedDate: 2026-11-05
 locale: en-IN
-tags: ["florists", "flower shops", "small business", "delivery", "india"]
+tags: ["florists", "flower shops", "small business", "delivery", "India"]
 category: "best-tools"
 draft: false
 verdict: "Start free with ChatGPT, WhatsApp Business and Google Business Profile; add Canva for photos and Floreboard only when costing eats your evenings."
