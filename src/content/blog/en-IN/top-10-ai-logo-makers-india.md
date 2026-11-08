@@ -8,6 +8,7 @@ tags: ["ai-logo-makers", "canva", "looka", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Canva or Wixel; pay Looka when your brand needs a polished kit."
+ogImage: '/og/top-10-ai-logo-makers-india-en.jpg'
 ---
 
 For Indian startups, Canva and Wixel are the best free picks; Looka gives the most polished paid results. All work in India without a VPN; Looka's download price varies by source.

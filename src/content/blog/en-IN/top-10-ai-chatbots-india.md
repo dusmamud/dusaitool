@@ -8,6 +8,7 @@ tags: ["ai-chatbots", "chatgpt", "gemini", "claude"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT and Gemini, add Perplexity for research."
+ogImage: '/og/top-10-ai-chatbots-india-en.jpg'
 ---
 
 Most Indians need two or three chatbots: ChatGPT for writing, Gemini for Hindi, Perplexity for research. All ten work in India without a VPN.

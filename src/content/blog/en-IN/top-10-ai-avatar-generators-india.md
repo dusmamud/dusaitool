@@ -8,6 +8,7 @@ tags: ["ai-avatar", "avatar-generator", "heygen", "vidnoz", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Vidnoz for free volume, HeyGen for your own face, and Fotor for profile pictures."
+ogImage: '/og/top-10-ai-avatar-generators-india-en.jpg'
 ---
 
 Need a talking video avatar or a stylised profile picture? These ten cover both, and all work in India without a VPN.

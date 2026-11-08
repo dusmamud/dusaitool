@@ -8,6 +8,7 @@ tags: ["ai-customer-support", "customer-support-tools", "zoho-desk", "help-scout
 category: best-tools
 draft: false
 verdict: "Start with Zoho Desk or Help Scout free, add Tidio for chat, and pay for AI only when volume grows."
+ogImage: '/og/top-10-ai-customer-support-tools-india-en.jpg'
 ---
 
 Indian small teams should start free, then pay only for AI resolutions they use. These ten tools work in India without a VPN; some free limits differ across sources.

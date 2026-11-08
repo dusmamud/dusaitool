@@ -8,6 +8,7 @@ tags: ["ai-resume-builders", "rezi", "kickresume", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Rezi or Teal for a free PDF, use Canva for design, and check prices before paying."
+ogImage: '/og/top-10-ai-resume-builders-india-en.jpg'
 ---
 
 Rezi and Teal give the best free value: PDF downloads and ATS checks.

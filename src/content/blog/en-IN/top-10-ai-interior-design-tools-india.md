@@ -8,6 +8,7 @@ tags: ["ai-interior-design", "homestyler", "interior-ai", "planner-5d", "best-to
 category: best-tools
 draft: false
 verdict: "Homestyler for plans, Interior AI for photos — both free in India."
+ogImage: '/og/top-10-ai-interior-design-tools-india-en.jpg'
 ---
 
 Start free: Homestyler and Planner 5D handle floor plans; Interior AI restyles room photos. All ten work in India, no VPN.

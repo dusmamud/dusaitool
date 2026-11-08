@@ -8,6 +8,7 @@ tags: ["ai-meeting-assistants", "fathom", "otter", "fireflies", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Fathom free, add Otter or Fireflies when minutes grow, and check built-in Zoom or Gemini first."
+ogImage: '/og/top-10-ai-meeting-assistants-india-en.jpg'
 ---
 
 For most Indian teams, Fathom is the best free start: unlimited recordings and transcripts.

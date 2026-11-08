@@ -8,6 +8,7 @@ tags: ["ai-pdf-tools", "chatpdf", "gemini-notebook", "pdf", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Gemini Notebook for study and ChatPDF for quick questions; pay only when limits block work."
+ogImage: '/og/top-10-ai-pdf-tools-india-en.jpg'
 ---
 
 In India, free chatbots cover most PDF summaries, while dedicated tools add citations, editing, and offline use. Never upload bank or passport papers.

@@ -8,6 +8,7 @@ tags: ["ai-website-builders", "website-builder", "wix", "framer", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Wix or Framer; pay only for a custom domain."
+ogImage: '/og/top-10-ai-website-builders-india-en.jpg'
 ---
 
 Ten AI builders turn a short description into a live website, most free to start. All work in India without a VPN; free plans carry branding, subdomains, or page caps.

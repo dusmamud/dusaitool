@@ -8,6 +8,7 @@ tags: ["ai-coding-assistants", "github-copilot", "cursor", "chatgpt", "best-tool
 category: best-tools
 draft: false
 verdict: "Start with GitHub Copilot or Gemini for free; add Cursor when you need an agent."
+ogImage: '/og/top-10-ai-coding-assistants-india-en.jpg'
 ---
 
 Indian developers can start free: GitHub Copilot and Gemini give the most generous free use. All ten work in India without a VPN.

@@ -8,6 +8,7 @@ tags: ["ai-finance-tools", "chatgpt", "groww", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ET Money for spending, Groww for investing, and ChatGPT for plain explanations — all free."
+ogImage: '/og/top-10-ai-finance-tools-india-en.jpg'
 ---
 
 These ten tools cover budgeting, investing and credit in India without a VPN. Start free; never share OTPs or passwords.

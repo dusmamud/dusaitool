@@ -8,6 +8,7 @@ tags: ["ai-seo-tools", "semrush", "ahrefs", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Search Console and Semrush free, add Frase only when paid scoring earns its cost."
+ogImage: '/og/top-10-ai-seo-tools-india-en.jpg'
 ---
 
 For Indian sites, start free: these ten AI SEO tools cover keywords, content scoring, audits and tracking, without a VPN.

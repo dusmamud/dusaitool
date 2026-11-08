@@ -8,6 +8,7 @@ tags: ["ai-note-takers", "fathom", "notebooklm", "fireflies", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Fathom for meetings, NotebookLM for study — start free, check limits before paying."
+ogImage: '/og/top-10-ai-note-takers-india-en.jpg'
 ---
 
 Fathom wins free meetings, NotebookLM wins study notes, Granola wins bot-free calls. All ten work in India without a VPN; sources disagree on limits.

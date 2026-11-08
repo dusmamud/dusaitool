@@ -8,6 +8,7 @@ tags: ["invoicing", "zoho-invoice", "refrens", "gst", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Zoho Invoice for free GST billing; try Refrens or Vyapar as you grow."
+ogImage: '/og/top-10-ai-invoice-generators-india-en.jpg'
 ---
 
 For Indian freelancers and small firms, Zoho Invoice leads with free GST invoices, reminders and a client portal. Free caps vary by source.

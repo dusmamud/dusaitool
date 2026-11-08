@@ -8,6 +8,7 @@ tags: ["ai-text-to-speech", "play.ht", "voicemaker", "text-to-speech"]
 category: best-tools
 draft: false
 verdict: "Play.ht for podcasts, Voicemaker for Hindi, Edge Read Aloud for free listening — test before paying."
+ogImage: '/og/top-10-ai-text-to-speech-tools-india-en.jpg'
 ---
 
 These ten tools turn text into spoken audio in India without a VPN. Test Hindi voices first, and check commercial rights.

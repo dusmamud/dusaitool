@@ -8,6 +8,7 @@ tags: ["ai image generator", "gemini", "leonardo", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Gemini or Bing, try Leonardo for styles, and check limits first."
+ogImage: '/og/top-10-ai-image-generators-india-en.jpg'
 ---
 
 Gemini is the best free start for most Indians; Bing gives the clearest daily limit. All ten work in India without a VPN, though limits vary by source.

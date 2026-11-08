@@ -8,6 +8,7 @@ tags: ["background-remover", "remove-bg", "photoroom", "ai-tools", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Adobe Express or PhotoRoom; keep remove.bg for one-off portraits."
+ogImage: '/og/top-10-ai-background-removers-india-en.jpg'
 ---
 
 Adobe Express and PhotoRoom cover most free cutouts in India; remove.bg has the cleanest edges, but its site closes 1 December 2026. Adobe's free terms are disputed.

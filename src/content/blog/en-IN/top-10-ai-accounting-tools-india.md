@@ -8,6 +8,7 @@ tags: ["accounting", "zoho-books", "hellobooks", "gst", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Zoho Books or HelloBooks for free GST filing; add Dext when receipts pile up."
+ogImage: '/og/top-10-ai-accounting-tools-india-en.jpg'
 ---
 
 Zoho Books and HelloBooks lead on free GST filing in India; Wave suits freelancers, Xero suits growing firms.

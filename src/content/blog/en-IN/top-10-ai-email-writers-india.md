@@ -8,6 +8,7 @@ tags: ["ai email writers", "chatgpt", "grammarly", "email tools", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT and Grammarly free; add Mailmeteor for bulk Gmail mail and Lavender for sales outreach."
+ogImage: '/og/top-10-ai-email-writers-india-en.jpg'
 ---
 
 ChatGPT and Claude cover most emails free; Gmail and Outlook add-ons handle replies in your inbox.

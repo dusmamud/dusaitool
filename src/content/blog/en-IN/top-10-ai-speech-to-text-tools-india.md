@@ -8,6 +8,7 @@ tags: ["speech-to-text", "transcription", "otter", "fathom", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Fathom for meetings and TurboScribe for files — both free; check limits before paying."
+ogImage: '/og/top-10-ai-speech-to-text-tools-india-en.jpg'
 ---
 
 Most Indians need two kinds: meeting notetakers and file tools. Start free; check Hindi support first.

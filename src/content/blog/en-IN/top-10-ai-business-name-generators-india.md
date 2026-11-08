@@ -8,6 +8,7 @@ tags: ["ai-business-names", "namelix", "shopify", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Namelix, then Shopify — both free; verify domain and trademark first."
+ogImage: '/og/top-10-ai-business-name-generators-india-en.jpg'
 ---
 
 Namelix is the best free start; Shopify suits online stores. All ten tools work in India without a VPN, though sources differ on limits.

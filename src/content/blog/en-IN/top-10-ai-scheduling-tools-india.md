@@ -8,6 +8,7 @@ tags: ["ai-scheduling", "calendly", "cal.com", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Cal.com; keep Calendly for one meeting type, and pay only when limits bite."
+ogImage: '/og/top-10-ai-scheduling-tools-india-en.jpg'
 ---
 
 In India, Cal.com gives the most free booking power; Calendly is the simplest start. All ten work here in a browser, without a VPN.

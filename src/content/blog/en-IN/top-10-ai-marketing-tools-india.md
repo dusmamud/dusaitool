@@ -8,6 +8,7 @@ tags: ["ai-marketing-tools", "chatgpt", "canva", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT, Canva, Buffer free; add HubSpot or Brevo as your list grows."
+ogImage: '/og/top-10-ai-marketing-tools-india-en.jpg'
 ---
 
 For Indian businesses, free plans cover the basics: ChatGPT for copy, Canva for creatives, Buffer for scheduling.

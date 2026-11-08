@@ -8,6 +8,7 @@ tags: ["ai-productivity-tools", "chatgpt", "gemini", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT and Gemini free; add Otter and Zapier when meetings and automation pile up."
+ogImage: '/og/top-10-ai-productivity-tools-india-en.jpg'
 ---
 
 These ten tools cover writing, notes, research, design, meetings and automation in India, no VPN needed. Start free first.

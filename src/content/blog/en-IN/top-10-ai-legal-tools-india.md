@@ -8,6 +8,7 @@ tags: ["legal-tools", "chatgpt", "genie-ai", "contracts", "india"]
 category: best-tools
 draft: false
 verdict: "ChatGPT and Claude for drafting, Genie AI for contracts — start free, lawyer-check before signing."
+ogImage: '/og/top-10-ai-legal-tools-india-en.jpg'
 ---
 
 Need a first draft of a contract or NDA? These ten AI tools draft, review and explain legal documents — but none replaces a lawyer.

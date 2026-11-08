@@ -8,6 +8,7 @@ tags: ["ai-social-media-tools", "buffer", "canva", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Buffer or Meta Business Suite, add Canva for design — pay only when limits bite."
+ogImage: '/og/top-10-ai-social-media-tools-india-en.jpg'
 ---
 
 These ten tools cover scheduling, captions, design and analytics for Indian creators, and all work in India without a VPN.

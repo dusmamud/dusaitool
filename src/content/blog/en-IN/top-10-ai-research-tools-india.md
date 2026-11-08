@@ -8,6 +8,7 @@ tags: ["ai-research-tools", "elicit", "consensus", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Elicit, Semantic Scholar and Perplexity, verify every citation, and pay only when a limit blocks real work."
+ogImage: '/og/top-10-ai-research-tools-india-en.jpg'
 ---
 
 Start free with Elicit, Consensus and Semantic Scholar for papers, plus Perplexity for cited research. All ten work in India without a VPN.

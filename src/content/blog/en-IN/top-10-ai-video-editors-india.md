@@ -8,6 +8,7 @@ tags: ["ai-video-editors", "video-editing", "clipchamp", "canva", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Clipchamp or Instagram Edits for clean free exports; pay only for AI generation you actually use."
+ogImage: '/og/top-10-ai-video-editors-india-en.jpg'
 ---
 
 These ten tools work in India without a VPN. CapCut is left out because it is still blocked here.

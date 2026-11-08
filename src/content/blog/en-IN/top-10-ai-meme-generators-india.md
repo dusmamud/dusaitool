@@ -8,6 +8,7 @@ tags: ["meme", "ai-memes", "supermeme", "imgflip", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Supermeme.ai for ideas, Imgflip for classics, Canva for polish. Start free, check limits before paying."
+ogImage: '/og/top-10-ai-meme-generators-india-en.jpg'
 ---
 
 Start free: Imgflip and Supermeme.ai make classic memes fast; Canva polishes them for brands.

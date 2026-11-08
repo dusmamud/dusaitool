@@ -8,6 +8,7 @@ tags: ["ai-video", "google-flow", "heygen", "runway", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Google Flow for free clips, HeyGen for presenters, and check limits before paying."
+ogImage: '/og/top-10-ai-video-generators-india-en.jpg'
 ---
 
 Google Flow is the best free start for Indians; HeyGen suits presenters, Runway suits cinematic clips, and sources disagree on Pika.

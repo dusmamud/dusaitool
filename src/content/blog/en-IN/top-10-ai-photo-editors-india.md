@@ -8,6 +8,7 @@ tags: ["ai-photo-editors", "canva", "adobe-express", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Snapseed for free editing, add remove.bg for backgrounds, and Canva for social posts."
+ogImage: '/og/top-10-ai-photo-editors-india-en.jpg'
 ---
 
 Most Indians need only two or three: a free editor, a background remover, and a design app. All ten work in India without a VPN.

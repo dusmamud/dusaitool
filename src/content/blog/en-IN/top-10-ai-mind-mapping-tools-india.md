@@ -8,6 +8,7 @@ tags: ["mind-mapping", "xmind", "mindmeister", "mapify", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Xmind for polished maps or Mapify for PDFs and videos — both work free in India."
+ogImage: '/og/top-10-ai-mind-mapping-tools-india-en.jpg'
 ---
 
 Xmind covers mapping in India, Mapify turns PDFs and videos into maps; all work without a VPN, limits vary by source.

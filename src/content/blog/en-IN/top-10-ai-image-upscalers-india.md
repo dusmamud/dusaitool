@@ -8,6 +8,7 @@ tags: ["image-upscalers", "upscayl", "topaz-gigapixel", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Upscayl free; pay for Topaz only for pro photo work."
+ogImage: '/og/top-10-ai-image-upscalers-india-en.jpg'
 ---
 
 Upscayl is the best free pick for most Indians; Topaz Gigapixel suits paid pro work.

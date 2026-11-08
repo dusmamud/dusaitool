@@ -8,6 +8,7 @@ tags: ["ai-presentation-makers", "gamma", "canva", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with Gamma's free credits, keep Canva for visuals, pay only when a tool earns it."
+ogImage: '/og/top-10-ai-presentation-makers-india-en.jpg'
 ---
 
 Gamma gives the best free start: 400 one-time credits turn a prompt into a polished deck.

@@ -8,6 +8,7 @@ tags: ["ai-transcription", "transcription-tools", "fathom", "otter", "best-tools
 category: best-tools
 draft: false
 verdict: "Fathom for meetings, TurboScribe for files, Google Docs for free dictation — start free and check limits before paying."
+ogImage: '/og/top-10-ai-transcription-tools-india-en.jpg'
 ---
 
 Start with Fathom or TurboScribe: both are free for everyday use.

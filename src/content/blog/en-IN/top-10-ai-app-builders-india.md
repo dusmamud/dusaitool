@@ -8,6 +8,7 @@ tags: ["ai-app-builders", "lovable", "bolt", "best-tools", "india"]
 category: best-tools
 draft: false
 verdict: "Bolt for the biggest free allowance, Lovable for the easiest start."
+ogImage: '/og/top-10-ai-app-builders-india-en.jpg'
 ---
 
 Start with Lovable or Bolt: both turn a plain-English prompt into a working web app, hosted free, no coding or VPN needed.

@@ -8,6 +8,7 @@ tags: ["ai-hr-tools", "hr-tools", "zoho-recruit", "breezy-hr", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start free with Zoho Recruit or Breezy HR, add TestGorilla for skills, pay only as hiring grows."
+ogImage: '/og/top-10-ai-hr-tools-india-en.jpg'
 ---
 
 Indian teams need one ATS, one screening tool and one sourcing tool — these ten cover that stack, several free.

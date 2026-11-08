@@ -8,6 +8,7 @@ tags: ["ai-data-analysis", "data-analysis", "chatgpt", "julius", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with ChatGPT or Gemini free, add Julius or Quadratic for bigger data, and Power BI for dashboards."
+ogImage: '/og/top-10-ai-data-analysis-tools-india-en.jpg'
 ---
 
 Start free with ChatGPT or Gemini in Sheets.

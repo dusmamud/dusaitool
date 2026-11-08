@@ -8,6 +8,7 @@ tags: ["ai-sales-tools", "hubspot", "apollo", "sales", "best-tools"]
 category: best-tools
 draft: false
 verdict: "Start with HubSpot or Zoho free, add Apollo for leads, and pay only when limits bite."
+ogImage: '/og/top-10-ai-sales-tools-india-en.jpg'
 ---
 
 For most Indian sellers, HubSpot or Zoho runs the CRM, Apollo finds leads, ChatGPT writes outreach. Start free; pay when limits bite.
