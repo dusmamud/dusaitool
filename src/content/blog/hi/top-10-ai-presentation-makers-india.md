@@ -8,6 +8,7 @@ tags: ["एआई-प्रेज़ेंटेशन-मेकर", "gamma", "
 category: best-tools
 draft: false
 verdict: "Gamma के मुफ़्त क्रेडिट से शुरू करें, विज़ुअल के लिए Canva रखें, पैसे तभी दें जब टूल काम आए।"
+ogImage: '/og/top-10-ai-presentation-makers-india-hi.jpg'
 ---
 
 भारतीयों के लिए Gamma अच्छी मुफ़्त शुरुआत है: 400 क्रेडिट से एक प्रॉम्प्ट पूरा डेक बनाता है।

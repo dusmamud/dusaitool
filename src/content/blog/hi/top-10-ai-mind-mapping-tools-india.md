@@ -8,6 +8,7 @@ tags: ["माइंड-मैपिंग", "xmind", "mindmeister", "mapify", "
 category: best-tools
 draft: false
 verdict: "सुंदर मैप के लिए Xmind, PDF-वीडियो के लिए Mapify — दोनों भारत में मुफ़्त चलते हैं।"
+ogImage: '/og/top-10-ai-mind-mapping-tools-india-hi.jpg'
 ---
 
 भारत में मैपिंग के लिए Xmind अच्छा है, Mapify PDF और वीडियो को मैप बनाता है; सभी बिना VPN चलते हैं।

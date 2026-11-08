@@ -8,6 +8,7 @@ tags: ["कानूनी-टूल", "chatgpt", "genie-ai", "कॉन्ट�
 category: best-tools
 draft: false
 verdict: "ड्राफ्टिंग के लिए ChatGPT और Claude, कॉन्ट्रैक्ट के लिए Genie AI — मुफ्त से शुरू करें, वकील से जाँच कराएँ।"
+ogImage: '/og/top-10-ai-legal-tools-india-hi.jpg'
 ---
 
 कॉन्ट्रैक्ट या NDA ड्राफ्ट चाहिए? ये दस AI टूल दस्तावेज़ बनाते और समझाते हैं — पर वकील की जगह कोई नहीं लेता।

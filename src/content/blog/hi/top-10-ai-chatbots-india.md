@@ -8,6 +8,7 @@ tags: ["एआई-चैटबॉट", "chatgpt", "gemini", "claude"]
 category: best-tools
 draft: false
 verdict: "ChatGPT और Gemini से शुरू करें, शोध के लिए Perplexity जोड़ें।"
+ogImage: '/og/top-10-ai-chatbots-india-hi.jpg'
 ---
 
 अधिकतर भारतीयों को दो-तीन चैटबॉट चाहिए: लेखन के लिए ChatGPT, हिंदी के लिए Gemini, शोध के लिए Perplexity। दसों बिना VPN चलते हैं।

@@ -8,6 +8,7 @@ tags: ["बैकग्राउंड-रिमूवर", "remove-bg", "photor
 category: best-tools
 draft: false
 verdict: "Adobe Express या PhotoRoom से शुरुआत करें; पोर्ट्रेट के लिए remove.bg रखें।"
+ogImage: '/og/top-10-ai-background-removers-india-hi.jpg'
 ---
 
 Adobe Express और PhotoRoom भारत में मुफ़्त कटआउट देते हैं; remove.bg के किनारे साफ़ हैं, पर साइट 1 दिसंबर 2026 को बंद हो रही है। Adobe की शर्तों पर मतभेद है।

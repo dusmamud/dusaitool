@@ -8,6 +8,7 @@ tags: ["एआई-एचआर-टूल", "भर्ती", "zoho-recruit", "b
 category: best-tools
 draft: false
 verdict: "Zoho Recruit या Breezy HR से मुफ़्त शुरू करें, TestGorilla जोड़ें, भर्ती बढ़ने पर भुगतान करें।"
+ogImage: '/og/top-10-ai-hr-tools-india-hi.jpg'
 ---
 
 भारतीय टीमों को एक ATS, एक स्क्रीनिंग और एक सोर्सिंग टूल चाहिए — ये दस वही करते हैं, कई मुफ़्त हैं।

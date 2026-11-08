@@ -8,6 +8,7 @@ tags: ["एआई-रिसर्च-टूल्स", "elicit", "consensus", "b
 category: best-tools
 draft: false
 verdict: "Elicit, Semantic Scholar और Perplexity से मुफ्त शुरू करें, हर साइटेशन खुद जाँचें, सीमा रोके तभी भुगतान करें।"
+ogImage: '/og/top-10-ai-research-tools-india-hi.jpg'
 ---
 
 पेपर्स के लिए Elicit, Consensus और Semantic Scholar से मुफ्त शुरू करें, रिसर्च के लिए Perplexity रखें। दसों टूल भारत में बिना VPN चलते हैं।

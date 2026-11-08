@@ -8,6 +8,7 @@ tags: ["एआई-शिक्षा", "chatgpt", "gemini", "khan-academy", "bes
 category: best-tools
 draft: false
 verdict: "ChatGPT, Khan Academy और NotebookLM से मुफ्त शुरू करें; भुगतान सिर्फ तब करें जब मुफ्त सीमा रोके।"
+ogImage: '/og/top-10-ai-learning-tools-india-hi.jpg'
 ---
 
 ChatGPT, Gemini और Khan Academy काफी हैं — सवाल, कॉन्सेप्ट, अभ्यास — बाकी टूल नोट्स, गणित, फ्लैशकार्ड और भाषा सँभालते हैं।

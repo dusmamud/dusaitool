@@ -8,6 +8,7 @@ tags: ["एआई-ऐप-बिल्डर", "lovable", "bolt", "best-tools", "
 category: best-tools
 draft: false
 verdict: "सबसे बड़ी मुफ्त सीमा के लिए Bolt, सबसे आसान शुरुआत के लिए Lovable।"
+ogImage: '/og/top-10-ai-app-builders-india-hi.jpg'
 ---
 
 Lovable या Bolt से शुरू करें: दोनों सादे निर्देश से वेब ऐप बनाते हैं, मुफ्त होस्टिंग, बिना कोडिंग और बिना VPN के।

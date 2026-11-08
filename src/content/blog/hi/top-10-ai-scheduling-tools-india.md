@@ -8,6 +8,7 @@ tags: ["एआई-शेड्यूलिंग", "calendly", "cal.com", "best-
 category: best-tools
 draft: false
 verdict: "Cal.com से मुफ्त शुरू करें; Calendly एक मीटिंग प्रकार के लिए रखें, सीमा आने पर भुगतान करें।"
+ogImage: '/og/top-10-ai-scheduling-tools-india-hi.jpg'
 ---
 
 भारत में Cal.com मुफ्त बुकिंग में सबसे उदार है; Calendly सबसे आसान शुरुआत है। दसों टूल ब्राउज़र में बिना VPN चलते हैं।

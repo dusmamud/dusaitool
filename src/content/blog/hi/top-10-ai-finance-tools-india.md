@@ -8,6 +8,7 @@ tags: ["एआई-फाइनेंस-टूल्स", "chatgpt", "groww", "�
 category: best-tools
 draft: false
 verdict: "खर्च हेतु ET Money, निवेश हेतु Groww, समझ हेतु ChatGPT — सभी मुफ्त।"
+ogImage: '/og/top-10-ai-finance-tools-india-hi.jpg'
 ---
 
 ये दस टूल भारत में बिना VPN बजट, निवेश, क्रेडिट संभालते हैं। मुफ्त से शुरू करें।

@@ -8,6 +8,7 @@ tags: ["एआई-मीटिंग-असिस्टेंट", "fathom", "ot
 category: best-tools
 draft: false
 verdict: "पहले Fathom मुफ्त आज़माएँ, मिनट बढ़ने पर Otter या Fireflies लें, Zoom या Gemini पहले देखें।"
+ogImage: '/og/top-10-ai-meeting-assistants-india-hi.jpg'
 ---
 
 अधिकतर भारतीय टीमों के लिए Fathom सबसे अच्छा मुफ्त विकल्प है: असीमित रिकॉर्डिंग और ट्रांसक्रिप्ट।

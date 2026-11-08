@@ -8,6 +8,7 @@ tags: ["स्पीच-टू-टेक्स्ट", "ट्रांसक्
 category: best-tools
 draft: false
 verdict: "मीटिंग को Fathom, फ़ाइलों को TurboScribe से शुरू करें — दोनों मुफ़्त, भुगतान से पहले सीमा जाँचें।"
+ogImage: '/og/top-10-ai-speech-to-text-tools-india-hi.jpg'
 ---
 
 भारतीयों को दो तरह के टूल चाहिए: मीटिंग नोट्स और फ़ाइल टूल। मुफ़्त शुरू करें, हिंदी जाँचें।

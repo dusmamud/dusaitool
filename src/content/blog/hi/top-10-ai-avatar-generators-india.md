@@ -8,6 +8,7 @@ tags: ["एआई-अवतार", "अवतार-जनरेटर", "heyge
 category: best-tools
 draft: false
 verdict: "मुफ़्त वीडियो के लिए Vidnoz, अपनी शक्ल के लिए HeyGen, और प्रोफ़ाइल तस्वीर के लिए Fotor से शुरू करें।"
+ogImage: '/og/top-10-ai-avatar-generators-india-hi.jpg'
 ---
 
 बोलता वीडियो अवतार चाहिए या स्टाइलिश प्रोफ़ाइल तस्वीर? ये दस टूल दोनों देते हैं, और भारत में बिना VPN चलते हैं।

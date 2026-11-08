@@ -8,6 +8,7 @@ tags: ["एआई-ट्रांसक्रिप्शन", "ट्रां�
 category: best-tools
 draft: false
 verdict: "मीटिंग के लिए Fathom, फ़ाइलों के लिए TurboScribe, मुफ़्त डिक्टेशन के लिए Google Docs — मुफ़्त से शुरू करें, सीमा पहले जाँचें।"
+ogImage: '/og/top-10-ai-transcription-tools-india-hi.jpg'
 ---
 
 Fathom या TurboScribe से शुरू करें — दोनों मुफ़्त हैं।

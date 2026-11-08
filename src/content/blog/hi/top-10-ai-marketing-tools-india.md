@@ -8,6 +8,7 @@ tags: ["एआई-मार्केटिंग-टूल्स", "chatgpt", "c
 category: best-tools
 draft: false
 verdict: "ChatGPT, Canva, Buffer से मुफ़्त शुरू करें; सूची बढ़ने पर HubSpot या Brevo।"
+ogImage: '/og/top-10-ai-marketing-tools-india-hi.jpg'
 ---
 
 छोटे भारतीय व्यवसायों के लिए मुफ़्त प्लान काफी हैं: कॉपी के लिए ChatGPT, डिज़ाइन के लिए Canva।

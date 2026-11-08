@@ -8,6 +8,7 @@ tags: ["अकाउंटिंग", "zoho-books", "hellobooks", "gst", "best-t
 category: best-tools
 draft: false
 verdict: "मुफ्त GST फाइलिंग के लिए Zoho Books या HelloBooks से शुरू करें; रसीदें बढ़ें तो Dext जोड़ें।"
+ogImage: '/og/top-10-ai-accounting-tools-india-hi.jpg'
 ---
 
 Zoho Books और HelloBooks मुफ्त GST फाइलिंग में आगे; Wave फ्रीलांसरों, Xero कंपनियों के लिए है।

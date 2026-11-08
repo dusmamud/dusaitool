@@ -8,6 +8,7 @@ tags: ["मीम", "एआई-मीम-जनरेटर", "supermeme", "imgf
 category: best-tools
 draft: false
 verdict: "आइडिया के लिए Supermeme.ai, क्लासिक के लिए Imgflip, पॉलिश के लिए Canva. मुफ्त शुरू करें।"
+ogImage: '/og/top-10-ai-meme-generators-india-hi.jpg'
 ---
 
 मुफ्त शुरू करें: Imgflip और Supermeme.ai सेकंडों में मीम बनाते हैं, Canva सजाता है। सभी भारत में बिना VPN चलते हैं।

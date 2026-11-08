@@ -8,6 +8,7 @@ tags: ["सोशल-मीडिया-टूल्स", "buffer", "canva", "be
 category: best-tools
 draft: false
 verdict: "Buffer ya Meta Business Suite se free shuru karein, design ke liye Canva jodein — limits par pay karein."
+ogImage: '/og/top-10-ai-social-media-tools-india-hi.jpg'
 ---
 
 Ye das tools Bharat ke creators ko scheduling, captions, design aur analytics dete hain, sab bina VPN chalte hain.

@@ -8,6 +8,7 @@ tags: ["बिज़नेस-नाम-जनरेटर", "namelix", "shopify
 category: best-tools
 draft: false
 verdict: "पहले Namelix आज़माएँ, फिर Shopify देखें — दोनों मुफ्त हैं; डोमेन और ट्रेडमार्क पहले जाँचें।"
+ogImage: '/og/top-10-ai-business-name-generators-india-hi.jpg'
 ---
 
 Namelix सबसे अच्छा मुफ्त विकल्प है; Shopify स्टोर के लिए अच्छा है। सभी दस टूल भारत में बिना VPN काम करते हैं। कुछ सीमाओं पर स्रोत अलग हैं।

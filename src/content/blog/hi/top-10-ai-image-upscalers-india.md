@@ -8,6 +8,7 @@ tags: ["इमेज-अपस्केलर", "upscayl", "topaz-gigapixel", "b
 category: best-tools
 draft: false
 verdict: "पहले Upscayl मुफ्त आज़माएँ; Topaz सिर्फ पेशेवर फोटो काम के लिए लें।"
+ogImage: '/og/top-10-ai-image-upscalers-india-hi.jpg'
 ---
 
 अधिकतर भारतीयों के लिए Upscayl बेस्ट मुफ्त विकल्प है; Topaz Gigapixel पेशेवर काम के लिए है।

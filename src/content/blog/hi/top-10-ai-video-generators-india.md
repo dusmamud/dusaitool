@@ -8,6 +8,7 @@ tags: ["एआई-वीडियो", "google-flow", "heygen", "runway", "best-
 category: best-tools
 draft: false
 verdict: "मुफ़्त क्लिप के लिए Google Flow, प्रस्तुतकर्ता के लिए HeyGen चुनें, और भुगतान से पहले सीमा जाँचें।"
+ogImage: '/og/top-10-ai-video-generators-india-hi.jpg'
 ---
 
 भारतीयों के लिए Google Flow सबसे अच्छा मुफ़्त विकल्प है; HeyGen प्रस्तुतकर्ता, Runway सिनेमाई क्लिप के लिए है।

@@ -8,6 +8,7 @@ tags: ["एआई अनुवाद", "google translate", "deepl", "अनु�
 category: best-tools
 draft: false
 verdict: "विस्तार के लिए Google Translate, सहजता के लिए DeepL, लहज़े के लिए ChatGPT — भारत में मुफ़्त शुरू।"
+ogImage: '/og/top-10-ai-translation-tools-india-hi.jpg'
 ---
 
 Google Translate सबसे ज़्यादा भाषाएँ मुफ़्त देता है, DeepL सबसे सहज है, ChatGPT लहज़ा सबसे अच्छा पकड़ता है।

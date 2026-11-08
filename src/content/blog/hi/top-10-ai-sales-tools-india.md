@@ -8,6 +8,7 @@ tags: ["सेल्स टूल्स", "hubspot", "apollo", "सेल्स"
 category: best-tools
 draft: false
 verdict: "HubSpot या Zoho मुफ़्त से शुरू करें, Apollo जोड़ें, सीमा पर ही भुगतान करें।"
+ogImage: '/og/top-10-ai-sales-tools-india-hi.jpg'
 ---
 
 भारतीय सेलर्स के लिए HubSpot या Zoho CRM, Apollo लीड्स, ChatGPT आउटरीच। मुफ़्त से शुरू करें; सीमा पर ही भुगतान करें।

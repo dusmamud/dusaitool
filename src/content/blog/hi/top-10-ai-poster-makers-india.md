@@ -8,6 +8,7 @@ tags: ["एआई-पोस्टर-मेकर", "canva", "postermywall", "be
 category: best-tools
 draft: false
 verdict: "Canva से एडिट करने लायक पोस्टर, PosterMyWall से तैयार टेम्पलेट और Ideogram से आर्टवर्क से शुरुआत करें।"
+ogImage: '/og/top-10-ai-poster-makers-india-hi.jpg'
 ---
 
 भारतीयों के लिए Canva सबसे अच्छा मुफ्त पोस्टर मेकर है, PosterMyWall तैयार टेम्पलेट्स के लिए तेज़। सभी दस भारत में बिना VPN चलते हैं।
