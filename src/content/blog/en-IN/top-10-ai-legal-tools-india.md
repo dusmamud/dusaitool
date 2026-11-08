@@ -4,7 +4,7 @@ description: "Compare the best AI legal document tools for India — drafting, r
 pubDate: 2026-11-08
 updatedDate: 2026-11-08
 locale: en-IN
-tags: ["legal-tools", "chatgpt", "genie-ai", "contracts", "india"]
+tags: ["legal-tools", "chatgpt", "genie-ai", "contracts", "India"]
 category: best-tools
 draft: false
 verdict: "ChatGPT and Claude for drafting, Genie AI for contracts — start free, lawyer-check before signing."
